@@ -1,0 +1,8 @@
+<map id="Voxel::Filter::_prepareOutput" name="Voxel::Filter::_prepareOutput">
+<area shape="rect" id="node2" href="$classVoxel_1_1ToFCrossTalkFilter.xhtml#a6f006e17dd1b8ea91e8a0f2c4b2c4041" title="Voxel::ToFCrossTalkFilter\l::_filter" alt="" coords="250,5,425,46"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1IIRFilter.xhtml#aa4bca190f415658c2208a17c8578ee79" title="Voxel::IIRFilter::\l_filter" alt="" coords="278,70,397,111"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1BilateralFilter.xhtml#a0cd1b7184773267bda5dcf78967b436e" title="Voxel::BilateralFilter\l::_filter" alt="" coords="268,135,407,177"/>
+<area shape="rect" id="node5" href="$classVoxel_1_1SmoothFilter.xhtml#a0fa087650bb0010d2a97a4897d8ed330" title="Voxel::SmoothFilter\l::_filter" alt="" coords="269,201,406,242"/>
+<area shape="rect" id="node6" href="$classVoxel_1_1MedianFilter.xhtml#abbf1682df2beabebc42776cf2d9c472b" title="Voxel::MedianFilter\l::_filter" alt="" coords="270,266,405,307"/>
+<area shape="rect" id="node7" href="$classVoxel_1_1TemporalMedianFilter.xhtml#a50303d1acee8f1161879db089ce3c106" title="Voxel::TemporalMedianFilter\l::_filter" alt="" coords="243,331,431,373"/>
+</map>

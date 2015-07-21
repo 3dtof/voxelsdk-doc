@@ -1,0 +1,45 @@
+<map id="Voxel::TI::Voxel14Camera::_initStartParams" name="Voxel::TI::Voxel14Camera::_initStartParams">
+<area shape="rect" id="node2" href="$a00159.xhtml#ae87b0ca3c8867d1b520c0165d526e79d" title="Voxel::TI::ToFHaddockCamera\l::_initStartParams" alt="" coords="230,382,434,423"/>
+<area shape="rect" id="node3" href="$a00036.xhtml#a4f1c6d826c1842d7bc3fbeea5ebb9616" title="Voxel::DepthCamera::set" alt="" coords="483,244,653,271"/>
+<area shape="rect" id="node7" href="$a00153.xhtml#a52686f695d06876ef5a89e453c6a8ba3" title="Voxel::TI::ToFCamera\l::_initStartParams" alt="" coords="492,527,644,569"/>
+<area shape="rect" id="node4" href="$a00036.xhtml#a474dfafecfd8b2a97a924aeab8a82a3c" title="Voxel::DepthCamera\l::_set" alt="" coords="721,5,865,46"/>
+<area shape="rect" id="node5" href="$a00036.xhtml#ae3d6fcc6d4a20d1ad2de809ad65ecc34" title="Voxel::DepthCamera\l::name" alt="" coords="1229,137,1373,178"/>
+<area shape="rect" id="node6" href="$a00103.xhtml#a64240b607339f55c4fac973fba8c8934" title="Voxel::ParameterTemplate::set" alt="" coords="941,12,1144,39"/>
+<area shape="rect" id="node8" href="$a00153.xhtml#abb0e21a487e4d2ae08031d0078b0578d" title="Voxel::TI::ToFCamera\l::_getBinning" alt="" coords="717,397,869,438"/>
+<area shape="rect" id="node9" href="$a00036.xhtml#ab2be6abc24dd344f63e082c19273d833" title="Voxel::DepthCamera\l::getROI" alt="" coords="721,462,865,503"/>
+<area shape="rect" id="node11" href="$a00031.xhtml#aeefbdefcac8743d6f08c25109480da2f" title="Voxel::ConfigurationFile\l::getInteger" alt="" coords="713,527,874,569"/>
+<area shape="rect" id="node12" href="$a00031.xhtml#a3145251f8115c7ada128556345a41c62" title="Voxel::ConfigurationFile\l::getFloat" alt="" coords="713,593,874,634"/>
+<area shape="rect" id="node13" href="$a00036.xhtml#aa229ee837c73aa2c78a8bd7a26fa0955" title="Voxel::DepthCamera\l::getMaximumFrameSize" alt="" coords="709,658,877,699"/>
+<area shape="rect" id="node15" href="$a00036.xhtml#a52d1041f172901ff9206b1b409d4711d" title="Voxel::DepthCamera\l::getFrameSize" alt="" coords="721,723,865,765"/>
+<area shape="rect" id="node17" href="$a00153.xhtml#acf6c3a732c5a47f38f2d461d76709091" title="Voxel::TI::ToFCamera\l::_getBytesPerPixel" alt="" coords="717,331,869,373"/>
+<area shape="rect" id="node20" href="$a00153.xhtml#a8722e9125739af3cd8c9291b7b6f126a" title="Voxel::TI::ToFCamera\l::_getOpDataArrangeMode" alt="" coords="705,789,882,830"/>
+<area shape="rect" id="node21" href="$a00153.xhtml#a53e0fb4c6f4d4b9ac37b6f1ca763a104" title="Voxel::TI::ToFCamera\l::_getToFFrameType" alt="" coords="717,266,869,307"/>
+<area shape="rect" id="node22" href="$a00153.xhtml#af3a59471799f2526c520511f688d247c" title="Voxel::TI::ToFCamera\l::_is16BitModeEnabled" alt="" coords="715,854,871,895"/>
+<area shape="rect" id="node23" href="$a00096.xhtml#a0d061a6b01c29c40af3288f4783c3c07" title="Voxel::MainConfiguration\lFile::isPresent" alt="" coords="709,919,877,961"/>
+<area shape="rect" id="node33" href="$a00096.xhtml#a700e33f6f37c59f24bdea5db5a037898" title="Voxel::MainConfiguration\lFile::getFile" alt="" coords="709,1061,877,1102"/>
+<area shape="rect" id="node37" href="$a00153.xhtml#a3c35074af2f6b686cea15db188b9c53f" title="Voxel::TI::ToFCamera\l::_isHistogramEnabled" alt="" coords="716,70,871,111"/>
+<area shape="rect" id="node38" href="$a00096.xhtml#a0450eaddb1180226c1a3e898e978aba4" title="Voxel::MainConfiguration\lFile::get" alt="" coords="709,985,877,1026"/>
+<area shape="rect" id="node41" href="$a00153.xhtml#a5ce6e98d8496efd0b62d926e73809034" title="Voxel::TI::ToFCamera\l::_applyCalibrationParams" alt="" coords="706,135,881,177"/>
+<area shape="rect" id="node42" href="$a00154.xhtml#aceb0704d27455da6268e3d5b4a92c411" title="Voxel::TI::ToFCameraBase\l::_initStartParams" alt="" coords="702,201,885,242"/>
+<area shape="rect" id="node10" href="$a00036.xhtml#ae09d2aaee73e56b4b488897f6081191e" title="Voxel::DepthCamera\l::_getROI" alt="" coords="971,462,1115,503"/>
+<area shape="rect" id="node14" href="$a00036.xhtml#a81260a37bfc6da411b8d3d71342a2eda" title="Voxel::DepthCamera\l::_getMaximumFrameSize" alt="" coords="955,658,1130,699"/>
+<area shape="rect" id="node16" href="$a00036.xhtml#a7cca2c2413b60d0d2ef26e0cb8802118" title="Voxel::DepthCamera\l::_getFrameSize" alt="" coords="971,723,1115,765"/>
+<area shape="rect" id="node18" href="$a00036.xhtml#ac850b3829f41e647686610c283197ea6" title="Voxel::DepthCamera\l::_get" alt="" coords="971,266,1115,307"/>
+<area shape="rect" id="node19" href="$a00103.xhtml#afa8896eaffbd2b87d1482c0967a0fe1d" title="Voxel::ParameterTemplate::get" alt="" coords="1200,273,1403,300"/>
+<area shape="rect" id="node24" href="$a00031.xhtml#a00e007801296e76b05ef10f1c8176c2d" title="Voxel::ConfigurationFile\l::isPresent" alt="" coords="962,895,1123,937"/>
+<area shape="rect" id="node25" href="$a00096.xhtml#ab24aaf7b18fea74c6f235da04fadbed0" title="Voxel::MainConfiguration\lFile::getCameraProfile" alt="" coords="1217,954,1385,995"/>
+<area shape="rect" id="node26" href="$a00029.xhtml#ab7930d0d21d160341d989ef998ecac73" title="Voxel::ConfigSet::isPresent" alt="" coords="1209,852,1393,879"/>
+<area shape="rect" id="node27" href="$a00031.xhtml#a440d9dd2f89d0c76c81f7285b31a5b94" title="Voxel::ConfigurationFile::set" alt="" coords="1208,903,1395,929"/>
+<area shape="rect" id="node28" href="$a00031.xhtml#a3b9b573c1a3d9162fc0100c317ca0879" title="Voxel::ConfigurationFile\l::_set" alt="" coords="1451,895,1613,937"/>
+<area shape="rect" id="node29" href="$a00029.xhtml#a8fb880c24ad7b0f04c84d4a33becb995" title="Voxel::ConfigSet::_set" alt="" coords="1661,903,1816,929"/>
+<area shape="rect" id="node30" href="$a00390.xhtml#ga6b2a26aa983349496fedae9aa54ad034" title="Trim. " alt="" coords="1864,903,1949,929"/>
+<area shape="rect" id="node31" href="$a00390.xhtml#gac9c04e18f7878dd82964bb489b7b1314" title="Left Trim. " alt="" coords="1999,877,2087,904"/>
+<area shape="rect" id="node32" href="$a00390.xhtml#ga3d95f05dde73bc9c54051437445e439b" title="Right Trim. " alt="" coords="1998,928,2087,955"/>
+<area shape="rect" id="node34" href="$a00031.xhtml#a49e5d191d816bda45d31e29a29272c9d" title="Voxel::ConfigurationFile\l::getFile" alt="" coords="962,1066,1123,1107"/>
+<area shape="rect" id="node35" href="$a00031.xhtml#a69e6c29b1e3caafca6e783937834113b" title="Voxel::ConfigurationFile\l::_getData" alt="" coords="1221,1071,1382,1113"/>
+<area shape="rect" id="node36" href="$a00030.xhtml#aeed2f5638591b839dd233e8673a977e5" title="Updates &quot;name&quot; to full path. " alt="" coords="1462,1071,1602,1113"/>
+<area shape="rect" id="node39" href="$a00031.xhtml#af5573f5dba76f1fde00220b892f8121c" title="Voxel::ConfigurationFile\l::_get" alt="" coords="962,985,1123,1026"/>
+<area shape="rect" id="node40" href="$a00029.xhtml#a49e4060aa2bc96690da36bdf5ef7b227" title="Voxel::ConfigSet::_get" alt="" coords="1224,1020,1379,1047"/>
+<area shape="rect" id="node43" href="$a00154.xhtml#aff5c5aefff04e8514ab56adde5e25c28" title="Voxel::TI::ToFCameraBase\l::_getAmplitudeNormalizingFactor" alt="" coords="933,201,1152,242"/>
+<area shape="rect" id="node44" href="$a00154.xhtml#a8e7ab32dbadf1d8c7fd4e7611e7e63c4" title="Voxel::TI::ToFCameraBase\l::_getDepthScalingFactor" alt="" coords="951,135,1134,177"/>
+</map>

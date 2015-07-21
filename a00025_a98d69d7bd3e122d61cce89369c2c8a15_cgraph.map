@@ -1,0 +1,7 @@
+<map id="Voxel::CLIManager::_filters" name="Voxel::CLIManager::_filters">
+<area shape="rect" id="node2" href="$a00025.xhtml#a7405f3b9c1589d2f343e93f13eadec3e" title="Voxel::CLIManager::\l_showFilterSet" alt="" coords="203,49,346,90"/>
+<area shape="rect" id="node6" href="$a00023.xhtml#ab3b297a4d736fbccd1464bf3bcae60b4" title="Voxel::CameraSystem\l::getSupportedFilters" alt="" coords="197,114,352,155"/>
+<area shape="rect" id="node3" href="$a00062.xhtml#a4b809b1a18e404d041a3456f1df48e74" title="Voxel::FilterSet::begin" alt="" coords="441,5,591,32"/>
+<area shape="rect" id="node4" href="$a00062.xhtml#a40382f422b79fa91d2000c2b81e8c5e6" title="Voxel::FilterSet::end" alt="" coords="445,56,587,83"/>
+<area shape="rect" id="node5" href="$a00061.xhtml#a2315d477a0ade3bcdbe969fcea3c9eb8" title="Voxel::FilterParameterTemplate::get" alt="" coords="400,107,632,133"/>
+</map>

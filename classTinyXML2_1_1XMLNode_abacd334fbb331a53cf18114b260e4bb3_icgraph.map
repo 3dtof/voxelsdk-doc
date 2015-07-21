@@ -1,0 +1,11 @@
+<map id="TinyXML2::XMLNode::ToText" name="TinyXML2::XMLNode::ToText">
+<area shape="rect" id="node2" href="$classTinyXML2_1_1XMLElement.xhtml#ad9a87e90db7a84d4ad66318717e0ec11" title="TinyXML2::XMLElement\l::GetText" alt="" coords="209,5,373,46"/>
+<area shape="rect" id="node3" href="$classTinyXML2_1_1XMLElement.xhtml#af5d64f466a0b18f38183e4e9437bd5bd" title="See QueryIntText() " alt="" coords="209,70,373,111"/>
+<area shape="rect" id="node4" href="$classTinyXML2_1_1XMLElement.xhtml#a5cb3327503417ee863296973b0e7c77f" title="See QueryIntText() " alt="" coords="209,135,373,177"/>
+<area shape="rect" id="node5" href="$classTinyXML2_1_1XMLElement.xhtml#adc21c65d535a3b4a741f18969e961c92" title="See QueryIntText() " alt="" coords="209,201,373,242"/>
+<area shape="rect" id="node6" href="$classTinyXML2_1_1XMLElement.xhtml#a079b02a944021267fd0109fd78bad905" title="TinyXML2::XMLElement\l::QueryIntText" alt="" coords="209,266,373,307"/>
+<area shape="rect" id="node7" href="$classTinyXML2_1_1XMLElement.xhtml#a4a5e98979332d1a44f7bf646d5893f3b" title="See QueryIntText() " alt="" coords="209,331,373,373"/>
+<area shape="rect" id="node8" href="$classTinyXML2_1_1XMLElement.xhtml#ad0f8edb7feb82def4e5245a9650f80fc" title="TinyXML2::XMLElement\l::SetText" alt="" coords="209,397,373,438"/>
+<area shape="rect" id="node10" href="$classTinyXML2_1_1XMLText.xhtml#a719ba88474f639c91c13e9f3c3691166" title="TinyXML2::XMLText::\lShallowEqual" alt="" coords="215,462,366,503"/>
+<area shape="rect" id="node9" href="$classTinyXML2_1_1XMLElement.xhtml#aa6a50c3d5d452ce300212dac850d3a2c" title="Convenience method for setting text inside and element. See SetText() for important limitations..." alt="" coords="422,397,586,438"/>
+</map>

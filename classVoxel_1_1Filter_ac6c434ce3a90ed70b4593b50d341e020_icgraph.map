@@ -1,0 +1,12 @@
+<map id="Voxel::Filter::name" name="Voxel::Filter::name">
+<area shape="rect" id="node2" href="$group__Flt.xhtml#ga11445513d09cf9096b2940b07ad6f2f5" title="Voxel::Filter::_get" alt="" coords="187,208,312,235"/>
+<area shape="rect" id="node9" href="$group__Flt.xhtml#ga3b9c7c4b9e7977bc874386478bad086c" title="Voxel::Filter::_set" alt="" coords="187,391,312,417"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1BilateralFilter.xhtml#af49e31168146ef04ed89b7478ad38d3d" title="Voxel::BilateralFilter\l::_onSet" alt="" coords="385,5,524,46"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1TemporalMedianFilter.xhtml#af939e79edd599406cf6116a4f7d5c2c8" title="Voxel::TemporalMedianFilter\l::_onSet" alt="" coords="361,70,549,111"/>
+<area shape="rect" id="node5" href="$classVoxel_1_1SmoothFilter.xhtml#afa275952451eb61d5d075048e1ad4462" title="Voxel::SmoothFilter\l::_onSet" alt="" coords="386,135,523,177"/>
+<area shape="rect" id="node6" href="$classVoxel_1_1MedianFilter.xhtml#a2bce853a14e91236994a953bec680b4d" title="Voxel::MedianFilter\l::_onSet" alt="" coords="387,201,522,242"/>
+<area shape="rect" id="node7" href="$classVoxel_1_1IIRFilter.xhtml#a264a771cc767fde7a2b63e6818d96264" title="Voxel::IIRFilter::\l_onSet" alt="" coords="395,266,514,307"/>
+<area shape="rect" id="node8" href="$group__Flt.xhtml#ga09037cdcd66e3681beb735b715b7f8a3" title="Voxel::Filter::get" alt="" coords="395,332,514,359"/>
+<area shape="rect" id="node10" href="$classVoxel_1_1MedianFilter.xhtml#aed4eca0ea1018cd0bf91da4e5122fa3a" title="Voxel::MedianFilter\l::_filter" alt="" coords="387,383,522,425"/>
+<area shape="rect" id="node11" href="$group__Flt.xhtml#ga403ec60505992ab28a5d134b56c7528f" title="Voxel::Filter::set" alt="" coords="395,449,514,476"/>
+</map>

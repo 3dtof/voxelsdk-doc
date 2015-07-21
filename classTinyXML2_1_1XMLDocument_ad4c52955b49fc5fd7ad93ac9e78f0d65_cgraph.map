@@ -1,0 +1,8 @@
+<map id="TinyXML2::XMLDocument::DeleteNode" name="TinyXML2::XMLDocument::DeleteNode">
+<area shape="rect" id="node2" href="$classTinyXML2_1_1XMLNode.xhtml#a28b94200b666def2677964cb83df1569" title="TinyXML2::XMLNode::\lDeleteChild" alt="" coords="229,49,384,90"/>
+<area shape="rect" id="node3" href="$classTinyXML2_1_1XMLNode.xhtml#ae64fa52593db503652ee0258bf69d376" title="TinyXML2::XMLNode::\lDeleteNode" alt="" coords="432,49,587,90"/>
+<area shape="rect" id="node4" href="$classTinyXML2_1_1MemPool.xhtml#af252371f4bf36310d2db949279b5ccf4" title="TinyXML2::MemPool::Free" alt="" coords="635,5,813,32"/>
+<area shape="rect" id="node5" href="$classTinyXML2_1_1XMLNode.xhtml#a5ce8791c0920489f9df667b0a0264935" title="TinyXML2::XMLNode::\l~XMLNode" alt="" coords="647,107,801,149"/>
+<area shape="rect" id="node6" href="$classTinyXML2_1_1XMLNode.xhtml#ac71764a70bec2eb37ed1ee30c97b2b51" title="TinyXML2::XMLNode::\lDeleteChildren" alt="" coords="861,49,1016,90"/>
+<area shape="rect" id="node7" href="$classTinyXML2_1_1XMLNode.xhtml#a0fe718d6c3d1252c48992c1adc1ce93b" title="TinyXML2::XMLNode::\lUnlink" alt="" coords="1064,78,1219,119"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="TinyXML2::XMLDocument::~XMLDocument" name="TinyXML2::XMLDocument::~XMLDocument">
+<area shape="rect" id="node2" href="$a00198.xhtml#a20554f58b1fbdc5a5e4986ca59126837" title="Clear the document, resetting it to the initial state. " alt="" coords="229,97,405,138"/>
+<area shape="rect" id="node3" href="$a00201.xhtml#ac71764a70bec2eb37ed1ee30c97b2b51" title="TinyXML2::XMLNode::\lDeleteChildren" alt="" coords="464,63,619,105"/>
+<area shape="rect" id="node8" href="$a00198.xhtml#a8302f8ca7f1ed6dd2690e3875f968a32" title="Return true if there was an error parsing the document. " alt="" coords="453,129,629,170"/>
+<area shape="rect" id="node4" href="$a00201.xhtml#ae64fa52593db503652ee0258bf69d376" title="TinyXML2::XMLNode::\lDeleteNode" alt="" coords="677,5,832,46"/>
+<area shape="rect" id="node7" href="$a00201.xhtml#a0fe718d6c3d1252c48992c1adc1ce93b" title="TinyXML2::XMLNode::\lUnlink" alt="" coords="1107,89,1261,130"/>
+<area shape="rect" id="node5" href="$a00098.xhtml#af252371f4bf36310d2db949279b5ccf4" title="TinyXML2::MemPool::Free" alt="" coords="880,8,1059,35"/>
+<area shape="rect" id="node6" href="$a00201.xhtml#a5ce8791c0920489f9df667b0a0264935" title="TinyXML2::XMLNode::\l~XMLNode" alt="" coords="892,59,1047,101"/>
+</map>

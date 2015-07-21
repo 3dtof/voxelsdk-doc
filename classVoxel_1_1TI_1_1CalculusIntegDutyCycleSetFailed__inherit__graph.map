@@ -1,0 +1,8 @@
+<map id="Voxel::TI::CalculusIntegDutyCycleSetFailed" name="Voxel::TI::CalculusIntegDutyCycleSetFailed">
+<area shape="rect" id="node2" href="$classVoxel_1_1BoolParameter.xhtml" title="Voxel::BoolParameter" alt="" coords="88,373,236,400"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1EnumParameterTemplate.xhtml" title="Voxel::EnumParameterTemplate\l\&lt; bool \&gt;" alt="" coords="57,281,267,322"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1ParameterTemplate.xhtml" title="Voxel::ParameterTemplate\l\&lt; bool \&gt;" alt="" coords="5,174,181,215"/>
+<area shape="rect" id="node5" href="$classVoxel_1_1Parameter.xhtml" title="Voxel::Parameter" alt="" coords="76,5,199,32"/>
+<area shape="rect" id="node6" href="$classVoxel_1_1ParameterTemplate.xhtml" title="Voxel::ParameterTemplate\&lt; T \&gt;" alt="" coords="131,83,340,109"/>
+<area shape="rect" id="node7" href="$classVoxel_1_1EnumParameterTemplate.xhtml" title="Voxel::EnumParameterTemplate\&lt; T \&gt;" alt="" coords="207,181,449,208"/>
+</map>

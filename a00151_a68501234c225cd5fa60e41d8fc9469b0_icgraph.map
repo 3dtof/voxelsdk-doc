@@ -1,0 +1,5 @@
+<map id="Voxel::TI::TintinVCOFrequency::set" name="Voxel::TI::TintinVCOFrequency::set">
+<area shape="rect" id="node2" href="$a00149.xhtml#a6b0d9a1d0144d396ce0a62e93bf58db7" title="Voxel::TI::TintinModulation\lFrequencyParameter::set" alt="" coords="285,5,464,46"/>
+<area shape="rect" id="node3" href="$a00150.xhtml#a7eb6a456c15f184c66d942e5f19c938b" title="Voxel::TI::TintinUnambiguous\lRangeParameter::set" alt="" coords="512,5,707,46"/>
+<area shape="rect" id="node4" href="$a00150.xhtml#aee1307d07b01cdc5f3a34719e5b79ac0" title="Voxel::TI::TintinUnambiguous\lRangeParameter::get" alt="" coords="755,5,949,46"/>
+</map>

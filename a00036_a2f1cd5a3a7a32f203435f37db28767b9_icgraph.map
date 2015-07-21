@@ -1,0 +1,5 @@
+<map id="Voxel::DepthCamera::isInitialized" name="Voxel::DepthCamera::isInitialized">
+<area shape="rect" id="node2" href="$a00154.xhtml#a63de4dcaedaf61faeda184f79e94e3b9" title="Voxel::TI::ToFCameraBase\l::_captureRawUnprocessedFrame" alt="" coords="197,5,419,46"/>
+<area shape="rect" id="node3" href="$a00154.xhtml#a3a536998145a2cab4265de9e342a5920" title="Voxel::TI::ToFCameraBase\l::_start" alt="" coords="217,70,399,111"/>
+<area shape="rect" id="node4" href="$a00154.xhtml#af7a2eefa216b183100f4f21d64a1b225" title="Voxel::TI::ToFCameraBase\l::_stop" alt="" coords="217,135,399,177"/>
+</map>

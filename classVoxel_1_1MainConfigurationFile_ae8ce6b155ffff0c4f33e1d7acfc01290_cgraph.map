@@ -1,0 +1,18 @@
+<map id="Voxel::MainConfigurationFile::saveCameraProfileToHardware" name="Voxel::MainConfigurationFile::saveCameraProfileToHardware">
+<area shape="rect" id="node2" href="$classVoxel_1_1MainConfigurationFile.xhtml#af80a0ee93926dcdae895f5ddccbc7418" title="Voxel::MainConfiguration\lFile::_getNewCameraProfileID" alt="" coords="288,5,488,46"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1MainConfigurationFile.xhtml#ab24aaf7b18fea74c6f235da04fadbed0" title="Voxel::MainConfiguration\lFile::getCameraProfile" alt="" coords="304,70,472,111"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1ConfigurationFile.xhtml#af3cd57258007019ac09e45919cfc19c3" title="Voxel::ConfigurationFile\l::getLocation" alt="" coords="307,135,469,177"/>
+<area shape="rect" id="node5" href="$classVoxel_1_1ConfigurationFile.xhtml#a6685f94e774ca7df8c63760e773f738d" title="Voxel::ConfigurationFile\l::mergeParentConfiguration" alt="" coords="297,201,479,242"/>
+<area shape="rect" id="node6" href="$classVoxel_1_1MainConfigurationFile.xhtml#aeb5b4fef3cb166018e80ca8019e00a22" title="Voxel::MainConfiguration\lFile::setCurrentCameraProfile" alt="" coords="291,266,485,307"/>
+<area shape="rect" id="node7" href="$classVoxel_1_1ConfigurationFile.xhtml#a989ae068a88338c742cae38055f8edb6" title="Voxel::ConfigurationFile\l::setID" alt="" coords="307,331,469,373"/>
+<area shape="rect" id="node8" href="$classVoxel_1_1MainConfigurationFile.xhtml#a65f9abd83851d372ef62958de4774415" title="Voxel::MainConfiguration\lFile::writeToHardware" alt="" coords="304,397,472,438"/>
+<area shape="rect" id="node9" href="$classVoxel_1_1SerializedObject.xhtml#a28bffcfa230e90768ea678269a782381" title="Voxel::SerializedObject\l::resize" alt="" coords="566,229,725,270"/>
+<area shape="rect" id="node10" href="$classVoxel_1_1SerializedObject.xhtml#a93bedaae4489eeac130ea6a98be2589c" title="Voxel::SerializedObject::put" alt="" coords="803,345,987,372"/>
+<area shape="rect" id="node11" href="$classVoxel_1_1SerializedObject.xhtml#adf11acb91f4adf3fe582a778c12b6286" title="Voxel::SerializedObject\l::size" alt="" coords="1035,397,1194,438"/>
+<area shape="rect" id="node12" href="$structVoxel_1_1DataPacket.xhtml#a2e4fcc8c2b6fa1ec9bbe823a91d534c7" title="Voxel::DataPacket::\lwrite" alt="" coords="575,397,715,438"/>
+<area shape="rect" id="node14" href="$classVoxel_1_1SerializedObject.xhtml#aac0058e6b0ea0cb6ac86f4e986f6de25" title="Voxel::SerializedObject\l::getBytes" alt="" coords="815,514,974,555"/>
+<area shape="rect" id="node15" href="$classVoxel_1_1Timer.xhtml#a363a248fe7dd94ae58681cf145b23a23" title="Voxel::Timer::getCurentRealTime" alt="" coords="537,513,754,540"/>
+<area shape="rect" id="node16" href="$classVoxel_1_1MainConfigurationFile.xhtml#a48e0e45a75ee7178d2814e34dd083db4" title="Voxel::MainConfiguration\lFile::_saveHardwareImage" alt="" coords="556,573,735,614"/>
+<area shape="rect" id="node13" href="$classVoxel_1_1SerializedObject.xhtml#a602414fea53034e304c0e6fcae5bb71b" title="Voxel::SerializedObject\l::currentPutOffset" alt="" coords="815,397,974,438"/>
+<area shape="rect" id="node17" href="$classVoxel_1_1Configuration.xhtml#abfeffa3f26a5d905901c85a8889823d7" title="Voxel::Configuration\l::getLocalConfFile" alt="" coords="825,579,965,621"/>
+</map>

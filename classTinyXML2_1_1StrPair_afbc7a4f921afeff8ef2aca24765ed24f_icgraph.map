@@ -1,0 +1,35 @@
+<map id="TinyXML2::StrPair::Reset" name="TinyXML2::StrPair::Reset">
+<area shape="rect" id="node2" href="$classTinyXML2_1_1StrPair.xhtml#acb766a3f2144ff1e37aaf3a130db993e" title="TinyXML2::StrPair::Set" alt="" coords="192,303,349,329"/>
+<area shape="rect" id="node12" href="$classTinyXML2_1_1StrPair.xhtml#a6e89623a22f1dd43bc4037d6fe6487c0" title="TinyXML2::StrPair::\lSetInternedStr" alt="" coords="202,650,339,691"/>
+<area shape="rect" id="node24" href="$classTinyXML2_1_1StrPair.xhtml#a8d21246f67287932bba28e6393f5ea2c" title="TinyXML2::StrPair::\lSetStr" alt="" coords="202,715,339,757"/>
+<area shape="rect" id="node30" href="$classTinyXML2_1_1StrPair.xhtml#aa49c81c2847e30ec02d2cb971de60eab" title="TinyXML2::StrPair::\lTransferTo" alt="" coords="202,541,339,582"/>
+<area shape="rect" id="node34" href="$classTinyXML2_1_1StrPair.xhtml#a6cb2da1d707d90e015006ba9d0295356" title="TinyXML2::StrPair::\l~StrPair" alt="" coords="202,781,339,822"/>
+<area shape="rect" id="node3" href="$classTinyXML2_1_1StrPair.xhtml#a758cab9c11619f17dbf4758d62bd2310" title="TinyXML2::StrPair::\lParseText" alt="" coords="411,169,549,210"/>
+<area shape="rect" id="node11" href="$classTinyXML2_1_1StrPair.xhtml#a323f7549e32dd8102eafc04a748041fc" title="TinyXML2::StrPair::\lParseName" alt="" coords="411,295,549,337"/>
+<area shape="rect" id="node4" href="$classTinyXML2_1_1XMLText.xhtml#a48075a5d36447886eef9bb98b4db951d" title="TinyXML2::XMLText::\lParseDeep" alt="" coords="627,5,778,46"/>
+<area shape="rect" id="node5" href="$classTinyXML2_1_1XMLComment.xhtml#a15a0eddf7fc540c4d5a3dbed6cb7e8b6" title="TinyXML2::XMLComment\l::ParseDeep" alt="" coords="616,70,789,111"/>
+<area shape="rect" id="node6" href="$classTinyXML2_1_1XMLDeclaration.xhtml#a6e32f30fbdec75b25799ee9b476d9104" title="TinyXML2::XMLDeclaration\l::ParseDeep" alt="" coords="611,135,794,177"/>
+<area shape="rect" id="node7" href="$classTinyXML2_1_1XMLUnknown.xhtml#a1a9b1c4c1144acbf5c9f8a3b6e4ec55c" title="TinyXML2::XMLUnknown\l::ParseDeep" alt="" coords="617,201,788,242"/>
+<area shape="rect" id="node8" href="$classTinyXML2_1_1XMLAttribute.xhtml#ab27bee7ca972cfb7b33a57ae150c9f46" title="TinyXML2::XMLAttribute\l::ParseDeep" alt="" coords="620,266,785,307"/>
+<area shape="rect" id="node9" href="$classTinyXML2_1_1XMLElement.xhtml#a2b7dddea778d54aa6a213abed7ef7ab7" title="TinyXML2::XMLElement\l::ParseAttributes" alt="" coords="853,266,1017,307"/>
+<area shape="rect" id="node10" href="$classTinyXML2_1_1XMLElement.xhtml#a1f37b0bb41320c4121515755b8a057a4" title="TinyXML2::XMLElement\l::ParseDeep" alt="" coords="1075,325,1239,366"/>
+<area shape="rect" id="node13" href="$classTinyXML2_1_1XMLNode.xhtml#a527b7ce2a80b4580275531020867b53a" title="TinyXML2::XMLNode::\lSetValue" alt="" coords="403,682,557,723"/>
+<area shape="rect" id="node14" href="$classTinyXML2_1_1XMLElement.xhtml#ad0f8edb7feb82def4e5245a9650f80fc" title="TinyXML2::XMLElement\l::SetText" alt="" coords="853,551,1017,593"/>
+<area shape="rect" id="node16" href="$classTinyXML2_1_1XMLDocument.xhtml#a2991901a202867cec8de7254273c8b7c" title="TinyXML2::XMLDocument\l::NewComment" alt="" coords="615,682,791,723"/>
+<area shape="rect" id="node18" href="$classTinyXML2_1_1XMLDocument.xhtml#a7d3e915ac54b0b32f72a2a7910225630" title="TinyXML2::XMLDocument\l::NewText" alt="" coords="615,617,791,658"/>
+<area shape="rect" id="node20" href="$classTinyXML2_1_1XMLDocument.xhtml#a949f550ca5a84f18404af5e050626a2e" title="TinyXML2::XMLDocument\l::NewDeclaration" alt="" coords="615,747,791,789"/>
+<area shape="rect" id="node22" href="$classTinyXML2_1_1XMLDocument.xhtml#aa8c76e2ecbc64d912bb6c7244ada0d16" title="TinyXML2::XMLDocument\l::NewUnknown" alt="" coords="615,813,791,854"/>
+<area shape="rect" id="node15" href="$classTinyXML2_1_1XMLElement.xhtml#aa6a50c3d5d452ce300212dac850d3a2c" title="Convenience method for setting text inside and element. See SetText() for important limitations..." alt="" coords="1075,551,1239,593"/>
+<area shape="rect" id="node17" href="$classTinyXML2_1_1XMLComment.xhtml#a71e4d7cfc0349f5eddfa4d8da54908fd" title="TinyXML2::XMLComment\l::ShallowClone" alt="" coords="848,682,1021,723"/>
+<area shape="rect" id="node19" href="$classTinyXML2_1_1XMLText.xhtml#a30e358bdfd667629b483d014ed2f92a7" title="TinyXML2::XMLText::\lShallowClone" alt="" coords="859,617,1010,658"/>
+<area shape="rect" id="node21" href="$classTinyXML2_1_1XMLDeclaration.xhtml#a7d46862e40732a3504f11bedee5c8b88" title="TinyXML2::XMLDeclaration\l::ShallowClone" alt="" coords="843,747,1026,789"/>
+<area shape="rect" id="node23" href="$classTinyXML2_1_1XMLUnknown.xhtml#ad1af7fc04a6ea1ef03430ada735750e5" title="TinyXML2::XMLUnknown\l::ShallowClone" alt="" coords="849,813,1020,854"/>
+<area shape="rect" id="node25" href="$classTinyXML2_1_1XMLAttribute.xhtml#ac93d475679bf1fb3e46418c012f238eb" title="TinyXML2::XMLAttribute\l::SetName" alt="" coords="397,813,563,854"/>
+<area shape="rect" id="node27" href="$classTinyXML2_1_1XMLAttribute.xhtml#aa3dd7a461cd63bea4781f89af1316fb6" title="Set the attribute to a string value. " alt="" coords="397,943,563,985"/>
+<area shape="rect" id="node26" href="$classTinyXML2_1_1XMLElement.xhtml#aba98ff0fab1bf13625988d0f2e3afa57" title="TinyXML2::XMLElement\l::FindOrCreateAttribute" alt="" coords="621,878,785,919"/>
+<area shape="rect" id="node28" href="$classTinyXML2_1_1XMLElement.xhtml#a8eb0c41120e9da3a8648e6ca38a6596f" title="Sets the named attribute to value. " alt="" coords="621,943,785,985"/>
+<area shape="rect" id="node29" href="$classTinyXML2_1_1XMLElement.xhtml#afe5dfc0730ed1c1b2c9e6b177e6b2fa6" title="TinyXML2::XMLElement\l::ShallowClone" alt="" coords="853,943,1017,985"/>
+<area shape="rect" id="node31" href="$classTinyXML2_1_1XMLNode.xhtml#a666a962d4e7ce40fad31a0d273659176" title="TinyXML2::XMLNode::\lParseDeep" alt="" coords="403,466,557,507"/>
+<area shape="rect" id="node32" href="$classTinyXML2_1_1XMLDocument.xhtml#a25c1fd4903914444fc31fb1b90dcffdb" title="TinyXML2::XMLDocument\l::LoadFile" alt="" coords="615,434,791,475"/>
+<area shape="rect" id="node33" href="$classTinyXML2_1_1XMLDocument.xhtml#a2734f0824ea57c5c26f61b4f3ff2514a" title="TinyXML2::XMLDocument\l::Parse" alt="" coords="615,499,791,541"/>
+</map>

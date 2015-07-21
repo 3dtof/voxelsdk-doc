@@ -1,0 +1,10 @@
+<map id="Voxel::IntegerParameter" name="Voxel::IntegerParameter">
+<area shape="rect" id="node7" href="$classVoxel_1_1TI_1_1HaddockSensorTemperatureParameter.xhtml" title="Voxel::TI::HaddockSensor\lTemperatureParameter" alt="" coords="1316,5,1492,46"/>
+<area shape="rect" id="node8" href="$classVoxel_1_1TI_1_1TintinCDKDummyDelayFBCorrModeParameter.xhtml" title="Voxel::TI::TintinCDKDummy\lDelayFBCorrModeParameter" alt="" coords="1309,70,1499,111"/>
+<area shape="rect" id="node9" href="$classVoxel_1_1TI_1_1TintinCDKDummyDelayFBDCCorrModeParameter.xhtml" title="Voxel::TI::TintinCDKDummy\lDelayFBDCCorrModeParameter" alt="" coords="1299,135,1509,177"/>
+<area shape="rect" id="node2" href="$classVoxel_1_1RangeParameterTemplate.xhtml" title="Voxel::RangeParameterTemplate\l\&lt; int \&gt;" alt="" coords="819,70,1034,111"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1ParameterTemplate.xhtml" title="Voxel::ParameterTemplate\l\&lt; int \&gt;" alt="" coords="515,39,693,81"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1Parameter.xhtml" title="Voxel::Parameter" alt="" coords="5,48,128,75"/>
+<area shape="rect" id="node5" href="$classVoxel_1_1ParameterTemplate.xhtml" title="Voxel::ParameterTemplate\&lt; T \&gt;" alt="" coords="179,77,389,104"/>
+<area shape="rect" id="node6" href="$classVoxel_1_1RangeParameterTemplate.xhtml" title="Voxel::RangeParameterTemplate\&lt; T \&gt;" alt="" coords="481,105,727,132"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Voxel::TI::CalculusSubFrameCntMax::set" name="Voxel::TI::CalculusSubFrameCntMax::set">
+<area shape="rect" id="node2" href="$a00152.xhtml#a8ec2cf6b38e17f982d3f12233c05e653" title="Voxel::TI::ToFCalculusCamera\l::_updateEasyConf" alt="" coords="248,58,451,99"/>
+<area shape="rect" id="node3" href="$a00036.xhtml#ac850b3829f41e647686610c283197ea6" title="Voxel::DepthCamera\l::_get" alt="" coords="499,25,643,66"/>
+<area shape="rect" id="node6" href="$a00036.xhtml#a474dfafecfd8b2a97a924aeab8a82a3c" title="Voxel::DepthCamera\l::_set" alt="" coords="499,90,643,131"/>
+<area shape="rect" id="node4" href="$a00103.xhtml#afa8896eaffbd2b87d1482c0967a0fe1d" title="Voxel::ParameterTemplate::get" alt="" coords="691,5,893,32"/>
+<area shape="rect" id="node5" href="$a00036.xhtml#ae3d6fcc6d4a20d1ad2de809ad65ecc34" title="Voxel::DepthCamera\l::name" alt="" coords="720,57,864,98"/>
+<area shape="rect" id="node7" href="$a00103.xhtml#a64240b607339f55c4fac973fba8c8934" title="Voxel::ParameterTemplate::set" alt="" coords="691,123,893,149"/>
+</map>

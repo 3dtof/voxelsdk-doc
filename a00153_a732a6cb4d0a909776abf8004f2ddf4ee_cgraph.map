@@ -1,0 +1,15 @@
+<map id="Voxel::TI::ToFCamera::_setFrameSize" name="Voxel::TI::ToFCamera::_setFrameSize">
+<area shape="rect" id="node2" href="$a00153.xhtml#acf6c3a732c5a47f38f2d461d76709091" title="Voxel::TI::ToFCamera\l::_getBytesPerPixel" alt="" coords="223,5,375,46"/>
+<area shape="rect" id="node6" href="$a00036.xhtml#a81260a37bfc6da411b8d3d71342a2eda" title="Voxel::DepthCamera\l::_getMaximumFrameSize" alt="" coords="211,70,386,111"/>
+<area shape="rect" id="node7" href="$a00036.xhtml#ae09d2aaee73e56b4b488897f6081191e" title="Voxel::DepthCamera\l::_getROI" alt="" coords="227,135,371,177"/>
+<area shape="rect" id="node8" href="$a00036.xhtml#acf7acaaf80bd7a4f2f5bd936a238b794" title="Voxel::DepthCamera\l::_getSupportedVideoModes" alt="" coords="205,201,392,242"/>
+<area shape="rect" id="node9" href="$a00153.xhtml#af38a4f151946d570f66f17f148575695" title="Voxel::TI::ToFCamera\l::_setBinning" alt="" coords="223,266,375,307"/>
+<area shape="rect" id="node12" href="$a00036.xhtml#aaf9d83ca0b30727b3a10c6fd61fa71d8" title="Voxel::DepthCamera\l::_setROI" alt="" coords="227,331,371,373"/>
+<area shape="rect" id="node13" href="$a00153.xhtml#aeb1ca26782d200e18261e76254712477" title="Voxel::TI::ToFCamera\l::_setStreamerFrameSize" alt="" coords="213,397,384,438"/>
+<area shape="rect" id="node14" href="$a00036.xhtml#a1ff46a5643f0a02a6970236e0b6a7634" title="Voxel::DepthCamera\l::isRunning" alt="" coords="227,462,371,503"/>
+<area shape="rect" id="node3" href="$a00036.xhtml#ac850b3829f41e647686610c283197ea6" title="Voxel::DepthCamera\l::_get" alt="" coords="440,23,584,65"/>
+<area shape="rect" id="node4" href="$a00103.xhtml#afa8896eaffbd2b87d1482c0967a0fe1d" title="Voxel::ParameterTemplate::get" alt="" coords="632,31,835,57"/>
+<area shape="rect" id="node5" href="$a00036.xhtml#ae3d6fcc6d4a20d1ad2de809ad65ecc34" title="Voxel::DepthCamera\l::name" alt="" coords="661,99,805,141"/>
+<area shape="rect" id="node10" href="$a00036.xhtml#a474dfafecfd8b2a97a924aeab8a82a3c" title="Voxel::DepthCamera\l::_set" alt="" coords="440,194,584,235"/>
+<area shape="rect" id="node11" href="$a00103.xhtml#a64240b607339f55c4fac973fba8c8934" title="Voxel::ParameterTemplate::set" alt="" coords="632,201,835,228"/>
+</map>

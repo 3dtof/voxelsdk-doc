@@ -1,0 +1,12 @@
+<map id="Voxel::TI::ToFCamera::_is16BitModeEnabled" name="Voxel::TI::ToFCamera::_is16BitModeEnabled">
+<area shape="rect" id="node2" href="$classVoxel_1_1TI_1_1ToFCamera.xhtml#a6f61d229b9f83102d07d25d88ea03efa" title="Voxel::TI::ToFCamera\l::_getDepthScalingFactor" alt="" coords="211,38,381,79"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1TI_1_1ToFCamera.xhtml#a52686f695d06876ef5a89e453c6a8ba3" title="Voxel::TI::ToFCamera\l::_initStartParams" alt="" coords="220,103,372,145"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1TI_1_1ToFHaddockCamera.xhtml#ae87b0ca3c8867d1b520c0165d526e79d" title="Voxel::TI::ToFHaddockCamera\l::_initStartParams" alt="" coords="433,5,637,46"/>
+<area shape="rect" id="node6" href="$classVoxel_1_1TI_1_1HaddockCDKCamera.xhtml#a4e8e32000eca9b81bc6401a8d512cbc7" title="Voxel::TI::HaddockCDKCamera\l::_initStartParams" alt="" coords="429,70,640,111"/>
+<area shape="rect" id="node7" href="$classVoxel_1_1TI_1_1ToFCalculusCamera.xhtml#adf420ba5e95dcb0cbd3da90f446242d9" title="Voxel::TI::ToFCalculusCamera\l::_initStartParams" alt="" coords="433,135,636,177"/>
+<area shape="rect" id="node9" href="$classVoxel_1_1TI_1_1ToFTintinCamera.xhtml#a17729406fadceea890b4e0e079aede46" title="Voxel::TI::ToFTintinCamera\l::_initStartParams" alt="" coords="443,201,627,242"/>
+<area shape="rect" id="node5" href="$classVoxel_1_1TI_1_1Voxel14Camera.xhtml#ad5dcde935444ac28a6e0b5705f504573" title="Voxel::TI::Voxel14Camera\l::_initStartParams" alt="" coords="705,5,881,46"/>
+<area shape="rect" id="node8" href="$classVoxel_1_1TI_1_1CalculusCDKCamera.xhtml#a2474713056342fa6774ff5a165961052" title="Voxel::TI::CalculusCDKCamera\l::_initStartParams" alt="" coords="689,135,898,177"/>
+<area shape="rect" id="node10" href="$classVoxel_1_1TI_1_1TintinCDKCamera.xhtml#a35274b5fd95ea088be4bc0637328d5f4" title="Voxel::TI::TintinCDKCamera\l::_initStartParams" alt="" coords="698,201,889,242"/>
+<area shape="rect" id="node11" href="$classVoxel_1_1TI_1_1VoxelDCamera.xhtml#ae0706724a5ebbb978d41fb2633af5040" title="Voxel::TI::VoxelDCamera\l::_initStartParams" alt="" coords="707,266,879,307"/>
+</map>

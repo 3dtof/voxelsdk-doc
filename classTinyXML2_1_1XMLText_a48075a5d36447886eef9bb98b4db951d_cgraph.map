@@ -1,0 +1,9 @@
+<map id="TinyXML2::XMLText::ParseDeep" name="TinyXML2::XMLText::ParseDeep">
+<area shape="rect" id="node2" href="$classTinyXML2_1_1XMLText.xhtml#a98f45fac97f30ec41d7aaa2f4a5fdf17" title="Returns true if this is a CDATA text element. " alt="" coords="218,5,369,46"/>
+<area shape="rect" id="node3" href="$classTinyXML2_1_1StrPair.xhtml#a758cab9c11619f17dbf4758d62bd2310" title="TinyXML2::StrPair::\lParseText" alt="" coords="225,70,362,111"/>
+<area shape="rect" id="node6" href="$classTinyXML2_1_1XMLDocument.xhtml#a94602229a737b6e7eb7c22149090b2c4" title="TinyXML2::XMLDocument\l::ProcessEntities" alt="" coords="205,135,381,177"/>
+<area shape="rect" id="node7" href="$classTinyXML2_1_1XMLDocument.xhtml#a38edba63c6f6b5de49f4ece2ba14dd8d" title="TinyXML2::XMLDocument\l::SetError" alt="" coords="205,201,381,242"/>
+<area shape="rect" id="node8" href="$classTinyXML2_1_1XMLDocument.xhtml#a997c5acf6ea216de5c7acc6ef5061bf6" title="TinyXML2::XMLDocument\l::WhitespaceMode" alt="" coords="205,266,381,307"/>
+<area shape="rect" id="node4" href="$classTinyXML2_1_1StrPair.xhtml#acb766a3f2144ff1e37aaf3a130db993e" title="TinyXML2::StrPair::Set" alt="" coords="429,77,587,104"/>
+<area shape="rect" id="node5" href="$classTinyXML2_1_1StrPair.xhtml#afbc7a4f921afeff8ef2aca24765ed24f" title="TinyXML2::StrPair::\lReset" alt="" coords="635,70,773,111"/>
+</map>

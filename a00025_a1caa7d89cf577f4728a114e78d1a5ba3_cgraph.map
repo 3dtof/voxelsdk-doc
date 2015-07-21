@@ -1,0 +1,8 @@
+<map id="Voxel::CLIManager::_videoMode" name="Voxel::CLIManager::_videoMode">
+<area shape="rect" id="node2" href="$a00025.xhtml#a2672bb26d3423d3cc587f7871a4741cd" title="Voxel::CLIManager::\l_videoModeCapabilities" alt="" coords="197,5,357,46"/>
+<area shape="rect" id="node4" href="$a00181.xhtml#a99b3955c15011399b66cbf609afdbacb" title="Voxel::VideoMode::getFrameRate" alt="" coords="405,67,624,93"/>
+<area shape="rect" id="node6" href="$a00390.xhtml#ga148a066c676b3c831918800b78a2f056" title="Voxel::gcd" alt="" coords="235,121,319,148"/>
+<area shape="rect" id="node7" href="$a00390.xhtml#gadd67e5b1a02a8a07764793e4598922d4" title="Voxel::split" alt="" coords="234,172,321,199"/>
+<area shape="rect" id="node3" href="$a00390.xhtml#ga74d91a42f62a7b69d841b6cfeabeb415" title="Voxel::breakLines" alt="" coords="451,12,578,39"/>
+<area shape="rect" id="node5" href="$a00069.xhtml#aad990de42e35d9c41ced1d4104e64c27" title="Voxel::FrameRate::getFrameRate" alt="" coords="672,67,891,93"/>
+</map>

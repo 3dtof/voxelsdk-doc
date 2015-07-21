@@ -1,0 +1,4 @@
+<map id="Voxel::LogLevelChanger::LogLevelChanger" name="Voxel::LogLevelChanger::LogLevelChanger">
+<area shape="rect" id="node2" href="$a00093.xhtml#a47ae069aca3b2d9f4fad7231f5baf7c9" title="Voxel::Logger::getDefault\lLogLevel" alt="" coords="219,5,389,46"/>
+<area shape="rect" id="node3" href="$a00093.xhtml#a24cc93971582344584a5c9064d897cbe" title="Voxel::Logger::setDefault\lLogLevel" alt="" coords="219,70,389,111"/>
+</map>

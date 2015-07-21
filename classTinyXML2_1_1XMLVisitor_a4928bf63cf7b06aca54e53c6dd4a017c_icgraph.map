@@ -1,0 +1,6 @@
+<map id="TinyXML2::XMLVisitor::Visit" name="TinyXML2::XMLVisitor::Visit">
+<area shape="rect" id="node2" href="$classTinyXML2_1_1XMLText.xhtml#a0c6715890d2ac6b5972416a02896e1fb" title="TinyXML2::XMLText::\lAccept" alt="" coords="225,5,375,46"/>
+<area shape="rect" id="node3" href="$classTinyXML2_1_1XMLComment.xhtml#a13d113649df2846da1e2f7c59c417941" title="TinyXML2::XMLComment\l::Accept" alt="" coords="213,70,387,111"/>
+<area shape="rect" id="node4" href="$classTinyXML2_1_1XMLDeclaration.xhtml#a0fcb8c5402eef454e6c35b4dcceeb938" title="TinyXML2::XMLDeclaration\l::Accept" alt="" coords="209,135,391,177"/>
+<area shape="rect" id="node5" href="$classTinyXML2_1_1XMLUnknown.xhtml#a590ad9fe166b2ad702f8b39bb880847c" title="TinyXML2::XMLUnknown\l::Accept" alt="" coords="215,201,385,242"/>
+</map>

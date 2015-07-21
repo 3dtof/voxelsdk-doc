@@ -1,0 +1,12 @@
+<map id="Voxel::CLIManager::_commandLoop" name="Voxel::CLIManager::_commandLoop">
+<area shape="rect" id="node2" href="$classVoxel_1_1CLIManager.xhtml#a82c90ebee06e7444323318eeaa41e18d" title="Voxel::CLIManager::\l_completionCallback" alt="" coords="239,66,382,107"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1CLIManager.xhtml#aa88324c7fb0c96ece91f5125f0cd071c" title="Voxel::CLIManager::\l_getTokens" alt="" coords="515,7,658,49"/>
+<area shape="rect" id="node5" href="$classVoxel_1_1CLIManager.xhtml#aa09c2ce6a3468458e8e949b61fb63350" title="Voxel::CLIManager::\l_getPrompt" alt="" coords="239,131,382,173"/>
+<area shape="rect" id="node6" href="$namespaceLineNoise.xhtml#a1a1a8da73f602e753f773163db344b47" title="LineNoise::linenoise" alt="" coords="241,197,380,224"/>
+<area shape="rect" id="node7" href="$namespaceLineNoise.xhtml#ae0d170e5b6e0ea50d5f722551cb09ec5" title="LineNoise::linenoiseHistoryAdd" alt="" coords="485,273,689,300"/>
+<area shape="rect" id="node8" href="$namespaceLineNoise.xhtml#ab0652a666cb260a0b487bc9df5638c7a" title="LineNoise::linenoiseHistoryLoad" alt="" coords="206,299,415,325"/>
+<area shape="rect" id="node9" href="$namespaceLineNoise.xhtml#a238647bb456e72d40b364b093758aafc" title="LineNoise::linenoiseHistorySave" alt="" coords="205,349,416,376"/>
+<area shape="rect" id="node10" href="$namespaceLineNoise.xhtml#ae3fa94e62f15b4f0d105753027521dcf" title="LineNoise::linenoiseHistory\lSetMaxLen" alt="" coords="220,401,401,442"/>
+<area shape="rect" id="node11" href="$namespaceLineNoise.xhtml#a77ae76b19f91154937daaf925e725a44" title="LineNoise::linenoiseSetCompletion\lCallback" alt="" coords="198,466,423,507"/>
+<area shape="rect" id="node4" href="$namespaceLineNoise.xhtml#a5648e21adbd7aa937a3e50c32961ade4" title="LineNoise::linenoiseAddCompletion" alt="" coords="473,73,701,100"/>
+</map>

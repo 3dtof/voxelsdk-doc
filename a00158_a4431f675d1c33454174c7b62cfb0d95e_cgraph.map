@@ -1,0 +1,6 @@
+<map id="Voxel::TI::ToFFrameGenerator::generate" name="Voxel::TI::ToFFrameGenerator::generate">
+<area shape="rect" id="node2" href="$a00158.xhtml#afe92b9c75a841a03406d0a38e017cb9f" title="Voxel::TI::ToFFrameGenerator\l::_generateToFRawFrame" alt="" coords="253,37,453,78"/>
+<area shape="rect" id="node5" href="$a00158.xhtml#a5a0fed4d07e8fbad867e01d9b83c855f" title="Voxel::TI::ToFFrameGenerator\l::_generateToFRawIQFrame" alt="" coords="253,102,453,143"/>
+<area shape="rect" id="node3" href="$a00158.xhtml#a11744565adcb54697696e9dcc718a42c" title="Voxel::TI::ToFFrameGenerator\l::_applyCrossTalkFilter" alt="" coords="503,5,703,46"/>
+<area shape="rect" id="node4" href="$a00158.xhtml#a60d17ff59c645ec11280312b6bcfa8a6" title="Voxel::TI::ToFFrameGenerator\l::_applyPhaseOffsetCorrection" alt="" coords="502,70,703,111"/>
+</map>

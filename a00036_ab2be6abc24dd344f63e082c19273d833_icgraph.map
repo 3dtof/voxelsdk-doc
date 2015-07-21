@@ -1,0 +1,11 @@
+<map id="Voxel::DepthCamera::getROI" name="Voxel::DepthCamera::getROI">
+<area shape="rect" id="node2" href="$a00152.xhtml#adf420ba5e95dcb0cbd3da90f446242d9" title="Voxel::TI::ToFCalculusCamera\l::_initStartParams" alt="" coords="401,5,604,46"/>
+<area shape="rect" id="node4" href="$a00153.xhtml#a52686f695d06876ef5a89e453c6a8ba3" title="Voxel::TI::ToFCamera\l::_initStartParams" alt="" coords="197,70,349,111"/>
+<area shape="rect" id="node3" href="$a00013.xhtml#a2474713056342fa6774ff5a165961052" title="Voxel::TI::CalculusCDKCamera\l::_initStartParams" alt="" coords="657,5,866,46"/>
+<area shape="rect" id="node5" href="$a00077.xhtml#a4e8e32000eca9b81bc6401a8d512cbc7" title="Voxel::TI::HaddockCDKCamera\l::_initStartParams" alt="" coords="397,70,608,111"/>
+<area shape="rect" id="node6" href="$a00159.xhtml#ae87b0ca3c8867d1b520c0165d526e79d" title="Voxel::TI::ToFHaddockCamera\l::_initStartParams" alt="" coords="401,135,605,177"/>
+<area shape="rect" id="node8" href="$a00164.xhtml#a17729406fadceea890b4e0e079aede46" title="Voxel::TI::ToFTintinCamera\l::_initStartParams" alt="" coords="411,201,595,242"/>
+<area shape="rect" id="node7" href="$a00182.xhtml#ad5dcde935444ac28a6e0b5705f504573" title="Voxel::TI::Voxel14Camera\l::_initStartParams" alt="" coords="673,135,849,177"/>
+<area shape="rect" id="node9" href="$a00137.xhtml#a35274b5fd95ea088be4bc0637328d5f4" title="Voxel::TI::TintinCDKCamera\l::_initStartParams" alt="" coords="666,201,857,242"/>
+<area shape="rect" id="node10" href="$a00186.xhtml#ae0706724a5ebbb978d41fb2633af5040" title="Voxel::TI::VoxelDCamera\l::_initStartParams" alt="" coords="675,266,847,307"/>
+</map>

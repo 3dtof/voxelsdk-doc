@@ -1,0 +1,8 @@
+<map id="Voxel::arraySize" name="Voxel::arraySize">
+<area shape="rect" id="node2" href="$a00193.xhtml#af00fab5c3d5ca655e93cbac9eedb2191" title="Voxel::TI::VoxelXUProgrammer\l::_readRegister" alt="" coords="174,5,381,46"/>
+<area shape="rect" id="node3" href="$a00193.xhtml#ab14e92f7cb09cebb07f22e618b83ca10" title="Voxel::TI::VoxelXUProgrammer\l::_writeRegister" alt="" coords="174,70,381,111"/>
+<area shape="rect" id="node4" href="$a00193.xhtml#a4f056b71d80ee76eea0e8a160e256c4f" title="Voxel::TI::VoxelXUProgrammer\l::init" alt="" coords="174,135,381,177"/>
+<area shape="rect" id="node6" href="$a00193.xhtml#a44d63f580f52b0f3ff8e801b9a5d266e" title="Voxel::TI::VoxelXUProgrammer\l::reset" alt="" coords="174,201,381,242"/>
+<area shape="rect" id="node5" href="$a00193.xhtml#ae09497186f540cf5abc81e55c4145bc7" title="Voxel::TI::VoxelXUProgrammer\l::VoxelXUProgrammer" alt="" coords="447,135,654,177"/>
+<area shape="rect" id="node7" href="$a00148.xhtml#a2adb94a5e0b1a66f8a2e21ce0931d46f" title="Voxel::TI::TintinEEPROMDownloader\l::_configureForDownload" alt="" coords="429,201,672,242"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Voxel::DiscreteGaussian::setStandardDeviation" name="Voxel::DiscreteGaussian::setStandardDeviation">
+<area shape="rect" id="node2" href="$classVoxel_1_1BilateralFilter.xhtml#af49e31168146ef04ed89b7478ad38d3d" title="Voxel::BilateralFilter\l::_onSet" alt="" coords="221,5,360,46"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1SmoothFilter.xhtml#afa275952451eb61d5d075048e1ad4462" title="Voxel::SmoothFilter\l::_onSet" alt="" coords="222,70,359,111"/>
+</map>

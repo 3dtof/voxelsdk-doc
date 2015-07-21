@@ -1,0 +1,10 @@
+<map id="Voxel::UVCStreamer" name="Voxel::UVCStreamer">
+<area shape="rect" id="node2" href="$classVoxel_1_1Streamer.xhtml" title="Voxel::Streamer" alt="" coords="1014,155,1130,181"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1Timer.xhtml" title="Voxel::Timer" alt="" coords="721,72,817,99"/>
+<area shape="rect" id="node5" href="$classbool.xhtml" title="bool" alt="" coords="302,92,349,119"/>
+<area shape="rect" id="node6" href="$classint.xhtml" title="int" alt="" coords="750,185,789,212"/>
+<area shape="rect" id="node7" href="$classVoxel_1_1Ptr.xhtml" title="Voxel::Ptr\&lt; Device \&gt;" alt="" coords="697,236,842,263"/>
+<area shape="rect" id="node9" href="$classVoxel_1_1Ptr.xhtml" title="Voxel::Ptr\&lt; T \&gt;" alt="" coords="269,267,381,293"/>
+<area shape="rect" id="node11" href="$classVoxel_1_1Ptr.xhtml" title="Voxel::Ptr\&lt; Voxel::\lVideoMode \&gt;" alt="" coords="703,294,836,335"/>
+<area shape="rect" id="node13" href="$classVoxel_1_1Ptr.xhtml" title="Voxel::Ptr\&lt; Voxel::\lUVCStreamer::UVCStreamerPrivate \&gt;" alt="" coords="646,367,893,409"/>
+</map>

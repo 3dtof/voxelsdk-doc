@@ -1,0 +1,12 @@
+<map id="Voxel::Device::serialNumber" name="Voxel::Device::serialNumber">
+<area shape="rect" id="node2" href="$a00182.xhtml#a89011bfb795ff58d3fb8675364b91abe" title="Voxel::TI::Voxel14Camera\l::_init" alt="" coords="259,5,435,46"/>
+<area shape="rect" id="node4" href="$a00186.xhtml#a47b15c40c3fbcc52ae1eb3c9fe74d9f1" title="Voxel::TI::VoxelDCamera\l::_init" alt="" coords="261,70,433,111"/>
+<area shape="rect" id="node6" href="$a00173.xhtml#a1cbfa177d183726f0e4a16cb45e30d35" title="Voxel::USBSystemPrivate\l::getBusDevNumbers" alt="" coords="258,135,435,177"/>
+<area shape="rect" id="node9" href="$a00173.xhtml#af6f114a79ec61cc4815afc7828a84f85" title="Voxel::USBSystemPrivate\l::getDeviceNode" alt="" coords="258,201,435,242"/>
+<area shape="rect" id="node10" href="$a00167.xhtml#aafd454804e5804cb8364169762898db0" title="Voxel::USBDevice::getDevices" alt="" coords="243,267,450,293"/>
+<area shape="rect" id="node11" href="$a00217.xhtml#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="321,317,372,344"/>
+<area shape="rect" id="node3" href="$a00182.xhtml#a606f13ed73547ee43f585e241b42dd5d" title="Voxel::TI::Voxel14Camera\l::Voxel14Camera" alt="" coords="500,5,676,46"/>
+<area shape="rect" id="node5" href="$a00186.xhtml#a4a95cf8257e2f9f5fd34386b87f6663a" title="Voxel::TI::VoxelDCamera\l::VoxelDCamera" alt="" coords="502,70,674,111"/>
+<area shape="rect" id="node7" href="$a00173.xhtml#a0a4343643663e5cb000014b35bec5802" title="This does not look at the channel to determine which channel to use. " alt="" coords="499,135,677,177"/>
+<area shape="rect" id="node8" href="$a00171.xhtml#a72862681db5fbc61c173f711b60e76f3" title="Voxel::USBIO::USBIOPrivate\l::USBIOPrivate" alt="" coords="726,135,922,177"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="TinyXML2::XMLAttribute::QueryDoubleValue" name="TinyXML2::XMLAttribute::QueryDoubleValue">
+<area shape="rect" id="node2" href="$classTinyXML2_1_1XMLUtil.xhtml#a1e45f8b533ef3584a8afbd1cbe31ca1f" title="TinyXML2::XMLUtil::\lToDouble" alt="" coords="229,38,373,79"/>
+<area shape="rect" id="node3" href="$classTinyXML2_1_1XMLAttribute.xhtml#a446d3d65226fa84cca9c038521bfa0e6" title="The value of the attribute. " alt="" coords="219,103,384,145"/>
+<area shape="rect" id="node4" href="$classTinyXML2_1_1StrPair.xhtml#a5e2c5bd32ba79f32f219cf9301c2bce6" title="TinyXML2::StrPair::\lGetStr" alt="" coords="433,103,570,145"/>
+<area shape="rect" id="node5" href="$classTinyXML2_1_1StrPair.xhtml#a7d56cd79475b9e7e6349134b89331311" title="TinyXML2::StrPair::\lCollapseWhitespace" alt="" coords="619,70,762,111"/>
+<area shape="rect" id="node8" href="$classTinyXML2_1_1XMLUtil.xhtml#a7b69ac5d9474c28a4b2fd675d692ea43" title="TinyXML2::XMLUtil::\lGetCharacterRef" alt="" coords="619,135,763,177"/>
+<area shape="rect" id="node6" href="$classTinyXML2_1_1XMLUtil.xhtml#aa1b7cab8abab24f6deeb0b34a31b5a86" title="TinyXML2::XMLUtil::\lIsWhiteSpace" alt="" coords="817,5,961,46"/>
+<area shape="rect" id="node7" href="$classTinyXML2_1_1XMLUtil.xhtml#a151c32ae2f90003379a2fc78a80da4f1" title="TinyXML2::XMLUtil::\lSkipWhiteSpace" alt="" coords="817,70,961,111"/>
+<area shape="rect" id="node9" href="$classTinyXML2_1_1XMLUtil.xhtml#a568fea7b3c469d8fae0e1f3480a0d96c" title="TinyXML2::XMLUtil::\lConvertUTF32ToUTF8" alt="" coords="811,135,967,177"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="Voxel::FrameStreamReader" name="Voxel::FrameStreamReader">
+<area shape="rect" id="node2" href="$a00023.xhtml" title="This class provides ways to instantiate individual cameras and components like filters. " alt="" coords="943,101,1097,128"/>
+<area shape="rect" id="node11" href="$a00076.xhtml" title="Voxel::GeneratorConfiguration\lSubPacket" alt="" coords="517,289,715,330"/>
+<area shape="rect" id="node18" href="$a00035.xhtml" title="Voxel::DataPacket" alt="" coords="550,455,682,481"/>
+<area shape="rect" id="node20" href="$a00072.xhtml" title="Voxel::FrameStreamHeader" alt="" coords="524,537,708,564"/>
+<area shape="rect" id="node13" href="$a00127.xhtml" title="Voxel::SerializedObject" alt="" coords="230,260,389,287"/>
+<area shape="rect" id="node17" href="$a00073.xhtml" title="Voxel::FrameStreamPacket" alt="" coords="929,475,1111,501"/>
+<area shape="rect" id="node21" href="$a00113.xhtml" title="Voxel::Ptr\&lt; Voxel::\lFrameGenerator \&gt;" alt="" coords="953,589,1087,630"/>
+<area shape="rect" id="node23" href="$a00113.xhtml" title="Voxel::Ptr\&lt; T \&gt;" alt="" coords="560,655,672,681"/>
+</map>

@@ -1,0 +1,48 @@
+<map id="Voxel::ParameterTemplate&lt; T &gt;" name="Voxel::ParameterTemplate&lt; T &gt;">
+<area shape="rect" id="node3" href="$a00054.xhtml" title="Voxel::EnumParameterTemplate\&lt; T \&gt;" alt="" coords="493,112,736,139"/>
+<area shape="rect" id="node10" href="$a00117.xhtml" title="Voxel::RangeParameterTemplate\&lt; T \&gt;" alt="" coords="491,936,738,963"/>
+<area shape="rect" id="node45" href="$a00103.xhtml" title="Voxel::ParameterTemplate\l\&lt; float \&gt;" alt="" coords="526,1382,703,1423"/>
+<area shape="rect" id="node46" href="$a00103.xhtml" title="Voxel::ParameterTemplate\l\&lt; int \&gt;" alt="" coords="526,173,703,214"/>
+<area shape="rect" id="node47" href="$a00103.xhtml" title="Voxel::ParameterTemplate\l\&lt; bool \&gt;" alt="" coords="526,35,703,77"/>
+<area shape="rect" id="node2" href="$a00101.xhtml" title="Voxel::Parameter" alt="" coords="5,180,128,207"/>
+<area shape="rect" id="node4" href="$a00054.xhtml" title="Voxel::EnumParameterTemplate\l\&lt; int \&gt;" alt="" coords="857,110,1068,151"/>
+<area shape="rect" id="node6" href="$a00054.xhtml" title="Voxel::EnumParameterTemplate\l\&lt; bool \&gt;" alt="" coords="857,35,1068,77"/>
+<area shape="rect" id="node5" href="$a00053.xhtml" title="Voxel::EnumParameter" alt="" coords="1139,117,1296,144"/>
+<area shape="rect" id="node7" href="$a00012.xhtml" title="Voxel::BoolParameter" alt="" coords="1143,43,1292,69"/>
+<area shape="rect" id="node8" href="$a00132.xhtml" title="Voxel::StrobeBoolParameter" alt="" coords="1369,72,1556,99"/>
+<area shape="rect" id="node9" href="$a00018.xhtml" title="Custom parameters. " alt="" coords="1381,6,1544,47"/>
+<area shape="rect" id="node11" href="$a00015.xhtml" title="Voxel::TI::CalculusCDKMix\lVoltageParameter\&lt; uint \&gt;" alt="" coords="871,505,1055,546"/>
+<area shape="rect" id="node12" href="$a00016.xhtml" title="Voxel::TI::CalculusCDKPVDDVoltage\lParameter\&lt; uint \&gt;" alt="" coords="840,570,1085,611"/>
+<area shape="rect" id="node13" href="$a00017.xhtml" title="Voxel::TI::CalculusInteg\lDutyCycle\&lt; uint \&gt;" alt="" coords="881,635,1044,677"/>
+<area shape="rect" id="node14" href="$a00020.xhtml" title="Voxel::TI::CalculusPixCnt\lMax\&lt; uint \&gt;" alt="" coords="875,701,1050,742"/>
+<area shape="rect" id="node15" href="$a00021.xhtml" title="Voxel::TI::CalculusSubFrame\lCntMax\&lt; uint \&gt;" alt="" coords="865,766,1060,807"/>
+<area shape="rect" id="node16" href="$a00079.xhtml" title="Voxel::TI::HaddockCDKIllumination\lPowerParameter\&lt; uint \&gt;" alt="" coords="847,831,1078,873"/>
+<area shape="rect" id="node17" href="$a00080.xhtml" title="Voxel::TI::HaddockCDKIllumination\lPowerPercentageParameter\&lt; uint \&gt;" alt="" coords="847,897,1078,938"/>
+<area shape="rect" id="node18" href="$a00081.xhtml" title="Voxel::TI::HaddockCDKMix\lVoltageParameter\&lt; uint \&gt;" alt="" coords="870,962,1055,1003"/>
+<area shape="rect" id="node19" href="$a00084.xhtml" title="Voxel::TI::HaddockUnambiguous\lRangeParameter\&lt; uint \&gt;" alt="" coords="855,1027,1070,1069"/>
+<area shape="rect" id="node20" href="$a00089.xhtml" title="Voxel::TI::IntegrationTime\lParameter\&lt; uint \&gt;" alt="" coords="876,1093,1049,1134"/>
+<area shape="rect" id="node21" href="$a00140.xhtml" title="Voxel::TI::TintinCDKIllum\lCurrentParameter\&lt; uint \&gt;" alt="" coords="877,1158,1049,1199"/>
+<area shape="rect" id="node22" href="$a00141.xhtml" title="Voxel::TI::TintinCDKIllumination\lPowerParameter\&lt; uint \&gt;" alt="" coords="857,1223,1068,1265"/>
+<area shape="rect" id="node23" href="$a00142.xhtml" title="Voxel::TI::TintinCDKIllumination\lPowerPercentParameter\&lt; uint \&gt;" alt="" coords="857,1289,1068,1330"/>
+<area shape="rect" id="node24" href="$a00143.xhtml" title="Voxel::TI::TintinCDKIllum\lVrefParameter\&lt; uint \&gt;" alt="" coords="877,1354,1049,1395"/>
+<area shape="rect" id="node25" href="$a00144.xhtml" title="Voxel::TI::TintinCDKMain\lCurrentParameter\&lt; uint \&gt;" alt="" coords="877,1419,1049,1461"/>
+<area shape="rect" id="node26" href="$a00145.xhtml" title="Voxel::TI::TintinCDKMixVoltage\lParameter\&lt; uint \&gt;" alt="" coords="858,1485,1067,1526"/>
+<area shape="rect" id="node27" href="$a00146.xhtml" title="Voxel::TI::TintinCDKPVDDParameter\lRev1\&lt; uint \&gt;" alt="" coords="841,1550,1084,1591"/>
+<area shape="rect" id="node28" href="$a00147.xhtml" title="Voxel::TI::TintinCDKPVDDParameter\lRev2\&lt; uint \&gt;" alt="" coords="841,1615,1084,1657"/>
+<area shape="rect" id="node29" href="$a00150.xhtml" title="Voxel::TI::TintinUnambiguous\lRangeParameter\&lt; uint \&gt;" alt="" coords="865,1681,1060,1722"/>
+<area shape="rect" id="node30" href="$a00184.xhtml" title="Voxel::TI::Voxel14Illumination\lVoltageParameter\&lt; uint \&gt;" alt="" coords="865,243,1061,285"/>
+<area shape="rect" id="node31" href="$a00185.xhtml" title="Voxel::TI::Voxel14MixVoltage\lParameter\&lt; uint \&gt;" alt="" coords="865,309,1060,350"/>
+<area shape="rect" id="node32" href="$a00188.xhtml" title="Voxel::TI::VoxelDIllumination\lVoltageParameter\&lt; uint \&gt;" alt="" coords="867,374,1059,415"/>
+<area shape="rect" id="node33" href="$a00189.xhtml" title="Voxel::TI::VoxelDMixVoltage\lParameter\&lt; uint \&gt;" alt="" coords="867,439,1058,481"/>
+<area shape="rect" id="node34" href="$a00117.xhtml" title="Voxel::RangeParameterTemplate\l\&lt; float \&gt;" alt="" coords="855,1746,1070,1787"/>
+<area shape="rect" id="node42" href="$a00117.xhtml" title="Voxel::RangeParameterTemplate\l\&lt; int \&gt;" alt="" coords="855,178,1070,219"/>
+<area shape="rect" id="node35" href="$a00064.xhtml" title="Voxel::FloatParameter" alt="" coords="1141,1068,1293,1095"/>
+<area shape="rect" id="node36" href="$a00019.xhtml" title="Voxel::TI::CalculusModulation\lFrequencyParameter" alt="" coords="1364,1061,1561,1102"/>
+<area shape="rect" id="node37" href="$a00022.xhtml" title="Voxel::TI::CalculusVCOFrequency" alt="" coords="1351,1127,1575,1153"/>
+<area shape="rect" id="node38" href="$a00082.xhtml" title="Voxel::TI::HaddockModulation\lFrequencyParameter" alt="" coords="1363,1178,1562,1219"/>
+<area shape="rect" id="node39" href="$a00085.xhtml" title="Custom parameters. " alt="" coords="1350,892,1575,919"/>
+<area shape="rect" id="node40" href="$a00149.xhtml" title="Voxel::TI::TintinModulation\lFrequencyParameter" alt="" coords="1373,943,1552,985"/>
+<area shape="rect" id="node41" href="$a00151.xhtml" title="Custom parameters. " alt="" coords="1360,1009,1565,1036"/>
+<area shape="rect" id="node43" href="$a00088.xhtml" title="Voxel::IntegerParameter" alt="" coords="1136,1232,1299,1259"/>
+<area shape="rect" id="node44" href="$a00083.xhtml" title="Voxel::TI::HaddockSensor\lTemperatureParameter" alt="" coords="1375,1243,1551,1285"/>
+</map>

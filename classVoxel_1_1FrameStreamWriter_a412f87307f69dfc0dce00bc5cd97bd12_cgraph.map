@@ -1,0 +1,9 @@
+<map id="Voxel::FrameStreamWriter::writeGeneratorConfiguration" name="Voxel::FrameStreamWriter::writeGeneratorConfiguration">
+<area shape="rect" id="node2" href="$classVoxel_1_1FrameStreamWriter.xhtml#a87a56f47c5b37d11152ec8da491a9e52" title="Voxel::FrameStreamWriter\l::isStreamGood" alt="" coords="255,5,433,46"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1SerializedObject.xhtml#adf11acb91f4adf3fe582a778c12b6286" title="Voxel::SerializedObject\l::size" alt="" coords="723,114,882,155"/>
+<area shape="rect" id="node4" href="$structVoxel_1_1DataPacket.xhtml#a2e4fcc8c2b6fa1ec9bbe823a91d534c7" title="Voxel::DataPacket::\lwrite" alt="" coords="274,147,414,189"/>
+<area shape="rect" id="node7" href="$structVoxel_1_1GeneratorConfigurationSubPacket.xhtml#ae117f4a872be0ac69ea1bb17329cbb64" title="Voxel::GeneratorConfiguration\lSubPacket::write" alt="" coords="245,238,443,279"/>
+<area shape="rect" id="node5" href="$classVoxel_1_1SerializedObject.xhtml#a602414fea53034e304c0e6fcae5bb71b" title="Voxel::SerializedObject\l::currentPutOffset" alt="" coords="503,173,662,214"/>
+<area shape="rect" id="node6" href="$classVoxel_1_1SerializedObject.xhtml#a93bedaae4489eeac130ea6a98be2589c" title="Voxel::SerializedObject::put" alt="" coords="491,239,675,265"/>
+<area shape="rect" id="node8" href="$classVoxel_1_1SerializedObject.xhtml#aac0058e6b0ea0cb6ac86f4e986f6de25" title="Voxel::SerializedObject\l::getBytes" alt="" coords="503,290,662,331"/>
+</map>

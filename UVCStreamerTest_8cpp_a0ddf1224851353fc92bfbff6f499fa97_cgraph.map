@@ -1,0 +1,19 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$classVoxel_1_1Streamer.xhtml#a22a51cee97c9db6de5a1ab5e87cc9c9d" title="Voxel::Streamer::capture" alt="" coords="110,423,277,449"/>
+<area shape="rect" id="node6" href="$classVoxel_1_1UVCStreamer.xhtml#a090323f66d0dd822d05063b16029ea12" title="Voxel::UVCStreamer\l::getCurrentVideoMode" alt="" coords="115,5,271,46"/>
+<area shape="rect" id="node7" href="$classVoxel_1_1UVCStreamer.xhtml#aa1d2a26f98df476ac93ed407273b4405" title="Voxel::UVCStreamer\l::isInitialized" alt="" coords="367,93,513,134"/>
+<area shape="rect" id="node8" href="$classVoxel_1_1VideoMode.xhtml#a99b3955c15011399b66cbf609afdbacb" title="Voxel::VideoMode::getFrameRate" alt="" coords="331,188,549,215"/>
+<area shape="rect" id="node10" href="$classVoxel_1_1UVCStreamer.xhtml#ab7a867f901051bcfa97501edc881ea9c" title="Voxel::UVCStreamer\l::getSupportedVideoModes" alt="" coords="104,122,283,163"/>
+<area shape="rect" id="node11" href="$UVCStreamerTest_8cpp.xhtml#a97ee70a8770dc30d06c744b24eb2fcfc" title="help" alt="" coords="170,305,217,332"/>
+<area shape="rect" id="node12" href="$classVoxel_1_1Logger.xhtml#a24cc93971582344584a5c9064d897cbe" title="Voxel::Logger::setDefault\lLogLevel" alt="" coords="108,357,279,398"/>
+<area shape="rect" id="node13" href="$classVoxel_1_1UVCStreamer.xhtml#a7babd2f4cbe6152499b4c49b0137b6b4" title="Voxel::UVCStreamer\l::setVideoMode" alt="" coords="121,239,266,281"/>
+<area shape="rect" id="node15" href="$classVoxel_1_1Streamer.xhtml#a68c34331e30aa486949d145be3bd4e99" title="Voxel::Streamer::start" alt="" coords="118,524,269,551"/>
+<area shape="rect" id="node17" href="$classVoxel_1_1Streamer.xhtml#a3cb2a1d6b7ae774f34726a079c6e032e" title="Voxel::Streamer::stop" alt="" coords="119,473,268,500"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1Streamer.xhtml#afe9e94c662f88d4dd1f84148c3876e2d" title="Voxel::Streamer::isInitialized" alt="" coords="345,473,535,500"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1Streamer.xhtml#ab1cfea9ca2c261a33c38ccc00bc97c77" title="Voxel::Streamer::isRunning" alt="" coords="349,423,531,449"/>
+<area shape="rect" id="node5" href="$classVoxel_1_1Streamer.xhtml#aa753e50484499fb8f8686aa7b7fd475b" title="Voxel::Streamer::_capture" alt="" coords="353,372,527,399"/>
+<area shape="rect" id="node9" href="$classVoxel_1_1FrameRate.xhtml#aad990de42e35d9c41ced1d4104e64c27" title="Voxel::FrameRate::getFrameRate" alt="" coords="597,188,816,215"/>
+<area shape="rect" id="node14" href="$classVoxel_1_1UVCStreamer.xhtml#aecd50d2937da72beedea5df3868b8d4d" title="Voxel::UVCStreamer\l::_storeCurrentVideoMode" alt="" coords="353,239,527,281"/>
+<area shape="rect" id="node16" href="$classVoxel_1_1Streamer.xhtml#a3dcc419ebd38d66651c4f9ee3f189e59" title="Voxel::Streamer::_start" alt="" coords="361,575,519,601"/>
+<area shape="rect" id="node18" href="$classVoxel_1_1Streamer.xhtml#aad8b53e967d0c4ebfdd92a1de22205bf" title="Voxel::Streamer::_stop" alt="" coords="362,524,518,551"/>
+</map>

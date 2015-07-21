@@ -1,0 +1,7 @@
+<map id="Voxel::PointCloudTransform::calcAperatureAngleRadians" name="Voxel::PointCloudTransform::calcAperatureAngleRadians">
+<area shape="rect" id="node2" href="$a00393.xhtml#ga77e8f45d97a448bdced24c3bf6dac50c" title="Voxel::Point::angle" alt="" coords="273,56,405,83"/>
+<area shape="rect" id="node6" href="$a00112.xhtml#ac74d88887d797fce8403736eb320bc8f" title="Voxel::PointCloudTransform\l::getDirection" alt="" coords="245,107,432,149"/>
+<area shape="rect" id="node3" href="$a00393.xhtml#ga9a5dbc45b9fe6722b1263e12ac103644" title="Voxel::Point::dot" alt="" coords="486,5,605,32"/>
+<area shape="rect" id="node4" href="$a00390.xhtml#ga30fe19dea82356bc01e14b9b767f80ad" title="Voxel::floatEquals" alt="" coords="481,56,609,83"/>
+<area shape="rect" id="node5" href="$a00393.xhtml#gaed730cc893b543ebff85f1408f8a1715" title="Voxel::Point::norm" alt="" coords="480,107,611,133"/>
+</map>

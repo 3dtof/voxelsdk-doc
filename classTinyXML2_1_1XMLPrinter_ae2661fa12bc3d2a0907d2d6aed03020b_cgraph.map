@@ -1,0 +1,15 @@
+<map id="TinyXML2::XMLPrinter::Visit" name="TinyXML2::XMLPrinter::Visit">
+<area shape="rect" id="node2" href="$classTinyXML2_1_1XMLText.xhtml#a98f45fac97f30ec41d7aaa2f4a5fdf17" title="Returns true if this is a CDATA text element. " alt="" coords="210,5,361,46"/>
+<area shape="rect" id="node3" href="$classTinyXML2_1_1XMLPrinter.xhtml#a0434e8616034c33d17083d8113a294b4" title="Add a text node. " alt="" coords="208,70,363,111"/>
+<area shape="rect" id="node8" href="$classTinyXML2_1_1XMLNode.xhtml#a76031498d32776e907d2ba79b7029b18" title="TinyXML2::XMLNode::\lValue" alt="" coords="208,135,363,177"/>
+<area shape="rect" id="node4" href="$classTinyXML2_1_1XMLPrinter.xhtml#adc0b55a75420e8cbc9268bca2b8e40ac" title="TinyXML2::XMLPrinter\l::Print" alt="" coords="613,37,768,78"/>
+<area shape="rect" id="node6" href="$classTinyXML2_1_1XMLPrinter.xhtml#a2db7bb356f93036da79d719cd13c96e5" title="TinyXML2::XMLPrinter\l::PrintString" alt="" coords="411,37,565,78"/>
+<area shape="rect" id="node7" href="$classTinyXML2_1_1XMLPrinter.xhtml#a4eb457bcdc4e24dbc7fdbdb22e3e00cc" title="TinyXML2::XMLPrinter\l::SealElement" alt="" coords="411,102,565,143"/>
+<area shape="rect" id="node5" href="$classTinyXML2_1_1DynArray.xhtml#aa57d94f1bc348e58f6f1381187807ffa" title="TinyXML2::DynArray\l::PushArr" alt="" coords="823,37,967,78"/>
+<area shape="rect" id="node9" href="$classTinyXML2_1_1StrPair.xhtml#a5e2c5bd32ba79f32f219cf9301c2bce6" title="TinyXML2::StrPair::\lGetStr" alt="" coords="419,167,557,209"/>
+<area shape="rect" id="node10" href="$classTinyXML2_1_1StrPair.xhtml#a7d56cd79475b9e7e6349134b89331311" title="TinyXML2::StrPair::\lCollapseWhitespace" alt="" coords="619,167,762,209"/>
+<area shape="rect" id="node13" href="$classTinyXML2_1_1XMLUtil.xhtml#a7b69ac5d9474c28a4b2fd675d692ea43" title="TinyXML2::XMLUtil::\lGetCharacterRef" alt="" coords="619,233,763,274"/>
+<area shape="rect" id="node11" href="$classTinyXML2_1_1XMLUtil.xhtml#aa1b7cab8abab24f6deeb0b34a31b5a86" title="TinyXML2::XMLUtil::\lIsWhiteSpace" alt="" coords="823,102,967,143"/>
+<area shape="rect" id="node12" href="$classTinyXML2_1_1XMLUtil.xhtml#a151c32ae2f90003379a2fc78a80da4f1" title="TinyXML2::XMLUtil::\lSkipWhiteSpace" alt="" coords="823,167,967,209"/>
+<area shape="rect" id="node14" href="$classTinyXML2_1_1XMLUtil.xhtml#a568fea7b3c469d8fae0e1f3480a0d96c" title="TinyXML2::XMLUtil::\lConvertUTF32ToUTF8" alt="" coords="817,233,973,274"/>
+</map>

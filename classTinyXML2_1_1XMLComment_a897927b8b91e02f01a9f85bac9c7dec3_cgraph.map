@@ -1,0 +1,11 @@
+<map id="TinyXML2::XMLComment::ShallowEqual" name="TinyXML2::XMLComment::ShallowEqual">
+<area shape="rect" id="node2" href="$classTinyXML2_1_1XMLUtil.xhtml#af0f1d719f7e1067ec06eeb2d687520a5" title="TinyXML2::XMLUtil::\lStringEqual" alt="" coords="232,5,376,46"/>
+<area shape="rect" id="node3" href="$classTinyXML2_1_1XMLNode.xhtml#a1e2c7a0d50f222702e1f2226c175b0c2" title="Safely cast to a Comment, or null. " alt="" coords="227,70,381,111"/>
+<area shape="rect" id="node4" href="$classTinyXML2_1_1XMLNode.xhtml#a76031498d32776e907d2ba79b7029b18" title="TinyXML2::XMLNode::\lValue" alt="" coords="227,135,381,177"/>
+<area shape="rect" id="node5" href="$classTinyXML2_1_1StrPair.xhtml#a5e2c5bd32ba79f32f219cf9301c2bce6" title="TinyXML2::StrPair::\lGetStr" alt="" coords="430,135,567,177"/>
+<area shape="rect" id="node6" href="$classTinyXML2_1_1StrPair.xhtml#a7d56cd79475b9e7e6349134b89331311" title="TinyXML2::StrPair::\lCollapseWhitespace" alt="" coords="617,102,759,143"/>
+<area shape="rect" id="node9" href="$classTinyXML2_1_1XMLUtil.xhtml#a7b69ac5d9474c28a4b2fd675d692ea43" title="TinyXML2::XMLUtil::\lGetCharacterRef" alt="" coords="616,167,760,209"/>
+<area shape="rect" id="node7" href="$classTinyXML2_1_1XMLUtil.xhtml#aa1b7cab8abab24f6deeb0b34a31b5a86" title="TinyXML2::XMLUtil::\lIsWhiteSpace" alt="" coords="815,37,959,78"/>
+<area shape="rect" id="node8" href="$classTinyXML2_1_1XMLUtil.xhtml#a151c32ae2f90003379a2fc78a80da4f1" title="TinyXML2::XMLUtil::\lSkipWhiteSpace" alt="" coords="815,102,959,143"/>
+<area shape="rect" id="node10" href="$classTinyXML2_1_1XMLUtil.xhtml#a568fea7b3c469d8fae0e1f3480a0d96c" title="TinyXML2::XMLUtil::\lConvertUTF32ToUTF8" alt="" coords="809,167,965,209"/>
+</map>

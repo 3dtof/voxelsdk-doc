@@ -1,0 +1,7 @@
+<map id="Voxel::StrobeBoolParameter::get" name="Voxel::StrobeBoolParameter::get">
+<area shape="rect" id="node2" href="$classVoxel_1_1ParameterTemplate.xhtml#afa8896eaffbd2b87d1482c0967a0fe1d" title="Voxel::ParameterTemplate\l\&lt; bool \&gt;::get" alt="" coords="267,103,445,145"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1ParameterTemplate.xhtml#a3f4472338de2a9fc48cddf389b85fb1b" title="Voxel::ParameterTemplate\l::refresh" alt="" coords="497,5,674,46"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1RegisterProgrammer.xhtml#a84db6834c3cc10bd752a4efe39bbdef2" title="Voxel::RegisterProgrammer\l::getValue" alt="" coords="494,70,677,111"/>
+<area shape="rect" id="node5" href="$classVoxel_1_1ParameterTemplate.xhtml#a0ec9ac3ae46283b37050b4f5122bb80f" title="Voxel::ParameterTemplate\l::_fromRawValue" alt="" coords="497,135,674,177"/>
+<area shape="rect" id="node6" href="$classVoxel_1_1ParameterTemplate.xhtml#ad0faca7bb67f20c02c54bab49aa83007" title="Voxel::ParameterTemplate\l::validate" alt="" coords="497,201,674,242"/>
+</map>

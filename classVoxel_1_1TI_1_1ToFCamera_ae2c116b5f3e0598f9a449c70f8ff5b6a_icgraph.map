@@ -1,0 +1,11 @@
+<map id="Voxel::TI::ToFCamera::_getSystemClockFrequency" name="Voxel::TI::ToFCamera::_getSystemClockFrequency">
+<area shape="rect" id="node2" href="$classVoxel_1_1TI_1_1ToFCamera.xhtml#ae43bdefe2031786701b133ce173ad603" title="Voxel::TI::ToFCamera\l::_getFrameRate" alt="" coords="248,135,400,177"/>
+<area shape="rect" id="node10" href="$classVoxel_1_1TI_1_1ToFCamera.xhtml#ae864d54427493e7bb25c41f9732385cf" title="Voxel::TI::ToFCamera\l::_setFrameRate" alt="" coords="248,201,400,242"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1TI_1_1Voxel14Camera.xhtml#afeb9b488760b3c32cf6d5decb25bfdcf" title="Voxel::TI::Voxel14Camera\l::_setStreamerFrameSize" alt="" coords="468,5,644,46"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1TI_1_1VoxelDCamera.xhtml#aa13368de49716d5ec7ed82df1010a6b0" title="Voxel::TI::VoxelDCamera\l::_setStreamerFrameSize" alt="" coords="470,70,642,111"/>
+<area shape="rect" id="node5" href="$classVoxel_1_1TI_1_1TintinCDKCamera.xhtml#a2ffbaceb53ded2b382116ac66b787698" title="Voxel::TI::TintinCDKCamera\l::_setStreamerFrameSize" alt="" coords="461,135,651,177"/>
+<area shape="rect" id="node6" href="$classVoxel_1_1TI_1_1HaddockUnambiguousRangeParameter.xhtml#a0da082fe30df06fe3a29cfbc5908c55c" title="Voxel::TI::HaddockUnambiguous\lRangeParameter::set" alt="" coords="449,266,663,307"/>
+<area shape="rect" id="node8" href="$classVoxel_1_1TI_1_1TintinUnambiguousRangeParameter.xhtml#a7eb6a456c15f184c66d942e5f19c938b" title="Voxel::TI::TintinUnambiguous\lRangeParameter::set" alt="" coords="459,201,653,242"/>
+<area shape="rect" id="node7" href="$classVoxel_1_1TI_1_1HaddockUnambiguousRangeParameter.xhtml#a651affc3a71f50f73cd47963d30ed18b" title="Voxel::TI::HaddockUnambiguous\lRangeParameter::get" alt="" coords="713,266,927,307"/>
+<area shape="rect" id="node9" href="$classVoxel_1_1TI_1_1TintinUnambiguousRangeParameter.xhtml#aee1307d07b01cdc5f3a34719e5b79ac0" title="Voxel::TI::TintinUnambiguous\lRangeParameter::get" alt="" coords="723,201,917,242"/>
+</map>

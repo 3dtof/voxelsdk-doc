@@ -1,0 +1,7 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$classVoxel_1_1USBSystem.xhtml#a9150d69d5e3e64e2c9c8839ada21312d" title="Voxel::USBSystem::getDeviceNode" alt="" coords="104,5,339,32"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1DeviceScanner.xhtml#acfd0c97ee8c1d7c33eed279416a8b0a5" title="Voxel::DeviceScanner\l::scan" alt="" coords="145,57,297,98"/>
+<area shape="rect" id="node6" href="$classVoxel_1_1Logger.xhtml#a24cc93971582344584a5c9064d897cbe" title="Voxel::Logger::setDefault\lLogLevel" alt="" coords="136,122,307,163"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1USBDeviceScanner.xhtml#ac69e2e7bc897f304afab90acdbd004a6" title="Voxel::USBDeviceScanner\l::_scan" alt="" coords="387,57,567,98"/>
+<area shape="rect" id="node5" href="$classVoxel_1_1USBSystem.xhtml#abbc09af335ace0ddfca5b74c63abf519" title="Voxel::USBSystem::getDevices" alt="" coords="616,64,827,91"/>
+</map>

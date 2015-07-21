@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['b',['b',['../classVoxel_1_1RGBPoint.xhtml#a9198871db693b0486b4faf37e6774a94',1,'Voxel::RGBPoint']]],
+  ['bfoffset',['bfOffset',['../structVoxel_1_1BMP_1_1BITMAPFILEHEADER.xhtml#a39ea3f98a02bccffca4e933180745993',1,'Voxel::BMP::BITMAPFILEHEADER']]],
+  ['bfreserved1',['bfReserved1',['../structVoxel_1_1BMP_1_1BITMAPFILEHEADER.xhtml#a3019b4d1dba7db09cf8d14c98d490691',1,'Voxel::BMP::BITMAPFILEHEADER']]],
+  ['bfreserved2',['bfReserved2',['../structVoxel_1_1BMP_1_1BITMAPFILEHEADER.xhtml#ae7d2932254cce7426a9d601af35014de',1,'Voxel::BMP::BITMAPFILEHEADER']]],
+  ['bfsize',['bfSize',['../structVoxel_1_1BMP_1_1BITMAPFILEHEADER.xhtml#a34246f54d271df61251110192d9a4689',1,'Voxel::BMP::BITMAPFILEHEADER']]],
+  ['bftype',['bfType',['../structVoxel_1_1BMP_1_1BITMAPFILEHEADER.xhtml#accc68c215c9ce1c1395a2df60da5a046',1,'Voxel::BMP::BITMAPFILEHEADER']]],
+  ['bibitcount',['biBitCount',['../structVoxel_1_1BMP_1_1BITMAPINFOHEADER.xhtml#ae01c2c1c8f927900b1d735806a3cc06c',1,'Voxel::BMP::BITMAPINFOHEADER']]],
+  ['biclrimportant',['biClrImportant',['../structVoxel_1_1BMP_1_1BITMAPINFOHEADER.xhtml#a0e52f7818e5fc0ac464eaac6692cf3c2',1,'Voxel::BMP::BITMAPINFOHEADER']]],
+  ['biclrused',['biClrUsed',['../structVoxel_1_1BMP_1_1BITMAPINFOHEADER.xhtml#a7e1d2cd84070ee83e73329c03cbc644f',1,'Voxel::BMP::BITMAPINFOHEADER']]],
+  ['bicompression',['biCompression',['../structVoxel_1_1BMP_1_1BITMAPINFOHEADER.xhtml#a9f7bf8fd9fadaadd6ab6fd5a10e5900d',1,'Voxel::BMP::BITMAPINFOHEADER']]],
+  ['biheight',['biHeight',['../structVoxel_1_1BMP_1_1BITMAPINFOHEADER.xhtml#a763dd5ab422f5c03fc0637d1adc989bc',1,'Voxel::BMP::BITMAPINFOHEADER']]],
+  ['biplanes',['biPlanes',['../structVoxel_1_1BMP_1_1BITMAPINFOHEADER.xhtml#a78e6891c30b75b2323d6f1cf55fc7d7c',1,'Voxel::BMP::BITMAPINFOHEADER']]],
+  ['bisize',['biSize',['../structVoxel_1_1BMP_1_1BITMAPINFOHEADER.xhtml#a64566299073a6a5e22fbc3b36f326766',1,'Voxel::BMP::BITMAPINFOHEADER']]],
+  ['bisizeimage',['biSizeImage',['../structVoxel_1_1BMP_1_1BITMAPINFOHEADER.xhtml#a90ab7aa3e07b34f50915d77e56e563d4',1,'Voxel::BMP::BITMAPINFOHEADER']]],
+  ['bitreversetable',['bitReverseTable',['../namespaceVoxel_1_1TI.xhtml#a673462e50deef9f04e4bdc68f6214539',1,'Voxel::TI']]],
+  ['biwidth',['biWidth',['../structVoxel_1_1BMP_1_1BITMAPINFOHEADER.xhtml#ae9566ec8fa8853b60976aecf6c7db0d0',1,'Voxel::BMP::BITMAPINFOHEADER']]],
+  ['bixpelspermeter',['biXPelsPerMeter',['../structVoxel_1_1BMP_1_1BITMAPINFOHEADER.xhtml#acbd2bdb09b2fb9fad1ddd073036f027d',1,'Voxel::BMP::BITMAPINFOHEADER']]],
+  ['biypelspermeter',['biYPelsPerMeter',['../structVoxel_1_1BMP_1_1BITMAPINFOHEADER.xhtml#a7d2096d6a78ed7fa3d2fc2ab8b9fddfe',1,'Voxel::BMP::BITMAPINFOHEADER']]],
+  ['bottomclippingnormal',['bottomClippingNormal',['../classVoxel_1_1PointCloudTransform.xhtml#a75cb34b3bf83e84a9c0f31ace38ada73',1,'Voxel::PointCloudTransform']]],
+  ['buf',['buf',['../structLineNoise_1_1current.xhtml#a51f49b97ce1880f5ddc5cc21807c9c58',1,'LineNoise::current']]],
+  ['bufmax',['bufmax',['../structLineNoise_1_1current.xhtml#a297955e3d81728386e702039c83d7d12',1,'LineNoise::current']]],
+  ['bufsize',['bufSize',['../classVoxel_1_1USBBulkStreamer_1_1USBBulkStreamerPrivate.xhtml#ae60985fbf8135097ab3db4cac7ad37b0',1,'Voxel::USBBulkStreamer::USBBulkStreamerPrivate']]],
+  ['bytesperpixel',['bytesPerPixel',['../classVoxel_1_1SupportedVideoMode.xhtml#ac37d08c142fe5f0857b3637a3183688a',1,'Voxel::SupportedVideoMode']]]
+];

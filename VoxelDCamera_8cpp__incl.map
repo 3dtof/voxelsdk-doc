@@ -1,0 +1,28 @@
+<map id="VoxelDCamera.cpp" name="VoxelDCamera.cpp">
+<area shape="rect" id="node2" href="$VoxelDCamera_8h.xhtml" title="VoxelDCamera.h" alt="" coords="1329,80,1452,107"/>
+<area shape="rect" id="node30" href="$Parameter_8h.xhtml" title="Parameter.h" alt="" coords="497,528,591,555"/>
+<area shape="rect" id="node32" href="$Logger_8h.xhtml" title="Logger.h" alt="" coords="1441,603,1513,629"/>
+<area shape="rect" id="node46" href="$VoxelXUProgrammer_8h.xhtml" title="VoxelXUProgrammer.h" alt="" coords="1150,229,1305,256"/>
+<area shape="rect" id="node50" href="$UVCStreamer_8h.xhtml" title="UVCStreamer.h" alt="" coords="1349,304,1464,331"/>
+<area shape="rect" id="node3" href="$ToFTintinCamera_8h.xhtml" title="ToFTintinCamera.h" alt="" coords="1266,155,1400,181"/>
+<area shape="rect" id="node43" href="$Downloader_8h.xhtml" title="Downloader.h" alt="" coords="1450,379,1552,405"/>
+<area shape="rect" id="node4" href="$ToFCamera_8h.xhtml" title="ToFCamera.h" alt="" coords="845,229,947,256"/>
+<area shape="rect" id="node5" href="$ToFCameraBase_8h.xhtml" title="ToFCameraBase.h" alt="" coords="670,304,801,331"/>
+<area shape="rect" id="node42" href="$ToFFrameGenerator_8h.xhtml" title="ToFFrameGenerator.h" alt="" coords="878,304,1028,331"/>
+<area shape="rect" id="node6" href="$DepthCamera_8h.xhtml" title="DepthCamera.h" alt="" coords="689,379,804,405"/>
+<area shape="rect" id="node7" href="$Device_8h.xhtml" title="Device.h" alt="" coords="1208,603,1281,629"/>
+<area shape="rect" id="node31" href="$RegisterProgrammer_8h.xhtml" title="RegisterProgrammer.h" alt="" coords="515,603,668,629"/>
+<area shape="rect" id="node34" href="$Frame_8h.xhtml" title="Frame.h" alt="" coords="843,528,913,555"/>
+<area shape="rect" id="node37" href="$VideoMode_8h.xhtml" title="VideoMode.h" alt="" coords="693,603,792,629"/>
+<area shape="rect" id="node39" href="$Streamer_8h.xhtml" title="Streamer.h" alt="" coords="923,453,1009,480"/>
+<area shape="rect" id="node8" href="$Common_8h.xhtml" title="Common.h" alt="" coords="938,677,1024,704"/>
+<area shape="rect" id="node24" href="$Ptr_8h.xhtml" title="Ptr.h" alt="" coords="691,752,741,779"/>
+<area shape="rect" id="node35" href="$Point_8h.xhtml" title="Point.h" alt="" coords="1019,603,1081,629"/>
+<area shape="rect" id="node38" href="$SerializedObject_8h.xhtml" title="SerializedObject.h" alt="" coords="816,603,944,629"/>
+<area shape="rect" id="node40" href="$Timer_8h.xhtml" title="Timer.h" alt="" coords="939,528,1005,555"/>
+<area shape="rect" id="node44" href="$USBIO_8h.xhtml" title="USBIO.h" alt="" coords="1383,453,1456,480"/>
+<area shape="rect" id="node45" href="$USBSystem_8h.xhtml" title="USBSystem.h" alt="" coords="1333,528,1440,555"/>
+<area shape="rect" id="node47" href="$UVCXU_8h.xhtml" title="UVCXU.h" alt="" coords="1243,304,1324,331"/>
+<area shape="rect" id="node49" href="$VoxelProgrammerBase_8h.xhtml" title="VoxelProgrammerBase.h" alt="" coords="1053,304,1219,331"/>
+<area shape="rect" id="node48" href="$UVC_8h.xhtml" title="UVC.h" alt="" coords="1253,379,1315,405"/>
+</map>

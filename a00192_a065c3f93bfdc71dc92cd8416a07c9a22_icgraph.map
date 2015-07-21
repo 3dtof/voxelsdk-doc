@@ -1,0 +1,8 @@
+<map id="Voxel::TI::VoxelUSBProgrammer::getUSBIO" name="Voxel::TI::VoxelUSBProgrammer::getUSBIO">
+<area shape="rect" id="node2" href="$a00137.xhtml#a33f200c85654bd6c44a32a711259bf5d" title="Voxel::TI::TintinCDKCamera\l::_getEEPROMSize" alt="" coords="270,37,461,78"/>
+<area shape="rect" id="node3" href="$a00137.xhtml#afd26c09edefbc8f80a8e30868c50228c" title="Voxel::TI::TintinCDKCamera\l::_readConfigFromHardware" alt="" coords="510,5,701,46"/>
+<area shape="rect" id="node6" href="$a00137.xhtml#aec613f395444d16e127b34aa406af267" title="Voxel::TI::TintinCDKCamera\l::_writeConfigFromHardware" alt="" coords="510,70,701,111"/>
+<area shape="rect" id="node7" href="$a00153.xhtml#a61feee092ef4496fb12d80c32e5a3954" title="Voxel::TI::ToFCamera\l::setSerialNumber" alt="" coords="289,154,441,195"/>
+<area shape="rect" id="node4" href="$a00137.xhtml#af5337f40c1a075c026263ea9871a20ee" title="Voxel::TI::TintinCDKCamera\l::_init" alt="" coords="750,38,941,79"/>
+<area shape="rect" id="node5" href="$a00137.xhtml#a7a9918bb8b6d76bc3511536019847c1d" title="Voxel::TI::TintinCDKCamera\l::TintinCDKCamera" alt="" coords="990,38,1181,79"/>
+</map>

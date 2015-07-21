@@ -1,0 +1,11 @@
+<map id="Voxel::Frame" name="Voxel::Frame">
+<area shape="rect" id="node2" href="$classVoxel_1_1DepthFrame.xhtml" title="Voxel::DepthFrame" alt="" coords="170,5,305,32"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1PointCloudFrame.xhtml" title="Voxel::PointCloudFrame" alt="" coords="155,56,319,83"/>
+<area shape="rect" id="node5" href="$classVoxel_1_1RawFrame.xhtml" title="Voxel::RawFrame" alt="" coords="174,136,301,163"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1PointCloudFrameTemplate.xhtml" title="Voxel::PointCloudFrameTemplate\l\&lt; PointType \&gt;" alt="" coords="368,34,587,75"/>
+<area shape="rect" id="node6" href="$classVoxel_1_1RawDataFrame.xhtml" title="Voxel::RawDataFrame" alt="" coords="400,100,555,127"/>
+<area shape="rect" id="node7" href="$classVoxel_1_1ToFRawFrame.xhtml" title="Voxel::ToFRawFrame" alt="" coords="402,151,553,177"/>
+<area shape="rect" id="node9" href="$classVoxel_1_1ToFRawIQFrame.xhtml" title="Voxel::ToFRawIQFrame" alt="" coords="395,205,559,232"/>
+<area shape="rect" id="node8" href="$classVoxel_1_1ToFRawFrameTemplate.xhtml" title="Voxel::ToFRawFrameTemplate\l\&lt; PhaseByteType, AmbientByteType \&gt;" alt="" coords="635,139,885,181"/>
+<area shape="rect" id="node10" href="$classVoxel_1_1ToFRawIQFrameTemplate.xhtml" title="Voxel::ToFRawIQFrameTemplate\l\&lt; ByteType \&gt;" alt="" coords="651,205,869,246"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Voxel::TI::CalculusVCOFrequency" name="Voxel::TI::CalculusVCOFrequency">
+<area shape="rect" id="node2" href="$a00064.xhtml" title="Voxel::FloatParameter" alt="" coords="87,373,239,400"/>
+<area shape="rect" id="node3" href="$a00117.xhtml" title="Voxel::RangeParameterTemplate\l\&lt; float \&gt;" alt="" coords="55,281,269,322"/>
+<area shape="rect" id="node4" href="$a00103.xhtml" title="Voxel::ParameterTemplate\l\&lt; float \&gt;" alt="" coords="5,174,181,215"/>
+<area shape="rect" id="node5" href="$a00101.xhtml" title="Voxel::Parameter" alt="" coords="76,5,199,32"/>
+<area shape="rect" id="node6" href="$a00103.xhtml" title="Voxel::ParameterTemplate\&lt; T \&gt;" alt="" coords="131,83,340,109"/>
+<area shape="rect" id="node7" href="$a00117.xhtml" title="Voxel::RangeParameterTemplate\&lt; T \&gt;" alt="" coords="206,181,452,208"/>
+</map>

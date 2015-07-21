@@ -1,0 +1,18 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$classVoxel_1_1CameraSystem.xhtml#ab685fb4639d124ee11aa7cd64ab02f00" title="Voxel::CameraSystem\l::connect" alt="" coords="136,5,291,46"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1CameraSystem.xhtml#a5c6f46b1446564f205e75d0e21c10f15" title="Voxel::CameraSystem\l::createFilter" alt="" coords="136,70,291,111"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1FrameRate.xhtml#aad990de42e35d9c41ced1d4104e64c27" title="Voxel::FrameRate::getFrameRate" alt="" coords="104,136,323,163"/>
+<area shape="rect" id="node5" href="$CameraSystemSaveStreamTest_8cpp.xhtml#a97ee70a8770dc30d06c744b24eb2fcfc" title="help" alt="" coords="190,187,237,213"/>
+<area shape="rect" id="node6" href="$classVoxel_1_1USBDevice.xhtml#a733db00843f6522b28a07719c943e1fe" title="Voxel::USBDevice::productID" alt="" coords="115,237,312,264"/>
+<area shape="rect" id="node7" href="$classVoxel_1_1CameraSystem.xhtml#ad26fad5d70ee748d0492184da757d5be" title="Voxel::CameraSystem\l::scan" alt="" coords="136,289,291,330"/>
+<area shape="rect" id="node11" href="$classVoxel_1_1Device.xhtml#af5b725547c816ee4bac357b3ff049a80" title="Voxel::Device::serialNumber" alt="" coords="119,355,308,381"/>
+<area shape="rect" id="node12" href="$classVoxel_1_1Logger.xhtml#a24cc93971582344584a5c9064d897cbe" title="Voxel::Logger::setDefault\lLogLevel" alt="" coords="128,406,299,447"/>
+<area shape="rect" id="node13" href="$group__Util.xhtml#gadd67e5b1a02a8a07764793e4598922d4" title="Voxel::split" alt="" coords="170,472,257,499"/>
+<area shape="rect" id="node14" href="$classVoxel_1_1DepthCamera.xhtml#a1373f05cc4d5bacd063a409d68c6b0c8" title="Voxel::DepthCamera\l::stop" alt="" coords="141,523,285,565"/>
+<area shape="rect" id="node17" href="$classVoxel_1_1USBDevice.xhtml#ad7edff89623a9ecf8a2840b5181c67ac" title="Voxel::USBDevice::vendorID" alt="" coords="117,589,310,616"/>
+<area shape="rect" id="node8" href="$classVoxel_1_1DeviceScanner.xhtml#acfd0c97ee8c1d7c33eed279416a8b0a5" title="Voxel::DeviceScanner\l::scan" alt="" coords="371,289,523,330"/>
+<area shape="rect" id="node9" href="$classVoxel_1_1USBDeviceScanner.xhtml#ac69e2e7bc897f304afab90acdbd004a6" title="Voxel::USBDeviceScanner\l::_scan" alt="" coords="571,289,751,330"/>
+<area shape="rect" id="node10" href="$classVoxel_1_1USBSystem.xhtml#abbc09af335ace0ddfca5b74c63abf519" title="Voxel::USBSystem::getDevices" alt="" coords="800,296,1011,323"/>
+<area shape="rect" id="node15" href="$classVoxel_1_1DepthCamera.xhtml#a1ff46a5643f0a02a6970236e0b6a7634" title="Voxel::DepthCamera\l::isRunning" alt="" coords="375,490,519,531"/>
+<area shape="rect" id="node16" href="$classVoxel_1_1DepthCamera.xhtml#a64f96bea2198d2060978523da6b0abcd" title="Voxel::DepthCamera\l::wait" alt="" coords="375,555,519,597"/>
+</map>

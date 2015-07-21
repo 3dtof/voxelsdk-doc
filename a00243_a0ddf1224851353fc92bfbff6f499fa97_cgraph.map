@@ -1,0 +1,7 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$a00045.xhtml#a024f62e3600992630fd4692c820ebe81" title="Voxel::DFT::DFT2D" alt="" coords="119,5,259,32"/>
+<area shape="rect" id="node5" href="$a00243.xhtml#a97ee70a8770dc30d06c744b24eb2fcfc" title="help" alt="" coords="166,56,213,83"/>
+<area shape="rect" id="node6" href="$a00093.xhtml#a24cc93971582344584a5c9064d897cbe" title="Voxel::Logger::setDefault\lLogLevel" alt="" coords="104,107,275,149"/>
+<area shape="rect" id="node3" href="$a00045.xhtml#a62f78819ca24e8d6d2e867e890eda577" title="Voxel::DFT::DFT1D" alt="" coords="323,5,463,32"/>
+<area shape="rect" id="node4" href="$a00045.xhtml#aae3f9cab0c773c24d2b2c1d769d6ef5a" title="Voxel::DFT::_computeExpTable" alt="" coords="513,5,722,32"/>
+</map>

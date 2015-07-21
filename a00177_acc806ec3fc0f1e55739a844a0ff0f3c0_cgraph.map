@@ -1,0 +1,10 @@
+<map id="Voxel::UVCStreamer::_initForCapture" name="Voxel::UVCStreamer::_initForCapture">
+<area shape="rect" id="node2" href="$a00177.xhtml#a3391362f1dd712d193ac53258f08821b" title="Voxel::UVCStreamer\l::_uvcInit" alt="" coords="206,5,351,46"/>
+<area shape="rect" id="node3" href="$a00177.xhtml#a090323f66d0dd822d05063b16029ea12" title="Voxel::UVCStreamer\l::getCurrentVideoMode" alt="" coords="201,70,357,111"/>
+<area shape="rect" id="node5" href="$a00177.xhtml#a7babd2f4cbe6152499b4c49b0137b6b4" title="Voxel::UVCStreamer\l::setVideoMode" alt="" coords="206,135,351,177"/>
+<area shape="rect" id="node4" href="$a00177.xhtml#aa1d2a26f98df476ac93ed407273b4405" title="Voxel::UVCStreamer\l::isInitialized" alt="" coords="442,70,587,111"/>
+<area shape="rect" id="node6" href="$a00129.xhtml#ab1cfea9ca2c261a33c38ccc00bc97c77" title="Voxel::Streamer::isRunning" alt="" coords="423,136,606,163"/>
+<area shape="rect" id="node7" href="$a00181.xhtml#a99b3955c15011399b66cbf609afdbacb" title="Voxel::VideoMode::getFrameRate" alt="" coords="405,187,624,213"/>
+<area shape="rect" id="node9" href="$a00177.xhtml#aecd50d2937da72beedea5df3868b8d4d" title="Voxel::UVCStreamer\l::_storeCurrentVideoMode" alt="" coords="427,238,602,279"/>
+<area shape="rect" id="node8" href="$a00069.xhtml#aad990de42e35d9c41ced1d4104e64c27" title="Voxel::FrameRate::getFrameRate" alt="" coords="672,187,891,213"/>
+</map>

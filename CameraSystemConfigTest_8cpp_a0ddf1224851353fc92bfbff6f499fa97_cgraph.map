@@ -1,0 +1,31 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$classVoxel_1_1CameraSystem.xhtml#ab685fb4639d124ee11aa7cd64ab02f00" title="Voxel::CameraSystem\l::connect" alt="" coords="125,5,280,46"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1ConfigurationFile.xhtml#ac104a6730605a5926e9d9ce9ec7bb60a" title="Voxel::ConfigurationFile::get" alt="" coords="109,149,296,176"/>
+<area shape="rect" id="node5" href="$classVoxel_1_1ConfigurationFile.xhtml#a440d9dd2f89d0c76c81f7285b31a5b94" title="Voxel::ConfigurationFile::set" alt="" coords="560,153,747,180"/>
+<area shape="rect" id="node13" href="$classVoxel_1_1ConfigurationFile.xhtml#ad623785a633b1a9bc2d81a66c3496c97" title="Voxel::ConfigurationFile\l::getFileName" alt="" coords="122,251,283,293"/>
+<area shape="rect" id="node14" href="$classVoxel_1_1ConfigurationFile.xhtml#af3cd57258007019ac09e45919cfc19c3" title="Voxel::ConfigurationFile\l::getLocation" alt="" coords="350,307,511,349"/>
+<area shape="rect" id="node15" href="$CameraSystemConfigTest_8cpp.xhtml#a97ee70a8770dc30d06c744b24eb2fcfc" title="help" alt="" coords="179,435,226,461"/>
+<area shape="rect" id="node16" href="$classVoxel_1_1ConfigurationFile.xhtml#a00e007801296e76b05ef10f1c8176c2d" title="Voxel::ConfigurationFile\l::isPresent" alt="" coords="350,235,511,277"/>
+<area shape="rect" id="node18" href="$classVoxel_1_1USBDevice.xhtml#a733db00843f6522b28a07719c943e1fe" title="Voxel::USBDevice::productID" alt="" coords="104,485,301,512"/>
+<area shape="rect" id="node19" href="$classVoxel_1_1CameraSystem.xhtml#ad26fad5d70ee748d0492184da757d5be" title="Voxel::CameraSystem\l::scan" alt="" coords="125,537,280,578"/>
+<area shape="rect" id="node23" href="$classVoxel_1_1Device.xhtml#af5b725547c816ee4bac357b3ff049a80" title="Voxel::Device::serialNumber" alt="" coords="108,603,297,629"/>
+<area shape="rect" id="node24" href="$classVoxel_1_1Logger.xhtml#a24cc93971582344584a5c9064d897cbe" title="Voxel::Logger::setDefault\lLogLevel" alt="" coords="117,654,288,695"/>
+<area shape="rect" id="node25" href="$group__Util.xhtml#gadd67e5b1a02a8a07764793e4598922d4" title="Voxel::split" alt="" coords="159,720,246,747"/>
+<area shape="rect" id="node26" href="$classVoxel_1_1USBDevice.xhtml#ad7edff89623a9ecf8a2840b5181c67ac" title="Voxel::USBDevice::vendorID" alt="" coords="106,771,299,797"/>
+<area shape="rect" id="node27" href="$classVoxel_1_1ConfigurationFile.xhtml#a978b37f6995656a3fd39a35e70867bf0" title="Voxel::ConfigurationFile\l::write" alt="" coords="122,369,283,410"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1ConfigurationFile.xhtml#af5573f5dba76f1fde00220b892f8121c" title="Voxel::ConfigurationFile\l::_get" alt="" coords="350,146,511,187"/>
+<area shape="rect" id="node11" href="$classVoxel_1_1ConfigSet.xhtml#a49e4060aa2bc96690da36bdf5ef7b227" title="Voxel::ConfigSet::_get" alt="" coords="576,103,731,129"/>
+<area shape="rect" id="node12" href="$classVoxel_1_1MainConfigurationFile.xhtml#ab24aaf7b18fea74c6f235da04fadbed0" title="Voxel::MainConfiguration\lFile::getCameraProfile" alt="" coords="569,205,737,246"/>
+<area shape="rect" id="node6" href="$classVoxel_1_1ConfigurationFile.xhtml#a3b9b573c1a3d9162fc0100c317ca0879" title="Voxel::ConfigurationFile\l::_set" alt="" coords="819,146,981,187"/>
+<area shape="rect" id="node7" href="$classVoxel_1_1ConfigSet.xhtml#a8fb880c24ad7b0f04c84d4a33becb995" title="Voxel::ConfigSet::_set" alt="" coords="1053,153,1208,180"/>
+<area shape="rect" id="node8" href="$group__Util.xhtml#ga6b2a26aa983349496fedae9aa54ad034" title="Trim. " alt="" coords="1256,153,1341,180"/>
+<area shape="rect" id="node9" href="$group__Util.xhtml#gac9c04e18f7878dd82964bb489b7b1314" title="Left Trim. " alt="" coords="1391,128,1479,155"/>
+<area shape="rect" id="node10" href="$group__Util.xhtml#ga3d95f05dde73bc9c54051437445e439b" title="Right Trim. " alt="" coords="1390,179,1479,205"/>
+<area shape="rect" id="node17" href="$classVoxel_1_1ConfigSet.xhtml#ab7930d0d21d160341d989ef998ecac73" title="Voxel::ConfigSet::isPresent" alt="" coords="561,271,745,297"/>
+<area shape="rect" id="node20" href="$classVoxel_1_1DeviceScanner.xhtml#acfd0c97ee8c1d7c33eed279416a8b0a5" title="Voxel::DeviceScanner\l::scan" alt="" coords="355,555,507,597"/>
+<area shape="rect" id="node21" href="$classVoxel_1_1USBDeviceScanner.xhtml#ac69e2e7bc897f304afab90acdbd004a6" title="Voxel::USBDeviceScanner\l::_scan" alt="" coords="563,555,743,597"/>
+<area shape="rect" id="node22" href="$classVoxel_1_1USBSystem.xhtml#abbc09af335ace0ddfca5b74c63abf519" title="Voxel::USBSystem::getDevices" alt="" coords="795,563,1005,589"/>
+<area shape="rect" id="node28" href="$group__Util.xhtml#gad19078fe2a67a3174aaa6b4ab8e49292" title="Voxel::basename" alt="" coords="369,373,492,400"/>
+<area shape="rect" id="node29" href="$classVoxel_1_1Configuration.xhtml#abfeffa3f26a5d905901c85a8889823d7" title="Voxel::Configuration\l::getLocalConfFile" alt="" coords="361,425,501,466"/>
+<area shape="rect" id="node30" href="$classVoxel_1_1ConfigurationFile.xhtml#a3946cbd4206d722e401708eb1546b413" title="Voxel::ConfigurationFile\l::_saveAllDataFiles" alt="" coords="350,490,511,531"/>
+</map>

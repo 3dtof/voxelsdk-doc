@@ -1,0 +1,10 @@
+<map id="Voxel::ConfigurationFile::setFile" name="Voxel::ConfigurationFile::setFile">
+<area shape="rect" id="node2" href="$a00031.xhtml#ac398ce9d525c69b44afbd639d83be00f" title="Voxel::ConfigurationFile\l::_setData" alt="" coords="229,9,390,50"/>
+<area shape="rect" id="node4" href="$a00031.xhtml#a440d9dd2f89d0c76c81f7285b31a5b94" title="Voxel::ConfigurationFile::set" alt="" coords="216,77,403,104"/>
+<area shape="rect" id="node3" href="$a00030.xhtml#aeed2f5638591b839dd233e8673a977e5" title="Updates &quot;name&quot; to full path. " alt="" coords="462,5,602,46"/>
+<area shape="rect" id="node5" href="$a00031.xhtml#a3b9b573c1a3d9162fc0100c317ca0879" title="Voxel::ConfigurationFile\l::_set" alt="" coords="451,70,613,111"/>
+<area shape="rect" id="node6" href="$a00029.xhtml#a8fb880c24ad7b0f04c84d4a33becb995" title="Voxel::ConfigSet::_set" alt="" coords="661,77,816,104"/>
+<area shape="rect" id="node7" href="$a00390.xhtml#ga6b2a26aa983349496fedae9aa54ad034" title="Trim. " alt="" coords="864,77,949,104"/>
+<area shape="rect" id="node8" href="$a00390.xhtml#gac9c04e18f7878dd82964bb489b7b1314" title="Left Trim. " alt="" coords="999,52,1087,79"/>
+<area shape="rect" id="node9" href="$a00390.xhtml#ga3d95f05dde73bc9c54051437445e439b" title="Right Trim. " alt="" coords="998,103,1087,129"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Voxel::DepthCamera::close" name="Voxel::DepthCamera::close">
+<area shape="rect" id="node2" href="$classVoxel_1_1DepthCamera.xhtml#a1ff46a5643f0a02a6970236e0b6a7634" title="Voxel::DepthCamera\l::isRunning" alt="" coords="389,5,533,46"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1DepthCamera.xhtml#a1373f05cc4d5bacd063a409d68c6b0c8" title="Voxel::DepthCamera\l::stop" alt="" coords="197,63,341,105"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1DepthCamera.xhtml#a64f96bea2198d2060978523da6b0abcd" title="Voxel::DepthCamera\l::wait" alt="" coords="389,70,533,111"/>
+</map>

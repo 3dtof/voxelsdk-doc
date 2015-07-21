@@ -1,0 +1,5 @@
+<map id="Voxel::ConfigurationFile::setInteger" name="Voxel::ConfigurationFile::setInteger">
+<area shape="rect" id="node2" href="$a00096.xhtml#ad0ea67099cfd8a8e869b46b833e19800" title="Voxel::MainConfiguration\lFile::setDefaultCameraProfile" alt="" coords="216,5,411,46"/>
+<area shape="rect" id="node3" href="$a00096.xhtml#a4abe1141d3c441fc54cd870e09a22b2c" title="Voxel::MainConfiguration\lFile::removeCameraProfile" alt="" coords="459,5,637,46"/>
+<area shape="rect" id="node4" href="$a00036.xhtml#a51bc1371938f78ddc18af0b36850545c" title="Voxel::DepthCamera\l::removeCameraProfile" alt="" coords="686,5,842,46"/>
+</map>

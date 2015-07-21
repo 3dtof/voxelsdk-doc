@@ -1,0 +1,6 @@
+<map id="Voxel::DepthCamera::reset" name="Voxel::DepthCamera::reset">
+<area shape="rect" id="node2" href="$a00036.xhtml#ac90898776b55e5f4174dc8bae46c7a95" title="Voxel::DepthCamera\l::_reset" alt="" coords="207,5,351,46"/>
+<area shape="rect" id="node3" href="$a00036.xhtml#ad9fa96ac56384c771fcdfcc76c0e3b2b" title="Voxel::DepthCamera::id" alt="" coords="197,71,360,97"/>
+<area shape="rect" id="node4" href="$a00036.xhtml#a1ff46a5643f0a02a6970236e0b6a7634" title="Voxel::DepthCamera\l::isRunning" alt="" coords="207,122,351,163"/>
+<area shape="rect" id="node5" href="$a00036.xhtml#a4724cd30f939a4b633ba7b8c3dcfe307" title="Voxel::DepthCamera\l::resetFilters" alt="" coords="207,187,351,229"/>
+</map>

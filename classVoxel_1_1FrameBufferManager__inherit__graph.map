@@ -1,0 +1,8 @@
+<map id="Voxel::FrameBufferManager&lt; BufferType &gt;" name="Voxel::FrameBufferManager&lt; BufferType &gt;">
+<area shape="rect" id="node2" href="$classVoxel_1_1FrameBufferManager.xhtml" title="Voxel::FrameBufferManager\l\&lt; pcl::PointCloud\&lt; pcl\l::PointXYZI \&gt; \&gt;" alt="" coords="413,5,598,61"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1FrameBufferManager.xhtml" title="Voxel::FrameBufferManager\l\&lt; Voxel::PointCloudFrame \&gt;" alt="" coords="411,85,599,126"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1FrameBufferManager.xhtml" title="Voxel::FrameBufferManager\l\&lt; Voxel::RawFrame \&gt;" alt="" coords="413,150,598,191"/>
+<area shape="rect" id="node5" href="$classVoxel_1_1FrameBufferManager.xhtml" title="Voxel::FrameBufferManager\l\&lt; Voxel::DepthFrame \&gt;" alt="" coords="413,215,598,257"/>
+<area shape="rect" id="node6" href="$classVoxel_1_1FrameBufferManager.xhtml" title="Voxel::FrameBufferManager\l\&lt; FrameType \&gt;" alt="" coords="413,281,598,322"/>
+<area shape="rect" id="node7" href="$classVoxel_1_1FrameBufferManager.xhtml" title="Voxel::FrameBufferManager\l\&lt; Voxel::RawDataFrame \&gt;" alt="" coords="413,346,598,387"/>
+</map>

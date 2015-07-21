@@ -1,0 +1,6 @@
+<map id="Voxel::TI::HaddockCDKCamera" name="Voxel::TI::HaddockCDKCamera">
+<area shape="rect" id="node2" href="$classVoxel_1_1TI_1_1ToFHaddockCamera.xhtml" title="Voxel::TI::ToFHaddockCamera" alt="" coords="7,229,211,256"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1TI_1_1ToFCamera.xhtml" title="Voxel::TI::ToFCamera" alt="" coords="33,155,185,181"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1TI_1_1ToFCameraBase.xhtml" title="This is a generic ToFCamera which is not strictly dependent on TI&#39;s ToF chips. " alt="" coords="18,80,200,107"/>
+<area shape="rect" id="node5" href="$classVoxel_1_1DepthCamera.xhtml" title="This is primary class which provides API for a depth camera. " alt="" coords="37,5,181,32"/>
+</map>

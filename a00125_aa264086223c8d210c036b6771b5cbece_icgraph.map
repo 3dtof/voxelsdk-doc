@@ -1,0 +1,7 @@
+<map id="Voxel::SerializableMap::serializedSize" name="Voxel::SerializableMap::serializedSize">
+<area shape="rect" id="node2" href="$a00125.xhtml#a9cab27981418aee2008e657ffcfdb456" title="Voxel::SerializableMap\l\&lt; SerializableString \&gt;\l::write" alt="" coords="209,5,364,61"/>
+<area shape="rect" id="node3" href="$a00068.xhtml#a48ef4931ae6cc2e09e8623560ada5628" title="Voxel::FrameGenerator\l::writeConfiguration" alt="" coords="208,85,365,126"/>
+<area shape="rect" id="node4" href="$a00110.xhtml#aa7079c7905d973aacfe15f4af03df0d9" title="Voxel::PointCloudFrameGenerator\l::setParameters" alt="" coords="413,19,635,61"/>
+<area shape="rect" id="node5" href="$a00157.xhtml#af527d454c5f24142dead8432ce7d841c" title="Voxel::TI::ToFDepthFrame\lGenerator::setParameters" alt="" coords="435,85,613,126"/>
+<area shape="rect" id="node6" href="$a00158.xhtml#adab8bf9886289dac093287d20434bd39" title="Voxel::TI::ToFFrameGenerator\l::setParameters" alt="" coords="424,150,624,191"/>
+</map>

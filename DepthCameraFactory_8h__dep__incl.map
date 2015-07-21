@@ -1,0 +1,28 @@
+<map id="DepthCameraFactory.h" name="DepthCameraFactory.h">
+<area shape="rect" id="node2" href="$CalculusCDKCameraFactory_8h.xhtml" title="CalculusCDKCameraFactory.h" alt="" coords="27,155,229,181"/>
+<area shape="rect" id="node4" href="$HaddockCDKCameraFactory_8h.xhtml" title="HaddockCDKCameraFactory.h" alt="" coords="254,155,457,181"/>
+<area shape="rect" id="node6" href="$TintinCDKCameraFactory_8h.xhtml" title="TintinCDKCameraFactory.h" alt="" coords="483,155,667,181"/>
+<area shape="rect" id="node8" href="$Voxel14CameraFactory_8h.xhtml" title="Voxel14CameraFactory.h" alt="" coords="907,155,1077,181"/>
+<area shape="rect" id="node10" href="$VoxelDCameraFactory_8h.xhtml" title="VoxelDCameraFactory.h" alt="" coords="1102,155,1268,181"/>
+<area shape="rect" id="node12" href="$ToFCameraFactoryBase_8h.xhtml" title="ToFCameraFactoryBase.h" alt="" coords="676,80,852,107"/>
+<area shape="rect" id="node14" href="$DepthCameraLibrary_8h.xhtml" title="DepthCameraLibrary.h" alt="" coords="2049,80,2201,107"/>
+<area shape="rect" id="node3" href="$CalculusCDKCameraFactory_8cpp.xhtml" title="CalculusCDKCameraFactory.cpp" alt="" coords="5,229,221,256"/>
+<area shape="rect" id="node5" href="$HaddockCDKCameraFactory_8cpp.xhtml" title="HaddockCDKCameraFactory.cpp" alt="" coords="247,229,465,256"/>
+<area shape="rect" id="node7" href="$TintinCDKCameraFactory_8cpp.xhtml" title="TintinCDKCameraFactory.cpp" alt="" coords="490,229,688,256"/>
+<area shape="rect" id="node9" href="$Voxel14CameraFactory_8cpp.xhtml" title="Voxel14CameraFactory.cpp" alt="" coords="887,229,1071,256"/>
+<area shape="rect" id="node11" href="$VoxelDCameraFactory_8cpp.xhtml" title="VoxelDCameraFactory.cpp" alt="" coords="1095,229,1275,256"/>
+<area shape="rect" id="node13" href="$ToFCameraFactoryBase_8cpp.xhtml" title="ToFCameraFactoryBase.cpp" alt="" coords="691,155,881,181"/>
+<area shape="rect" id="node15" href="$CameraSystem_8h.xhtml" title="CameraSystem.h" alt="" coords="2063,155,2187,181"/>
+<area shape="rect" id="node27" href="$DepthCameraLibrary_8cpp.xhtml" title="DepthCameraLibrary.cpp" alt="" coords="2211,155,2377,181"/>
+<area shape="rect" id="node16" href="$CLIManager_8h.xhtml" title="CLIManager.h" alt="" coords="2213,229,2317,256"/>
+<area shape="rect" id="node18" href="$VoxelCLI_8cpp.xhtml" title="VoxelCLI.cpp" alt="" coords="2304,304,2405,331"/>
+<area shape="rect" id="node19" href="$SimpleVoxelViewer_8cpp.xhtml" title="SimpleVoxelViewer.cpp" alt="" coords="2392,229,2551,256"/>
+<area shape="rect" id="node20" href="$CameraSystemConfigTest_8cpp.xhtml" title="CameraSystemConfigTest.cpp" alt="" coords="2576,229,2779,256"/>
+<area shape="rect" id="node21" href="$CameraSystemReadStreamTest_8cpp.xhtml" title="CameraSystemReadStreamTest.cpp" alt="" coords="2803,229,3039,256"/>
+<area shape="rect" id="node22" href="$CameraSystemSaveStreamTest_8cpp.xhtml" title="CameraSystemSaveStreamTest.cpp" alt="" coords="1299,229,1535,256"/>
+<area shape="rect" id="node23" href="$CameraSystemTest_8cpp.xhtml" title="CameraSystemTest.cpp" alt="" coords="1559,229,1723,256"/>
+<area shape="rect" id="node24" href="$SerialNumber_8cpp.xhtml" title="SerialNumber.cpp" alt="" coords="1747,229,1873,256"/>
+<area shape="rect" id="node25" href="$CameraSystem_8cpp.xhtml" title="CameraSystem.cpp" alt="" coords="1899,229,2037,256"/>
+<area shape="rect" id="node26" href="$FrameStream_8cpp.xhtml" title="FrameStream.cpp" alt="" coords="2062,229,2188,256"/>
+<area shape="rect" id="node17" href="$CLIManager_8cpp.xhtml" title="CLIManager.cpp" alt="" coords="2161,304,2279,331"/>
+</map>

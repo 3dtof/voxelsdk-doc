@@ -1,0 +1,11 @@
+<map id="Voxel::CLIManager::_connect" name="Voxel::CLIManager::_connect">
+<area shape="rect" id="node2" href="$a00025.xhtml#af6aad1a812d394b8e2bcb79df60b3976" title="Voxel::CLIManager::\l_disconnect" alt="" coords="203,63,346,105"/>
+<area shape="rect" id="node3" href="$a00025.xhtml#ab47e49d6a6a17a1315b0d4b650da87be" title="Voxel::CLIManager::\l_stop" alt="" coords="406,5,549,46"/>
+<area shape="rect" id="node5" href="$a00025.xhtml#a980f41b859fe062ea0c132ce6031d0cf" title="Voxel::CLIManager::\l_start" alt="" coords="203,129,346,170"/>
+<area shape="rect" id="node6" href="$a00023.xhtml#ab685fb4639d124ee11aa7cd64ab02f00" title="Voxel::CameraSystem\l::connect" alt="" coords="197,194,352,235"/>
+<area shape="rect" id="node7" href="$a00023.xhtml#ad26fad5d70ee748d0492184da757d5be" title="Voxel::CameraSystem\l::scan" alt="" coords="197,259,352,301"/>
+<area shape="rect" id="node4" href="$a00023.xhtml#aa4383a5805d1bfcb6ee71458f6e26bcc" title="Voxel::CameraSystem\l::disconnect" alt="" coords="400,70,555,111"/>
+<area shape="rect" id="node8" href="$a00044.xhtml#acfd0c97ee8c1d7c33eed279416a8b0a5" title="Voxel::DeviceScanner\l::scan" alt="" coords="401,259,553,301"/>
+<area shape="rect" id="node9" href="$a00168.xhtml#ac69e2e7bc897f304afab90acdbd004a6" title="Voxel::USBDeviceScanner\l::_scan" alt="" coords="603,259,783,301"/>
+<area shape="rect" id="node10" href="$a00172.xhtml#abbc09af335ace0ddfca5b74c63abf519" title="Voxel::USBSystem::getDevices" alt="" coords="832,267,1043,293"/>
+</map>

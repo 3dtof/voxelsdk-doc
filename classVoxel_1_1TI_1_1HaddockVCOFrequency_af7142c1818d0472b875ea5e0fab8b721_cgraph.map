@@ -1,0 +1,8 @@
+<map id="Voxel::TI::HaddockVCOFrequency::get" name="Voxel::TI::HaddockVCOFrequency::get">
+<area shape="rect" id="node2" href="$classVoxel_1_1DepthCamera.xhtml#ac850b3829f41e647686610c283197ea6" title="Voxel::DepthCamera\l::_get" alt="" coords="340,27,484,69"/>
+<area shape="rect" id="node5" href="$classVoxel_1_1TI_1_1ToFHaddockCamera.xhtml#a01be99984c412b2deb15f736a4cd2fef" title="Voxel::TI::ToFHaddockCamera\l::_getSystemClockFrequency" alt="" coords="310,93,514,134"/>
+<area shape="rect" id="node6" href="$classVoxel_1_1ParameterTemplate.xhtml#a3f4472338de2a9fc48cddf389b85fb1b" title="Voxel::ParameterTemplate\l\&lt; float \&gt;::refresh" alt="" coords="323,158,501,199"/>
+<area shape="rect" id="node7" href="$classVoxel_1_1RangeParameterTemplate.xhtml#a1fa782d7135e9d20267cb18fe98cbfd5" title="Voxel::RangeParameterTemplate\l\&lt; float \&gt;::validate" alt="" coords="305,223,519,265"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1ParameterTemplate.xhtml#afa8896eaffbd2b87d1482c0967a0fe1d" title="Voxel::ParameterTemplate::get" alt="" coords="568,5,771,32"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1DepthCamera.xhtml#ae3d6fcc6d4a20d1ad2de809ad65ecc34" title="Voxel::DepthCamera\l::name" alt="" coords="597,57,741,98"/>
+</map>

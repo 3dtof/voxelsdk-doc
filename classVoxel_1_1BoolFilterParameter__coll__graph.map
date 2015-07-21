@@ -1,0 +1,10 @@
+<map id="Voxel::BoolFilterParameter" name="Voxel::BoolFilterParameter">
+<area shape="rect" id="node2" href="$classVoxel_1_1FilterParameterEnumTemplate.xhtml" title="Voxel::FilterParameterEnum\lTemplate\&lt; bool \&gt;" alt="" coords="1144,134,1331,175"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1FilterParameterTemplate.xhtml" title="Voxel::FilterParameterTemplate\l\&lt; bool \&gt;" alt="" coords="835,166,1042,207"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1FilterParameter.xhtml" title="Voxel::FilterParameter" alt="" coords="195,204,347,231"/>
+<area shape="rect" id="node7" href="$classVoxel_1_1FilterParameterTemplate.xhtml" title="Voxel::FilterParameterTemplate\&lt; T \&gt;" alt="" coords="438,156,677,183"/>
+<area shape="rect" id="node6" href="$classbool.xhtml" title="bool" alt="" coords="534,268,581,295"/>
+<area shape="rect" id="node11" href="$classVoxel_1_1FilterParameterEnumTemplate.xhtml" title="Voxel::FilterParameterEnum\lTemplate\&lt; T \&gt;" alt="" coords="845,94,1032,135"/>
+<area shape="rect" id="node9" href="$classVector_3_01String_01_4.xhtml" title="Vector\&lt; String \&gt;" alt="" coords="498,23,617,49"/>
+<area shape="rect" id="node10" href="$classVector_3_01bool_01_4.xhtml" title="Vector\&lt; bool \&gt;" alt="" coords="885,232,993,259"/>
+</map>

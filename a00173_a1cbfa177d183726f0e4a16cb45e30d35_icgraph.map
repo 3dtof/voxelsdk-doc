@@ -1,0 +1,4 @@
+<map id="Voxel::USBSystemPrivate::getBusDevNumbers" name="Voxel::USBSystemPrivate::getBusDevNumbers">
+<area shape="rect" id="node2" href="$a00173.xhtml#a0a4343643663e5cb000014b35bec5802" title="This does not look at the channel to determine which channel to use. " alt="" coords="233,5,410,46"/>
+<area shape="rect" id="node3" href="$a00171.xhtml#a72862681db5fbc61c173f711b60e76f3" title="Voxel::USBIO::USBIOPrivate\l::USBIOPrivate" alt="" coords="459,5,655,46"/>
+</map>

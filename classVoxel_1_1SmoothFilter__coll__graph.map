@@ -1,0 +1,8 @@
+<map id="Voxel::SmoothFilter" name="Voxel::SmoothFilter">
+<area shape="rect" id="node2" href="$classVoxel_1_1Filter.xhtml" title="Voxel::Filter" alt="" coords="939,143,1031,169"/>
+<area shape="rect" id="node5" href="$classVoxel_1_1Ptr.xhtml" title="Voxel::Ptr\&lt; DepthCamera \&gt;" alt="" coords="571,143,757,169"/>
+<area shape="rect" id="node7" href="$classVoxel_1_1Ptr.xhtml" title="Voxel::Ptr\&lt; T \&gt;" alt="" coords="249,176,361,203"/>
+<area shape="rect" id="node10" href="$classVoxel_1_1FrameSize.xhtml" title="Voxel::FrameSize" alt="" coords="922,260,1049,287"/>
+<area shape="rect" id="node12" href="$classVoxel_1_1DiscreteGaussian.xhtml" title="Voxel::DiscreteGaussian" alt="" coords="902,320,1069,347"/>
+<area shape="rect" id="node13" href="$classfloat.xhtml" title="float" alt="" coords="641,320,687,347"/>
+</map>

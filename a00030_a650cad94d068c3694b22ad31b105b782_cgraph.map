@@ -1,0 +1,7 @@
+<map id="Voxel::Configuration::_getPaths" name="Voxel::Configuration::_getPaths">
+<area shape="rect" id="node2" href="$a00030.xhtml#ad186c38a54b464def126b009eb6ef6ac" title="Voxel::Configuration\l::_getLocalPath" alt="" coords="210,23,350,65"/>
+<area shape="rect" id="node5" href="$a00093.xhtml#a47ae069aca3b2d9f4fad7231f5baf7c9" title="Voxel::Logger::getDefault\lLogLevel" alt="" coords="195,89,365,130"/>
+<area shape="rect" id="node6" href="$a00390.xhtml#gadd67e5b1a02a8a07764793e4598922d4" title="Voxel::split" alt="" coords="237,155,323,181"/>
+<area shape="rect" id="node3" href="$a00390.xhtml#ga36148965f675233e100e0915a2e36160" title="Voxel::isFilePresent" alt="" coords="419,5,557,32"/>
+<area shape="rect" id="node4" href="$a00390.xhtml#gaed6651f54ac7aeb2169fc9b604db0b06" title="Voxel::makeDirectory" alt="" coords="414,56,562,83"/>
+</map>

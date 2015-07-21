@@ -1,0 +1,12 @@
+<map id="Voxel::TI::ToFCameraBase" name="Voxel::TI::ToFCameraBase">
+<area shape="rect" id="node3" href="$classVoxel_1_1TI_1_1ToFCamera.xhtml" title="Voxel::TI::ToFCamera" alt="" coords="429,95,581,121"/>
+<area shape="rect" id="node2" href="$classVoxel_1_1DepthCamera.xhtml" title="This is primary class which provides API for a depth camera. " alt="" coords="5,95,149,121"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1TI_1_1ToFCalculusCamera.xhtml" title="Voxel::TI::ToFCalculusCamera" alt="" coords="631,19,833,45"/>
+<area shape="rect" id="node6" href="$classVoxel_1_1TI_1_1ToFHaddockCamera.xhtml" title="Voxel::TI::ToFHaddockCamera" alt="" coords="630,95,834,121"/>
+<area shape="rect" id="node9" href="$classVoxel_1_1TI_1_1ToFTintinCamera.xhtml" title="Voxel::TI::ToFTintinCamera" alt="" coords="640,157,824,184"/>
+<area shape="rect" id="node5" href="$classVoxel_1_1TI_1_1CalculusCDKCamera.xhtml" title="Voxel::TI::CalculusCDKCamera" alt="" coords="883,5,1093,32"/>
+<area shape="rect" id="node7" href="$classVoxel_1_1TI_1_1HaddockCDKCamera.xhtml" title="Voxel::TI::HaddockCDKCamera" alt="" coords="883,56,1093,83"/>
+<area shape="rect" id="node8" href="$classVoxel_1_1TI_1_1Voxel14Camera.xhtml" title="Voxel::TI::Voxel14Camera" alt="" coords="900,107,1076,133"/>
+<area shape="rect" id="node10" href="$classVoxel_1_1TI_1_1TintinCDKCamera.xhtml" title="Voxel::TI::TintinCDKCamera" alt="" coords="893,157,1083,184"/>
+<area shape="rect" id="node11" href="$classVoxel_1_1TI_1_1VoxelDCamera.xhtml" title="Voxel::TI::VoxelDCamera" alt="" coords="902,208,1074,235"/>
+</map>

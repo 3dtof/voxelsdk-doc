@@ -1,0 +1,7 @@
+<map id="Voxel::TI::ToFHaddockCamera::_getSystemClockFrequency" name="Voxel::TI::ToFHaddockCamera::_getSystemClockFrequency">
+<area shape="rect" id="node2" href="$classVoxel_1_1TI_1_1HaddockVCOFrequency.xhtml#af7142c1818d0472b875ea5e0fab8b721" title="Voxel::TI::HaddockVCOFrequency::get" alt="" coords="259,5,509,32"/>
+<area shape="rect" id="node6" href="$classVoxel_1_1TI_1_1HaddockVCOFrequency.xhtml#ab135997720f17db327676253c6f57f67" title="Voxel::TI::HaddockVCOFrequency::set" alt="" coords="259,56,509,83"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1TI_1_1HaddockModulationFrequencyParameter.xhtml#a8d5c94e049e33f64004a99498511472b" title="Voxel::TI::HaddockModulation\lFrequencyParameter::set" alt="" coords="558,23,757,65"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1TI_1_1HaddockUnambiguousRangeParameter.xhtml#a0da082fe30df06fe3a29cfbc5908c55c" title="Voxel::TI::HaddockUnambiguous\lRangeParameter::set" alt="" coords="806,23,1021,65"/>
+<area shape="rect" id="node5" href="$classVoxel_1_1TI_1_1HaddockUnambiguousRangeParameter.xhtml#a651affc3a71f50f73cd47963d30ed18b" title="Voxel::TI::HaddockUnambiguous\lRangeParameter::get" alt="" coords="1070,23,1285,65"/>
+</map>

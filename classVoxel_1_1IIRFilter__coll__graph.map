@@ -1,0 +1,7 @@
+<map id="Voxel::IIRFilter" name="Voxel::IIRFilter">
+<area shape="rect" id="node2" href="$classVoxel_1_1Filter.xhtml" title="Voxel::Filter" alt="" coords="237,323,328,349"/>
+<area shape="rect" id="node5" href="$classVoxel_1_1Ptr.xhtml" title="Voxel::Ptr\&lt; DepthCamera \&gt;" alt="" coords="190,181,375,208"/>
+<area shape="rect" id="node7" href="$classVoxel_1_1Ptr.xhtml" title="Voxel::Ptr\&lt; T \&gt;" alt="" coords="393,83,504,109"/>
+<area shape="rect" id="node10" href="$classVoxel_1_1FrameSize.xhtml" title="Voxel::FrameSize" alt="" coords="441,323,567,349"/>
+<area shape="rect" id="node12" href="$classfloat.xhtml" title="float" alt="" coords="591,323,637,349"/>
+</map>

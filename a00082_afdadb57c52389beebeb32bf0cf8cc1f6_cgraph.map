@@ -1,0 +1,7 @@
+<map id="Voxel::TI::HaddockModulationFrequencyParameter::get" name="Voxel::TI::HaddockModulationFrequencyParameter::get">
+<area shape="rect" id="node2" href="$a00036.xhtml#ac850b3829f41e647686610c283197ea6" title="Voxel::DepthCamera\l::_get" alt="" coords="289,27,433,69"/>
+<area shape="rect" id="node5" href="$a00103.xhtml#a3f4472338de2a9fc48cddf389b85fb1b" title="Voxel::ParameterTemplate\l\&lt; float \&gt;::refresh" alt="" coords="273,93,450,134"/>
+<area shape="rect" id="node6" href="$a00117.xhtml#a1fa782d7135e9d20267cb18fe98cbfd5" title="Voxel::RangeParameterTemplate\l\&lt; float \&gt;::validate" alt="" coords="254,158,469,199"/>
+<area shape="rect" id="node3" href="$a00103.xhtml#afa8896eaffbd2b87d1482c0967a0fe1d" title="Voxel::ParameterTemplate::get" alt="" coords="517,5,720,32"/>
+<area shape="rect" id="node4" href="$a00036.xhtml#ae3d6fcc6d4a20d1ad2de809ad65ecc34" title="Voxel::DepthCamera\l::name" alt="" coords="547,57,691,98"/>
+</map>

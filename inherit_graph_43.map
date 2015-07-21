@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classVoxel_1_1DepthCameraFactory.xhtml" title="Voxel::DepthCameraFactory" alt="" coords="6,143,194,169"/>
+<area shape="rect" id="node2" href="$classVoxel_1_1TI_1_1ToFCameraFactoryBase.xhtml" title="Voxel::TI::ToFCameraFactoryBase" alt="" coords="243,143,469,169"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1TI_1_1CalculusCDKCameraFactory.xhtml" title="Voxel::TI::CalculusCDKCamera\lFactory" alt="" coords="521,5,730,46"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1TI_1_1HaddockCDKCameraFactory.xhtml" title="Voxel::TI::HaddockCDKCamera\lFactory" alt="" coords="520,70,731,111"/>
+<area shape="rect" id="node5" href="$classVoxel_1_1TI_1_1TintinCDKCameraFactory.xhtml" title="Voxel::TI::TintinCDKCamera\lFactory" alt="" coords="530,135,721,177"/>
+<area shape="rect" id="node6" href="$classVoxel_1_1TI_1_1Voxel14CameraFactory.xhtml" title="Voxel::TI::Voxel14Camera\lFactory" alt="" coords="537,201,713,242"/>
+<area shape="rect" id="node7" href="$classVoxel_1_1TI_1_1VoxelDCameraFactory.xhtml" title="Voxel::TI::VoxelDCameraFactory" alt="" coords="517,267,733,293"/>
+</map>

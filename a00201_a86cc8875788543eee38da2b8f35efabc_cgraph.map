@@ -1,0 +1,5 @@
+<map id="TinyXML2::XMLNode::FirstChildElement" name="TinyXML2::XMLNode::FirstChildElement">
+<area shape="rect" id="node2" href="$a00199.xhtml#afd22b33b33e7128f217f96ec5b2f1871" title="Get the name of an element (which is the Value() of the node.) " alt="" coords="209,5,373,46"/>
+<area shape="rect" id="node3" href="$a00205.xhtml#af0f1d719f7e1067ec06eeb2d687520a5" title="TinyXML2::XMLUtil::\lStringEqual" alt="" coords="219,70,363,111"/>
+<area shape="rect" id="node4" href="$a00199.xhtml#a6ab4f6a3ad156db7daab35c9218d9f4a" title="Safely cast to an Element, or null. " alt="" coords="209,135,373,177"/>
+</map>

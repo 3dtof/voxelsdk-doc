@@ -1,0 +1,7 @@
+<map id="Voxel::CLIManager::_connectCompletion" name="Voxel::CLIManager::_connectCompletion">
+<area shape="rect" id="node2" href="$namespaceLineNoise.xhtml#a5648e21adbd7aa937a3e50c32961ade4" title="LineNoise::linenoiseAddCompletion" alt="" coords="198,5,426,32"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1CameraSystem.xhtml#ad26fad5d70ee748d0492184da757d5be" title="Voxel::CameraSystem\l::scan" alt="" coords="235,57,389,98"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1DeviceScanner.xhtml#acfd0c97ee8c1d7c33eed279416a8b0a5" title="Voxel::DeviceScanner\l::scan" alt="" coords="475,57,627,98"/>
+<area shape="rect" id="node5" href="$classVoxel_1_1USBDeviceScanner.xhtml#ac69e2e7bc897f304afab90acdbd004a6" title="Voxel::USBDeviceScanner\l::_scan" alt="" coords="675,57,855,98"/>
+<area shape="rect" id="node6" href="$classVoxel_1_1USBSystem.xhtml#abbc09af335ace0ddfca5b74c63abf519" title="Voxel::USBSystem::getDevices" alt="" coords="904,64,1115,91"/>
+</map>

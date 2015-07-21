@@ -1,0 +1,23 @@
+<map id="Voxel::DepthCamera::setCameraProfile" name="Voxel::DepthCamera::setCameraProfile">
+<area shape="rect" id="node2" href="$classVoxel_1_1DepthCamera.xhtml#a6175ce727cf70df66f06ae1d9b3a3266" title="Voxel::DepthCamera\l::_applyConfigParams" alt="" coords="219,175,370,217"/>
+<area shape="rect" id="node16" href="$classVoxel_1_1DepthCamera.xhtml#a4a42e33ec0885c4c5457923669d91aff" title="Voxel::DepthCamera\l::_onReset" alt="" coords="223,241,367,282"/>
+<area shape="rect" id="node17" href="$classVoxel_1_1DepthCamera.xhtml#ae83d835673eb530c1202138be0270d4c" title="Voxel::DepthCamera\l::_saveCurrentProfileID" alt="" coords="215,306,374,347"/>
+<area shape="rect" id="node18" href="$classVoxel_1_1MainConfigurationFile.xhtml#ab24aaf7b18fea74c6f235da04fadbed0" title="Voxel::MainConfiguration\lFile::getCameraProfile" alt="" coords="453,467,621,509"/>
+<area shape="rect" id="node19" href="$classVoxel_1_1MainConfigurationFile.xhtml#a106f7480871b308f5ddf0ab2244d3dad" title="Voxel::MainConfiguration\lFile::getCameraProfileName" alt="" coords="201,423,388,465"/>
+<area shape="rect" id="node20" href="$classVoxel_1_1ConfigurationFile.xhtml#ab19da121144ed967232770576b8f4e5f" title="Voxel::ConfigurationFile\l::getConfigSet" alt="" coords="214,513,375,554"/>
+<area shape="rect" id="node21" href="$classVoxel_1_1DepthCamera.xhtml#a0937e30087fb2c6920e1acf4b3fd3695" title="Voxel::DepthCamera\l::refreshParams" alt="" coords="223,578,367,619"/>
+<area shape="rect" id="node22" href="$classVoxel_1_1MainConfigurationFile.xhtml#aeb5b4fef3cb166018e80ca8019e00a22" title="Voxel::MainConfiguration\lFile::setCurrentCameraProfile" alt="" coords="197,643,392,685"/>
+<area shape="rect" id="node3" href="$group__Util.xhtml#ga148a066c676b3c831918800b78a2f056" title="Voxel::gcd" alt="" coords="495,5,579,32"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1ConfigSet.xhtml#a30266a99adbe4083469fb80b2b5bc2bc" title="Voxel::ConfigSet::get" alt="" coords="464,56,611,83"/>
+<area shape="rect" id="node6" href="$classVoxel_1_1ConfigSet.xhtml#a7ff51eed2540f27e3b7f74f541bcfb27" title="Voxel::ConfigSet::getBoolean" alt="" coords="440,107,635,133"/>
+<area shape="rect" id="node7" href="$classVoxel_1_1ConfigSet.xhtml#a5528e3b3bb3afea3faa53d8a429181bb" title="Voxel::ConfigSet::getFloat" alt="" coords="449,157,625,184"/>
+<area shape="rect" id="node8" href="$classVoxel_1_1ConfigSet.xhtml#af0e020124d731812023753c226f9c564" title="Voxel::ConfigSet::getInteger" alt="" coords="444,208,631,235"/>
+<area shape="rect" id="node9" href="$classVoxel_1_1DepthCamera.xhtml#a1bee96d5215894d03e16e10634f199e7" title="Voxel::DepthCamera\l::getParam" alt="" coords="465,259,609,301"/>
+<area shape="rect" id="node10" href="$classVoxel_1_1DepthCamera.xhtml#a4f1c6d826c1842d7bc3fbeea5ebb9616" title="Voxel::DepthCamera::set" alt="" coords="452,325,623,352"/>
+<area shape="rect" id="node14" href="$classVoxel_1_1DepthCamera.xhtml#a349e61c95028fe5c04c9a79572f038be" title="Voxel::DepthCamera\l::setFrameRate" alt="" coords="465,379,609,421"/>
+<area shape="rect" id="node5" href="$classVoxel_1_1ConfigSet.xhtml#a49e4060aa2bc96690da36bdf5ef7b227" title="Voxel::ConfigSet::_get" alt="" coords="683,56,837,83"/>
+<area shape="rect" id="node11" href="$classVoxel_1_1DepthCamera.xhtml#a474dfafecfd8b2a97a924aeab8a82a3c" title="Voxel::DepthCamera\l::_set" alt="" coords="688,315,832,357"/>
+<area shape="rect" id="node12" href="$classVoxel_1_1DepthCamera.xhtml#ae3d6fcc6d4a20d1ad2de809ad65ecc34" title="Voxel::DepthCamera\l::name" alt="" coords="915,286,1059,327"/>
+<area shape="rect" id="node13" href="$classVoxel_1_1ParameterTemplate.xhtml#a64240b607339f55c4fac973fba8c8934" title="Voxel::ParameterTemplate::set" alt="" coords="885,352,1088,379"/>
+<area shape="rect" id="node15" href="$classVoxel_1_1DepthCamera.xhtml#ac0411adeff324bf5d77a907726de05bc" title="Voxel::DepthCamera\l::_setFrameRate" alt="" coords="688,381,832,422"/>
+</map>

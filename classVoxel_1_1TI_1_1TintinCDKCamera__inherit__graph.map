@@ -1,0 +1,6 @@
+<map id="Voxel::TI::TintinCDKCamera" name="Voxel::TI::TintinCDKCamera">
+<area shape="rect" id="node2" href="$classVoxel_1_1TI_1_1ToFTintinCamera.xhtml" title="Voxel::TI::ToFTintinCamera" alt="" coords="8,229,192,256"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1TI_1_1ToFCamera.xhtml" title="Voxel::TI::ToFCamera" alt="" coords="24,155,176,181"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1TI_1_1ToFCameraBase.xhtml" title="This is a generic ToFCamera which is not strictly dependent on TI&#39;s ToF chips. " alt="" coords="9,80,191,107"/>
+<area shape="rect" id="node5" href="$classVoxel_1_1DepthCamera.xhtml" title="This is primary class which provides API for a depth camera. " alt="" coords="28,5,172,32"/>
+</map>

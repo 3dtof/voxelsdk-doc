@@ -1,0 +1,9 @@
+<map id="Voxel::USBBulkStreamer" name="Voxel::USBBulkStreamer">
+<area shape="rect" id="node2" href="$classVoxel_1_1Streamer.xhtml" title="Voxel::Streamer" alt="" coords="1049,157,1165,184"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1Timer.xhtml" title="Voxel::Timer" alt="" coords="744,75,840,101"/>
+<area shape="rect" id="node5" href="$classbool.xhtml" title="bool" alt="" coords="301,95,347,121"/>
+<area shape="rect" id="node6" href="$classint.xhtml" title="int" alt="" coords="773,188,811,215"/>
+<area shape="rect" id="node7" href="$classVoxel_1_1Ptr.xhtml" title="Voxel::Ptr\&lt; Device \&gt;" alt="" coords="719,239,865,265"/>
+<area shape="rect" id="node9" href="$classVoxel_1_1Ptr.xhtml" title="Voxel::Ptr\&lt; T \&gt;" alt="" coords="268,269,380,296"/>
+<area shape="rect" id="node11" href="$classVoxel_1_1Ptr.xhtml" title="Voxel::Ptr\&lt; Voxel::\lUSBBulkStreamer::USBBulkStreamer\lPrivate \&gt;" alt="" coords="670,289,914,345"/>
+</map>

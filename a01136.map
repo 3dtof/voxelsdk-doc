@@ -1,0 +1,14 @@
+<map id="Voxel::TI::ToFDepthFrameGenerator" name="Voxel::TI::ToFDepthFrameGenerator">
+<area shape="rect" id="node2" href="$a00041.xhtml" title="Voxel::DepthFrameGenerator" alt="" coords="1763,265,1955,292"/>
+<area shape="rect" id="node3" href="$a00068.xhtml" title="Voxel::FrameGenerator" alt="" coords="1435,216,1592,243"/>
+<area shape="rect" id="node4" href="$a00131.xhtml" title="Voxel::StringKeySerializableMap" alt="" coords="999,73,1211,100"/>
+<area shape="rect" id="node5" href="$a00125.xhtml" title="Voxel::SerializableMap\l\&lt; SerializableString \&gt;" alt="" coords="595,63,749,105"/>
+<area shape="rect" id="node7" href="$a00124.xhtml" title="Voxel::Serializable" alt="" coords="33,79,164,105"/>
+<area shape="rect" id="node8" href="$a00125.xhtml" title="Voxel::SerializableMap\l\&lt; Key \&gt;" alt="" coords="245,122,400,163"/>
+<area shape="rect" id="node11" href="$a00397.xhtml" title="int" alt="" coords="1086,244,1125,271"/>
+<area shape="rect" id="node13" href="$a00113.xhtml" title="Voxel::Ptr\&lt; Voxel::\lFrameStreamWriter \&gt;" alt="" coords="1031,127,1179,169"/>
+<area shape="rect" id="node15" href="$a00113.xhtml" title="Voxel::Ptr\&lt; T \&gt;" alt="" coords="616,352,728,379"/>
+<area shape="rect" id="node17" href="$a00113.xhtml" title="Voxel::Ptr\&lt; ToFFrameGenerator \&gt;" alt="" coords="995,443,1216,469"/>
+<area shape="rect" id="node20" href="$a00113.xhtml" title="Voxel::Ptr\&lt; Frame \&gt;" alt="" coords="1035,349,1176,376"/>
+<area shape="rect" id="node19" href="$a00396.xhtml" title="float" alt="" coords="1835,393,1882,420"/>
+</map>

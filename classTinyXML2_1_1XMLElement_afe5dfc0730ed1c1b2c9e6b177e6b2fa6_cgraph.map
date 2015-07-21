@@ -1,0 +1,17 @@
+<map id="TinyXML2::XMLElement::ShallowClone" name="TinyXML2::XMLElement::ShallowClone">
+<area shape="rect" id="node2" href="$classTinyXML2_1_1XMLElement.xhtml#a20d987889ace8646249a60bfc5492fd3" title="Return the first attribute in the list. " alt="" coords="225,5,389,46"/>
+<area shape="rect" id="node3" href="$classTinyXML2_1_1XMLDocument.xhtml#a5e899350ec5132d5645c5064d57e24ca" title="TinyXML2::XMLDocument\l::NewElement" alt="" coords="219,70,395,111"/>
+<area shape="rect" id="node5" href="$classTinyXML2_1_1XMLAttribute.xhtml#a8b773c004dcc3a093990492ebd4908b2" title="The next attribute in the list. " alt="" coords="224,135,389,177"/>
+<area shape="rect" id="node6" href="$classTinyXML2_1_1XMLElement.xhtml#a8eb0c41120e9da3a8648e6ca38a6596f" title="Sets the named attribute to value. " alt="" coords="225,201,389,242"/>
+<area shape="rect" id="node10" href="$classTinyXML2_1_1XMLNode.xhtml#a76031498d32776e907d2ba79b7029b18" title="TinyXML2::XMLNode::\lValue" alt="" coords="229,267,384,309"/>
+<area shape="rect" id="node4" href="$classTinyXML2_1_1XMLElement.xhtml#aabede12b3e41647f936ed34ef8905a1d" title="Set the name of the element. " alt="" coords="443,70,607,111"/>
+<area shape="rect" id="node7" href="$classTinyXML2_1_1XMLAttribute.xhtml#aa3dd7a461cd63bea4781f89af1316fb6" title="Set the attribute to a string value. " alt="" coords="443,197,608,238"/>
+<area shape="rect" id="node8" href="$classTinyXML2_1_1StrPair.xhtml#a8d21246f67287932bba28e6393f5ea2c" title="TinyXML2::StrPair::\lSetStr" alt="" coords="659,195,797,237"/>
+<area shape="rect" id="node9" href="$classTinyXML2_1_1StrPair.xhtml#afbc7a4f921afeff8ef2aca24765ed24f" title="TinyXML2::StrPair::\lReset" alt="" coords="858,186,995,227"/>
+<area shape="rect" id="node11" href="$classTinyXML2_1_1StrPair.xhtml#a5e2c5bd32ba79f32f219cf9301c2bce6" title="TinyXML2::StrPair::\lGetStr" alt="" coords="457,269,594,310"/>
+<area shape="rect" id="node12" href="$classTinyXML2_1_1StrPair.xhtml#a7d56cd79475b9e7e6349134b89331311" title="TinyXML2::StrPair::\lCollapseWhitespace" alt="" coords="657,269,799,310"/>
+<area shape="rect" id="node15" href="$classTinyXML2_1_1XMLUtil.xhtml#a7b69ac5d9474c28a4b2fd675d692ea43" title="TinyXML2::XMLUtil::\lGetCharacterRef" alt="" coords="656,350,800,391"/>
+<area shape="rect" id="node13" href="$classTinyXML2_1_1XMLUtil.xhtml#aa1b7cab8abab24f6deeb0b34a31b5a86" title="TinyXML2::XMLUtil::\lIsWhiteSpace" alt="" coords="855,251,999,293"/>
+<area shape="rect" id="node14" href="$classTinyXML2_1_1XMLUtil.xhtml#a151c32ae2f90003379a2fc78a80da4f1" title="TinyXML2::XMLUtil::\lSkipWhiteSpace" alt="" coords="855,317,999,358"/>
+<area shape="rect" id="node16" href="$classTinyXML2_1_1XMLUtil.xhtml#a568fea7b3c469d8fae0e1f3480a0d96c" title="TinyXML2::XMLUtil::\lConvertUTF32ToUTF8" alt="" coords="849,382,1005,423"/>
+</map>

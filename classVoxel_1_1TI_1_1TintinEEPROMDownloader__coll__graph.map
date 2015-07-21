@@ -1,0 +1,9 @@
+<map id="Voxel::TI::TintinEEPROMDownloader" name="Voxel::TI::TintinEEPROMDownloader">
+<area shape="rect" id="node2" href="$classVoxel_1_1USBDownloader.xhtml" title="Voxel::USBDownloader" alt="" coords="1029,209,1189,236"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1Downloader.xhtml" title="Voxel::Downloader" alt="" coords="846,144,978,171"/>
+<area shape="rect" id="node4" href="$classfloat.xhtml" title="float" alt="" coords="579,93,626,120"/>
+<area shape="rect" id="node5" href="$classVoxel_1_1Ptr.xhtml" title="Voxel::Ptr\&lt; Device \&gt;" alt="" coords="530,144,675,171"/>
+<area shape="rect" id="node7" href="$classVoxel_1_1Ptr.xhtml" title="Voxel::Ptr\&lt; T \&gt;" alt="" coords="229,195,341,221"/>
+<area shape="rect" id="node13" href="$classVoxel_1_1Ptr.xhtml" title="Voxel::Ptr\&lt; USBIO \&gt;" alt="" coords="529,245,676,272"/>
+<area shape="rect" id="node10" href="$classVoxel_1_1LoggerOutStream.xhtml" title="Voxel::LoggerOutStream" alt="" coords="520,43,685,69"/>
+</map>

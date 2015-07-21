@@ -1,0 +1,5 @@
+<map id="Voxel::DepthCamera::_convertToPointCloudFrame" name="Voxel::DepthCamera::_convertToPointCloudFrame">
+<area shape="rect" id="node2" href="$classVoxel_1_1DepthCamera.xhtml#a5f7b78a2c00ba1ff45f1f18e71ac9811" title="Voxel::DepthCamera\l::_captureLoop" alt="" coords="251,5,395,46"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1DepthCamera.xhtml#a6cf4eb0a80d99bb828a7939ba1eb1cf4" title="Voxel::DepthCamera\l::_captureThreadWrapper" alt="" coords="443,5,613,46"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1DepthCamera.xhtml#a8a23ac08a6a28c804552c4cf49db4e3e" title="Voxel::DepthCamera\l::start" alt="" coords="661,5,805,46"/>
+</map>

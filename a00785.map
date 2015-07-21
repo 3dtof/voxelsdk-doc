@@ -1,0 +1,8 @@
+<map id="Voxel::Filter" name="Voxel::Filter">
+<area shape="rect" id="node2" href="$a00005.xhtml" title="Voxel::BilateralFilter" alt="" coords="172,5,311,32"/>
+<area shape="rect" id="node3" href="$a00087.xhtml" title="Voxel::IIRFilter" alt="" coords="186,56,297,83"/>
+<area shape="rect" id="node4" href="$a00097.xhtml" title="Voxel::MedianFilter" alt="" coords="174,107,309,133"/>
+<area shape="rect" id="node5" href="$a00128.xhtml" title="Voxel::SmoothFilter" alt="" coords="173,157,310,184"/>
+<area shape="rect" id="node6" href="$a00135.xhtml" title="Voxel::TemporalMedianFilter" alt="" coords="147,208,335,235"/>
+<area shape="rect" id="node7" href="$a00156.xhtml" title="Voxel::ToFCrossTalkFilter" alt="" coords="154,259,329,285"/>
+</map>

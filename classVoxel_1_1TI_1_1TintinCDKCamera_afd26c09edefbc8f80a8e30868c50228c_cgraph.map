@@ -1,0 +1,8 @@
+<map id="Voxel::TI::TintinCDKCamera::_readConfigFromHardware" name="Voxel::TI::TintinCDKCamera::_readConfigFromHardware">
+<area shape="rect" id="node2" href="$classVoxel_1_1TI_1_1TintinCDKCamera.xhtml#a33f200c85654bd6c44a32a711259bf5d" title="Voxel::TI::TintinCDKCamera\l::_getEEPROMSize" alt="" coords="259,5,450,46"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1TI_1_1VoxelUSBProgrammer.xhtml#a065c3f93bfdc71dc92cd8416a07c9a22" title="Voxel::TI::VoxelUSBProgrammer\l::getUSBIO" alt="" coords="513,34,727,75"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1SerializedObject.xhtml#aac0058e6b0ea0cb6ac86f4e986f6de25" title="Voxel::SerializedObject\l::getBytes" alt="" coords="275,122,434,163"/>
+<area shape="rect" id="node5" href="$classVoxel_1_1Timer.xhtml#a363a248fe7dd94ae58681cf145b23a23" title="Voxel::Timer::getCurentRealTime" alt="" coords="246,188,463,215"/>
+<area shape="rect" id="node6" href="$classVoxel_1_1SerializedObject.xhtml#a28bffcfa230e90768ea678269a782381" title="Voxel::SerializedObject\l::resize" alt="" coords="275,239,434,281"/>
+<area shape="rect" id="node7" href="$classVoxel_1_1SerializedObject.xhtml#adf11acb91f4adf3fe582a778c12b6286" title="Voxel::SerializedObject\l::size" alt="" coords="275,305,434,346"/>
+</map>

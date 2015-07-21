@@ -1,0 +1,7 @@
+<map id="DiscreteGaussian.h" name="DiscreteGaussian.h">
+<area shape="rect" id="node2" href="$BilateralFilter_8h.xhtml" title="BilateralFilter.h" alt="" coords="108,80,217,107"/>
+<area shape="rect" id="node5" href="$SmoothFilter_8h.xhtml" title="SmoothFilter.h" alt="" coords="241,80,348,107"/>
+<area shape="rect" id="node3" href="$BilateralFilter_8cpp.xhtml" title="BilateralFilter.cpp" alt="" coords="5,155,128,181"/>
+<area shape="rect" id="node4" href="$VoxelFilterFactory_8cpp.xhtml" title="VoxelFilterFactory.cpp" alt="" coords="153,155,305,181"/>
+<area shape="rect" id="node6" href="$SmoothFilter_8cpp.xhtml" title="SmoothFilter.cpp" alt="" coords="330,155,451,181"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Voxel::USBBulkStreamer::USBBulkStreamerPrivate::start" name="Voxel::USBBulkStreamer::USBBulkStreamerPrivate::start">
+<area shape="rect" id="node2" href="$classVoxel_1_1USBBulkStreamer_1_1USBBulkStreamerPrivate.xhtml#a7a720971513791da40aa79f424498949" title="Voxel::USBBulkStreamer\l::USBBulkStreamerPrivate::run" alt="" coords="233,13,437,54"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1Timer.xhtml#a363a248fe7dd94ae58681cf145b23a23" title="Voxel::Timer::getCurentRealTime" alt="" coords="713,20,930,47"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1USBBulkStreamer_1_1USBBulkStreamerPrivate.xhtml#a235bc52293ca4e14a639f58c61777de1" title="Voxel::USBBulkStreamer\l::USBBulkStreamerPrivate\l::putBuffer" alt="" coords="485,37,664,93"/>
+</map>

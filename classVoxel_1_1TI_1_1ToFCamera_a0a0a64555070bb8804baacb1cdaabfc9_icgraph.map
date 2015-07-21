@@ -1,0 +1,5 @@
+<map id="Voxel::TI::ToFCamera::_getFrameSize" name="Voxel::TI::ToFCamera::_getFrameSize">
+<area shape="rect" id="node2" href="$classVoxel_1_1TI_1_1HaddockCDKCamera.xhtml#a4e8e32000eca9b81bc6401a8d512cbc7" title="Voxel::TI::HaddockCDKCamera\l::_initStartParams" alt="" coords="205,5,416,46"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1TI_1_1ToFHaddockCamera.xhtml#a20618f833669a08a58cf5d73d9e3ab2e" title="Voxel::TI::ToFHaddockCamera\l::_setROI" alt="" coords="209,70,413,111"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1TI_1_1ToFTintinCamera.xhtml#a33b90eab74150037971aba980a810554" title="Voxel::TI::ToFTintinCamera\l::_setROI" alt="" coords="219,135,403,177"/>
+</map>

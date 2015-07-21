@@ -1,0 +1,8 @@
+<map id="Voxel::TI::CalculusIntegDutyCycle::set" name="Voxel::TI::CalculusIntegDutyCycle::set">
+<area shape="rect" id="node2" href="$classVoxel_1_1TI_1_1ToFCalculusCamera.xhtml#a8ec2cf6b38e17f982d3f12233c05e653" title="Voxel::TI::ToFCalculusCamera\l::_updateEasyConf" alt="" coords="216,58,419,99"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1DepthCamera.xhtml#ac850b3829f41e647686610c283197ea6" title="Voxel::DepthCamera\l::_get" alt="" coords="467,25,611,66"/>
+<area shape="rect" id="node6" href="$classVoxel_1_1DepthCamera.xhtml#a474dfafecfd8b2a97a924aeab8a82a3c" title="Voxel::DepthCamera\l::_set" alt="" coords="467,90,611,131"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1ParameterTemplate.xhtml#afa8896eaffbd2b87d1482c0967a0fe1d" title="Voxel::ParameterTemplate::get" alt="" coords="659,5,861,32"/>
+<area shape="rect" id="node5" href="$classVoxel_1_1DepthCamera.xhtml#ae3d6fcc6d4a20d1ad2de809ad65ecc34" title="Voxel::DepthCamera\l::name" alt="" coords="688,57,832,98"/>
+<area shape="rect" id="node7" href="$classVoxel_1_1ParameterTemplate.xhtml#a64240b607339f55c4fac973fba8c8934" title="Voxel::ParameterTemplate::set" alt="" coords="659,123,861,149"/>
+</map>

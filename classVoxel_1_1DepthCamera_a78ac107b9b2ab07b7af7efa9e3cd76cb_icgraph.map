@@ -1,0 +1,5 @@
+<map id="Voxel::DepthCamera::_getFrameRate" name="Voxel::DepthCamera::_getFrameRate">
+<area shape="rect" id="node2" href="$classVoxel_1_1DepthCamera.xhtml#aa42c414a6d3fe26b056de3d2f6fed16e" title="Voxel::DepthCamera\l::getFrameRate" alt="" coords="197,38,341,79"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1TI_1_1ToFCameraBase.xhtml#a4c7e80209e0a350ec9cfb601e7ec75e2" title="Voxel::TI::ToFCameraBase\l::_onReset" alt="" coords="390,5,573,46"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1TI_1_1ToFCameraBase.xhtml#a3a536998145a2cab4265de9e342a5920" title="Voxel::TI::ToFCameraBase\l::_start" alt="" coords="390,70,573,111"/>
+</map>

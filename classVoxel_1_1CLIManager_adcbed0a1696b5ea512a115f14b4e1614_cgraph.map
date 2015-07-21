@@ -1,0 +1,5 @@
+<map id="Voxel::CLIManager::_exit" name="Voxel::CLIManager::_exit">
+<area shape="rect" id="node2" href="$classVoxel_1_1CLIManager.xhtml#af6aad1a812d394b8e2bcb79df60b3976" title="Voxel::CLIManager::\l_disconnect" alt="" coords="198,38,341,79"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1CLIManager.xhtml#ab47e49d6a6a17a1315b0d4b650da87be" title="Voxel::CLIManager::\l_stop" alt="" coords="395,5,538,46"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1CameraSystem.xhtml#aa4383a5805d1bfcb6ee71458f6e26bcc" title="Voxel::CameraSystem\l::disconnect" alt="" coords="389,70,544,111"/>
+</map>

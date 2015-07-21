@@ -1,0 +1,11 @@
+<map id="Voxel::EnumParameterTemplate&lt; T &gt;" name="Voxel::EnumParameterTemplate&lt; T &gt;">
+<area shape="rect" id="node4" href="$classVoxel_1_1EnumParameterTemplate.xhtml" title="Voxel::EnumParameterTemplate\l\&lt; int \&gt;" alt="" coords="784,6,995,47"/>
+<area shape="rect" id="node6" href="$classVoxel_1_1EnumParameterTemplate.xhtml" title="Voxel::EnumParameterTemplate\l\&lt; bool \&gt;" alt="" coords="784,71,995,113"/>
+<area shape="rect" id="node2" href="$classVoxel_1_1ParameterTemplate.xhtml" title="Voxel::ParameterTemplate\&lt; T \&gt;" alt="" coords="179,51,389,77"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1Parameter.xhtml" title="Voxel::Parameter" alt="" coords="5,51,128,77"/>
+<area shape="rect" id="node5" href="$classVoxel_1_1EnumParameter.xhtml" title="Voxel::EnumParameter" alt="" coords="1045,13,1203,40"/>
+<area shape="rect" id="node7" href="$classVoxel_1_1BoolParameter.xhtml" title="Voxel::BoolParameter" alt="" coords="1049,79,1199,105"/>
+<area shape="rect" id="node8" href="$classVoxel_1_1StrobeBoolParameter.xhtml" title="Voxel::StrobeBoolParameter" alt="" coords="1256,20,1443,47"/>
+<area shape="rect" id="node9" href="$classVoxel_1_1TI_1_1CalculusIntegDutyCycleSetFailed.xhtml" title="Custom parameters. " alt="" coords="1268,71,1431,113"/>
+<area shape="rect" id="node10" href="$classVoxel_1_1TI_1_1VoxelDIlluminationPolarityParameter.xhtml" title="Voxel::TI::VoxelDIllumination\lPolarityParameter" alt="" coords="1253,137,1445,178"/>
+</map>

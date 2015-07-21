@@ -1,0 +1,5 @@
+<map id="Voxel::CLIManager::_setParameter" name="Voxel::CLIManager::_setParameter">
+<area shape="rect" id="node2" href="$classVoxel_1_1CLIManager.xhtml#a6c5a5af89c97f34ae7b117720e1e5a12" title="Voxel::CLIManager::\l_setParameterHelp" alt="" coords="234,5,377,46"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1ParameterTemplate.xhtml#a64240b607339f55c4fac973fba8c8934" title="Voxel::ParameterTemplate::set" alt="" coords="204,71,407,97"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1RangeParameterTemplate.xhtml#a37ac5f7905a5849207fde317192ae7ce" title="Voxel::RangeParameterTemplate\l::unit" alt="" coords="198,122,413,163"/>
+</map>

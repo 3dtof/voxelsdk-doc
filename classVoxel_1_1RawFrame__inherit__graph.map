@@ -1,0 +1,8 @@
+<map id="Voxel::RawFrame" name="Voxel::RawFrame">
+<area shape="rect" id="node3" href="$classVoxel_1_1RawDataFrame.xhtml" title="Voxel::RawDataFrame" alt="" coords="336,5,491,32"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1ToFRawFrame.xhtml" title="Voxel::ToFRawFrame" alt="" coords="338,56,489,83"/>
+<area shape="rect" id="node6" href="$classVoxel_1_1ToFRawIQFrame.xhtml" title="Voxel::ToFRawIQFrame" alt="" coords="331,113,495,140"/>
+<area shape="rect" id="node2" href="$classVoxel_1_1Frame.xhtml" title="Voxel::Frame" alt="" coords="6,56,106,83"/>
+<area shape="rect" id="node5" href="$classVoxel_1_1ToFRawFrameTemplate.xhtml" title="Voxel::ToFRawFrameTemplate\l\&lt; PhaseByteType, AmbientByteType \&gt;" alt="" coords="544,45,795,86"/>
+<area shape="rect" id="node7" href="$classVoxel_1_1ToFRawIQFrameTemplate.xhtml" title="Voxel::ToFRawIQFrameTemplate\l\&lt; ByteType \&gt;" alt="" coords="560,110,779,151"/>
+</map>

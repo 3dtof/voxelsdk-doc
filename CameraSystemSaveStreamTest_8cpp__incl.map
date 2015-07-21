@@ -1,0 +1,29 @@
+<map id="CameraSystemSaveStreamTest.cpp" name="CameraSystemSaveStreamTest.cpp">
+<area shape="rect" id="node2" href="$CameraSystem_8h.xhtml" title="CameraSystem.h" alt="" coords="1451,80,1575,107"/>
+<area shape="rect" id="node4" href="$Common_8h.xhtml" title="Common.h" alt="" coords="931,677,1017,704"/>
+<area shape="rect" id="node31" href="$Logger_8h.xhtml" title="Logger.h" alt="" coords="1645,603,1717,629"/>
+<area shape="rect" id="node48" href="$UVCStreamer_8h.xhtml" title="UVCStreamer.h" alt="" coords="1491,379,1605,405"/>
+<area shape="rect" id="node3" href="$DepthCameraLibrary_8h.xhtml" title="DepthCameraLibrary.h" alt="" coords="1174,155,1327,181"/>
+<area shape="rect" id="node44" href="$DownloaderFactory_8h.xhtml" title="DownloaderFactory.h" alt="" coords="1440,304,1587,331"/>
+<area shape="rect" id="node26" href="$DepthCameraFactory_8h.xhtml" title="DepthCameraFactory.h" alt="" coords="1171,229,1329,256"/>
+<area shape="rect" id="node43" href="$FilterFactory_8h.xhtml" title="Filter/FilterFactory.h" alt="" coords="787,229,925,256"/>
+<area shape="rect" id="node20" href="$Ptr_8h.xhtml" title="Ptr.h" alt="" coords="15,752,65,779"/>
+<area shape="rect" id="node27" href="$DepthCamera_8h.xhtml" title="DepthCamera.h" alt="" coords="799,304,913,331"/>
+<area shape="rect" id="node28" href="$Device_8h.xhtml" title="Device.h" alt="" coords="1416,528,1489,555"/>
+<area shape="rect" id="node29" href="$Parameter_8h.xhtml" title="Parameter.h" alt="" coords="469,528,563,555"/>
+<area shape="rect" id="node30" href="$RegisterProgrammer_8h.xhtml" title="RegisterProgrammer.h" alt="" coords="357,603,509,629"/>
+<area shape="rect" id="node32" href="$Frame_8h.xhtml" title="Frame.h" alt="" coords="853,528,923,555"/>
+<area shape="rect" id="node34" href="$VideoMode_8h.xhtml" title="VideoMode.h" alt="" coords="839,603,937,629"/>
+<area shape="rect" id="node36" href="$FrameBuffer_8h.xhtml" title="FrameBuffer.h" alt="" coords="74,603,179,629"/>
+<area shape="rect" id="node37" href="$Streamer_8h.xhtml" title="Streamer.h" alt="" coords="1122,453,1208,480"/>
+<area shape="rect" id="node39" href="$PointCloudTransform_8h.xhtml" title="PointCloudTransform.h" alt="" coords="942,453,1097,480"/>
+<area shape="rect" id="node40" href="$FilterSet_8h.xhtml" title="Filter/FilterSet.h" alt="" coords="991,379,1105,405"/>
+<area shape="rect" id="node41" href="$FrameStream_8h.xhtml" title="FrameStream.h" alt="" coords="749,379,860,405"/>
+<area shape="rect" id="node42" href="$FrameGenerator_8h.xhtml" title="FrameGenerator.h" alt="" coords="638,453,764,480"/>
+<area shape="rect" id="node33" href="$Point_8h.xhtml" title="Point.h" alt="" coords="1013,603,1075,629"/>
+<area shape="rect" id="node35" href="$SerializedObject_8h.xhtml" title="SerializedObject.h" alt="" coords="687,603,815,629"/>
+<area shape="rect" id="node38" href="$Timer_8h.xhtml" title="Timer.h" alt="" coords="1100,528,1167,555"/>
+<area shape="rect" id="node45" href="$Downloader_8h.xhtml" title="Downloader.h" alt="" coords="1630,379,1732,405"/>
+<area shape="rect" id="node46" href="$USBIO_8h.xhtml" title="USBIO.h" alt="" coords="1629,453,1703,480"/>
+<area shape="rect" id="node49" href="$UVC_8h.xhtml" title="UVC.h" alt="" coords="1491,453,1553,480"/>
+</map>

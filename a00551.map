@@ -1,0 +1,29 @@
+<map id="TintinCDKDownloaderFactory.cpp" name="TintinCDKDownloaderFactory.cpp">
+<area shape="rect" id="node2" href="$a00315.xhtml" title="TintinCDKDownloaderFactory.h" alt="" coords="711,155,917,181"/>
+<area shape="rect" id="node31" href="$a00311.xhtml" title="TintinCDKCamera.h" alt="" coords="479,80,619,107"/>
+<area shape="rect" id="node49" href="$a00317.xhtml" title="TintinEEPROMDownloader.h" alt="" coords="285,229,477,256"/>
+<area shape="rect" id="node3" href="$a00248.xhtml" title="DownloaderFactory.h" alt="" coords="600,304,747,331"/>
+<area shape="rect" id="node4" href="$a00247.xhtml" title="Downloader.h" alt="" coords="417,379,519,405"/>
+<area shape="rect" id="node5" href="$a00239.xhtml" title="Device.h" alt="" coords="431,603,504,629"/>
+<area shape="rect" id="node6" href="$a00223.xhtml" title="Common.h" alt="" coords="906,677,992,704"/>
+<area shape="rect" id="node28" href="$a00341.xhtml" title="USBIO.h" alt="" coords="431,453,504,480"/>
+<area shape="rect" id="node30" href="$a00274.xhtml" title="Logger.h" alt="" coords="529,603,601,629"/>
+<area shape="rect" id="node22" href="$a00291.xhtml" title="Ptr.h" alt="" coords="1749,752,1800,779"/>
+<area shape="rect" id="node29" href="$a00343.xhtml" title="USBSystem.h" alt="" coords="324,528,431,555"/>
+<area shape="rect" id="node32" href="$a00337.xhtml" title="ToFTintinCamera.h" alt="" coords="553,155,687,181"/>
+<area shape="rect" id="node33" href="$a00323.xhtml" title="ToFCamera.h" alt="" coords="1753,229,1855,256"/>
+<area shape="rect" id="node34" href="$a00325.xhtml" title="ToFCameraBase.h" alt="" coords="1631,304,1763,331"/>
+<area shape="rect" id="node47" href="$a00333.xhtml" title="ToFFrameGenerator.h" alt="" coords="1573,453,1723,480"/>
+<area shape="rect" id="node35" href="$a00234.xhtml" title="DepthCamera.h" alt="" coords="1253,453,1368,480"/>
+<area shape="rect" id="node46" href="$a00331.xhtml" title="ToFDepthFrameGenerator.h" alt="" coords="1563,379,1748,405"/>
+<area shape="rect" id="node36" href="$a00279.xhtml" title="Parameter.h" alt="" coords="1392,528,1485,555"/>
+<area shape="rect" id="node37" href="$a00297.xhtml" title="RegisterProgrammer.h" alt="" coords="1382,603,1535,629"/>
+<area shape="rect" id="node38" href="$a00256.xhtml" title="Frame.h" alt="" coords="877,603,947,629"/>
+<area shape="rect" id="node39" href="$a00359.xhtml" title="VideoMode.h" alt="" coords="1205,677,1304,704"/>
+<area shape="rect" id="node40" href="$a00257.xhtml" title="FrameBuffer.h" alt="" coords="1673,603,1777,629"/>
+<area shape="rect" id="node41" href="$a00305.xhtml" title="Streamer.h" alt="" coords="759,528,845,555"/>
+<area shape="rect" id="node42" href="$a00290.xhtml" title="PointCloudTransform.h" alt="" coords="1073,528,1228,555"/>
+<area shape="rect" id="node43" href="$a00255.xhtml" title="Filter/FilterSet.h" alt="" coords="1253,528,1368,555"/>
+<area shape="rect" id="node44" href="$a00259.xhtml" title="FrameGenerator.h" alt="" coords="922,528,1048,555"/>
+<area shape="rect" id="node48" href="$a00329.xhtml" title="ToFCrossTalkFilter.h" alt="" coords="1662,528,1807,555"/>
+</map>

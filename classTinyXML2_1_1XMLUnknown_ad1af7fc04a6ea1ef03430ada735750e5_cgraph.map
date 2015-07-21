@@ -1,0 +1,14 @@
+<map id="TinyXML2::XMLUnknown::ShallowClone" name="TinyXML2::XMLUnknown::ShallowClone">
+<area shape="rect" id="node2" href="$classTinyXML2_1_1XMLDocument.xhtml#aa8c76e2ecbc64d912bb6c7244ada0d16" title="TinyXML2::XMLDocument\l::NewUnknown" alt="" coords="224,70,400,111"/>
+<area shape="rect" id="node7" href="$classTinyXML2_1_1XMLNode.xhtml#a76031498d32776e907d2ba79b7029b18" title="TinyXML2::XMLNode::\lValue" alt="" coords="235,135,389,177"/>
+<area shape="rect" id="node3" href="$classTinyXML2_1_1XMLNode.xhtml#a527b7ce2a80b4580275531020867b53a" title="TinyXML2::XMLNode::\lSetValue" alt="" coords="448,70,603,111"/>
+<area shape="rect" id="node4" href="$classTinyXML2_1_1StrPair.xhtml#a6e89623a22f1dd43bc4037d6fe6487c0" title="TinyXML2::StrPair::\lSetInternedStr" alt="" coords="654,5,791,46"/>
+<area shape="rect" id="node6" href="$classTinyXML2_1_1StrPair.xhtml#a8d21246f67287932bba28e6393f5ea2c" title="TinyXML2::StrPair::\lSetStr" alt="" coords="654,70,791,111"/>
+<area shape="rect" id="node5" href="$classTinyXML2_1_1StrPair.xhtml#afbc7a4f921afeff8ef2aca24765ed24f" title="TinyXML2::StrPair::\lReset" alt="" coords="853,5,990,46"/>
+<area shape="rect" id="node8" href="$classTinyXML2_1_1StrPair.xhtml#a5e2c5bd32ba79f32f219cf9301c2bce6" title="TinyXML2::StrPair::\lGetStr" alt="" coords="457,135,594,177"/>
+<area shape="rect" id="node9" href="$classTinyXML2_1_1StrPair.xhtml#a7d56cd79475b9e7e6349134b89331311" title="TinyXML2::StrPair::\lCollapseWhitespace" alt="" coords="651,135,794,177"/>
+<area shape="rect" id="node12" href="$classTinyXML2_1_1XMLUtil.xhtml#a7b69ac5d9474c28a4b2fd675d692ea43" title="TinyXML2::XMLUtil::\lGetCharacterRef" alt="" coords="651,201,795,242"/>
+<area shape="rect" id="node10" href="$classTinyXML2_1_1XMLUtil.xhtml#aa1b7cab8abab24f6deeb0b34a31b5a86" title="TinyXML2::XMLUtil::\lIsWhiteSpace" alt="" coords="849,70,993,111"/>
+<area shape="rect" id="node11" href="$classTinyXML2_1_1XMLUtil.xhtml#a151c32ae2f90003379a2fc78a80da4f1" title="TinyXML2::XMLUtil::\lSkipWhiteSpace" alt="" coords="849,135,993,177"/>
+<area shape="rect" id="node13" href="$classTinyXML2_1_1XMLUtil.xhtml#a568fea7b3c469d8fae0e1f3480a0d96c" title="TinyXML2::XMLUtil::\lConvertUTF32ToUTF8" alt="" coords="843,201,999,242"/>
+</map>

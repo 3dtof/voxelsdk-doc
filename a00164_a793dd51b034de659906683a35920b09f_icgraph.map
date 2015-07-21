@@ -1,0 +1,8 @@
+<map id="Voxel::TI::ToFTintinCamera::_getSystemClockFrequency" name="Voxel::TI::ToFTintinCamera::_getSystemClockFrequency">
+<area shape="rect" id="node2" href="$a00164.xhtml#a18c4ac0c2c51b6f3f211ce9deece45cd" title="Voxel::TI::ToFTintinCamera\l::_getIlluminationFrequency" alt="" coords="272,5,456,46"/>
+<area shape="rect" id="node3" href="$a00151.xhtml#a7d5eab1f89852111c89772f11a695166" title="Voxel::TI::TintinVCOFrequency::get" alt="" coords="249,71,479,97"/>
+<area shape="rect" id="node7" href="$a00151.xhtml#a68501234c225cd5fa60e41d8fc9469b0" title="Voxel::TI::TintinVCOFrequency::set" alt="" coords="249,121,479,148"/>
+<area shape="rect" id="node4" href="$a00149.xhtml#a6b0d9a1d0144d396ce0a62e93bf58db7" title="Voxel::TI::TintinModulation\lFrequencyParameter::set" alt="" coords="528,89,707,130"/>
+<area shape="rect" id="node5" href="$a00150.xhtml#a7eb6a456c15f184c66d942e5f19c938b" title="Voxel::TI::TintinUnambiguous\lRangeParameter::set" alt="" coords="755,89,949,130"/>
+<area shape="rect" id="node6" href="$a00150.xhtml#aee1307d07b01cdc5f3a34719e5b79ac0" title="Voxel::TI::TintinUnambiguous\lRangeParameter::get" alt="" coords="997,89,1192,130"/>
+</map>

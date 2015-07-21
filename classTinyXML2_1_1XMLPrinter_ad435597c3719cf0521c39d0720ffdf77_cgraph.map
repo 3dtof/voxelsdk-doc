@@ -1,0 +1,10 @@
+<map id="TinyXML2::XMLPrinter::VisitEnter" name="TinyXML2::XMLPrinter::VisitEnter">
+<area shape="rect" id="node2" href="$classTinyXML2_1_1XMLDocument.xhtml#aa7f8f96c55022e3e2d7dc4eb492860cf" title="TinyXML2::XMLDocument\l::HasBOM" alt="" coords="208,5,384,46"/>
+<area shape="rect" id="node3" href="$classTinyXML2_1_1XMLDocument.xhtml#a94602229a737b6e7eb7c22149090b2c4" title="TinyXML2::XMLDocument\l::ProcessEntities" alt="" coords="208,70,384,111"/>
+<area shape="rect" id="node4" href="$classTinyXML2_1_1XMLPrinter.xhtml#a69111df3f67a582ee8b7d15de0cf08ea" title="TinyXML2::XMLPrinter\l::PushHeader" alt="" coords="219,135,373,177"/>
+<area shape="rect" id="node5" href="$classTinyXML2_1_1XMLPrinter.xhtml#adc0b55a75420e8cbc9268bca2b8e40ac" title="TinyXML2::XMLPrinter\l::Print" alt="" coords="837,186,992,227"/>
+<area shape="rect" id="node7" href="$classTinyXML2_1_1XMLPrinter.xhtml#aaa3f679452ae4803a75e8fb27dd1598b" title="TinyXML2::XMLPrinter\l::PushDeclaration" alt="" coords="432,190,587,231"/>
+<area shape="rect" id="node6" href="$classTinyXML2_1_1DynArray.xhtml#aa57d94f1bc348e58f6f1381187807ffa" title="TinyXML2::DynArray\l::PushArr" alt="" coords="1040,186,1184,227"/>
+<area shape="rect" id="node8" href="$classTinyXML2_1_1XMLPrinter.xhtml#aed3f30b7b9c09a84cfd6ae8f4bb1f1de" title="TinyXML2::XMLPrinter\l::PrintSpace" alt="" coords="635,215,789,257"/>
+<area shape="rect" id="node9" href="$classTinyXML2_1_1XMLPrinter.xhtml#a4eb457bcdc4e24dbc7fdbdb22e3e00cc" title="TinyXML2::XMLPrinter\l::SealElement" alt="" coords="635,281,789,322"/>
+</map>

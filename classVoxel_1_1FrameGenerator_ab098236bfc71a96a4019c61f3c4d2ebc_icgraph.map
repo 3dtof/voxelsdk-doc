@@ -1,0 +1,7 @@
+<map id="Voxel::FrameGenerator::_getParam" name="Voxel::FrameGenerator::_getParam">
+<area shape="rect" id="node2" href="$classVoxel_1_1FrameGenerator.xhtml#ab67672072af92365dd61a5024d007845" title="Voxel::FrameGenerator\l::_set" alt="" coords="224,70,381,111"/>
+<area shape="rect" id="node6" href="$classVoxel_1_1FrameGenerator.xhtml#a59e902c8b5d07e34f279e1705c80e3cf" title="Voxel::FrameGenerator::get" alt="" coords="211,136,394,163"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1PointCloudFrameGenerator.xhtml#aa7079c7905d973aacfe15f4af03df0d9" title="Voxel::PointCloudFrameGenerator\l::setParameters" alt="" coords="443,5,664,46"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1TI_1_1ToFDepthFrameGenerator.xhtml#af527d454c5f24142dead8432ce7d841c" title="Voxel::TI::ToFDepthFrame\lGenerator::setParameters" alt="" coords="464,70,643,111"/>
+<area shape="rect" id="node5" href="$classVoxel_1_1TI_1_1ToFFrameGenerator.xhtml#adfedd1e5bb60ca05f9dd7d0367e8d79f" title="Voxel::TI::ToFFrameGenerator\l::setParameters" alt="" coords="453,135,653,177"/>
+</map>

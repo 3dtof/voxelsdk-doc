@@ -1,0 +1,18 @@
+<map id="Voxel::TI::ToFHaddockCamera::_applyCalibrationParams" name="Voxel::TI::ToFHaddockCamera::_applyCalibrationParams">
+<area shape="rect" id="node2" href="$a00031.xhtml#a89562d77c2cde6175779e5194d728933" title="Voxel::ConfigurationFile\l::getBoolean" alt="" coords="263,5,425,46"/>
+<area shape="rect" id="node3" href="$a00031.xhtml#aeefbdefcac8743d6f08c25109480da2f" title="Voxel::ConfigurationFile\l::getInteger" alt="" coords="263,70,425,111"/>
+<area shape="rect" id="node4" href="$a00096.xhtml#a0d061a6b01c29c40af3288f4783c3c07" title="Voxel::MainConfiguration\lFile::isPresent" alt="" coords="260,135,428,177"/>
+<area shape="rect" id="node14" href="$a00036.xhtml#a4f1c6d826c1842d7bc3fbeea5ebb9616" title="Voxel::DepthCamera::set" alt="" coords="259,208,429,235"/>
+<area shape="rect" id="node5" href="$a00031.xhtml#a00e007801296e76b05ef10f1c8176c2d" title="Voxel::ConfigurationFile\l::isPresent" alt="" coords="478,127,639,169"/>
+<area shape="rect" id="node6" href="$a00096.xhtml#ab24aaf7b18fea74c6f235da04fadbed0" title="Voxel::MainConfiguration\lFile::getCameraProfile" alt="" coords="705,46,873,87"/>
+<area shape="rect" id="node7" href="$a00029.xhtml#ab7930d0d21d160341d989ef998ecac73" title="Voxel::ConfigSet::isPresent" alt="" coords="697,112,881,139"/>
+<area shape="rect" id="node8" href="$a00031.xhtml#a440d9dd2f89d0c76c81f7285b31a5b94" title="Voxel::ConfigurationFile::set" alt="" coords="696,163,883,189"/>
+<area shape="rect" id="node9" href="$a00031.xhtml#a3b9b573c1a3d9162fc0100c317ca0879" title="Voxel::ConfigurationFile\l::_set" alt="" coords="939,155,1101,197"/>
+<area shape="rect" id="node10" href="$a00029.xhtml#a8fb880c24ad7b0f04c84d4a33becb995" title="Voxel::ConfigSet::_set" alt="" coords="1149,163,1304,189"/>
+<area shape="rect" id="node11" href="$a00390.xhtml#ga6b2a26aa983349496fedae9aa54ad034" title="Trim. " alt="" coords="1352,163,1437,189"/>
+<area shape="rect" id="node12" href="$a00390.xhtml#gac9c04e18f7878dd82964bb489b7b1314" title="Left Trim. " alt="" coords="1487,137,1575,164"/>
+<area shape="rect" id="node13" href="$a00390.xhtml#ga3d95f05dde73bc9c54051437445e439b" title="Right Trim. " alt="" coords="1486,188,1575,215"/>
+<area shape="rect" id="node15" href="$a00036.xhtml#a474dfafecfd8b2a97a924aeab8a82a3c" title="Voxel::DepthCamera\l::_set" alt="" coords="487,214,631,255"/>
+<area shape="rect" id="node16" href="$a00036.xhtml#ae3d6fcc6d4a20d1ad2de809ad65ecc34" title="Voxel::DepthCamera\l::name" alt="" coords="717,214,861,255"/>
+<area shape="rect" id="node17" href="$a00103.xhtml#a64240b607339f55c4fac973fba8c8934" title="Voxel::ParameterTemplate::set" alt="" coords="688,280,891,307"/>
+</map>

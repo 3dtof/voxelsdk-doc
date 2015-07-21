@@ -1,0 +1,6 @@
+<map id="Voxel::RegisterProgrammer::isInitialized" name="Voxel::RegisterProgrammer::isInitialized">
+<area shape="rect" id="node2" href="$a00191.xhtml#a7b01ce528713db194fad742a5d2a7976" title="Voxel::TI::VoxelProgrammer\lBase::readRegister" alt="" coords="237,5,424,46"/>
+<area shape="rect" id="node5" href="$a00191.xhtml#af25f669684ac5322aeda5cfced536af0" title="Voxel::TI::VoxelProgrammer\lBase::writeRegister" alt="" coords="237,70,424,111"/>
+<area shape="rect" id="node3" href="$a00191.xhtml#a5722a686959cb8252b757b458fb20b24" title="Voxel::TI::VoxelProgrammer\lBase::getValue" alt="" coords="472,5,659,46"/>
+<area shape="rect" id="node4" href="$a00191.xhtml#ac0ad35d2e8619b2cb4894fe93e007475" title="Voxel::TI::VoxelProgrammer\lBase::setValue" alt="" coords="472,70,659,111"/>
+</map>

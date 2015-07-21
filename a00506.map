@@ -1,0 +1,25 @@
+<map id="PCLGrabber.h" name="PCLGrabber.h">
+<area shape="rect" id="node5" href="$a00234.xhtml" title="DepthCamera.h" alt="" coords="849,80,964,107"/>
+<area shape="rect" id="node6" href="$a00239.xhtml" title="Device.h" alt="" coords="685,379,759,405"/>
+<area shape="rect" id="node28" href="$a00279.xhtml" title="Parameter.h" alt="" coords="327,304,420,331"/>
+<area shape="rect" id="node29" href="$a00297.xhtml" title="RegisterProgrammer.h" alt="" coords="385,379,537,405"/>
+<area shape="rect" id="node32" href="$a00256.xhtml" title="Frame.h" alt="" coords="1025,304,1095,331"/>
+<area shape="rect" id="node35" href="$a00359.xhtml" title="VideoMode.h" alt="" coords="563,379,661,405"/>
+<area shape="rect" id="node37" href="$a00257.xhtml" title="FrameBuffer.h" alt="" coords="1719,379,1824,405"/>
+<area shape="rect" id="node38" href="$a00305.xhtml" title="Streamer.h" alt="" coords="679,229,765,256"/>
+<area shape="rect" id="node40" href="$a00290.xhtml" title="PointCloudTransform.h" alt="" coords="838,229,993,256"/>
+<area shape="rect" id="node42" href="$a00255.xhtml" title="Filter/FilterSet.h" alt="" coords="1489,155,1604,181"/>
+<area shape="rect" id="node44" href="$a00261.xhtml" title="FrameStream.h" alt="" coords="1179,155,1289,181"/>
+<area shape="rect" id="node45" href="$a00259.xhtml" title="FrameGenerator.h" alt="" coords="1070,229,1196,256"/>
+<area shape="rect" id="node48" href="$a00288.xhtml" title="PointCloudFrameGenerator.h" alt="" coords="811,155,1001,181"/>
+<area shape="rect" id="node49" href="$a00225.xhtml" title="Configuration.h" alt="" coords="1273,229,1383,256"/>
+<area shape="rect" id="node7" href="$a00223.xhtml" title="Common.h" alt="" coords="1018,453,1104,480"/>
+<area shape="rect" id="node23" href="$a00291.xhtml" title="Ptr.h" alt="" coords="1849,528,1900,555"/>
+<area shape="rect" id="node30" href="$a00274.xhtml" title="Logger.h" alt="" coords="1272,379,1344,405"/>
+<area shape="rect" id="node33" href="$a00286.xhtml" title="Point.h" alt="" coords="785,379,847,405"/>
+<area shape="rect" id="node36" href="$a00299.xhtml" title="SerializedObject.h" alt="" coords="1419,379,1547,405"/>
+<area shape="rect" id="node39" href="$a00309.xhtml" title="Timer.h" alt="" coords="800,304,867,331"/>
+<area shape="rect" id="node43" href="$a00251.xhtml" title="Filter/Filter.h" alt="" coords="1625,229,1719,256"/>
+<area shape="rect" id="node47" href="$a00232.xhtml" title="DataPacket.h" alt="" coords="1346,304,1448,331"/>
+<area shape="rect" id="node46" href="$a00298.xhtml" title="Serializable.h" alt="" coords="1222,304,1321,331"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="Voxel::TI::TintinCDKCamera::_setStreamerFrameSize" name="Voxel::TI::TintinCDKCamera::_setStreamerFrameSize">
+<area shape="rect" id="node2" href="$classVoxel_1_1DepthCamera.xhtml#ac850b3829f41e647686610c283197ea6" title="Voxel::DepthCamera\l::_get" alt="" coords="528,27,672,69"/>
+<area shape="rect" id="node5" href="$classVoxel_1_1TI_1_1ToFCamera.xhtml#ae43bdefe2031786701b133ce173ad603" title="Voxel::TI::ToFCamera\l::_getFrameRate" alt="" coords="268,91,420,133"/>
+<area shape="rect" id="node8" href="$classVoxel_1_1USBDevice.xhtml#a733db00843f6522b28a07719c943e1fe" title="Voxel::USBDevice::productID" alt="" coords="245,157,443,184"/>
+<area shape="rect" id="node9" href="$classVoxel_1_1USBBulkStreamer.xhtml#a55df2d845b54f4e800e4e79ebeb37cbd" title="Voxel::USBBulkStreamer\l::setBufferSize" alt="" coords="259,209,429,250"/>
+<area shape="rect" id="node10" href="$classVoxel_1_1UVCStreamer.xhtml#a7babd2f4cbe6152499b4c49b0137b6b4" title="Voxel::UVCStreamer\l::setVideoMode" alt="" coords="271,274,417,315"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1ParameterTemplate.xhtml#afa8896eaffbd2b87d1482c0967a0fe1d" title="Voxel::ParameterTemplate::get" alt="" coords="765,5,968,32"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1DepthCamera.xhtml#ae3d6fcc6d4a20d1ad2de809ad65ecc34" title="Voxel::DepthCamera\l::name" alt="" coords="795,57,939,98"/>
+<area shape="rect" id="node6" href="$classVoxel_1_1TI_1_1ToFCamera.xhtml#ae2c116b5f3e0598f9a449c70f8ff5b6a" title="Voxel::TI::ToFCamera\l::_getSystemClockFrequency" alt="" coords="503,93,697,134"/>
+<area shape="rect" id="node7" href="$group__Util.xhtml#ga148a066c676b3c831918800b78a2f056" title="Voxel::gcd" alt="" coords="558,159,642,185"/>
+<area shape="rect" id="node11" href="$classVoxel_1_1UVCStreamer.xhtml#aecd50d2937da72beedea5df3868b8d4d" title="Voxel::UVCStreamer\l::_storeCurrentVideoMode" alt="" coords="513,213,687,254"/>
+<area shape="rect" id="node12" href="$classVoxel_1_1VideoMode.xhtml#a99b3955c15011399b66cbf609afdbacb" title="Voxel::VideoMode::getFrameRate" alt="" coords="491,279,709,305"/>
+<area shape="rect" id="node14" href="$classVoxel_1_1UVCStreamer.xhtml#aa1d2a26f98df476ac93ed407273b4405" title="Voxel::UVCStreamer\l::isInitialized" alt="" coords="527,330,673,371"/>
+<area shape="rect" id="node15" href="$classVoxel_1_1Streamer.xhtml#ab1cfea9ca2c261a33c38ccc00bc97c77" title="Voxel::Streamer::isRunning" alt="" coords="509,396,691,423"/>
+<area shape="rect" id="node13" href="$classVoxel_1_1FrameRate.xhtml#aad990de42e35d9c41ced1d4104e64c27" title="Voxel::FrameRate::getFrameRate" alt="" coords="757,279,976,305"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Voxel::PointCloudFrameGenerator" name="Voxel::PointCloudFrameGenerator">
+<area shape="rect" id="node2" href="$classVoxel_1_1FrameGenerator.xhtml" title="Voxel::FrameGenerator" alt="" coords="1445,200,1603,227"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1StringKeySerializableMap.xhtml" title="Voxel::StringKeySerializableMap" alt="" coords="1007,71,1219,97"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1SerializableMap.xhtml" title="Voxel::SerializableMap\l\&lt; SerializableString \&gt;" alt="" coords="597,63,752,105"/>
+<area shape="rect" id="node6" href="$classVoxel_1_1Serializable.xhtml" title="Voxel::Serializable" alt="" coords="33,79,164,105"/>
+<area shape="rect" id="node7" href="$classVoxel_1_1SerializableMap.xhtml" title="Voxel::SerializableMap\l\&lt; Key \&gt;" alt="" coords="245,122,400,163"/>
+<area shape="rect" id="node10" href="$classint.xhtml" title="int" alt="" coords="1094,172,1133,199"/>
+<area shape="rect" id="node12" href="$classVoxel_1_1Ptr.xhtml" title="Voxel::Ptr\&lt; Voxel::\lFrameStreamWriter \&gt;" alt="" coords="1039,278,1187,319"/>
+<area shape="rect" id="node14" href="$classVoxel_1_1Ptr.xhtml" title="Voxel::Ptr\&lt; T \&gt;" alt="" coords="619,319,731,345"/>
+<area shape="rect" id="node16" href="$classVoxel_1_1Ptr.xhtml" title="Voxel::Ptr\&lt; PointCloudTransform \&gt;" alt="" coords="1000,344,1227,371"/>
+</map>

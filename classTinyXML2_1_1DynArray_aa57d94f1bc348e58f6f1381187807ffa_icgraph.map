@@ -1,0 +1,23 @@
+<map id="TinyXML2::DynArray::PushArr" name="TinyXML2::DynArray::PushArr">
+<area shape="rect" id="node2" href="$classTinyXML2_1_1XMLPrinter.xhtml#adc0b55a75420e8cbc9268bca2b8e40ac" title="TinyXML2::XMLPrinter\l::Print" alt="" coords="197,291,352,333"/>
+<area shape="rect" id="node3" href="$classTinyXML2_1_1XMLPrinter.xhtml#aed3f30b7b9c09a84cfd6ae8f4bb1f1de" title="TinyXML2::XMLPrinter\l::PrintSpace" alt="" coords="400,401,555,442"/>
+<area shape="rect" id="node4" href="$classTinyXML2_1_1XMLPrinter.xhtml#a51e42981371b82b64cac08d1248a7df7" title="TinyXML2::XMLPrinter\l::OpenElement" alt="" coords="603,201,757,242"/>
+<area shape="rect" id="node6" href="$classTinyXML2_1_1XMLPrinter.xhtml#a410f06cffa2fd3ce75481b125b64344d" title="If streaming, close the Element. " alt="" coords="603,549,757,590"/>
+<area shape="rect" id="node8" href="$classTinyXML2_1_1XMLPrinter.xhtml#af22c1599559dfcf088cb83d496954254" title="Add a comment. " alt="" coords="603,279,757,321"/>
+<area shape="rect" id="node10" href="$classTinyXML2_1_1XMLPrinter.xhtml#aaa3f679452ae4803a75e8fb27dd1598b" title="TinyXML2::XMLPrinter\l::PushDeclaration" alt="" coords="603,401,757,442"/>
+<area shape="rect" id="node11" href="$classTinyXML2_1_1XMLPrinter.xhtml#a69111df3f67a582ee8b7d15de0cf08ea" title="TinyXML2::XMLPrinter\l::PushHeader" alt="" coords="805,342,960,383"/>
+<area shape="rect" id="node14" href="$classTinyXML2_1_1XMLPrinter.xhtml#ae4b518424d5c7907f02232f2b4c51eca" title="TinyXML2::XMLPrinter\l::PushUnknown" alt="" coords="603,469,757,510"/>
+<area shape="rect" id="node16" href="$classTinyXML2_1_1XMLPrinter.xhtml#a2db7bb356f93036da79d719cd13c96e5" title="TinyXML2::XMLPrinter\l::PrintString" alt="" coords="400,65,555,106"/>
+<area shape="rect" id="node17" href="$classTinyXML2_1_1XMLPrinter.xhtml#a2b2e57355330eb95489fa05dac639da1" title="If streaming, add an attribute to an open element. " alt="" coords="603,41,757,82"/>
+<area shape="rect" id="node19" href="$classTinyXML2_1_1XMLPrinter.xhtml#a0434e8616034c33d17083d8113a294b4" title="Add a text node. " alt="" coords="603,135,757,177"/>
+<area shape="rect" id="node22" href="$classTinyXML2_1_1XMLPrinter.xhtml#a4eb457bcdc4e24dbc7fdbdb22e3e00cc" title="TinyXML2::XMLPrinter\l::SealElement" alt="" coords="400,233,555,274"/>
+<area shape="rect" id="node5" href="$classTinyXML2_1_1XMLPrinter.xhtml#a4b451a18ff455a3ba120179017af44de" title="Visit an element. " alt="" coords="805,70,960,111"/>
+<area shape="rect" id="node7" href="$classTinyXML2_1_1XMLPrinter.xhtml#a2040dcd08333a4d06e5ff20ae7076e30" title="Visit an element. " alt="" coords="805,549,960,590"/>
+<area shape="rect" id="node9" href="$classTinyXML2_1_1XMLPrinter.xhtml#abcfc8b0af0a714ade80976275f530ae7" title="Visit a comment node. " alt="" coords="805,277,960,318"/>
+<area shape="rect" id="node13" href="$classTinyXML2_1_1XMLPrinter.xhtml#aa1df6579573094ba842131bd37294005" title="Visit a declaration. " alt="" coords="805,407,960,449"/>
+<area shape="rect" id="node12" href="$classTinyXML2_1_1XMLPrinter.xhtml#ad435597c3719cf0521c39d0720ffdf77" title="Visit a document. " alt="" coords="1008,342,1163,383"/>
+<area shape="rect" id="node15" href="$classTinyXML2_1_1XMLPrinter.xhtml#a100e317bedf55f9ccba58554c9c0b39b" title="Visit an unknown node. " alt="" coords="805,473,960,514"/>
+<area shape="rect" id="node18" href="$classTinyXML2_1_1XMLPrinter.xhtml#aa93650b98d80cae0beac2117b3de17ed" title="TinyXML2::XMLPrinter\l::PushAttribute" alt="" coords="805,5,960,46"/>
+<area shape="rect" id="node20" href="$classTinyXML2_1_1XMLPrinter.xhtml#ac9af8629ac88bfdc9bf79a6aef4680cd" title="Add a text node from an integer. " alt="" coords="805,135,960,177"/>
+<area shape="rect" id="node21" href="$classTinyXML2_1_1XMLPrinter.xhtml#ae2661fa12bc3d2a0907d2d6aed03020b" title="Visit a text node. " alt="" coords="805,201,960,242"/>
+</map>

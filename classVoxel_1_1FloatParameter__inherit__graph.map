@@ -1,0 +1,13 @@
+<map id="Voxel::FloatParameter" name="Voxel::FloatParameter">
+<area shape="rect" id="node7" href="$classVoxel_1_1TI_1_1CalculusModulationFrequencyParameter.xhtml" title="Voxel::TI::CalculusModulation\lFrequencyParameter" alt="" coords="1324,5,1521,46"/>
+<area shape="rect" id="node8" href="$classVoxel_1_1TI_1_1CalculusVCOFrequency.xhtml" title="Voxel::TI::CalculusVCOFrequency" alt="" coords="1311,71,1535,97"/>
+<area shape="rect" id="node9" href="$classVoxel_1_1TI_1_1HaddockModulationFrequencyParameter.xhtml" title="Voxel::TI::HaddockModulation\lFrequencyParameter" alt="" coords="1323,122,1522,163"/>
+<area shape="rect" id="node10" href="$classVoxel_1_1TI_1_1HaddockVCOFrequency.xhtml" title="Custom parameters. " alt="" coords="1310,188,1535,215"/>
+<area shape="rect" id="node11" href="$classVoxel_1_1TI_1_1TintinModulationFrequencyParameter.xhtml" title="Voxel::TI::TintinModulation\lFrequencyParameter" alt="" coords="1333,239,1512,281"/>
+<area shape="rect" id="node12" href="$classVoxel_1_1TI_1_1TintinVCOFrequency.xhtml" title="Custom parameters. " alt="" coords="1320,305,1525,332"/>
+<area shape="rect" id="node2" href="$classVoxel_1_1RangeParameterTemplate.xhtml" title="Voxel::RangeParameterTemplate\l\&lt; float \&gt;" alt="" coords="841,151,1055,193"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1ParameterTemplate.xhtml" title="Voxel::ParameterTemplate\l\&lt; float \&gt;" alt="" coords="526,121,703,162"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1Parameter.xhtml" title="Voxel::Parameter" alt="" coords="5,129,128,156"/>
+<area shape="rect" id="node5" href="$classVoxel_1_1ParameterTemplate.xhtml" title="Voxel::ParameterTemplate\&lt; T \&gt;" alt="" coords="179,159,389,185"/>
+<area shape="rect" id="node6" href="$classVoxel_1_1RangeParameterTemplate.xhtml" title="Voxel::RangeParameterTemplate\&lt; T \&gt;" alt="" coords="491,187,738,213"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Voxel::MainConfigurationFile::_getNewCameraProfileID" name="Voxel::MainConfigurationFile::_getNewCameraProfileID">
+<area shape="rect" id="node2" href="$a00096.xhtml#a43204cc6e30ecead0efd522ca13e3b67" title="Voxel::MainConfiguration\lFile::addCameraProfile" alt="" coords="287,5,455,46"/>
+<area shape="rect" id="node4" href="$a00096.xhtml#a62f0d5bdc21e9ed7b4cf4ee24dab75e4" title="Voxel::MainConfiguration\lFile::saveCameraProfileToHardware" alt="" coords="254,70,487,111"/>
+<area shape="rect" id="node3" href="$a00036.xhtml#afd88098930492a61560db37abdfacac1" title="Voxel::DepthCamera\l::addCameraProfile" alt="" coords="536,5,680,46"/>
+</map>

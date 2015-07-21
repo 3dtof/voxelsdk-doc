@@ -1,0 +1,6 @@
+<map id="Voxel::MainConfigurationFile::_updateCameraProfileList" name="Voxel::MainConfigurationFile::_updateCameraProfileList">
+<area shape="rect" id="node2" href="$classVoxel_1_1MainConfigurationFile.xhtml#a0c502b35bba7ac18c4018d6ad24ca86b" title="Voxel::MainConfiguration\lFile::addCameraProfile" alt="" coords="261,5,429,46"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1MainConfigurationFile.xhtml#a4abe1141d3c441fc54cd870e09a22b2c" title="Voxel::MainConfiguration\lFile::removeCameraProfile" alt="" coords="257,70,434,111"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1DepthCamera.xhtml#afd88098930492a61560db37abdfacac1" title="Voxel::DepthCamera\l::addCameraProfile" alt="" coords="489,5,633,46"/>
+<area shape="rect" id="node5" href="$classVoxel_1_1DepthCamera.xhtml#a51bc1371938f78ddc18af0b36850545c" title="Voxel::DepthCamera\l::removeCameraProfile" alt="" coords="483,70,639,111"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Voxel::CameraSystem::getProgrammableDevices" name="Voxel::CameraSystem::getProgrammableDevices">
+<area shape="rect" id="node2" href="$classVoxel_1_1DeviceScanner.xhtml#acfd0c97ee8c1d7c33eed279416a8b0a5" title="Voxel::DeviceScanner\l::scan" alt="" coords="235,5,387,46"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1USBDeviceScanner.xhtml#ac69e2e7bc897f304afab90acdbd004a6" title="Voxel::USBDeviceScanner\l::_scan" alt="" coords="435,5,615,46"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1USBSystem.xhtml#abbc09af335ace0ddfca5b74c63abf519" title="Voxel::USBSystem::getDevices" alt="" coords="664,12,875,39"/>
+</map>

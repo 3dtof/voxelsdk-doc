@@ -1,0 +1,5 @@
+<map id="Voxel::PCLViewer::~PCLViewer" name="Voxel::PCLViewer::~PCLViewer">
+<area shape="rect" id="node2" href="$classVoxel_1_1PCLViewer.xhtml#a0751fa6190e95d3483726db767fd320d" title="Voxel::PCLViewer::isRunning" alt="" coords="192,12,387,39"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1PCLViewer.xhtml#ae73aebc93e90694363dfb730249f94a8" title="Voxel::PCLViewer::stop" alt="" coords="208,63,371,89"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1PCLViewer.xhtml#a7c1fe1b3964d10fa2a6399e2fa6e4d75" title="Voxel::PCLViewer::viewer\lStopped" alt="" coords="435,5,610,46"/>
+</map>

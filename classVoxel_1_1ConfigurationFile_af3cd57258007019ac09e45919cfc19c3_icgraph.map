@@ -1,0 +1,11 @@
+<map id="Voxel::ConfigurationFile::getLocation" name="Voxel::ConfigurationFile::getLocation">
+<area shape="rect" id="node2" href="$CameraSystemConfigTest_8cpp.xhtml#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="575,96,625,122"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1MainConfigurationFile.xhtml#a4abe1141d3c441fc54cd870e09a22b2c" title="Voxel::MainConfiguration\lFile::removeCameraProfile" alt="" coords="750,30,927,71"/>
+<area shape="rect" id="node5" href="$classVoxel_1_1MainConfigurationFile.xhtml#ae8ce6b155ffff0c4f33e1d7acfc01290" title="Voxel::MainConfiguration\lFile::saveCameraProfileToHardware" alt="" coords="217,204,450,246"/>
+<area shape="rect" id="node6" href="$classVoxel_1_1MainConfigurationFile.xhtml#ad0ea67099cfd8a8e869b46b833e19800" title="Voxel::MainConfiguration\lFile::setDefaultCameraProfile" alt="" coords="503,30,697,71"/>
+<area shape="rect" id="node7" href="$classVoxel_1_1ConfigurationFile.xhtml#a978b37f6995656a3fd39a35e70867bf0" title="Voxel::ConfigurationFile\l::write" alt="" coords="253,139,414,180"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1DepthCamera.xhtml#a51bc1371938f78ddc18af0b36850545c" title="Voxel::DepthCamera\l::removeCameraProfile" alt="" coords="977,30,1133,71"/>
+<area shape="rect" id="node8" href="$classVoxel_1_1MainConfigurationFile.xhtml#a0c502b35bba7ac18c4018d6ad24ca86b" title="Voxel::MainConfiguration\lFile::addCameraProfile" alt="" coords="755,176,923,218"/>
+<area shape="rect" id="node10" href="$classVoxel_1_1MainConfigurationFile.xhtml#ae2f3f66b632fa462d8b9f873f416f12b" title="Voxel::MainConfiguration\lFile::_updateCameraProfileList" alt="" coords="499,147,701,188"/>
+<area shape="rect" id="node9" href="$classVoxel_1_1DepthCamera.xhtml#afd88098930492a61560db37abdfacac1" title="Voxel::DepthCamera\l::addCameraProfile" alt="" coords="983,176,1127,218"/>
+</map>

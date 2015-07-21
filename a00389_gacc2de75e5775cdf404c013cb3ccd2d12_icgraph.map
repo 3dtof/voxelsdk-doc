@@ -1,0 +1,7 @@
+<map id="Voxel::DepthCameraFactory::_addSupportedDevices" name="Voxel::DepthCameraFactory::_addSupportedDevices">
+<area shape="rect" id="node2" href="$a00014.xhtml#a2575aaced1b84bf6eeed186586d415cd" title="Voxel::TI::CalculusCDKCamera\lFactory::CalculusCDKCameraFactory" alt="" coords="243,5,487,46"/>
+<area shape="rect" id="node3" href="$a00078.xhtml#a7c2e05793ea83510ef0e21edd1c40a76" title="Voxel::TI::HaddockCDKCamera\lFactory::HaddockCDKCameraFactory" alt="" coords="243,70,488,111"/>
+<area shape="rect" id="node4" href="$a00138.xhtml#ac207159ae72ed2dca9b6dee968bd2014" title="Voxel::TI::TintinCDKCamera\lFactory::TintinCDKCameraFactory" alt="" coords="253,135,478,177"/>
+<area shape="rect" id="node5" href="$a00183.xhtml#af36f981897925f543f6d9ca3f2847a88" title="Voxel::TI::Voxel14Camera\lFactory::Voxel14CameraFactory" alt="" coords="260,201,471,242"/>
+<area shape="rect" id="node6" href="$a00187.xhtml#a8bebaef08a929873699e5d370d9260ae" title="Voxel::TI::VoxelDCameraFactory\l::VoxelDCameraFactory" alt="" coords="257,266,473,307"/>
+</map>

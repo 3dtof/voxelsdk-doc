@@ -1,0 +1,13 @@
+<map id="CameraSystem.h" name="CameraSystem.h">
+<area shape="rect" id="node2" href="$CLIManager_8h.xhtml" title="CLIManager.h" alt="" coords="57,80,161,107"/>
+<area shape="rect" id="node4" href="$VoxelCLI_8cpp.xhtml" title="VoxelCLI.cpp" alt="" coords="148,155,249,181"/>
+<area shape="rect" id="node5" href="$SimpleVoxelViewer_8cpp.xhtml" title="SimpleVoxelViewer.cpp" alt="" coords="236,80,395,107"/>
+<area shape="rect" id="node6" href="$CameraSystemConfigTest_8cpp.xhtml" title="CameraSystemConfigTest.cpp" alt="" coords="420,80,623,107"/>
+<area shape="rect" id="node7" href="$CameraSystemReadStreamTest_8cpp.xhtml" title="CameraSystemReadStreamTest.cpp" alt="" coords="647,80,883,107"/>
+<area shape="rect" id="node8" href="$CameraSystemSaveStreamTest_8cpp.xhtml" title="CameraSystemSaveStreamTest.cpp" alt="" coords="907,80,1143,107"/>
+<area shape="rect" id="node9" href="$CameraSystemTest_8cpp.xhtml" title="CameraSystemTest.cpp" alt="" coords="1167,80,1331,107"/>
+<area shape="rect" id="node10" href="$SerialNumber_8cpp.xhtml" title="SerialNumber.cpp" alt="" coords="1355,80,1481,107"/>
+<area shape="rect" id="node11" href="$CameraSystem_8cpp.xhtml" title="CameraSystem.cpp" alt="" coords="1507,80,1645,107"/>
+<area shape="rect" id="node12" href="$FrameStream_8cpp.xhtml" title="FrameStream.cpp" alt="" coords="1670,80,1796,107"/>
+<area shape="rect" id="node3" href="$CLIManager_8cpp.xhtml" title="CLIManager.cpp" alt="" coords="5,155,123,181"/>
+</map>

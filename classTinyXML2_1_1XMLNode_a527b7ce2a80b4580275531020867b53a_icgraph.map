@@ -1,0 +1,12 @@
+<map id="TinyXML2::XMLNode::SetValue" name="TinyXML2::XMLNode::SetValue">
+<area shape="rect" id="node2" href="$classTinyXML2_1_1XMLDocument.xhtml#a2991901a202867cec8de7254273c8b7c" title="TinyXML2::XMLDocument\l::NewComment" alt="" coords="208,6,384,47"/>
+<area shape="rect" id="node4" href="$classTinyXML2_1_1XMLDocument.xhtml#a949f550ca5a84f18404af5e050626a2e" title="TinyXML2::XMLDocument\l::NewDeclaration" alt="" coords="208,73,384,114"/>
+<area shape="rect" id="node6" href="$classTinyXML2_1_1XMLDocument.xhtml#a7d3e915ac54b0b32f72a2a7910225630" title="TinyXML2::XMLDocument\l::NewText" alt="" coords="208,139,384,181"/>
+<area shape="rect" id="node8" href="$classTinyXML2_1_1XMLElement.xhtml#ad0f8edb7feb82def4e5245a9650f80fc" title="TinyXML2::XMLElement\l::SetText" alt="" coords="442,201,606,242"/>
+<area shape="rect" id="node10" href="$classTinyXML2_1_1XMLDocument.xhtml#aa8c76e2ecbc64d912bb6c7244ada0d16" title="TinyXML2::XMLDocument\l::NewUnknown" alt="" coords="208,262,384,303"/>
+<area shape="rect" id="node3" href="$classTinyXML2_1_1XMLComment.xhtml#a71e4d7cfc0349f5eddfa4d8da54908fd" title="TinyXML2::XMLComment\l::ShallowClone" alt="" coords="437,5,611,46"/>
+<area shape="rect" id="node5" href="$classTinyXML2_1_1XMLDeclaration.xhtml#a7d46862e40732a3504f11bedee5c8b88" title="TinyXML2::XMLDeclaration\l::ShallowClone" alt="" coords="433,70,615,111"/>
+<area shape="rect" id="node7" href="$classTinyXML2_1_1XMLText.xhtml#a30e358bdfd667629b483d014ed2f92a7" title="TinyXML2::XMLText::\lShallowClone" alt="" coords="449,135,599,177"/>
+<area shape="rect" id="node9" href="$classTinyXML2_1_1XMLElement.xhtml#aa6a50c3d5d452ce300212dac850d3a2c" title="Convenience method for setting text inside and element. See SetText() for important limitations..." alt="" coords="665,201,829,242"/>
+<area shape="rect" id="node11" href="$classTinyXML2_1_1XMLUnknown.xhtml#ad1af7fc04a6ea1ef03430ada735750e5" title="TinyXML2::XMLUnknown\l::ShallowClone" alt="" coords="439,266,609,307"/>
+</map>

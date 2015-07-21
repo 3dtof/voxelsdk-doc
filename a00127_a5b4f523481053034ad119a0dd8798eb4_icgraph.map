@@ -1,0 +1,30 @@
+<map id="Voxel::SerializedObject::currentGetOffset" name="Voxel::SerializedObject::currentGetOffset">
+<area shape="rect" id="node2" href="$a00034.xhtml#af19bf3b5b14e9010e924a7d2125120c9" title="Voxel::Data2DCodec\l::decompress" alt="" coords="223,95,369,137"/>
+<area shape="rect" id="node4" href="$a00096.xhtml#ab801a8f7e2eabaf3f524877c5c257fa2" title="Voxel::MainConfiguration\lFile::readFromHardware" alt="" coords="435,146,603,187"/>
+<area shape="rect" id="node21" href="$a00035.xhtml#a3e9f061054a9cad39f3232febaea292a" title="Voxel::DataPacket::read" alt="" coords="213,212,379,239"/>
+<area shape="rect" id="node28" href="$a00035.xhtml#a6b513813ba962f331cb8a2683fbf5b85" title="Voxel::DataPacket::\lreadHeader" alt="" coords="226,295,366,337"/>
+<area shape="rect" id="node3" href="$a00230.xhtml#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="493,95,544,121"/>
+<area shape="rect" id="node5" href="$a00036.xhtml#aeca7a6cb1df8643f0b38745286ac2844" title="Voxel::DepthCamera\l::_init" alt="" coords="679,121,823,162"/>
+<area shape="rect" id="node6" href="$a00154.xhtml#a34c90601da611e5cb61bd7a35f03a5f7" title="Voxel::TI::ToFCameraBase\l::_init" alt="" coords="891,121,1074,162"/>
+<area shape="rect" id="node7" href="$a00153.xhtml#a8fd9aae6546d426f494b20633a881442" title="Voxel::TI::ToFCamera\l::_init" alt="" coords="1139,121,1291,162"/>
+<area shape="rect" id="node8" href="$a00152.xhtml#aa931ad7b5e4b84779df941814c2a5b17" title="Voxel::TI::ToFCalculusCamera\l::_init" alt="" coords="1356,23,1559,65"/>
+<area shape="rect" id="node11" href="$a00159.xhtml#a749a2bbcdbfa69054d523866504743d1" title="Voxel::TI::ToFHaddockCamera\l::_init" alt="" coords="1355,121,1559,162"/>
+<area shape="rect" id="node16" href="$a00164.xhtml#af894a732f4beedc37144927eec93cc89" title="Voxel::TI::ToFTintinCamera\l::_init" alt="" coords="1365,202,1549,243"/>
+<area shape="rect" id="node9" href="$a00013.xhtml#a82eb752fb0d4b63495d2e29b6b8aed2c" title="Voxel::TI::CalculusCDKCamera\l::_init" alt="" coords="1609,6,1818,47"/>
+<area shape="rect" id="node10" href="$a00013.xhtml#af406b1427962d80da9af9fb24e89b239" title="Voxel::TI::CalculusCDKCamera\l::CalculusCDKCamera" alt="" coords="1867,6,2077,47"/>
+<area shape="rect" id="node12" href="$a00077.xhtml#a7dff103da3145dd303a5bc0db75ae961" title="Voxel::TI::HaddockCDKCamera\l::_init" alt="" coords="1608,71,1819,113"/>
+<area shape="rect" id="node14" href="$a00182.xhtml#a89011bfb795ff58d3fb8675364b91abe" title="Voxel::TI::Voxel14Camera\l::_init" alt="" coords="1625,137,1801,178"/>
+<area shape="rect" id="node13" href="$a00077.xhtml#ac2c5e82486c4cc3f5edada38cd4274c5" title="Voxel::TI::HaddockCDKCamera\l::HaddockCDKCamera" alt="" coords="1867,71,2077,113"/>
+<area shape="rect" id="node15" href="$a00182.xhtml#a606f13ed73547ee43f585e241b42dd5d" title="Voxel::TI::Voxel14Camera\l::Voxel14Camera" alt="" coords="1884,137,2060,178"/>
+<area shape="rect" id="node17" href="$a00137.xhtml#af5337f40c1a075c026263ea9871a20ee" title="Voxel::TI::TintinCDKCamera\l::_init" alt="" coords="1618,202,1809,243"/>
+<area shape="rect" id="node19" href="$a00186.xhtml#a47b15c40c3fbcc52ae1eb3c9fe74d9f1" title="Voxel::TI::VoxelDCamera\l::_init" alt="" coords="1627,267,1799,309"/>
+<area shape="rect" id="node18" href="$a00137.xhtml#a7a9918bb8b6d76bc3511536019847c1d" title="Voxel::TI::TintinCDKCamera\l::TintinCDKCamera" alt="" coords="1877,202,2067,243"/>
+<area shape="rect" id="node20" href="$a00186.xhtml#a4a95cf8257e2f9f5fd34386b87f6663a" title="Voxel::TI::VoxelDCamera\l::VoxelDCamera" alt="" coords="1886,267,2058,309"/>
+<area shape="rect" id="node22" href="$a00074.xhtml#a542b1d8bc2419e5a2f63ba9c132e569e" title="Voxel::FrameStreamReader\l::_getPacket" alt="" coords="427,211,611,253"/>
+<area shape="rect" id="node23" href="$a00074.xhtml#a619ea63e8db183e17465fab3fd246f56" title="Voxel::FrameStreamReader\l::_readConfigPacket" alt="" coords="659,186,843,227"/>
+<area shape="rect" id="node24" href="$a00074.xhtml#ab5d800095472ead3dd70924b32c0e5e8" title="Voxel::FrameStreamReader\l::readNext" alt="" coords="891,237,1075,278"/>
+<area shape="rect" id="node25" href="$a00074.xhtml#abc6eb2a299b0990a73b970d93c4bfed7" title="Voxel::FrameStreamReader\l::_init" alt="" coords="1123,295,1307,337"/>
+<area shape="rect" id="node27" href="$a00216.xhtml#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1189,244,1240,271"/>
+<area shape="rect" id="node26" href="$a00074.xhtml#aa8745d6c03e57217c27da38092800b79" title="Voxel::FrameStreamReader\l::FrameStreamReader" alt="" coords="1365,295,1549,337"/>
+<area shape="rect" id="node29" href="$a00035.xhtml#a9e0c0913913d0217e42f685942df2ea5" title="Voxel::DataPacket::read" alt="" coords="436,353,601,380"/>
+</map>

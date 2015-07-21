@@ -1,0 +1,11 @@
+<map id="ToFTintinCamera.h" name="ToFTintinCamera.h">
+<area shape="rect" id="node2" href="$a00311.xhtml" title="TintinCDKCamera.h" alt="" coords="447,80,587,107"/>
+<area shape="rect" id="node7" href="$a00367.xhtml" title="VoxelDCamera.h" alt="" coords="891,80,1013,107"/>
+<area shape="rect" id="node10" href="$a00336.xhtml" title="ToFTintinCamera.cpp" alt="" coords="1038,80,1185,107"/>
+<area shape="rect" id="node3" href="$a00310.xhtml" title="TintinCDKCamera.cpp" alt="" coords="5,155,159,181"/>
+<area shape="rect" id="node4" href="$a00312.xhtml" title="TintinCDKCameraFactory.cpp" alt="" coords="183,155,381,181"/>
+<area shape="rect" id="node5" href="$a00314.xhtml" title="TintinCDKDownloaderFactory.cpp" alt="" coords="407,155,628,181"/>
+<area shape="rect" id="node6" href="$a00316.xhtml" title="TintinEEPROMDownloader.cpp" alt="" coords="653,155,859,181"/>
+<area shape="rect" id="node8" href="$a00366.xhtml" title="VoxelDCamera.cpp" alt="" coords="884,155,1019,181"/>
+<area shape="rect" id="node9" href="$a00368.xhtml" title="VoxelDCameraFactory.cpp" alt="" coords="1045,155,1224,181"/>
+</map>

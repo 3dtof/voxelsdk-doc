@@ -1,0 +1,9 @@
+<map id="Voxel::TI::TintinEEPROMDownloader::_configureForDownload" name="Voxel::TI::TintinEEPROMDownloader::_configureForDownload">
+<area shape="rect" id="node2" href="$a00148.xhtml#a5ff321c1febeefd38de47f4af6d1921f" title="Voxel::TI::TintinEEPROMDownloader\l::_getEEPROMStatus" alt="" coords="296,5,539,46"/>
+<area shape="rect" id="node3" href="$a00148.xhtml#a5e8d288c9261361f1d769dfaac5cb920" title="Voxel::TI::TintinEEPROMDownloader\l::_printEEPROMFirst64Bytes" alt="" coords="296,70,539,111"/>
+<area shape="rect" id="node4" href="$a00047.xhtml#ae9b2538c8a0b2907157c6b003d12b01c" title="Voxel::Downloader::\l_setProgress" alt="" coords="347,135,487,177"/>
+<area shape="rect" id="node5" href="$a00167.xhtml#a733db00843f6522b28a07719c943e1fe" title="Voxel::USBDevice::productID" alt="" coords="319,201,516,228"/>
+<area shape="rect" id="node6" href="$a00193.xhtml#a44d63f580f52b0f3ff8e801b9a5d266e" title="Voxel::TI::VoxelXUProgrammer\l::reset" alt="" coords="314,253,521,294"/>
+<area shape="rect" id="node7" href="$a00193.xhtml#a59a73029b2d266a632379ba355b70276" title="Voxel::TI::VoxelXUProgrammer\l::isInitialized" alt="" coords="587,223,794,265"/>
+<area shape="rect" id="node8" href="$a00390.xhtml#ga4dfb4356b8165396c57ed67f7fb09059" title="Array handling template. " alt="" coords="631,289,750,316"/>
+</map>

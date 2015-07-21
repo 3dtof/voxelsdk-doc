@@ -1,0 +1,5 @@
+<map id="Voxel::DepthCamera::_writeToFrameStream" name="Voxel::DepthCamera::_writeToFrameStream">
+<area shape="rect" id="node2" href="$a00036.xhtml#a5f7b78a2c00ba1ff45f1f18e71ac9811" title="Voxel::DepthCamera\l::_captureLoop" alt="" coords="213,5,357,46"/>
+<area shape="rect" id="node3" href="$a00036.xhtml#a6cf4eb0a80d99bb828a7939ba1eb1cf4" title="Voxel::DepthCamera\l::_captureThreadWrapper" alt="" coords="406,5,575,46"/>
+<area shape="rect" id="node4" href="$a00036.xhtml#a8a23ac08a6a28c804552c4cf49db4e3e" title="Voxel::DepthCamera\l::start" alt="" coords="624,5,768,46"/>
+</map>

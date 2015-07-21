@@ -1,0 +1,5 @@
+<map id="Voxel::getDeviceError" name="Voxel::getDeviceError">
+<area shape="rect" id="node2" href="$a00173.xhtml#af36cb7f956e2d2a79a9912b725ebada9" title="Voxel::USBSystemPrivate\l::_iterateSetupAPI" alt="" coords="206,38,383,79"/>
+<area shape="rect" id="node3" href="$a00173.xhtml#aa1eb26db84e2fd635daf8489a09815ec" title="Voxel::USBSystemPrivate\l::_iterateOverAllDevices" alt="" coords="433,5,610,46"/>
+<area shape="rect" id="node4" href="$a00173.xhtml#a8ead463f7493be6e73587a31d7b0f04b" title="Voxel::USBSystemPrivate\l::getDevInst" alt="" coords="433,70,610,111"/>
+</map>

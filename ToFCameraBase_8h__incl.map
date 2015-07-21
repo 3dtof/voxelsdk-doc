@@ -1,0 +1,28 @@
+<map id="ToFCameraBase.h" name="ToFCameraBase.h">
+<area shape="rect" id="node2" href="$DepthCamera_8h.xhtml" title="DepthCamera.h" alt="" coords="1041,155,1156,181"/>
+<area shape="rect" id="node48" href="$ToFDepthFrameGenerator_8h.xhtml" title="ToFDepthFrameGenerator.h" alt="" coords="1793,80,1977,107"/>
+<area shape="rect" id="node3" href="$Device_8h.xhtml" title="Device.h" alt="" coords="1011,453,1084,480"/>
+<area shape="rect" id="node25" href="$Parameter_8h.xhtml" title="Parameter.h" alt="" coords="520,379,613,405"/>
+<area shape="rect" id="node26" href="$RegisterProgrammer_8h.xhtml" title="RegisterProgrammer.h" alt="" coords="254,453,407,480"/>
+<area shape="rect" id="node29" href="$Frame_8h.xhtml" title="Frame.h" alt="" coords="1014,379,1084,405"/>
+<area shape="rect" id="node32" href="$VideoMode_8h.xhtml" title="VideoMode.h" alt="" coords="432,453,531,480"/>
+<area shape="rect" id="node34" href="$FrameBuffer_8h.xhtml" title="FrameBuffer.h" alt="" coords="1723,453,1828,480"/>
+<area shape="rect" id="node35" href="$Streamer_8h.xhtml" title="Streamer.h" alt="" coords="698,304,784,331"/>
+<area shape="rect" id="node37" href="$PointCloudTransform_8h.xhtml" title="PointCloudTransform.h" alt="" coords="819,304,975,331"/>
+<area shape="rect" id="node39" href="$FilterSet_8h.xhtml" title="Filter/FilterSet.h" alt="" coords="1624,229,1739,256"/>
+<area shape="rect" id="node41" href="$FrameStream_8h.xhtml" title="FrameStream.h" alt="" coords="1437,229,1548,256"/>
+<area shape="rect" id="node42" href="$FrameGenerator_8h.xhtml" title="FrameGenerator.h" alt="" coords="1203,304,1329,331"/>
+<area shape="rect" id="node45" href="$PointCloudFrameGenerator_8h.xhtml" title="PointCloudFrameGenerator.h" alt="" coords="1070,229,1260,256"/>
+<area shape="rect" id="node46" href="$Configuration_8h.xhtml" title="Configuration.h" alt="" coords="1457,304,1567,331"/>
+<area shape="rect" id="node4" href="$Common_8h.xhtml" title="Common.h" alt="" coords="939,528,1025,555"/>
+<area shape="rect" id="node20" href="$Ptr_8h.xhtml" title="Ptr.h" alt="" coords="1849,603,1900,629"/>
+<area shape="rect" id="node27" href="$Logger_8h.xhtml" title="Logger.h" alt="" coords="1565,453,1637,480"/>
+<area shape="rect" id="node30" href="$Point_8h.xhtml" title="Point.h" alt="" coords="822,453,884,480"/>
+<area shape="rect" id="node33" href="$SerializedObject_8h.xhtml" title="SerializedObject.h" alt="" coords="1363,453,1491,480"/>
+<area shape="rect" id="node36" href="$Timer_8h.xhtml" title="Timer.h" alt="" coords="637,379,704,405"/>
+<area shape="rect" id="node40" href="$Filter_8h.xhtml" title="Filter/Filter.h" alt="" coords="1643,304,1737,331"/>
+<area shape="rect" id="node44" href="$DataPacket_8h.xhtml" title="DataPacket.h" alt="" coords="1477,379,1579,405"/>
+<area shape="rect" id="node43" href="$Serializable_8h.xhtml" title="Serializable.h" alt="" coords="1281,379,1380,405"/>
+<area shape="rect" id="node49" href="$ToFFrameGenerator_8h.xhtml" title="ToFFrameGenerator.h" alt="" coords="1810,155,1960,181"/>
+<area shape="rect" id="node50" href="$ToFCrossTalkFilter_8h.xhtml" title="ToFCrossTalkFilter.h" alt="" coords="1814,229,1959,256"/>
+</map>
