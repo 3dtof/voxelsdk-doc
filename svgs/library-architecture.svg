@@ -8,49 +8,76 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   version="1.2"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1052.3622"
    height="744.09448"
-   id="svg2">
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="library-architecture.svg">
   <defs
      id="defs4">
     <marker
-       refX="0"
-       refY="0"
+       inkscape:stockid="Arrow1Lend"
        orient="auto"
+       refY="0.0"
+       refX="0.0"
        id="Arrow1Lend"
-       style="overflow:visible">
+       style="overflow:visible;">
       <path
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
-         transform="matrix(-0.8,0,0,-0.8,-10,0)"
          id="path4265"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt" />
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
     </marker>
     <marker
-       refX="0"
-       refY="0"
+       inkscape:stockid="Arrow1Lend"
        orient="auto"
+       refY="0"
+       refX="0"
        id="Arrow1Lend-0"
        style="overflow:visible">
       <path
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
-         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0"
          id="path4265-6"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt" />
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
     </marker>
     <marker
-       refX="0"
-       refY="0"
+       inkscape:stockid="Arrow1Lend"
        orient="auto"
+       refY="0"
+       refX="0"
        id="Arrow1Lend-5"
        style="overflow:visible">
       <path
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
-         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0"
          id="path4265-1"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt" />
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
     </marker>
   </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="537.68729"
+     inkscape:cy="277.49403"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -64,570 +91,713 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(0,-308.2677)"
-     id="layer1">
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
     <rect
+       style="fill:#e9e6fa;fill-opacity:1;stroke:none"
+       id="rect7454"
        width="252.85715"
        height="172.14285"
        x="787.85712"
-       y="318.64789"
-       id="rect7454"
-       style="fill:#e9e6fa;fill-opacity:1;stroke:none" />
-    <g
-       id="g7491">
-      <rect
-         width="391.035"
-         height="221.17348"
-         x="339.35828"
-         y="384.75427"
-         id="rect2985"
-         style="fill:#f0f0f0;fill-opacity:1;stroke:#8c8c8c;stroke-width:0.89403927;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <flowRoot
-         transform="translate(-9.0913725,359.19663)"
-         id="flowRoot3755"
-         xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
-           id="flowRegion3757"><rect
-             width="105.05583"
-             height="22.223354"
-             x="352.54324"
-             y="30.926785"
-             id="rect3759"
-             style="fill:#000000;fill-opacity:1" /></flowRegion><flowPara
-           id="flowPara3761"
-           style="font-size:16px;fill:#000000;fill-opacity:1">Voxel Library</flowPara></flowRoot>      <flowRoot
-         transform="translate(315.16061,359.86372)"
-         id="flowRoot3755-7"
-         xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
-           id="flowRegion3757-4"><rect
-             width="56.568493"
-             height="23.233507"
-             x="352.54324"
-             y="30.926785"
-             id="rect3759-8"
-             style="fill:#000000;fill-opacity:1" /></flowRegion><flowPara
-           id="flowPara3761-2"
-           style="font-size:16px;fill:#000000;fill-opacity:1">Voxel::</flowPara></flowRoot>    </g>
+       y="318.64789" />
+    <rect
+       style="fill:#f0f0f0;fill-opacity:1;stroke:#8c8c8c;stroke-width:0.89403927;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2985"
+       width="391.035"
+       height="221.17348"
+       x="339.35828"
+       y="384.75427" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="667.69183"
+       y="406.74921"
+       id="text7991"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="667.69183"
+         y="406.74921"
+         id="tspan7993"><tspan
+           x="667.69183"
+           y="406.74921"
+           style="font-size:16px;fill:#000000"
+           id="tspan7995">Voxel::</tspan></tspan></text>
     <a
-       xlink:href="http://3dtof.github.io/voxelsdk-doc/classVoxel_1_1CameraSystem.xhtml"
-       id="a7513">
+       id="a8287"
+       xlink:href="http://3dtof.github.io/voxelsdk-doc/classVoxel_1_1CameraSystem.xhtml">
       <g
-         id="g6818">
+         id="g8031">
         <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.0437845;stroke-opacity:1"
+           id="rect3771-2"
            width="132.28618"
            height="26.220181"
            x="350.54483"
-           y="433.16055"
-           id="rect3771-2"
-           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.0437845;stroke-opacity:1" />
-        <flowRoot
-           transform="translate(1.7180341,351.26798)"
-           id="flowRoot3763-0"
+           y="433.16055" />
+        <text
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
-             id="flowRegion3765-5"><rect
-               width="131.31984"
-               height="24.243671"
-               x="353.55341"
-               y="83.45472"
-               id="rect3767-9" /></flowRegion><flowPara
-             id="flowPara3769-1"
-             style="font-size:16px;stroke:none">CameraSystem</flowPara></flowRoot>      </g>
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="355.28055"
+           y="450.68472"
+           id="text8008"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="355.28055"
+             y="450.68472"
+             id="tspan8010"><tspan
+               x="355.28055"
+               y="450.68472"
+               style="font-size:16px"
+               id="tspan8012">CameraSystem</tspan></tspan></text>
+      </g>
+    </a>
+    <a
+       id="a8294"
+       xlink:href="http://3dtof.github.io/voxelsdk-doc/classVoxel_1_1DepthCameraLibrary.xhtml">
+      <g
+         id="g8037">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.20226729;stroke-opacity:1"
+           id="rect3771-4"
+           width="176.57442"
+           height="26.061699"
+           x="529.42108"
+           y="434.24997" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="534.07751"
+           y="451.69489"
+           id="text8019"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="534.07751"
+             y="451.69489"
+             id="tspan8021"><tspan
+               x="534.07751"
+               y="451.69489"
+               style="font-size:16px"
+               id="tspan8023">DepthCameraLibrary</tspan></tspan></text>
+      </g>
     </a>
     <g
-       id="g6811">
+       id="g8166">
       <rect
-         width="176.57442"
-         height="26.061699"
-         x="529.42108"
-         y="434.24997"
-         id="rect3771-4"
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.20226729;stroke-opacity:1" />
-      <flowRoot
-         transform="translate(180.51502,352.27813)"
-         id="flowRoot3763-4"
-         xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
-           id="flowRegion3765-2"><rect
-             width="168.69548"
-             height="21.213213"
-             x="353.55341"
-             y="83.45472"
-             id="rect3767-6" /></flowRegion><flowPara
-           id="flowPara3769-6"
-           style="font-size:16px;stroke:none">DepthCameraLibrary</flowPara></flowRoot>    </g>
-    <g
-       id="g7502">
-      <rect
-         width="523.60419"
-         height="288.72162"
-         x="21.898491"
          y="685.76782"
+         x="21.898491"
+         height="288.72162"
+         width="523.60419"
          id="rect2985-1"
          style="fill:#f0f0f0;fill-opacity:1;stroke:#8c8c8c;stroke-width:1.18201637;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <flowRoot
-         transform="translate(-321.26657,657.78048)"
-         id="flowRoot3755-9"
-         xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
-           id="flowRegion3757-7"><rect
-             width="128.28932"
-             height="22.223354"
-             x="352.54324"
-             y="30.926785"
-             id="rect3759-80" /></flowRegion><flowPara
-           id="flowPara3761-0"
-           style="font-size:16px">TI3DToF Library</flowPara></flowRoot>      <flowRoot
-         transform="translate(106.98541,658.44757)"
-         id="flowRoot3755-7-5"
-         xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
-           id="flowRegion3757-4-6"><rect
-             width="81.90461"
-             height="21.090652"
-             x="352.54324"
-             y="30.926785"
-             id="rect3759-8-9" /></flowRegion><flowPara
-           id="flowPara3761-2-0"
-           style="font-size:16px">Voxel::TI::</flowPara></flowRoot>    </g>
-    <g
-       id="g6849">
-      <rect
-         width="139.83356"
-         height="26.191408"
-         x="211.58742"
-         y="812.17072"
-         id="rect3771-9"
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.07255828;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.1451165, 2.1451165;stroke-dashoffset:0" />
-      <flowRoot
-         transform="translate(-137.25378,730.2638)"
-         id="flowRoot3763-40"
-         xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
-           id="flowRegion3765-7"><rect
-             width="131.82492"
-             height="28.789358"
-             x="353.55341"
-             y="83.45472"
-             id="rect3767-5" /></flowRegion><flowPara
-           id="flowPara3769-2"
-           style="font-size:16px;stroke:none">ToFCameraBase</flowPara></flowRoot>    </g>
-    <g
-       id="g6861">
-      <rect
-         width="99.089188"
-         height="26.358219"
-         x="229.82672"
-         y="873.96411"
-         id="rect3771-95"
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.90574706;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.81149412, 1.81149412;stroke-dashoffset:0" />
-      <flowRoot
-         transform="translate(-118.93106,792.14053)"
-         id="flowRoot3763-1"
-         xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
-           id="flowRegion3765-3"><rect
-             width="117.1777"
-             height="29.294432"
-             x="353.55341"
-             y="83.45472"
-             id="rect3767-1" /></flowRegion><flowPara
-           id="flowPara3769-8"
-           style="font-size:16px;stroke:none">ToFCamera</flowPara></flowRoot>    </g>
-    <g
-       id="g6873">
-      <rect
-         width="170.03041"
-         height="26.083691"
-         x="30.736242"
-         y="938.99109"
-         id="rect3771-1"
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.18027604;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.36055206, 2.36055206;stroke-dashoffset:0" />
-      <flowRoot
-         transform="translate(-318.15881,857.0303)"
-         id="flowRoot3763-05"
-         xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
-           id="flowRegion3765-6"><rect
-             width="160.10919"
-             height="26.263975"
-             x="353.55341"
-             y="83.45472"
-             id="rect3767-0" /></flowRegion><flowPara
-           id="flowPara3769-4"
-           style="font-size:16px;stroke:none">ToFHaddockCamera</flowPara></flowRoot>    </g>
-    <g
-       id="g6911">
-      <rect
-         width="166.50691"
-         height="26.095715"
-         x="363.79047"
-         y="938.98511"
-         id="rect3771-5"
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.16825187;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.33650373, 2.33650373;stroke-dashoffset:0" />
-      <flowRoot
-         transform="translate(14.901392,857.03029)"
-         id="flowRoot3763-9"
-         xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
-           id="flowRegion3765-57"><rect
-             width="161.62442"
-             height="25.7589"
-             x="353.55341"
-             y="83.45472"
-             id="rect3767-05" /></flowRegion><flowPara
-           id="flowPara3769-87"
-           style="font-size:16px;stroke:none">ToFCalculusCamera</flowPara></flowRoot>    </g>
-    <g
-       id="g6837">
-      <rect
-         width="206.27908"
-         height="25.966867"
-         x="327.08328"
-         y="740.66736"
-         id="rect3771-44"
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.29709899;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.59419808, 2.59419808;stroke-dashoffset:0" />
-      <flowRoot
-         transform="translate(-17.870205,658.64811)"
-         id="flowRoot3763-3"
-         xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
-           id="flowRegion3765-0"><rect
-             width="199.50516"
-             height="25.758898"
-             x="353.55341"
-             y="83.45472"
-             id="rect3767-8" /></flowRegion><flowPara
-           id="flowPara3769-43"
-           style="font-size:16px;stroke:none">ToFCameraFactoryBase</flowPara></flowRoot>    </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text8160"
+         y="704.66595"
+         x="31.264681"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan8162"
+           y="704.66595"
+           x="31.264681"
+           sodipodi:role="line"><tspan
+             id="tspan8164"
+             style="font-size:16px"
+             y="704.66595"
+             x="31.264681">TI3DToF Library</tspan></tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text8154"
+         y="705.33307"
+         x="459.51666"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan8156"
+           y="705.33307"
+           x="459.51666"
+           sodipodi:role="line"><tspan
+             id="tspan8158"
+             style="font-size:16px"
+             y="705.33307"
+             x="459.51666">Voxel::TI::</tspan></tspan></text>
+    </g>
+    <a
+       id="a8322"
+       xlink:href="http://3dtof.github.io/voxelsdk-doc/classVoxel_1_1TI_1_1ToFCameraBase.xhtml">
+      <g
+         id="g8203">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.07255828;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.1451165, 2.1451165;stroke-dashoffset:0"
+           id="rect3771-9"
+           width="139.83356"
+           height="26.191408"
+           x="211.58742"
+           y="812.17072" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="216.30872"
+           y="829.68054"
+           id="text8197"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="216.30872"
+             y="829.68054"
+             id="tspan8199"><tspan
+               x="216.30872"
+               y="829.68054"
+               style="font-size:16px"
+               id="tspan8201">ToFCameraBase</tspan></tspan></text>
+      </g>
+    </a>
+    <a
+       id="a8329"
+       xlink:href="http://3dtof.github.io/voxelsdk-doc/classVoxel_1_1TI_1_1ToFCamera.xhtml">
+      <g
+         id="g8220">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.90574706;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.81149412, 1.81149412;stroke-dashoffset:0"
+           id="rect3771-95"
+           width="99.089188"
+           height="26.358219"
+           x="229.82672"
+           y="873.96411" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="234.63144"
+           y="891.55725"
+           id="text8214"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="234.63144"
+             y="891.55725"
+             id="tspan8216"><tspan
+               x="234.63144"
+               y="891.55725"
+               style="font-size:16px"
+               id="tspan8218">ToFCamera</tspan></tspan></text>
+      </g>
+    </a>
+    <a
+       id="a8336"
+       xlink:href="http://3dtof.github.io/voxelsdk-doc/classVoxel_1_1TI_1_1ToFHaddockCamera.xhtml">
+      <g
+         id="g8237">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.18027604;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.36055206, 2.36055206;stroke-dashoffset:0"
+           id="rect3771-1"
+           width="170.03041"
+           height="26.083691"
+           x="30.736242"
+           y="938.99109" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="35.40369"
+           y="956.44702"
+           id="text8231"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="35.40369"
+             y="956.44702"
+             id="tspan8233"><tspan
+               x="35.40369"
+               y="956.44702"
+               style="font-size:16px"
+               id="tspan8235">ToFHaddockCamera</tspan></tspan></text>
+      </g>
+    </a>
+    <a
+       id="a8350"
+       xlink:href="http://3dtof.github.io/voxelsdk-doc/classVoxel_1_1TI_1_1ToFCalculusCamera.xhtml">
+      <g
+         id="g8271">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.16825187;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.33650373, 2.33650373;stroke-dashoffset:0"
+           id="rect3771-5"
+           width="166.50691"
+           height="26.095715"
+           x="363.79047"
+           y="938.98511" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="368.4639"
+           y="956.44702"
+           id="text8265"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="368.4639"
+             y="956.44702"
+             id="tspan8267"><tspan
+               x="368.4639"
+               y="956.44702"
+               style="font-size:16px"
+               id="tspan8269">ToFCalculusCamera</tspan></tspan></text>
+      </g>
+    </a>
+    <a
+       id="a8308"
+       xlink:href="http://3dtof.github.io/voxelsdk-doc/classVoxel_1_1TI_1_1ToFCameraFactoryBase.xhtml">
+      <g
+         id="g8186">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.29709899;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.59419808, 2.59419808;stroke-dashoffset:0"
+           id="rect3771-44"
+           width="206.27908"
+           height="25.966867"
+           x="327.08328"
+           y="740.66736" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="335.69229"
+           y="758.06488"
+           id="text8180"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="335.69229"
+             y="758.06488"
+             id="tspan8182"><tspan
+               x="335.69229"
+               y="758.06488"
+               style="font-size:16px"
+               id="tspan8184">ToFCameraFactoryBase</tspan></tspan></text>
+      </g>
+    </a>
     <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
        d="m 284.86302,503.67818 0,-163.64472 128.28937,0 0,-72.73098"
-       transform="translate(0,308.2677)"
        id="path4256"
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       sodipodi:nodetypes="cccc" />
     <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
        d="m 281.83256,565.29748 0,-35.35534"
-       transform="translate(0,308.2677)"
        id="path4711"
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)" />
     <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
        d="m 114.14724,630.9574 0,-19.1929 167.68532,0 0,-20.20305"
-       transform="translate(0,308.2677)"
        id="path4895"
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
-    <g
-       id="g6899">
-      <rect
-         width="141.84633"
-         height="26.18387"
-         x="211.3584"
-         y="938.94098"
-         id="rect3771-3"
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.08009446;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.16018893, 2.16018893;stroke-dashoffset:0" />
-      <flowRoot
-         transform="translate(-137.48658,857.03028)"
-         id="flowRoot3763-6"
-         xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
-           id="flowRegion3765-4"><rect
-             width="136.37061"
-             height="28.789358"
-             x="353.55341"
-             y="83.45472"
-             id="rect3767-93" /></flowRegion><flowPara
-           id="flowPara3769-0"
-           style="font-size:16px;stroke:none">ToFTintinCamera</flowPara></flowRoot>    </g>
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)" />
+    <a
+       id="a8343"
+       xlink:href="http://3dtof.github.io/voxelsdk-doc/classVoxel_1_1TI_1_1ToFTintinCamera.xhtml">
+      <g
+         id="g8254">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.08009446;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.16018893, 2.16018893;stroke-dashoffset:0"
+           id="rect3771-3"
+           width="141.84633"
+           height="26.18387"
+           x="211.3584"
+           y="938.94098" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="216.07591"
+           y="956.44702"
+           id="text8248"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="216.07591"
+             y="956.44702"
+             id="tspan8250"><tspan
+               x="216.07591"
+               y="956.44702"
+               style="font-size:16px"
+               id="tspan8252">ToFTintinCamera</tspan></tspan></text>
+      </g>
+    </a>
     <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 281.83256,938.21494 0,-18.18274"
        id="path4897"
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       inkscape:connector-curvature="0" />
     <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 460.12449,630.45232 0.23223,-18.66752 -178.797,0"
-       transform="translate(0,308.2677)"
        id="path4899"
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       sodipodi:nodetypes="ccc" />
     <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
        d="m 431.42857,431.95162 0,-75.75571 181.73403,0 0,-87.88327"
-       transform="translate(0,308.2677)"
        id="path5083"
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       sodipodi:nodetypes="cccc" />
     <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4, 2, 1, 2;stroke-dashoffset:0;marker-end:url(#Arrow1Lend)"
        d="m 412.85714,240.99224 0.50508,-88.65809"
-       transform="translate(0,308.2677)"
        id="path5267"
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4, 2, 1, 2;stroke-dashoffset:0;marker-end:url(#Arrow1Lend)" />
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       sodipodi:nodetypes="cc" />
     <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4, 2, 1, 2;stroke-dashoffset:0;marker-end:url(#Arrow1Lend)"
        d="M 611.42857,239.80877 430.25254,151.07146"
-       transform="translate(0,308.2677)"
        id="path5451"
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4, 2, 1, 2;stroke-dashoffset:0;marker-end:url(#Arrow1Lend)" />
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       sodipodi:nodetypes="cc" />
     <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4, 2, 1, 2;stroke-dashoffset:0;marker-end:url(#Arrow1Lend)"
        d="m 527.14286,139.80877 -42.93637,-0.25254"
-       transform="translate(0,308.2677)"
        id="path5635"
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4, 2, 1, 2;stroke-dashoffset:0;marker-end:url(#Arrow1Lend)" />
-    <path
-       d="m 611.64737,241.03851 0,-89.80117"
+       inkscape:connector-curvature="0"
        transform="translate(0,308.2677)"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:4, 2, 1, 2;stroke-dashoffset:0;marker-mid:none;marker-end:url(#Arrow1Lend)"
+       d="m 611.64737,241.03851 0,-89.80117"
        id="path5819"
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4, 2, 1, 2;stroke-dashoffset:0;marker-mid:none;marker-end:url(#Arrow1Lend)" />
-    <g
-       id="g6804">
-      <rect
-         width="180.6017"
-         height="26.048376"
-         x="522.86176"
-         y="549.414"
-         id="rect3771-4-7"
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.21599996;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.43199992, 2.43199992;stroke-dashoffset:0" />
-      <flowRoot
-         transform="translate(173.94902,467.43552)"
-         id="flowRoot3763-4-9"
-         xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
-           id="flowRegion3765-2-8"><rect
-             width="177.78687"
-             height="23.233517"
-             x="353.55341"
-             y="83.45472"
-             id="rect3767-6-6"
-             style="fill:#000000;fill-opacity:1;stroke:none" /></flowRegion><flowPara
-           id="flowPara3769-6-7"
-           style="font-size:16px;fill:#000000;fill-opacity:1;stroke:none">DepthCameraFactory</flowPara></flowRoot>    </g>
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)" />
+    <a
+       id="a8301"
+       xlink:href="http://3dtof.github.io/voxelsdk-doc/classVoxel_1_1DepthCameraFactory.xhtml">
+      <g
+         id="g6804">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.21599996000000021;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.43199991999999998, 2.43199991999999998;stroke-dashoffset:0"
+           id="rect3771-4-7"
+           width="180.6017"
+           height="26.048376"
+           x="522.86176"
+           y="549.414" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text8043"
+           y="566.85223"
+           x="527.51154"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             id="tspan8045"
+             y="566.85223"
+             x="527.51154"
+             sodipodi:role="line"><tspan
+               id="tspan8047"
+               style="font-size:16px;fill:#000000"
+               y="566.85223"
+               x="527.51154">DepthCameraFactory</tspan></tspan></text>
+      </g>
+    </a>
     <rect
+       style="fill:#f0f0f0;stroke:#8c8c8c;stroke-width:0.67387794999999995;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       id="rect2985-2"
        width="391.25516"
        height="125.58504"
        x="606.43353"
-       y="685.51373"
-       id="rect2985-2"
-       style="fill:#f0f0f0;fill-opacity:1;stroke:#8c8c8c;stroke-width:0.67387795;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-    <flowRoot
-       transform="translate(258.09397,657.78048)"
-       id="flowRoot3755-3"
+       y="685.51373" />
+    <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
-         id="flowRegion3757-46"><rect
-           width="183.8477"
-           height="23.233509"
-           x="352.54324"
-           y="30.926785"
-           id="rect3759-5" /></flowRegion><flowPara
-         id="flowPara3761-3"
-         style="font-size:16px">Voxel-A Device Library</flowPara></flowRoot>    <flowRoot
-       transform="translate(563.15305,659.45772)"
-       id="flowRoot3755-7-4"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="610.62524"
+       y="704.66595"
+       id="text7985"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="610.62524"
+         y="704.66595"
+         id="tspan7987"><tspan
+           x="610.62524"
+           y="704.66595"
+           style="font-size:16px"
+           id="tspan7989">Voxel-A Device Library</tspan></tspan></text>
+    <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
-         id="flowRegion3757-4-2"><rect
-           width="97.984734"
-           height="19.1929"
-           x="352.54324"
-           y="30.926785"
-           id="rect3759-8-4" /></flowRegion><flowPara
-         id="flowPara3761-2-7"
-         style="font-size:16px">Voxel::TI::</flowPara></flowRoot>    <g
-       transform="translate(0,-8)"
-       id="g6923">
-      <rect
-         width="191.67752"
-         height="26.012518"
-         x="705.71729"
-         y="723.17816"
-         id="rect3771-4-0"
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.25144732;stroke-opacity:1" />
-      <flowRoot
-         transform="translate(356.78663,641.18176)"
-         id="flowRoot3763-4-0"
-         xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
-           id="flowRegion3765-2-1"><rect
-             width="193.94931"
-             height="25.25382"
-             x="353.55341"
-             y="83.45472"
-             id="rect3767-6-3" /></flowRegion><flowPara
-           id="flowPara3769-6-5"
-           style="font-size:16px;stroke:none">Voxel14CameraFactory</flowPara></flowRoot>    </g>
-    <g
-       transform="translate(0,8)"
-       id="g6935">
-      <rect
-         width="135.30504"
-         height="26.208572"
-         x="733.9035"
-         y="766.51672"
-         id="rect3771-4-1"
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.05539358;stroke-opacity:1" />
-      <flowRoot
-         transform="translate(385.07087,684.61831)"
-         id="flowRoot3763-4-2"
-         xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
-           id="flowRegion3765-2-0"><rect
-             width="168.69548"
-             height="21.213213"
-             x="353.55341"
-             y="83.45472"
-             id="rect3767-6-2" /></flowRegion><flowPara
-           id="flowPara3769-6-9"
-           style="font-size:16px;stroke:none">Voxel14Camera</flowPara></flowRoot>    </g>
-    <path
-       d="m 705,419.09448 -132.85714,0 0,27.14286 -39.28572,0"
-       transform="translate(0,308.2677)"
-       id="path6324"
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
-    <path
-       d="m 733.37075,480.36345 -162.12949,0 0,208.67772 -458.86179,0 0,-32.32488"
-       transform="translate(0,308.2677)"
-       id="path6508"
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="915.68433"
+       y="706.3432"
+       id="text7979"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="915.68433"
+         y="706.3432"
+         id="tspan7981"><tspan
+           x="915.68433"
+           y="706.3432"
+           style="font-size:16px"
+           id="tspan7983">Voxel::TI::</tspan></tspan></text>
     <a
-       xlink:href="http://3dtof.github.io/voxelsdk-doc/classVoxel_1_1DepthCamera.xhtml"
-       id="a7521">
+       id="a8315"
+       xlink:href="http://3dtof.github.io/voxelsdk-doc/classVoxel_1_1TI_1_1Voxel14CameraFactory.xhtml">
+      <g
+         id="g8281">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.26274157;stroke-opacity:1"
+           id="rect3771-4-0"
+           width="195.23766"
+           height="26.001225"
+           x="705.72296"
+           y="715.18384" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="710.34912"
+           y="732.59851"
+           id="text8116"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="710.34912"
+             y="732.59851"
+             id="tspan8118"><tspan
+               x="710.34912"
+               y="732.59851"
+               style="font-size:16px"
+               id="tspan8120">Voxel14CameraFactory</tspan></tspan></text>
+      </g>
+    </a>
+    <a
+       id="a8357"
+       xlink:href="http://3dtof.github.io/voxelsdk-doc/classVoxel_1_1TI_1_1Voxel14Camera.xhtml">
+      <g
+         id="g8139">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.05539358;stroke-opacity:1"
+           id="rect3771-4-1"
+           width="135.30504"
+           height="26.208572"
+           x="733.9035"
+           y="774.51672" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="738.63336"
+           y="792.03503"
+           id="text8127"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="738.63336"
+             y="792.03503"
+             id="tspan8129"><tspan
+               x="738.63336"
+               y="792.03503"
+               style="font-size:16px"
+               id="tspan8131">Voxel14Camera</tspan></tspan></text>
+      </g>
+    </a>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 705,419.09448 -132.85714,0 0,27.14286 -39.28572,0"
+       id="path6324"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 733.37075,480.36345 -162.12949,0 0,208.67772 -458.86179,0 0,-32.32488"
+       id="path6508"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       sodipodi:nodetypes="ccccc" />
+    <a
+       id="a7521"
+       xlink:href="http://3dtof.github.io/voxelsdk-doc/classVoxel_1_1DepthCamera.xhtml">
       <g
          id="g6825">
         <rect
+           style="fill:#ffffff;stroke:#000000;stroke-width:1.07255827999999998;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.14511649999999987, 2.14511649999999987;stroke-dashoffset:0;fill-opacity:1"
+           id="rect3771-9-7"
            width="139.83356"
            height="26.191408"
            x="346.94037"
-           y="549.34229"
-           id="rect3771-9-7"
-           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.07255828;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.1451165, 2.1451165;stroke-dashoffset:0" />
-        <flowRoot
-           transform="translate(7.4430847,467.43536)"
-           id="flowRoot3763-40-4"
+           y="549.34229" />
+        <text
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
-             id="flowRegion3765-7-3"><rect
-               width="131.82492"
-               height="28.789358"
-               x="353.55341"
-               y="83.45472"
-               id="rect3767-5-4" /></flowRegion><flowPara
-             id="flowPara6725"
-             style="font-size:16px;stroke:none">DepthCamera</flowPara></flowRoot>      </g>
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="361.00558"
+           y="566.85211"
+           id="text8025"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="361.00558"
+             y="566.85211"
+             id="tspan8027"><tspan
+               x="361.00558"
+               y="566.85211"
+               style="font-size:16px"
+               id="tspan8029">DepthCamera</tspan></tspan></text>
+      </g>
     </a>
     <path
-       d="m 807.49998,538.38019 a 8.9285717,8.9898462 0 1 1 -17.85714,0 8.9285717,8.9898462 0 1 1 17.85714,0 z"
-       transform="matrix(0.55053623,0,0,0.55053623,361.07179,546.20948)"
+       sodipodi:type="arc"
+       style="fill:#333333;fill-opacity:1;stroke:none"
        id="path6942"
-       style="fill:#333333;fill-opacity:1;stroke:none" />
-    <flowRoot
-       transform="translate(0,308.2677)"
-       id="flowRoot6971"
+       sodipodi:cx="798.57141"
+       sodipodi:cy="538.38019"
+       sodipodi:rx="8.9285717"
+       sodipodi:ry="8.9898462"
+       d="m 807.49998,538.38019 a 8.9285717,8.9898462 0 1 1 -17.85714,0 8.9285717,8.9898462 0 1 1 17.85714,0 z"
+       transform="matrix(0.55053623,0,0,0.55053623,361.07179,546.20948)" />
+    <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
-         id="flowRegion6973"><rect
-           width="363.65488"
-           height="125.25894"
-           x="670.74127"
-           y="679.4447"
-           id="rect6975" /></flowRegion><flowPara
-         id="flowPara6977"
-         style="font-size:16px">DepthCamera specific libraries</flowPara></flowRoot>    <path
-       d="m 807.49998,538.38019 a 8.9285717,8.9898462 0 1 1 -17.85714,0 8.9285717,8.9898462 0 1 1 17.85714,0 z"
-       transform="matrix(0.55053623,0,0,0.55053623,361.07179,597.87265)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="670.75"
+       y="1003.6532"
+       id="text7973"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="670.75"
+         y="1003.6532"
+         id="tspan7975"><tspan
+           x="670.75"
+           y="1003.6532"
+           style="font-size:16px"
+           id="tspan7977">DepthCamera specific libraries</tspan></tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#333333;fill-opacity:1;stroke:none"
        id="path6942-2"
-       style="fill:#333333;fill-opacity:1;stroke:none" />
-    <path
+       sodipodi:cx="798.57141"
+       sodipodi:cy="538.38019"
+       sodipodi:rx="8.9285717"
+       sodipodi:ry="8.9898462"
        d="m 807.49998,538.38019 a 8.9285717,8.9898462 0 1 1 -17.85714,0 8.9285717,8.9898462 0 1 1 17.85714,0 z"
-       transform="matrix(0.55053623,0,0,0.55053623,361.07179,649.53581)"
-       id="path6942-1"
-       style="fill:#333333;fill-opacity:1;stroke:none" />
+       transform="matrix(0.55053623,0,0,0.55053623,361.07179,597.87265)" />
     <path
+       sodipodi:type="arc"
+       style="fill:#333333;fill-opacity:1;stroke:none"
+       id="path6942-1"
+       sodipodi:cx="798.57141"
+       sodipodi:cy="538.38019"
+       sodipodi:rx="8.9285717"
+       sodipodi:ry="8.9898462"
+       d="m 807.49998,538.38019 a 8.9285717,8.9898462 0 1 1 -17.85714,0 8.9285717,8.9898462 0 1 1 17.85714,0 z"
+       transform="matrix(0.55053623,0,0,0.55053623,361.07179,649.53581)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4, 2, 1, 2;stroke-dashoffset:0;marker-end:url(#Arrow1Lend)"
        d="m 803.57143,465.66591 0,-32.42857"
-       transform="translate(0,308.2677)"
        id="path7013"
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4, 2, 1, 2;stroke-dashoffset:0;marker-end:url(#Arrow1Lend)" />
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       sodipodi:nodetypes="cc" />
     <g
-       transform="translate(-16,-22)"
-       id="g7432">
+       id="g8093">
       <path
-         d="m 824.32233,392.53238 42.93637,-0.25254"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
          id="path5635-0"
+         d="m 808.32233,370.53238 42.93637,-0.25254"
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4, 2, 1, 2;stroke-dashoffset:0;marker-end:url(#Arrow1Lend)" />
       <path
-         d="m 824.32233,418.07647 43.35534,0"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
          id="path4711-4"
+         d="m 808.32233,396.07647 43.35534,0"
          style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
-      <flowRoot
-         transform="translate(-46,336.2677)"
-         id="flowRoot7245"
-         xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
-           id="flowRegion7247"><rect
-             width="134.85541"
-             height="28.284271"
-             x="917.21851"
-             y="45.06892"
-             id="rect7249" /></flowRegion><flowPara
-           id="flowPara7251"
-           style="font-size:16px">Created/used in</flowPara></flowRoot>      <flowRoot
-         transform="translate(-46,362.35245)"
-         id="flowRoot7245-7"
-         xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
-           id="flowRegion7247-5"><rect
-             width="181.64119"
-             height="23.99856"
-             x="917.21851"
-             y="45.06892"
-             id="rect7249-4" /></flowRegion><flowPara
-           id="flowPara7251-1"
-           style="font-size:16px">Child of (inheritance)</flowPara></flowRoot>      <rect
-         width="45.019943"
+      <text
+         sodipodi:linespacing="125%"
+         id="text8087"
+         y="375.2782"
+         x="855.21875"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan8089"
+           y="375.2782"
+           x="855.21875"
+           sodipodi:role="line"><tspan
+             id="tspan8091"
+             style="font-size:16px"
+             y="375.2782"
+             x="855.21875">Created/used in</tspan></tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text8081"
+         y="401.36295"
+         x="855.21875"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan8083"
+           y="401.36295"
+           x="855.21875"
+           sodipodi:role="line"><tspan
+             id="tspan8085"
+             style="font-size:16px"
+             y="401.36295"
+             x="855.21875">Child of (inheritance)</tspan></tspan></text>
+      <rect
+         y="414.89429"
+         x="806.25531"
          height="26.650082"
-         x="822.25531"
-         y="436.89429"
+         width="45.019943"
          id="rect3771-4-74"
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.6138857;stroke-opacity:1" />
       <rect
-         width="45.019905"
+         y="459.17993"
+         x="806.25537"
          height="26.650282"
-         x="822.25537"
-         y="481.17993"
+         width="45.019905"
          id="rect3771-4-7-3"
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.61409491;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.22818985, 1.22818985;stroke-dashoffset:0" />
-      <flowRoot
-         transform="translate(518.01562,409.29869)"
-         id="flowRoot3755-7-3"
-         xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
-           id="flowRegion3757-4-63"><rect
-             width="156.56847"
-             height="25.376366"
-             x="352.54324"
-             y="30.926785"
-             id="rect3759-8-8"
-             style="fill:#000000;fill-opacity:1" /></flowRegion><flowPara
-           id="flowPara3761-2-04"
-           style="font-size:16px;fill:#000000;fill-opacity:1">Non-abstract class</flowPara></flowRoot>      <flowRoot
-         transform="translate(519.46094,452.15583)"
-         id="flowRoot3755-7-3-8"
-         xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
-           id="flowRegion3757-4-63-6"><rect
-             width="156.56847"
-             height="25.376366"
-             x="352.54324"
-             y="30.926785"
-             id="rect3759-8-8-6"
-             style="fill:#000000;fill-opacity:1" /></flowRegion><flowPara
-           id="flowPara3761-2-04-5"
-           style="font-size:16px;fill:#000000;fill-opacity:1">Abstract class</flowPara></flowRoot>    </g>
-    <flowRoot
-       transform="translate(528.59038,292.58439)"
-       id="flowRoot3755-7-9"
+      <text
+         sodipodi:linespacing="125%"
+         id="text8075"
+         y="434.18417"
+         x="854.54688"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan8077"
+           y="434.18417"
+           x="854.54688"
+           sodipodi:role="line"><tspan
+             id="tspan8079"
+             style="font-size:16px;fill:#000000"
+             y="434.18417"
+             x="854.54688">Non-abstract class</tspan></tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text8069"
+         y="477.04132"
+         x="855.99219"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan8071"
+           y="477.04132"
+           x="855.99219"
+           sodipodi:role="line"><tspan
+             id="tspan8073"
+             style="font-size:16px;fill:#000000"
+             y="477.04132"
+             x="855.99219">Abstract class</tspan></tspan></text>
+    </g>
+    <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
-         id="flowRegion3757-4-1"><rect
-           width="67.997055"
-           height="23.947794"
-           x="352.54324"
-           y="30.926785"
-           id="rect3759-8-3"
-           style="fill:#000000;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara3761-2-6"
-         style="font-size:16px;font-style:normal;font-weight:bold;fill:#000000;fill-opacity:1;-inkscape-font-specification:Sans Bold">Legend</flowPara></flowRoot>  </g>
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="881.12164"
+       y="339.46988"
+       id="text7967"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="881.12164"
+         y="339.46988"
+         id="tspan7969"><tspan
+           x="881.12164"
+           y="339.46988"
+           style="font-size:16px;font-weight:bold;fill:#000000;-inkscape-font-specification:Sans Bold"
+           id="tspan7971">Legend</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="343.43988"
+       y="406.08212"
+       id="text7961"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="343.43988"
+         y="406.08212"
+         id="tspan7963"><tspan
+           x="343.43988"
+           y="406.08212"
+           style="font-size:16px;fill:#000000"
+           id="tspan7965">Voxel Library</tspan></tspan></text>
+  </g>
 </svg>
