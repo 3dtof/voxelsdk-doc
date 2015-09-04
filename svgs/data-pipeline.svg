@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1079.3295"
+   height="667.73029"
+   id="svg8530"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="data-pipeline.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="626.6954"
+     inkscape:cy="381.35296"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs8532">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path4265"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-3"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4265-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-4"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4265-04"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-8"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4265-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-7"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4265-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-6"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4265-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-5"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4265-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-0"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4265-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-0-9"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4265-9-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-0-7"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4265-9-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend-0-7R"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-0-7R"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path11204"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill:#ff0000;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend-0-7R"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-0-7R-7"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path11204-4"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill:#ff0000;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend-0-7R"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-0-7R-2"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path11204-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill:#ff0000;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend-0-7RN"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-0-7RN"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path11515"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend-0-7Rp"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-0-7Rp"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path11518"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend-0-7RL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-0-7RL"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path11521"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata8535">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(263.16417,-511.86218)">
+    <a
+       id="a12453"
+       xlink:href="http://3dtof.github.io/voxelsdk-doc/classVoxel_1_1TI_1_1ToFFrameGenerator.xhtml">
+      <g
+         id="g12340">
+        <rect
+           style="fill:#c8c8c8;fill-opacity:1;stroke:#000000;stroke-width:0.6190452;stroke-opacity:1"
+           id="rect8538-5-6"
+           width="167.52382"
+           height="96.095238"
+           x="14.268015"
+           y="702.31482" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;text-anchor:start;text-align:start"
+           x="58.423359"
+           y="746.08118"
+           id="text12193"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="58.423359"
+             y="746.08118"
+             id="tspan12195"><tspan
+               x="58.423359"
+               y="746.08118"
+               style="font-size:16px;text-align:start;text-anchor:start;fill:#000000"
+               id="tspan12197">Voxel::TI::</tspan><tspan
+               dx="0"
+               x="136.76711"
+               y="746.08118"
+               style="font-size:16px;text-align:start;text-anchor:start;fill:#000000"
+               id="tspan12199" /></tspan><tspan
+             sodipodi:role="line"
+             x="18.954611"
+             y="766.08124"
+             id="tspan12201"><tspan
+               x="18.954611"
+               y="766.08124"
+               style="font-size:16px;text-align:start;text-anchor:start;fill:#000000"
+               id="tspan12203">ToFFrameGenerator</tspan></tspan></text>
+      </g>
+    </a>
+    <a
+       id="a12228"
+       xlink:href="http://3dtof.github.io/voxelsdk-doc/classVoxel_1_1RawDataFrame.xhtml">
+      <g
+         id="g12222">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+           d="m 165.17277,558.79077 203.14286,0"
+           id="path9103"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="175.87813"
+           y="550.4657"
+           id="text12216"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="175.87813"
+             y="550.4657"
+             id="tspan12218"><tspan
+               x="175.87813"
+               y="550.4657"
+               style="font-size:16px"
+               id="tspan12220">Voxel::RawDataFrame</tspan></tspan></text>
+      </g>
+    </a>
+    <a
+       id="a12403"
+       xlink:href="http://3dtof.github.io/voxelsdk-doc/classVoxel_1_1Filter.xhtml">
+      <g
+         id="g12358">
+        <rect
+           style="fill:#b7b2de;fill-opacity:1;stroke:#000000;stroke-width:0.58667874;stroke-opacity:1"
+           id="rect8538-5"
+           width="150.41333"
+           height="96.127602"
+           x="368.33554"
+           y="512.29834" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;text-anchor:start;text-align:start"
+           x="404.25705"
+           y="556.08093"
+           id="text12181"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="406.80392"
+             y="556.08093"
+             id="tspan12183"><tspan
+               x="404.25705"
+               y="556.08093"
+               style="font-size:16px;text-align:start;text-anchor:start"
+               id="tspan12185">Raw Data </tspan><tspan
+               dx="0"
+               x="486.3508"
+               y="556.08093"
+               style="font-size:16px;text-align:start;text-anchor:start"
+               id="tspan12187" /></tspan><tspan
+             sodipodi:role="line"
+             x="418.75705"
+             y="576.08093"
+             id="tspan12189"><tspan
+               x="418.75705"
+               y="576.08093"
+               style="font-size:16px;text-align:start;text-anchor:start"
+               id="tspan12191">Filters</tspan></tspan></text>
+      </g>
+    </a>
+    <a
+       id="a12241"
+       xlink:href="http://3dtof.github.io/voxelsdk-doc/classVoxel_1_1RawDataFrame.xhtml">
+      <g
+         id="g12235">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+           d="m 517.88706,558.79077 203.14286,0"
+           id="path9103-1"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="528.59241"
+           y="550.4657"
+           id="text12175"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="528.59241"
+             y="550.4657"
+             id="tspan12177"><tspan
+               x="528.59241"
+               y="550.4657"
+               style="font-size:16px"
+               id="tspan12179">Voxel::RawDataFrame</tspan></tspan></text>
+      </g>
+    </a>
+    <a
+       id="a12396"
+       xlink:href="http://3dtof.github.io/voxelsdk-doc/classVoxel_1_1Streamer.xhtml">
+      <g
+         id="g12367">
+        <rect
+           style="fill:#c8c8c8;fill-opacity:1;stroke:#000000;stroke-width:0.58667874;stroke-opacity:1"
+           id="rect8538"
+           width="150.41333"
+           height="96.127602"
+           x="14.251832"
+           y="512.15552" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="26.471886"
+           y="562.5907"
+           id="text12169"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="26.471886"
+             y="562.5907"
+             id="tspan12171"><tspan
+               x="26.471886"
+               y="562.5907"
+               style="font-size:16px"
+               id="tspan12173">Voxel::Streamer</tspan></tspan></text>
+      </g>
+    </a>
+    <a
+       id="a12254"
+       xlink:href="http://3dtof.github.io/voxelsdk-doc/classVoxel_1_1ToFRawFrame.xhtml">
+      <g
+         id="g12248">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+           d="m 182.1728,750.36246 203.1429,0"
+           id="path9103-1-6"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="192.87816"
+           y="742.03741"
+           id="text12163"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="192.87816"
+             y="742.03741"
+             id="tspan12165"><tspan
+               x="192.87816"
+               y="742.03741"
+               style="font-size:16px"
+               id="tspan12167">Voxel::ToFRawFrame</tspan></tspan></text>
+      </g>
+    </a>
+    <a
+       id="a12443"
+       xlink:href="http://3dtof.github.io/voxelsdk-doc/classVoxel_1_1TI_1_1ToFDepthFrameGenerator.xhtml">
+      <g
+         id="g12321">
+        <rect
+           style="fill:#c8c8c8;fill-opacity:1;stroke:#000000;stroke-width:0.71523893;stroke-opacity:1"
+           id="rect8538-5-6-8"
+           width="223.8562"
+           height="95.999046"
+           x="14.316089"
+           y="892.36322" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;text-anchor:start;text-align:start"
+           x="85.563927"
+           y="936.08148"
+           id="text12151"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="85.563927"
+             y="936.08148"
+             id="tspan12153"><tspan
+               x="85.563927"
+               y="936.08148"
+               style="font-size:16px;text-align:start;text-anchor:start;fill:#000000"
+               id="tspan12155">Voxel::TI::</tspan><tspan
+               dx="0"
+               x="163.90767"
+               y="936.08148"
+               style="font-size:16px;text-align:start;text-anchor:start;fill:#000000"
+               id="tspan12157" /></tspan><tspan
+             sodipodi:role="line"
+             x="21.720175"
+             y="956.08148"
+             id="tspan12159"><tspan
+               x="21.720175"
+               y="956.08148"
+               style="font-size:16px;text-align:start;text-anchor:start;fill:#000000"
+               id="tspan12161">ToFDepthFrameGenerator</tspan></tspan></text>
+      </g>
+    </a>
+    <a
+       id="a12293"
+       xlink:href="http://3dtof.github.io/voxelsdk-doc/classVoxel_1_1DepthFrame.xhtml">
+      <g
+         id="g12274">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+           d="m 239.0299,940.36273 183.1429,0"
+           id="path9103-1-6-0"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="249.7352"
+           y="932.03766"
+           id="text12145"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="249.7352"
+             y="932.03766"
+             id="tspan12147"><tspan
+               x="249.7352"
+               y="932.03766"
+               style="font-size:16px"
+               id="tspan12149">Voxel::DepthFrame</tspan></tspan></text>
+      </g>
+    </a>
+    <a
+       id="a12434"
+       xlink:href="http://3dtof.github.io/voxelsdk-doc/classVoxel_1_1PointCloudFrameGenerator.xhtml">
+      <g
+         id="g12313">
+        <rect
+           style="fill:#c8c8c8;fill-opacity:1;stroke:#000000;stroke-width:0.70494866;stroke-opacity:1"
+           id="rect8538-5-6-8-8"
+           width="217.43793"
+           height="96.009338"
+           x="14.310967"
+           y="1082.3584" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;text-anchor:start;text-align:start"
+           x="27.345161"
+           y="1126.0818"
+           id="text12135"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="27.345161"
+             y="1126.0818"
+             id="tspan12137"><tspan
+               x="27.345161"
+               y="1126.0818"
+               style="font-size:16px;text-align:start;text-anchor:start"
+               id="tspan12139">Voxel::PointCloudFrame-</tspan></tspan><tspan
+             sodipodi:role="line"
+             x="84.079536"
+             y="1146.0818"
+             id="tspan12141"><tspan
+               x="84.079536"
+               y="1146.0818"
+               style="font-size:16px;text-align:start;text-anchor:start"
+               id="tspan12143">Generator</tspan></tspan></text>
+      </g>
+    </a>
+    <a
+       id="a12306"
+       xlink:href="http://3dtof.github.io/voxelsdk-doc/classVoxel_1_1PointCloudFrame.xhtml">
+      <g
+         id="g12300">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+           d="m 232.5299,1131.2201 217.1429,0"
+           id="path9103-1-6-0-7"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="243.2352"
+           y="1122.895"
+           id="text12129"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="243.2352"
+             y="1122.895"
+             id="tspan12131"><tspan
+               x="243.2352"
+               y="1122.895"
+               style="font-size:16px"
+               id="tspan12133">Voxel::PointCloudFrame</tspan></tspan></text>
+      </g>
+    </a>
+    <a
+       id="a12413"
+       xlink:href="http://3dtof.github.io/voxelsdk-doc/classVoxel_1_1Filter.xhtml">
+      <g
+         id="g12349">
+        <rect
+           style="fill:#b7b2de;fill-opacity:1;stroke:#000000;stroke-width:0.58667874;stroke-opacity:1"
+           id="rect8538-5-1"
+           width="150.41333"
+           height="96.127602"
+           x="386.40662"
+           y="700.0127" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;text-anchor:start;text-align:start"
+           x="420.29688"
+           y="743.79523"
+           id="text12117"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="420.29688"
+             y="743.79523"
+             id="tspan12119"><tspan
+               x="420.29688"
+               y="743.79523"
+               style="font-size:16px;text-align:start;text-anchor:start"
+               id="tspan12121">ToF Frame</tspan><tspan
+               dx="0"
+               x="501.35938"
+               y="743.79523"
+               style="font-size:16px;text-align:start;text-anchor:start"
+               id="tspan12123" /></tspan><tspan
+             sodipodi:role="line"
+             x="436.82812"
+             y="763.79523"
+             id="tspan12125"><tspan
+               x="436.82812"
+               y="763.79523"
+               style="font-size:16px;text-align:start;text-anchor:start"
+               id="tspan12127">Filters</tspan></tspan></text>
+      </g>
+    </a>
+    <a
+       id="a12267"
+       xlink:href="http://3dtof.github.io/voxelsdk-doc/classVoxel_1_1ToFRawFrame.xhtml">
+      <g
+         id="g12261">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+           d="m 535.95814,746.50508 203.14286,0"
+           id="path9103-1-3"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="546.66351"
+           y="738.17999"
+           id="text12111"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="546.66351"
+             y="738.17999"
+             id="tspan12113"><tspan
+               x="546.66351"
+               y="738.17999"
+               style="font-size:16px"
+               id="tspan12115">Voxel::ToFRawFrame</tspan></tspan></text>
+      </g>
+    </a>
+    <a
+       id="a12423"
+       xlink:href="http://3dtof.github.io/voxelsdk-doc/classVoxel_1_1Filter.xhtml">
+      <g
+         id="g12330">
+        <rect
+           style="fill:#b7b2de;fill-opacity:1;stroke:#000000;stroke-width:0.58667874;stroke-opacity:1"
+           id="rect8538-5-1-4"
+           width="150.41333"
+           height="96.127602"
+           x="425.97598"
+           y="893.2019" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="454.37015"
+           y="927.23053"
+           id="text12097"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="481.08499"
+             y="927.23053"
+             id="tspan12099"><tspan
+               x="478.53812"
+               y="927.23053"
+               style="font-size:16px;text-anchor:start;text-align:start"
+               id="tspan12101">Depth </tspan></tspan><tspan
+             sodipodi:role="line"
+             x="480.50687"
+             y="947.23053"
+             id="tspan12103"><tspan
+               x="477.95999"
+               y="947.23053"
+               style="font-size:16px;text-anchor:start;text-align:start"
+               id="tspan12105">Frame </tspan></tspan><tspan
+             sodipodi:role="line"
+             x="478.91312"
+             y="967.23053"
+             id="tspan12107"><tspan
+               x="478.91312"
+               y="967.23053"
+               style="font-size:16px;text-anchor:start;text-align:start"
+               id="tspan12109">Filters</tspan></tspan></text>
+      </g>
+    </a>
+    <a
+       id="a12286"
+       xlink:href="http://3dtof.github.io/voxelsdk-doc/classVoxel_1_1DepthFrame.xhtml">
+      <g
+         id="g12280">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+           d="m 575.52751,939.69432 183.14286,0"
+           id="path9103-1-3-9"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="586.23285"
+           y="931.36926"
+           id="text12091"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="586.23285"
+             y="931.36926"
+             id="tspan12093"><tspan
+               x="586.23285"
+               y="931.36926"
+               style="font-size:16px"
+               id="tspan12095">Voxel::DepthFrame</tspan></tspan></text>
+      </g>
+    </a>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-mid:none;marker-end:url(#Arrow1Lend-0)"
+       d="m 720.23876,250.12989 0,99.25891 -761.655014,0 0,92.67007 56.568542,0"
+       id="path10161"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-mid:none;marker-end:url(#Arrow1Lend-0)"
+       d="m 739.09657,747.45856 0,99.25891 -783.65501,0 0,92.67007 56.56855,0"
+       id="path10161-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-mid:none;marker-end:url(#Arrow1Lend-0)"
+       d="m 757.09157,938.94083 0,99.25887 -801.655006,0 0,92.6701 56.568546,0"
+       id="path10161-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <a
+       id="a12463"
+       xlink:href="http://3dtof.github.io/voxelsdk-doc/classVoxel_1_1DepthCamera.xhtml#a894e0d17fd2315cf1eedc1cb60114a91">
+      <g
+         id="g12373">
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;text-anchor:start;text-align:start"
+           x="-206.6212"
+           y="547.50165"
+           id="text12081"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="-203.14464"
+             y="547.50165"
+             id="tspan12083"><tspan
+               x="-206.6212"
+               y="547.50165"
+               style="font-size:20px;font-weight:bold;text-align:start;text-anchor:start;-inkscape-font-specification:Sans Bold"
+               id="tspan12085">Raw </tspan></tspan><tspan
+             sodipodi:role="line"
+             x="-264.88293"
+             y="572.50165"
+             id="tspan12087"><tspan
+               x="-264.88293"
+               y="572.50165"
+               style="font-size:20px;font-weight:bold;text-align:start;text-anchor:start;-inkscape-font-specification:Sans Bold"
+               id="tspan12089">(Unprocessed)</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;text-anchor:start;text-align:start"
+           x="-206.6212"
+           y="747.38"
+           id="text12071"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="-203.14464"
+             y="747.38"
+             id="tspan12073"><tspan
+               x="-206.6212"
+               y="747.38"
+               style="font-size:20px;font-weight:bold;text-align:start;text-anchor:start;-inkscape-font-specification:Sans Bold"
+               id="tspan12075">Raw </tspan></tspan><tspan
+             sodipodi:role="line"
+             x="-249.78526"
+             y="772.38"
+             id="tspan12077"><tspan
+               x="-249.78526"
+               y="772.38"
+               style="font-size:20px;font-weight:bold;text-align:start;text-anchor:start;-inkscape-font-specification:Sans Bold"
+               id="tspan12079">(Processed)</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;text-anchor:start;text-align:start"
+           x="-256.10361"
+           y="946.35016"
+           id="text12065"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="-256.10361"
+             y="946.35016"
+             id="tspan12067"><tspan
+               x="-256.10361"
+               y="946.35016"
+               style="font-size:20px;font-weight:bold;text-align:start;text-anchor:start;-inkscape-font-specification:Sans Bold"
+               id="tspan12069">Depth Frame</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;text-anchor:start;text-align:start"
+           x="-243.94542"
+           y="1121.8438"
+           id="text12055"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="-240.46886"
+             y="1121.8438"
+             id="tspan12057"><tspan
+               x="-243.94542"
+               y="1121.8438"
+               style="font-size:20px;font-weight:bold;text-align:start;text-anchor:start;-inkscape-font-specification:Sans Bold"
+               id="tspan12059">Pointcloud </tspan></tspan><tspan
+             sodipodi:role="line"
+             x="-218.94542"
+             y="1146.8438"
+             id="tspan12061"><tspan
+               x="-218.94542"
+               y="1146.8438"
+               style="font-size:20px;font-weight:bold;text-align:start;text-anchor:start;-inkscape-font-specification:Sans Bold"
+               id="tspan12063">Frame</tspan></tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend-0-7RN)"
+           d="m -179.80715,588.0608 0,133.34014"
+           id="path10976"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend-0-7RL)"
+           d="m -179.80715,786.41572 0,133.34014"
+           id="path10976-1"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend-0-7Rp)"
+           d="m -179.80715,961.90931 0,133.34009"
+           id="path10976-9"
+           inkscape:connector-curvature="0" />
+      </g>
+    </a>
+  </g>
+</svg>
