@@ -10,6 +10,7 @@ var searchData=
   ['calculuspixcntmax',['CalculusPixCntMax',['../classVoxel_1_1TI_1_1CalculusPixCntMax.xhtml',1,'Voxel::TI']]],
   ['calculussubframecntmax',['CalculusSubFrameCntMax',['../classVoxel_1_1TI_1_1CalculusSubFrameCntMax.xhtml',1,'Voxel::TI']]],
   ['calculusvcofrequency',['CalculusVCOFrequency',['../classVoxel_1_1TI_1_1CalculusVCOFrequency.xhtml',1,'Voxel::TI']]],
+  ['calibrationinformation',['CalibrationInformation',['../structVoxel_1_1CalibrationInformation.xhtml',1,'Voxel']]],
   ['camerasystem',['CameraSystem',['../classVoxel_1_1CameraSystem.xhtml',1,'Voxel']]],
   ['chunk',['Chunk',['../unionTinyXML2_1_1MemPoolT_1_1Chunk.xhtml',1,'TinyXML2::MemPoolT']]],
   ['climanager',['CLIManager',['../classVoxel_1_1CLIManager.xhtml',1,'Voxel']]],

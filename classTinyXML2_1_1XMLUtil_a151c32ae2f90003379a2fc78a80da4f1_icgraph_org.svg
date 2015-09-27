@@ -207,64 +207,64 @@
 <polygon fill="midnightblue" stroke="midnightblue" points="948.569,-1370.18 938.569,-1373.68 948.569,-1377.18 948.569,-1370.18"/>
 </g>
 <!-- Node8&#45;&gt;Node6 -->
-<g id="edge9" class="edge"><title>Node8&#45;&gt;Node6</title>
+<g id="edge11" class="edge"><title>Node8&#45;&gt;Node6</title>
 <path fill="none" stroke="midnightblue" d="M746.64,-115.044C755.507,-120.903 763.938,-128.089 770,-136.681 987.482,-444.966 885.455,-594.625 948,-966.681 969.824,-1096.5 940.319,-1136.5 984,-1260.68 997.4,-1298.78 1025.19,-1337.59 1041.44,-1358.34"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="748.43,-112.037 738.068,-109.831 744.793,-118.018 748.43,-112.037"/>
 </g>
 <!-- Node8&#45;&gt;Node8 -->
-<g id="edge8" class="edge"><title>Node8&#45;&gt;Node8</title>
+<g id="edge10" class="edge"><title>Node8&#45;&gt;Node8</title>
 <path fill="none" stroke="midnightblue" d="M671.944,-120.279C675.914,-124.652 685.6,-127.681 701,-127.681 726.938,-127.681 736.664,-119.088 730.18,-109.957"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="675.44,-119.914 671.82,-109.957 668.44,-119.998 675.44,-119.914"/>
 </g>
 <!-- Node8&#45;&gt;Node9 -->
-<g id="edge10" class="edge"><title>Node8&#45;&gt;Node9</title>
+<g id="edge8" class="edge"><title>Node8&#45;&gt;Node9</title>
 <path fill="none" stroke="midnightblue" d="M769.644,-88.4612C783.164,-87.218 797.341,-85.9144 810.778,-84.6788"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="769.094,-84.997 759.456,-89.398 769.735,-91.9675 769.094,-84.997"/>
 </g>
 <!-- Node8&#45;&gt;Node10 -->
-<g id="edge11" class="edge"><title>Node8&#45;&gt;Node10</title>
+<g id="edge9" class="edge"><title>Node8&#45;&gt;Node10</title>
 <path fill="none" stroke="midnightblue" d="M747.508,-75.5887C776.365,-63.4821 813.175,-48.039 839.993,-36.7876"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="745.92,-72.4595 738.053,-79.5557 748.628,-78.9144 745.92,-72.4595"/>
 </g>
 <!-- Node11&#45;&gt;Node8 -->
-<g id="edge13" class="edge"><title>Node11&#45;&gt;Node8</title>
+<g id="edge14" class="edge"><title>Node11&#45;&gt;Node8</title>
 <path fill="none" stroke="midnightblue" d="M542.814,-528.71C555.24,-488.398 579.758,-406.354 596,-335.681 616.132,-248.085 581.381,-210.952 632,-136.681 639.815,-125.215 651.9,-116.298 663.727,-109.689"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="539.404,-527.891 539.787,-538.479 546.09,-529.963 539.404,-527.891"/>
 </g>
 <!-- Node12 -->
 <g id="node12" class="node"><title>Node12</title>
-<g id="a_node12"><a xlink:href="classTinyXML2_1_1XMLText.xhtml#a30e358bdfd667629b483d014ed2f92a7" target="_top" xlink:title="TinyXML2::XMLText::\lShallowClone">
-<polygon fill="none" stroke="black" points="644.5,-195.681 644.5,-225.681 757.5,-225.681 757.5,-195.681 644.5,-195.681"/>
-<text text-anchor="start" x="652.5" y="-213.681" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLText::</text>
-<text text-anchor="middle" x="701" y="-202.681" font-family="Helvetica,sans-Serif" font-size="10.00">ShallowClone</text>
+<g id="a_node12"><a xlink:href="classTinyXML2_1_1XMLElement.xhtml#ad9a87e90db7a84d4ad66318717e0ec11" target="_top" xlink:title="TinyXML2::XMLElement\l::GetText">
+<polygon fill="none" stroke="black" points="639.5,-195.681 639.5,-225.681 762.5,-225.681 762.5,-195.681 639.5,-195.681"/>
+<text text-anchor="start" x="647.5" y="-213.681" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLElement</text>
+<text text-anchor="middle" x="701" y="-202.681" font-family="Helvetica,sans-Serif" font-size="10.00">::GetText</text>
 </a>
 </g>
 </g>
 <!-- Node11&#45;&gt;Node12 -->
-<g id="edge14" class="edge"><title>Node11&#45;&gt;Node12</title>
-<path fill="none" stroke="midnightblue" d="M541.925,-528.721C562.328,-455.501 621.439,-245.719 632,-234.681 635.549,-230.973 639.705,-227.836 644.183,-225.184"/>
+<g id="edge13" class="edge"><title>Node11&#45;&gt;Node12</title>
+<path fill="none" stroke="midnightblue" d="M541.925,-528.721C562.328,-455.501 621.439,-245.719 632,-234.681 635.289,-231.244 639.1,-228.298 643.205,-225.774"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="538.515,-527.921 539.207,-538.493 545.259,-529.797 538.515,-527.921"/>
 </g>
 <!-- Node13 -->
 <g id="node13" class="node"><title>Node13</title>
-<g id="a_node13"><a xlink:href="classTinyXML2_1_1XMLText.xhtml#a719ba88474f639c91c13e9f3c3691166" target="_top" xlink:title="TinyXML2::XMLText::\lShallowEqual">
-<polygon fill="none" stroke="black" points="644.5,-146.681 644.5,-176.681 757.5,-176.681 757.5,-146.681 644.5,-146.681"/>
-<text text-anchor="start" x="652.5" y="-164.681" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLText::</text>
-<text text-anchor="middle" x="701" y="-153.681" font-family="Helvetica,sans-Serif" font-size="10.00">ShallowEqual</text>
+<g id="a_node13"><a xlink:href="classTinyXML2_1_1XMLElement.xhtml#af5d64f466a0b18f38183e4e9437bd5bd" target="_top" xlink:title="See QueryIntText() ">
+<polygon fill="none" stroke="black" points="639.5,-146.681 639.5,-176.681 762.5,-176.681 762.5,-146.681 639.5,-146.681"/>
+<text text-anchor="start" x="647.5" y="-164.681" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLElement</text>
+<text text-anchor="middle" x="701" y="-153.681" font-family="Helvetica,sans-Serif" font-size="10.00">::QueryBoolText</text>
 </a>
 </g>
 </g>
 <!-- Node11&#45;&gt;Node13 -->
 <g id="edge15" class="edge"><title>Node11&#45;&gt;Node13</title>
-<path fill="none" stroke="midnightblue" d="M542.26,-528.897C554.01,-488.535 577.72,-406.041 596,-335.681 613.24,-269.325 586.1,-236.609 632,-185.681 635.52,-181.776 639.716,-178.505 644.27,-175.767"/>
+<path fill="none" stroke="midnightblue" d="M542.26,-528.897C554.01,-488.535 577.72,-406.041 596,-335.681 613.24,-269.325 586.1,-236.609 632,-185.681 635.101,-182.241 638.726,-179.293 642.659,-176.768"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="538.85,-528.089 539.409,-538.669 545.57,-530.049 538.85,-528.089"/>
 </g>
 <!-- Node14 -->
 <g id="node14" class="node"><title>Node14</title>
-<g id="a_node14"><a xlink:href="classTinyXML2_1_1XMLComment.xhtml#a71e4d7cfc0349f5eddfa4d8da54908fd" target="_top" xlink:title="TinyXML2::XMLComment\l::ShallowClone">
-<polygon fill="none" stroke="black" points="636,-881.681 636,-911.681 766,-911.681 766,-881.681 636,-881.681"/>
-<text text-anchor="start" x="644" y="-899.681" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLComment</text>
-<text text-anchor="middle" x="701" y="-888.681" font-family="Helvetica,sans-Serif" font-size="10.00">::ShallowClone</text>
+<g id="a_node14"><a xlink:href="classTinyXML2_1_1XMLElement.xhtml#a5cb3327503417ee863296973b0e7c77f" target="_top" xlink:title="See QueryIntText() ">
+<polygon fill="none" stroke="black" points="639.5,-881.681 639.5,-911.681 762.5,-911.681 762.5,-881.681 639.5,-881.681"/>
+<text text-anchor="start" x="647.5" y="-899.681" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLElement</text>
+<text text-anchor="middle" x="701" y="-888.681" font-family="Helvetica,sans-Serif" font-size="10.00">::QueryDoubleText</text>
 </a>
 </g>
 </g>
@@ -275,10 +275,10 @@
 </g>
 <!-- Node15 -->
 <g id="node15" class="node"><title>Node15</title>
-<g id="a_node15"><a xlink:href="classTinyXML2_1_1XMLComment.xhtml#a897927b8b91e02f01a9f85bac9c7dec3" target="_top" xlink:title="TinyXML2::XMLComment\l::ShallowEqual">
-<polygon fill="none" stroke="black" points="636,-832.681 636,-862.681 766,-862.681 766,-832.681 636,-832.681"/>
-<text text-anchor="start" x="644" y="-850.681" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLComment</text>
-<text text-anchor="middle" x="701" y="-839.681" font-family="Helvetica,sans-Serif" font-size="10.00">::ShallowEqual</text>
+<g id="a_node15"><a xlink:href="classTinyXML2_1_1XMLElement.xhtml#adc21c65d535a3b4a741f18969e961c92" target="_top" xlink:title="See QueryIntText() ">
+<polygon fill="none" stroke="black" points="639.5,-832.681 639.5,-862.681 762.5,-862.681 762.5,-832.681 639.5,-832.681"/>
+<text text-anchor="start" x="647.5" y="-850.681" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLElement</text>
+<text text-anchor="middle" x="701" y="-839.681" font-family="Helvetica,sans-Serif" font-size="10.00">::QueryFloatText</text>
 </a>
 </g>
 </g>
@@ -289,10 +289,10 @@
 </g>
 <!-- Node16 -->
 <g id="node16" class="node"><title>Node16</title>
-<g id="a_node16"><a xlink:href="classTinyXML2_1_1XMLDeclaration.xhtml#a7d46862e40732a3504f11bedee5c8b88" target="_top" xlink:title="TinyXML2::XMLDeclaration\l::ShallowClone">
-<polygon fill="none" stroke="black" points="632.5,-783.681 632.5,-813.681 769.5,-813.681 769.5,-783.681 632.5,-783.681"/>
-<text text-anchor="start" x="640.5" y="-801.681" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLDeclaration</text>
-<text text-anchor="middle" x="701" y="-790.681" font-family="Helvetica,sans-Serif" font-size="10.00">::ShallowClone</text>
+<g id="a_node16"><a xlink:href="classTinyXML2_1_1XMLElement.xhtml#a079b02a944021267fd0109fd78bad905" target="_top" xlink:title="TinyXML2::XMLElement\l::QueryIntText">
+<polygon fill="none" stroke="black" points="639.5,-783.681 639.5,-813.681 762.5,-813.681 762.5,-783.681 639.5,-783.681"/>
+<text text-anchor="start" x="647.5" y="-801.681" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLElement</text>
+<text text-anchor="middle" x="701" y="-790.681" font-family="Helvetica,sans-Serif" font-size="10.00">::QueryIntText</text>
 </a>
 </g>
 </g>
@@ -303,10 +303,10 @@
 </g>
 <!-- Node17 -->
 <g id="node17" class="node"><title>Node17</title>
-<g id="a_node17"><a xlink:href="classTinyXML2_1_1XMLDeclaration.xhtml#aa89f796d04ddf4a87cbaaf847df3726f" target="_top" xlink:title="TinyXML2::XMLDeclaration\l::ShallowEqual">
-<polygon fill="none" stroke="black" points="632.5,-734.681 632.5,-764.681 769.5,-764.681 769.5,-734.681 632.5,-734.681"/>
-<text text-anchor="start" x="640.5" y="-752.681" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLDeclaration</text>
-<text text-anchor="middle" x="701" y="-741.681" font-family="Helvetica,sans-Serif" font-size="10.00">::ShallowEqual</text>
+<g id="a_node17"><a xlink:href="classTinyXML2_1_1XMLElement.xhtml#a4a5e98979332d1a44f7bf646d5893f3b" target="_top" xlink:title="See QueryIntText() ">
+<polygon fill="none" stroke="black" points="639.5,-734.681 639.5,-764.681 762.5,-764.681 762.5,-734.681 639.5,-734.681"/>
+<text text-anchor="start" x="647.5" y="-752.681" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLElement</text>
+<text text-anchor="middle" x="701" y="-741.681" font-family="Helvetica,sans-Serif" font-size="10.00">::QueryUnsignedText</text>
 </a>
 </g>
 </g>
@@ -317,10 +317,10 @@
 </g>
 <!-- Node18 -->
 <g id="node18" class="node"><title>Node18</title>
-<g id="a_node18"><a xlink:href="classTinyXML2_1_1XMLUnknown.xhtml#ad1af7fc04a6ea1ef03430ada735750e5" target="_top" xlink:title="TinyXML2::XMLUnknown\l::ShallowClone">
-<polygon fill="none" stroke="black" points="637,-685.681 637,-715.681 765,-715.681 765,-685.681 637,-685.681"/>
-<text text-anchor="start" x="645" y="-703.681" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLUnknown</text>
-<text text-anchor="middle" x="701" y="-692.681" font-family="Helvetica,sans-Serif" font-size="10.00">::ShallowClone</text>
+<g id="a_node18"><a xlink:href="classTinyXML2_1_1XMLText.xhtml#a30e358bdfd667629b483d014ed2f92a7" target="_top" xlink:title="TinyXML2::XMLText::\lShallowClone">
+<polygon fill="none" stroke="black" points="644.5,-685.681 644.5,-715.681 757.5,-715.681 757.5,-685.681 644.5,-685.681"/>
+<text text-anchor="start" x="652.5" y="-703.681" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLText::</text>
+<text text-anchor="middle" x="701" y="-692.681" font-family="Helvetica,sans-Serif" font-size="10.00">ShallowClone</text>
 </a>
 </g>
 </g>
@@ -331,10 +331,10 @@
 </g>
 <!-- Node19 -->
 <g id="node19" class="node"><title>Node19</title>
-<g id="a_node19"><a xlink:href="classTinyXML2_1_1XMLUnknown.xhtml#a3124e27c7380527b71da6ac8956e3c49" target="_top" xlink:title="TinyXML2::XMLUnknown\l::ShallowEqual">
-<polygon fill="none" stroke="black" points="637,-636.681 637,-666.681 765,-666.681 765,-636.681 637,-636.681"/>
-<text text-anchor="start" x="645" y="-654.681" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLUnknown</text>
-<text text-anchor="middle" x="701" y="-643.681" font-family="Helvetica,sans-Serif" font-size="10.00">::ShallowEqual</text>
+<g id="a_node19"><a xlink:href="classTinyXML2_1_1XMLComment.xhtml#a71e4d7cfc0349f5eddfa4d8da54908fd" target="_top" xlink:title="TinyXML2::XMLComment\l::ShallowClone">
+<polygon fill="none" stroke="black" points="636,-636.681 636,-666.681 766,-666.681 766,-636.681 636,-636.681"/>
+<text text-anchor="start" x="644" y="-654.681" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLComment</text>
+<text text-anchor="middle" x="701" y="-643.681" font-family="Helvetica,sans-Serif" font-size="10.00">::ShallowClone</text>
 </a>
 </g>
 </g>
@@ -345,10 +345,10 @@
 </g>
 <!-- Node20 -->
 <g id="node20" class="node"><title>Node20</title>
-<g id="a_node20"><a xlink:href="classTinyXML2_1_1XMLElement.xhtml#ad9a87e90db7a84d4ad66318717e0ec11" target="_top" xlink:title="TinyXML2::XMLElement\l::GetText">
-<polygon fill="none" stroke="black" points="639.5,-587.681 639.5,-617.681 762.5,-617.681 762.5,-587.681 639.5,-587.681"/>
-<text text-anchor="start" x="647.5" y="-605.681" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLElement</text>
-<text text-anchor="middle" x="701" y="-594.681" font-family="Helvetica,sans-Serif" font-size="10.00">::GetText</text>
+<g id="a_node20"><a xlink:href="classTinyXML2_1_1XMLDeclaration.xhtml#a7d46862e40732a3504f11bedee5c8b88" target="_top" xlink:title="TinyXML2::XMLDeclaration\l::ShallowClone">
+<polygon fill="none" stroke="black" points="632.5,-587.681 632.5,-617.681 769.5,-617.681 769.5,-587.681 632.5,-587.681"/>
+<text text-anchor="start" x="640.5" y="-605.681" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLDeclaration</text>
+<text text-anchor="middle" x="701" y="-594.681" font-family="Helvetica,sans-Serif" font-size="10.00">::ShallowClone</text>
 </a>
 </g>
 </g>
@@ -359,24 +359,24 @@
 </g>
 <!-- Node21 -->
 <g id="node21" class="node"><title>Node21</title>
-<g id="a_node21"><a xlink:href="classTinyXML2_1_1XMLElement.xhtml#a079b02a944021267fd0109fd78bad905" target="_top" xlink:title="TinyXML2::XMLElement\l::QueryIntText">
-<polygon fill="none" stroke="black" points="639.5,-538.681 639.5,-568.681 762.5,-568.681 762.5,-538.681 639.5,-538.681"/>
-<text text-anchor="start" x="647.5" y="-556.681" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLElement</text>
-<text text-anchor="middle" x="701" y="-545.681" font-family="Helvetica,sans-Serif" font-size="10.00">::QueryIntText</text>
+<g id="a_node21"><a xlink:href="classTinyXML2_1_1XMLUnknown.xhtml#ad1af7fc04a6ea1ef03430ada735750e5" target="_top" xlink:title="TinyXML2::XMLUnknown\l::ShallowClone">
+<polygon fill="none" stroke="black" points="637,-538.681 637,-568.681 765,-568.681 765,-538.681 637,-538.681"/>
+<text text-anchor="start" x="645" y="-556.681" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLUnknown</text>
+<text text-anchor="middle" x="701" y="-545.681" font-family="Helvetica,sans-Serif" font-size="10.00">::ShallowClone</text>
 </a>
 </g>
 </g>
 <!-- Node11&#45;&gt;Node21 -->
 <g id="edge23" class="edge"><title>Node11&#45;&gt;Node21</title>
-<path fill="none" stroke="midnightblue" d="M602.422,-553.681C614.695,-553.681 627.428,-553.681 639.486,-553.681"/>
+<path fill="none" stroke="midnightblue" d="M602.552,-553.681C613.922,-553.681 625.685,-553.681 636.935,-553.681"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="602.246,-550.181 592.246,-553.681 602.246,-557.181 602.246,-550.181"/>
 </g>
 <!-- Node22 -->
 <g id="node22" class="node"><title>Node22</title>
-<g id="a_node22"><a xlink:href="classTinyXML2_1_1XMLElement.xhtml#a4a5e98979332d1a44f7bf646d5893f3b" target="_top" xlink:title="See QueryIntText() ">
+<g id="a_node22"><a xlink:href="classTinyXML2_1_1XMLElement.xhtml#afe5dfc0730ed1c1b2c9e6b177e6b2fa6" target="_top" xlink:title="TinyXML2::XMLElement\l::ShallowClone">
 <polygon fill="none" stroke="black" points="639.5,-489.681 639.5,-519.681 762.5,-519.681 762.5,-489.681 639.5,-489.681"/>
 <text text-anchor="start" x="647.5" y="-507.681" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLElement</text>
-<text text-anchor="middle" x="701" y="-496.681" font-family="Helvetica,sans-Serif" font-size="10.00">::QueryUnsignedText</text>
+<text text-anchor="middle" x="701" y="-496.681" font-family="Helvetica,sans-Serif" font-size="10.00">::ShallowClone</text>
 </a>
 </g>
 </g>
@@ -387,10 +387,10 @@
 </g>
 <!-- Node23 -->
 <g id="node23" class="node"><title>Node23</title>
-<g id="a_node23"><a xlink:href="classTinyXML2_1_1XMLElement.xhtml#af5d64f466a0b18f38183e4e9437bd5bd" target="_top" xlink:title="See QueryIntText() ">
-<polygon fill="none" stroke="black" points="639.5,-440.681 639.5,-470.681 762.5,-470.681 762.5,-440.681 639.5,-440.681"/>
-<text text-anchor="start" x="647.5" y="-458.681" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLElement</text>
-<text text-anchor="middle" x="701" y="-447.681" font-family="Helvetica,sans-Serif" font-size="10.00">::QueryBoolText</text>
+<g id="a_node23"><a xlink:href="classTinyXML2_1_1XMLText.xhtml#a719ba88474f639c91c13e9f3c3691166" target="_top" xlink:title="TinyXML2::XMLText::\lShallowEqual">
+<polygon fill="none" stroke="black" points="644.5,-440.681 644.5,-470.681 757.5,-470.681 757.5,-440.681 644.5,-440.681"/>
+<text text-anchor="start" x="652.5" y="-458.681" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLText::</text>
+<text text-anchor="middle" x="701" y="-447.681" font-family="Helvetica,sans-Serif" font-size="10.00">ShallowEqual</text>
 </a>
 </g>
 </g>
@@ -401,10 +401,10 @@
 </g>
 <!-- Node24 -->
 <g id="node24" class="node"><title>Node24</title>
-<g id="a_node24"><a xlink:href="classTinyXML2_1_1XMLElement.xhtml#a5cb3327503417ee863296973b0e7c77f" target="_top" xlink:title="See QueryIntText() ">
-<polygon fill="none" stroke="black" points="639.5,-391.681 639.5,-421.681 762.5,-421.681 762.5,-391.681 639.5,-391.681"/>
-<text text-anchor="start" x="647.5" y="-409.681" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLElement</text>
-<text text-anchor="middle" x="701" y="-398.681" font-family="Helvetica,sans-Serif" font-size="10.00">::QueryDoubleText</text>
+<g id="a_node24"><a xlink:href="classTinyXML2_1_1XMLComment.xhtml#a897927b8b91e02f01a9f85bac9c7dec3" target="_top" xlink:title="TinyXML2::XMLComment\l::ShallowEqual">
+<polygon fill="none" stroke="black" points="636,-391.681 636,-421.681 766,-421.681 766,-391.681 636,-391.681"/>
+<text text-anchor="start" x="644" y="-409.681" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLComment</text>
+<text text-anchor="middle" x="701" y="-398.681" font-family="Helvetica,sans-Serif" font-size="10.00">::ShallowEqual</text>
 </a>
 </g>
 </g>
@@ -415,10 +415,10 @@
 </g>
 <!-- Node25 -->
 <g id="node25" class="node"><title>Node25</title>
-<g id="a_node25"><a xlink:href="classTinyXML2_1_1XMLElement.xhtml#adc21c65d535a3b4a741f18969e961c92" target="_top" xlink:title="See QueryIntText() ">
-<polygon fill="none" stroke="black" points="639.5,-342.681 639.5,-372.681 762.5,-372.681 762.5,-342.681 639.5,-342.681"/>
-<text text-anchor="start" x="647.5" y="-360.681" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLElement</text>
-<text text-anchor="middle" x="701" y="-349.681" font-family="Helvetica,sans-Serif" font-size="10.00">::QueryFloatText</text>
+<g id="a_node25"><a xlink:href="classTinyXML2_1_1XMLDeclaration.xhtml#aa89f796d04ddf4a87cbaaf847df3726f" target="_top" xlink:title="TinyXML2::XMLDeclaration\l::ShallowEqual">
+<polygon fill="none" stroke="black" points="632.5,-342.681 632.5,-372.681 769.5,-372.681 769.5,-342.681 632.5,-342.681"/>
+<text text-anchor="start" x="640.5" y="-360.681" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLDeclaration</text>
+<text text-anchor="middle" x="701" y="-349.681" font-family="Helvetica,sans-Serif" font-size="10.00">::ShallowEqual</text>
 </a>
 </g>
 </g>
@@ -429,10 +429,10 @@
 </g>
 <!-- Node26 -->
 <g id="node26" class="node"><title>Node26</title>
-<g id="a_node26"><a xlink:href="classTinyXML2_1_1XMLElement.xhtml#afe5dfc0730ed1c1b2c9e6b177e6b2fa6" target="_top" xlink:title="TinyXML2::XMLElement\l::ShallowClone">
-<polygon fill="none" stroke="black" points="639.5,-293.681 639.5,-323.681 762.5,-323.681 762.5,-293.681 639.5,-293.681"/>
-<text text-anchor="start" x="647.5" y="-311.681" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLElement</text>
-<text text-anchor="middle" x="701" y="-300.681" font-family="Helvetica,sans-Serif" font-size="10.00">::ShallowClone</text>
+<g id="a_node26"><a xlink:href="classTinyXML2_1_1XMLUnknown.xhtml#a3124e27c7380527b71da6ac8956e3c49" target="_top" xlink:title="TinyXML2::XMLUnknown\l::ShallowEqual">
+<polygon fill="none" stroke="black" points="637,-293.681 637,-323.681 765,-323.681 765,-293.681 637,-293.681"/>
+<text text-anchor="start" x="645" y="-311.681" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLUnknown</text>
+<text text-anchor="middle" x="701" y="-300.681" font-family="Helvetica,sans-Serif" font-size="10.00">::ShallowEqual</text>
 </a>
 </g>
 </g>
@@ -481,283 +481,283 @@
 </g>
 <!-- Node30 -->
 <g id="node30" class="node"><title>Node30</title>
-<g id="a_node30"><a xlink:href="classTinyXML2_1_1XMLAttribute.xhtml#aeb3f40e5032781658289c543a24a25c1" target="_top" xlink:title="TinyXML2::XMLAttribute\l::QueryIntValue">
-<polygon fill="none" stroke="black" points="639,-1126.68 639,-1156.68 763,-1156.68 763,-1126.68 639,-1126.68"/>
-<text text-anchor="start" x="647" y="-1144.68" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLAttribute</text>
-<text text-anchor="middle" x="701" y="-1133.68" font-family="Helvetica,sans-Serif" font-size="10.00">::QueryIntValue</text>
-</a>
-</g>
-</g>
-<!-- Node29&#45;&gt;Node30 -->
-<g id="edge32" class="edge"><title>Node29&#45;&gt;Node30</title>
-<path fill="none" stroke="midnightblue" d="M595.501,-1110.65C613.18,-1115.9 632.313,-1121.58 649.316,-1126.63"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="596.434,-1107.27 585.852,-1107.78 594.442,-1113.98 596.434,-1107.27"/>
-</g>
-<!-- Node32 -->
-<g id="node32" class="node"><title>Node32</title>
-<g id="a_node32"><a xlink:href="classTinyXML2_1_1XMLAttribute.xhtml#a3bb8836bee3c3c3e2414d79020fdc027" target="_top" xlink:title="See QueryIntValue. ">
-<polygon fill="none" stroke="black" points="639,-1077.68 639,-1107.68 763,-1107.68 763,-1077.68 639,-1077.68"/>
-<text text-anchor="start" x="647" y="-1095.68" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLAttribute</text>
-<text text-anchor="middle" x="701" y="-1084.68" font-family="Helvetica,sans-Serif" font-size="10.00">::QueryUnsignedValue</text>
-</a>
-</g>
-</g>
-<!-- Node29&#45;&gt;Node32 -->
-<g id="edge34" class="edge"><title>Node29&#45;&gt;Node32</title>
-<path fill="none" stroke="midnightblue" d="M606.617,-1092.68C617.337,-1092.68 628.306,-1092.68 638.784,-1092.68"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="606.44,-1089.18 596.44,-1092.68 606.44,-1096.18 606.44,-1089.18"/>
-</g>
-<!-- Node34 -->
-<g id="node34" class="node"><title>Node34</title>
-<g id="a_node34"><a xlink:href="classTinyXML2_1_1XMLAttribute.xhtml#a63c839cfa95b0a88bdace75571e2e061" target="_top" xlink:title="See QueryIntValue. ">
-<polygon fill="none" stroke="black" points="639,-1028.68 639,-1058.68 763,-1058.68 763,-1028.68 639,-1028.68"/>
-<text text-anchor="start" x="647" y="-1046.68" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLAttribute</text>
-<text text-anchor="middle" x="701" y="-1035.68" font-family="Helvetica,sans-Serif" font-size="10.00">::QueryBoolValue</text>
-</a>
-</g>
-</g>
-<!-- Node29&#45;&gt;Node34 -->
-<g id="edge36" class="edge"><title>Node29&#45;&gt;Node34</title>
-<path fill="none" stroke="midnightblue" d="M595.501,-1074.71C613.18,-1069.46 632.313,-1063.78 649.316,-1058.73"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="594.442,-1071.38 585.852,-1077.58 596.434,-1078.09 594.442,-1071.38"/>
-</g>
-<!-- Node36 -->
-<g id="node36" class="node"><title>Node36</title>
-<g id="a_node36"><a xlink:href="classTinyXML2_1_1XMLAttribute.xhtml#a4037788a612e1acac4e806ae917bce65" target="_top" xlink:title="See QueryIntValue. ">
-<polygon fill="none" stroke="black" points="639,-979.681 639,-1009.68 763,-1009.68 763,-979.681 639,-979.681"/>
-<text text-anchor="start" x="647" y="-997.681" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLAttribute</text>
-<text text-anchor="middle" x="701" y="-986.681" font-family="Helvetica,sans-Serif" font-size="10.00">::QueryFloatValue</text>
-</a>
-</g>
-</g>
-<!-- Node29&#45;&gt;Node36 -->
-<g id="edge38" class="edge"><title>Node29&#45;&gt;Node36</title>
-<path fill="none" stroke="midnightblue" d="M559.151,-1070.82C577.932,-1054.7 605.217,-1033.16 632,-1018.68 638.057,-1015.41 644.651,-1012.43 651.27,-1009.78"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="556.639,-1068.37 551.401,-1077.58 561.239,-1073.64 556.639,-1068.37"/>
-</g>
-<!-- Node38 -->
-<g id="node38" class="node"><title>Node38</title>
-<g id="a_node38"><a xlink:href="classTinyXML2_1_1XMLAttribute.xhtml#a37effab97ca5300dacdec6ca00a04ad3" target="_top" xlink:title="See QueryIntValue. ">
-<polygon fill="none" stroke="black" points="639,-1224.68 639,-1254.68 763,-1254.68 763,-1224.68 639,-1224.68"/>
-<text text-anchor="start" x="647" y="-1242.68" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLAttribute</text>
-<text text-anchor="middle" x="701" y="-1231.68" font-family="Helvetica,sans-Serif" font-size="10.00">::QueryDoubleValue</text>
-</a>
-</g>
-</g>
-<!-- Node29&#45;&gt;Node38 -->
-<g id="edge40" class="edge"><title>Node29&#45;&gt;Node38</title>
-<path fill="none" stroke="midnightblue" d="M548.656,-1116.93C565.153,-1144.22 595.311,-1188.17 632,-1214.68 637.302,-1218.51 643.255,-1221.82 649.377,-1224.65"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="551.5,-1114.87 543.403,-1108.03 545.472,-1118.42 551.5,-1114.87"/>
-</g>
-<!-- Node40 -->
-<g id="node40" class="node"><title>Node40</title>
-<g id="a_node40"><a xlink:href="classTinyXML2_1_1XMLElement.xhtml#a824774b2d0c2b797d028a5e2434d3759" target="_top" xlink:title="TinyXML2::XMLElement\l::Attribute">
+<g id="a_node30"><a xlink:href="classTinyXML2_1_1XMLElement.xhtml#a824774b2d0c2b797d028a5e2434d3759" target="_top" xlink:title="TinyXML2::XMLElement\l::Attribute">
 <polygon fill="none" stroke="black" points="639.5,-1175.68 639.5,-1205.68 762.5,-1205.68 762.5,-1175.68 639.5,-1175.68"/>
 <text text-anchor="start" x="647.5" y="-1193.68" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLElement</text>
 <text text-anchor="middle" x="701" y="-1182.68" font-family="Helvetica,sans-Serif" font-size="10.00">::Attribute</text>
 </a>
 </g>
 </g>
-<!-- Node29&#45;&gt;Node40 -->
-<g id="edge42" class="edge"><title>Node29&#45;&gt;Node40</title>
+<!-- Node29&#45;&gt;Node30 -->
+<g id="edge32" class="edge"><title>Node29&#45;&gt;Node30</title>
 <path fill="none" stroke="midnightblue" d="M559.598,-1114.42C578.42,-1130.22 605.558,-1151.28 632,-1165.68 638.738,-1169.35 646.126,-1172.69 653.471,-1175.65"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="561.699,-1111.61 551.817,-1107.78 557.158,-1116.93 561.699,-1111.61"/>
 </g>
+<!-- Node39 -->
+<g id="node39" class="node"><title>Node39</title>
+<g id="a_node39"><a xlink:href="classTinyXML2_1_1XMLAttribute.xhtml#a63c839cfa95b0a88bdace75571e2e061" target="_top" xlink:title="See QueryIntValue. ">
+<polygon fill="none" stroke="black" points="639,-1126.68 639,-1156.68 763,-1156.68 763,-1126.68 639,-1126.68"/>
+<text text-anchor="start" x="647" y="-1144.68" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLAttribute</text>
+<text text-anchor="middle" x="701" y="-1133.68" font-family="Helvetica,sans-Serif" font-size="10.00">::QueryBoolValue</text>
+</a>
+</g>
+</g>
+<!-- Node29&#45;&gt;Node39 -->
+<g id="edge44" class="edge"><title>Node29&#45;&gt;Node39</title>
+<path fill="none" stroke="midnightblue" d="M595.501,-1110.65C613.18,-1115.9 632.313,-1121.58 649.316,-1126.63"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="596.434,-1107.27 585.852,-1107.78 594.442,-1113.98 596.434,-1107.27"/>
+</g>
+<!-- Node41 -->
+<g id="node41" class="node"><title>Node41</title>
+<g id="a_node41"><a xlink:href="classTinyXML2_1_1XMLAttribute.xhtml#a37effab97ca5300dacdec6ca00a04ad3" target="_top" xlink:title="See QueryIntValue. ">
+<polygon fill="none" stroke="black" points="639,-1077.68 639,-1107.68 763,-1107.68 763,-1077.68 639,-1077.68"/>
+<text text-anchor="start" x="647" y="-1095.68" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLAttribute</text>
+<text text-anchor="middle" x="701" y="-1084.68" font-family="Helvetica,sans-Serif" font-size="10.00">::QueryDoubleValue</text>
+</a>
+</g>
+</g>
+<!-- Node29&#45;&gt;Node41 -->
+<g id="edge46" class="edge"><title>Node29&#45;&gt;Node41</title>
+<path fill="none" stroke="midnightblue" d="M606.617,-1092.68C617.337,-1092.68 628.306,-1092.68 638.784,-1092.68"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="606.44,-1089.18 596.44,-1092.68 606.44,-1096.18 606.44,-1089.18"/>
+</g>
+<!-- Node43 -->
+<g id="node43" class="node"><title>Node43</title>
+<g id="a_node43"><a xlink:href="classTinyXML2_1_1XMLAttribute.xhtml#a4037788a612e1acac4e806ae917bce65" target="_top" xlink:title="See QueryIntValue. ">
+<polygon fill="none" stroke="black" points="639,-1028.68 639,-1058.68 763,-1058.68 763,-1028.68 639,-1028.68"/>
+<text text-anchor="start" x="647" y="-1046.68" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLAttribute</text>
+<text text-anchor="middle" x="701" y="-1035.68" font-family="Helvetica,sans-Serif" font-size="10.00">::QueryFloatValue</text>
+</a>
+</g>
+</g>
+<!-- Node29&#45;&gt;Node43 -->
+<g id="edge48" class="edge"><title>Node29&#45;&gt;Node43</title>
+<path fill="none" stroke="midnightblue" d="M595.501,-1074.71C613.18,-1069.46 632.313,-1063.78 649.316,-1058.73"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="594.442,-1071.38 585.852,-1077.58 596.434,-1078.09 594.442,-1071.38"/>
+</g>
+<!-- Node45 -->
+<g id="node45" class="node"><title>Node45</title>
+<g id="a_node45"><a xlink:href="classTinyXML2_1_1XMLAttribute.xhtml#aeb3f40e5032781658289c543a24a25c1" target="_top" xlink:title="TinyXML2::XMLAttribute\l::QueryIntValue">
+<polygon fill="none" stroke="black" points="639,-979.681 639,-1009.68 763,-1009.68 763,-979.681 639,-979.681"/>
+<text text-anchor="start" x="647" y="-997.681" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLAttribute</text>
+<text text-anchor="middle" x="701" y="-986.681" font-family="Helvetica,sans-Serif" font-size="10.00">::QueryIntValue</text>
+</a>
+</g>
+</g>
+<!-- Node29&#45;&gt;Node45 -->
+<g id="edge50" class="edge"><title>Node29&#45;&gt;Node45</title>
+<path fill="none" stroke="midnightblue" d="M559.151,-1070.82C577.932,-1054.7 605.217,-1033.16 632,-1018.68 638.057,-1015.41 644.651,-1012.43 651.27,-1009.78"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="556.639,-1068.37 551.401,-1077.58 561.239,-1073.64 556.639,-1068.37"/>
+</g>
+<!-- Node47 -->
+<g id="node47" class="node"><title>Node47</title>
+<g id="a_node47"><a xlink:href="classTinyXML2_1_1XMLAttribute.xhtml#a3bb8836bee3c3c3e2414d79020fdc027" target="_top" xlink:title="See QueryIntValue. ">
+<polygon fill="none" stroke="black" points="639,-1224.68 639,-1254.68 763,-1254.68 763,-1224.68 639,-1224.68"/>
+<text text-anchor="start" x="647" y="-1242.68" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLAttribute</text>
+<text text-anchor="middle" x="701" y="-1231.68" font-family="Helvetica,sans-Serif" font-size="10.00">::QueryUnsignedValue</text>
+</a>
+</g>
+</g>
+<!-- Node29&#45;&gt;Node47 -->
+<g id="edge52" class="edge"><title>Node29&#45;&gt;Node47</title>
+<path fill="none" stroke="midnightblue" d="M548.656,-1116.93C565.153,-1144.22 595.311,-1188.17 632,-1214.68 637.302,-1218.51 643.255,-1221.82 649.377,-1224.65"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="551.5,-1114.87 543.403,-1108.03 545.472,-1118.42 551.5,-1114.87"/>
+</g>
+<!-- Node30&#45;&gt;Node5 -->
+<g id="edge43" class="edge"><title>Node30&#45;&gt;Node5</title>
+<path fill="none" stroke="midnightblue" d="M767.228,-1211.93C768.189,-1212.81 769.115,-1213.73 770,-1214.68 811.898,-1259.93 764.186,-1303.36 806,-1348.68 809.588,-1352.57 813.821,-1355.85 818.403,-1358.63"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="769.32,-1209.12 759.24,-1205.86 765.087,-1214.7 769.32,-1209.12"/>
+</g>
 <!-- Node31 -->
 <g id="node31" class="node"><title>Node31</title>
-<g id="a_node31"><a xlink:href="classTinyXML2_1_1XMLElement.xhtml#a245dc8d2da965b96a5ce5e2be80c2831" target="_top" xlink:title="TinyXML2::XMLElement\l::QueryIntAttribute">
-<polygon fill="none" stroke="black" points="815.5,-1123.68 815.5,-1153.68 938.5,-1153.68 938.5,-1123.68 815.5,-1123.68"/>
-<text text-anchor="start" x="823.5" y="-1141.68" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLElement</text>
-<text text-anchor="middle" x="877" y="-1130.68" font-family="Helvetica,sans-Serif" font-size="10.00">::QueryIntAttribute</text>
+<g id="a_node31"><a xlink:href="classVoxel_1_1ParameterDMLParser.xhtml#a045dd911c20e776e52ca27a94e145cb3" target="_top" xlink:title="Voxel::ParameterDMLParser\l::_getParameter">
+<polygon fill="none" stroke="black" points="806,-1221.68 806,-1251.68 948,-1251.68 948,-1221.68 806,-1221.68"/>
+<text text-anchor="start" x="814" y="-1239.68" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::ParameterDMLParser</text>
+<text text-anchor="middle" x="877" y="-1228.68" font-family="Helvetica,sans-Serif" font-size="10.00">::_getParameter</text>
 </a>
 </g>
 </g>
 <!-- Node30&#45;&gt;Node31 -->
 <g id="edge33" class="edge"><title>Node30&#45;&gt;Node31</title>
-<path fill="none" stroke="midnightblue" d="M773.346,-1140.45C787.243,-1140.21 801.691,-1139.96 815.208,-1139.73"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="773.284,-1136.95 763.346,-1140.62 773.405,-1143.95 773.284,-1136.95"/>
-</g>
-<!-- Node33 -->
-<g id="node33" class="node"><title>Node33</title>
-<g id="a_node33"><a xlink:href="classTinyXML2_1_1XMLElement.xhtml#a3340cac4ff5f8c1c6e49942999c64612" target="_top" xlink:title="See QueryIntAttribute() ">
-<polygon fill="none" stroke="black" points="813.5,-1074.68 813.5,-1104.68 940.5,-1104.68 940.5,-1074.68 813.5,-1074.68"/>
-<text text-anchor="start" x="821.5" y="-1092.68" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLElement</text>
-<text text-anchor="middle" x="877" y="-1081.68" font-family="Helvetica,sans-Serif" font-size="10.00">::QueryUnsignedAttribute</text>
-</a>
-</g>
-</g>
-<!-- Node32&#45;&gt;Node33 -->
-<g id="edge35" class="edge"><title>Node32&#45;&gt;Node33</title>
-<path fill="none" stroke="midnightblue" d="M773.384,-1091.45C786.667,-1091.22 800.452,-1090.98 813.445,-1090.76"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="773.284,-1087.95 763.346,-1091.62 773.405,-1094.95 773.284,-1087.95"/>
-</g>
-<!-- Node35 -->
-<g id="node35" class="node"><title>Node35</title>
-<g id="a_node35"><a xlink:href="classTinyXML2_1_1XMLElement.xhtml#a600231a2e5e621634e4fcee4ff137106" target="_top" xlink:title="See QueryIntAttribute() ">
-<polygon fill="none" stroke="black" points="815.5,-1025.68 815.5,-1055.68 938.5,-1055.68 938.5,-1025.68 815.5,-1025.68"/>
-<text text-anchor="start" x="823.5" y="-1043.68" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLElement</text>
-<text text-anchor="middle" x="877" y="-1032.68" font-family="Helvetica,sans-Serif" font-size="10.00">::QueryBoolAttribute</text>
-</a>
-</g>
-</g>
-<!-- Node34&#45;&gt;Node35 -->
-<g id="edge37" class="edge"><title>Node34&#45;&gt;Node35</title>
-<path fill="none" stroke="midnightblue" d="M773.346,-1042.45C787.243,-1042.21 801.691,-1041.96 815.208,-1041.73"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="773.284,-1038.95 763.346,-1042.62 773.405,-1045.95 773.284,-1038.95"/>
-</g>
-<!-- Node37 -->
-<g id="node37" class="node"><title>Node37</title>
-<g id="a_node37"><a xlink:href="classTinyXML2_1_1XMLElement.xhtml#afdc3b53ba1b7bf605ed5d4166de4984c" target="_top" xlink:title="See QueryIntAttribute() ">
-<polygon fill="none" stroke="black" points="815.5,-976.681 815.5,-1006.68 938.5,-1006.68 938.5,-976.681 815.5,-976.681"/>
-<text text-anchor="start" x="823.5" y="-994.681" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLElement</text>
-<text text-anchor="middle" x="877" y="-983.681" font-family="Helvetica,sans-Serif" font-size="10.00">::QueryFloatAttribute</text>
-</a>
-</g>
-</g>
-<!-- Node36&#45;&gt;Node37 -->
-<g id="edge39" class="edge"><title>Node36&#45;&gt;Node37</title>
-<path fill="none" stroke="midnightblue" d="M773.346,-993.451C787.243,-993.212 801.691,-992.963 815.208,-992.729"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="773.284,-989.952 763.346,-993.624 773.405,-996.951 773.284,-989.952"/>
-</g>
-<!-- Node39 -->
-<g id="node39" class="node"><title>Node39</title>
-<g id="a_node39"><a xlink:href="classTinyXML2_1_1XMLElement.xhtml#af3af1105159dbe30a833619eccd8a27f" target="_top" xlink:title="See QueryIntAttribute() ">
-<polygon fill="none" stroke="black" points="815.5,-1309.68 815.5,-1339.68 938.5,-1339.68 938.5,-1309.68 815.5,-1309.68"/>
-<text text-anchor="start" x="823.5" y="-1327.68" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLElement</text>
-<text text-anchor="middle" x="877" y="-1316.68" font-family="Helvetica,sans-Serif" font-size="10.00">::QueryDoubleAttribute</text>
-</a>
-</g>
-</g>
-<!-- Node38&#45;&gt;Node39 -->
-<g id="edge41" class="edge"><title>Node38&#45;&gt;Node39</title>
-<path fill="none" stroke="midnightblue" d="M761.044,-1258.95C764.124,-1260.44 767.129,-1262.02 770,-1263.68 788.27,-1274.27 788.087,-1283.5 806,-1294.68 814.974,-1300.28 825.175,-1305.31 834.96,-1309.58"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="762.19,-1255.63 751.633,-1254.75 759.334,-1262.02 762.19,-1255.63"/>
-</g>
-<!-- Node40&#45;&gt;Node5 -->
-<g id="edge53" class="edge"><title>Node40&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M767.228,-1211.93C768.189,-1212.81 769.115,-1213.73 770,-1214.68 811.898,-1259.93 764.186,-1303.36 806,-1348.68 809.588,-1352.57 813.821,-1355.85 818.403,-1358.63"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="769.32,-1209.12 759.24,-1205.86 765.087,-1214.7 769.32,-1209.12"/>
-</g>
-<!-- Node41 -->
-<g id="node41" class="node"><title>Node41</title>
-<g id="a_node41"><a xlink:href="classVoxel_1_1ParameterDMLParser.xhtml#a2d21730f3b40ad5dabbc0ad62c596705" target="_top" xlink:title="Voxel::ParameterDMLParser\l::_prepare">
-<polygon fill="none" stroke="black" points="806,-1221.68 806,-1251.68 948,-1251.68 948,-1221.68 806,-1221.68"/>
-<text text-anchor="start" x="814" y="-1239.68" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::ParameterDMLParser</text>
-<text text-anchor="middle" x="877" y="-1228.68" font-family="Helvetica,sans-Serif" font-size="10.00">::_prepare</text>
-</a>
-</g>
-</g>
-<!-- Node40&#45;&gt;Node41 -->
-<g id="edge43" class="edge"><title>Node40&#45;&gt;Node41</title>
 <path fill="none" stroke="midnightblue" d="M768.649,-1208.3C785.321,-1212.71 803.05,-1217.4 819.195,-1221.66"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="769.537,-1204.92 758.974,-1205.74 767.747,-1211.68 769.537,-1204.92"/>
 </g>
-<!-- Node42 -->
-<g id="node42" class="node"><title>Node42</title>
-<g id="a_node42"><a xlink:href="classVoxel_1_1ParameterDMLParser.xhtml#ad605e36f21f13ac72f59e58e64754e74" target="_top" xlink:title="Voxel::ParameterDMLParser\l::getParameters">
+<!-- Node32 -->
+<g id="node32" class="node"><title>Node32</title>
+<g id="a_node32"><a xlink:href="classVoxel_1_1ParameterDMLParser.xhtml#ad605e36f21f13ac72f59e58e64754e74" target="_top" xlink:title="Voxel::ParameterDMLParser\l::getParameters">
 <polygon fill="none" stroke="black" points="984,-1221.68 984,-1251.68 1126,-1251.68 1126,-1221.68 984,-1221.68"/>
 <text text-anchor="start" x="992" y="-1239.68" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::ParameterDMLParser</text>
 <text text-anchor="middle" x="1055" y="-1228.68" font-family="Helvetica,sans-Serif" font-size="10.00">::getParameters</text>
 </a>
 </g>
 </g>
-<!-- Node40&#45;&gt;Node42 -->
-<g id="edge52" class="edge"><title>Node40&#45;&gt;Node42</title>
+<!-- Node30&#45;&gt;Node32 -->
+<g id="edge42" class="edge"><title>Node30&#45;&gt;Node32</title>
 <path fill="none" stroke="midnightblue" d="M763.45,-1210.43C765.716,-1211.76 767.909,-1213.18 770,-1214.68 791.083,-1229.83 782.662,-1249.31 806,-1260.68 874.829,-1294.22 967.035,-1269.91 1017.39,-1251.71"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="764.892,-1207.23 754.41,-1205.69 761.639,-1213.43 764.892,-1207.23"/>
 </g>
-<!-- Node48 -->
-<g id="node48" class="node"><title>Node48</title>
-<g id="a_node48"><a xlink:href="classVoxel_1_1ParameterDMLParser.xhtml#a045dd911c20e776e52ca27a94e145cb3" target="_top" xlink:title="Voxel::ParameterDMLParser\l::_getParameter">
+<!-- Node38 -->
+<g id="node38" class="node"><title>Node38</title>
+<g id="a_node38"><a xlink:href="classVoxel_1_1ParameterDMLParser.xhtml#a2d21730f3b40ad5dabbc0ad62c596705" target="_top" xlink:title="Voxel::ParameterDMLParser\l::_prepare">
 <polygon fill="none" stroke="black" points="806,-1172.68 806,-1202.68 948,-1202.68 948,-1172.68 806,-1172.68"/>
 <text text-anchor="start" x="814" y="-1190.68" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::ParameterDMLParser</text>
-<text text-anchor="middle" x="877" y="-1179.68" font-family="Helvetica,sans-Serif" font-size="10.00">::_getParameter</text>
+<text text-anchor="middle" x="877" y="-1179.68" font-family="Helvetica,sans-Serif" font-size="10.00">::_prepare</text>
 </a>
 </g>
 </g>
-<!-- Node40&#45;&gt;Node48 -->
-<g id="edge50" class="edge"><title>Node40&#45;&gt;Node48</title>
+<!-- Node30&#45;&gt;Node38 -->
+<g id="edge40" class="edge"><title>Node30&#45;&gt;Node38</title>
 <path fill="none" stroke="midnightblue" d="M773.118,-1189.46C783.953,-1189.27 795.128,-1189.08 805.941,-1188.89"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="772.795,-1185.96 762.857,-1189.63 772.916,-1192.96 772.795,-1185.96"/>
 </g>
-<!-- Node41&#45;&gt;Node42 -->
-<g id="edge44" class="edge"><title>Node41&#45;&gt;Node42</title>
+<!-- Node31&#45;&gt;Node32 -->
+<g id="edge34" class="edge"><title>Node31&#45;&gt;Node32</title>
 <path fill="none" stroke="midnightblue" d="M958.101,-1236.68C966.706,-1236.68 975.412,-1236.68 983.888,-1236.68"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="958.066,-1233.18 948.066,-1236.68 958.066,-1240.18 958.066,-1233.18"/>
 </g>
-<!-- Node43 -->
-<g id="node43" class="node"><title>Node43</title>
-<g id="a_node43"><a xlink:href="DMLParseTest_8cpp.xhtml#a0ddf1224851353fc92bfbff6f499fa97" target="_top" xlink:title="main">
+<!-- Node33 -->
+<g id="node33" class="node"><title>Node33</title>
+<g id="a_node33"><a xlink:href="DMLParseTest_8cpp.xhtml#a0ddf1224851353fc92bfbff6f499fa97" target="_top" xlink:title="main">
 <polygon fill="none" stroke="black" points="1220,-1296.18 1220,-1315.18 1258,-1315.18 1258,-1296.18 1220,-1296.18"/>
 <text text-anchor="middle" x="1239" y="-1303.18" font-family="Helvetica,sans-Serif" font-size="10.00">main</text>
 </a>
 </g>
 </g>
-<!-- Node42&#45;&gt;Node43 -->
-<g id="edge45" class="edge"><title>Node42&#45;&gt;Node43</title>
+<!-- Node32&#45;&gt;Node33 -->
+<g id="edge35" class="edge"><title>Node32&#45;&gt;Node33</title>
 <path fill="none" stroke="midnightblue" d="M1094.15,-1256.3C1114.03,-1266.01 1138.94,-1277.39 1162,-1285.68 1181.39,-1292.65 1204.34,-1298.36 1219.92,-1301.87"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="1095.63,-1253.12 1085.12,-1251.83 1092.53,-1259.4 1095.63,-1253.12"/>
 </g>
-<!-- Node44 -->
-<g id="node44" class="node"><title>Node44</title>
-<g id="a_node44"><a xlink:href="classVoxel_1_1TI_1_1ToFCalculusCamera.xhtml#aa931ad7b5e4b84779df941814c2a5b17" target="_top" xlink:title="Voxel::TI::ToFCalculusCamera\l::_init">
+<!-- Node34 -->
+<g id="node34" class="node"><title>Node34</title>
+<g id="a_node34"><a xlink:href="classVoxel_1_1TI_1_1ToFCalculusCamera.xhtml#aa931ad7b5e4b84779df941814c2a5b17" target="_top" xlink:title="Voxel::TI::ToFCalculusCamera\l::_init">
 <polygon fill="none" stroke="black" points="1163,-1246.68 1163,-1276.68 1315,-1276.68 1315,-1246.68 1163,-1246.68"/>
 <text text-anchor="start" x="1171" y="-1264.68" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::TI::ToFCalculusCamera</text>
 <text text-anchor="middle" x="1239" y="-1253.68" font-family="Helvetica,sans-Serif" font-size="10.00">::_init</text>
 </a>
 </g>
 </g>
-<!-- Node42&#45;&gt;Node44 -->
-<g id="edge46" class="edge"><title>Node42&#45;&gt;Node44</title>
+<!-- Node32&#45;&gt;Node34 -->
+<g id="edge36" class="edge"><title>Node32&#45;&gt;Node34</title>
 <path fill="none" stroke="midnightblue" d="M1136.06,-1247.68C1144.95,-1248.9 1153.97,-1250.14 1162.8,-1251.35"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="1136.49,-1244.2 1126.11,-1246.31 1135.54,-1251.14 1136.49,-1244.2"/>
 </g>
-<!-- Node46 -->
-<g id="node46" class="node"><title>Node46</title>
-<g id="a_node46"><a xlink:href="classVoxel_1_1TI_1_1ToFHaddockCamera.xhtml#a749a2bbcdbfa69054d523866504743d1" target="_top" xlink:title="Voxel::TI::ToFHaddockCamera\l::_init">
+<!-- Node36 -->
+<g id="node36" class="node"><title>Node36</title>
+<g id="a_node36"><a xlink:href="classVoxel_1_1TI_1_1ToFHaddockCamera.xhtml#a749a2bbcdbfa69054d523866504743d1" target="_top" xlink:title="Voxel::TI::ToFHaddockCamera\l::_init">
 <polygon fill="none" stroke="red" points="1162.5,-1197.68 1162.5,-1227.68 1315.5,-1227.68 1315.5,-1197.68 1162.5,-1197.68"/>
 <text text-anchor="start" x="1170.5" y="-1215.68" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::TI::ToFHaddockCamera</text>
 <text text-anchor="middle" x="1239" y="-1204.68" font-family="Helvetica,sans-Serif" font-size="10.00">::_init</text>
 </a>
 </g>
 </g>
-<!-- Node42&#45;&gt;Node46 -->
-<g id="edge48" class="edge"><title>Node42&#45;&gt;Node46</title>
+<!-- Node32&#45;&gt;Node36 -->
+<g id="edge38" class="edge"><title>Node32&#45;&gt;Node36</title>
 <path fill="none" stroke="midnightblue" d="M1136.26,-1226.1C1144.98,-1224.95 1153.83,-1223.78 1162.49,-1222.64"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="1135.56,-1222.66 1126.11,-1227.44 1136.48,-1229.6 1135.56,-1222.66"/>
 </g>
-<!-- Node47 -->
-<g id="node47" class="node"><title>Node47</title>
-<g id="a_node47"><a xlink:href="classVoxel_1_1TI_1_1ToFTintinCamera.xhtml#af894a732f4beedc37144927eec93cc89" target="_top" xlink:title="Voxel::TI::ToFTintinCamera\l::_init">
+<!-- Node37 -->
+<g id="node37" class="node"><title>Node37</title>
+<g id="a_node37"><a xlink:href="classVoxel_1_1TI_1_1ToFTintinCamera.xhtml#af894a732f4beedc37144927eec93cc89" target="_top" xlink:title="Voxel::TI::ToFTintinCamera\l::_init">
 <polygon fill="none" stroke="red" points="1170,-1148.68 1170,-1178.68 1308,-1178.68 1308,-1148.68 1170,-1148.68"/>
 <text text-anchor="start" x="1178" y="-1166.68" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::TI::ToFTintinCamera</text>
 <text text-anchor="middle" x="1239" y="-1155.68" font-family="Helvetica,sans-Serif" font-size="10.00">::_init</text>
 </a>
 </g>
 </g>
-<!-- Node42&#45;&gt;Node47 -->
-<g id="edge49" class="edge"><title>Node42&#45;&gt;Node47</title>
+<!-- Node32&#45;&gt;Node37 -->
+<g id="edge39" class="edge"><title>Node32&#45;&gt;Node37</title>
 <path fill="none" stroke="midnightblue" d="M1095.18,-1217.12C1114.96,-1207.62 1139.48,-1196.4 1162,-1187.68 1170,-1184.58 1178.58,-1181.58 1187,-1178.8"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="1093.64,-1213.98 1086.17,-1221.49 1096.7,-1220.27 1093.64,-1213.98"/>
 </g>
-<!-- Node45 -->
-<g id="node45" class="node"><title>Node45</title>
-<g id="a_node45"><a xlink:href="classVoxel_1_1TI_1_1CalculusCDKCamera.xhtml#a82eb752fb0d4b63495d2e29b6b8aed2c" target="_top" xlink:title="Voxel::TI::CalculusCDKCamera\l::_init">
+<!-- Node35 -->
+<g id="node35" class="node"><title>Node35</title>
+<g id="a_node35"><a xlink:href="classVoxel_1_1TI_1_1CalculusCDKCamera.xhtml#a82eb752fb0d4b63495d2e29b6b8aed2c" target="_top" xlink:title="Voxel::TI::CalculusCDKCamera\l::_init">
 <polygon fill="none" stroke="red" points="1352.5,-1246.68 1352.5,-1276.68 1509.5,-1276.68 1509.5,-1246.68 1352.5,-1246.68"/>
 <text text-anchor="start" x="1360.5" y="-1264.68" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::TI::CalculusCDKCamera</text>
 <text text-anchor="middle" x="1431" y="-1253.68" font-family="Helvetica,sans-Serif" font-size="10.00">::_init</text>
 </a>
 </g>
 </g>
-<!-- Node44&#45;&gt;Node45 -->
-<g id="edge47" class="edge"><title>Node44&#45;&gt;Node45</title>
+<!-- Node34&#45;&gt;Node35 -->
+<g id="edge37" class="edge"><title>Node34&#45;&gt;Node35</title>
 <path fill="none" stroke="midnightblue" d="M1325.22,-1261.68C1334.25,-1261.68 1343.4,-1261.68 1352.33,-1261.68"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="1325.09,-1258.18 1315.09,-1261.68 1325.09,-1265.18 1325.09,-1258.18"/>
 </g>
-<!-- Node48&#45;&gt;Node42 -->
-<g id="edge51" class="edge"><title>Node48&#45;&gt;Node42</title>
+<!-- Node38&#45;&gt;Node32 -->
+<g id="edge41" class="edge"><title>Node38&#45;&gt;Node32</title>
 <path fill="none" stroke="midnightblue" d="M942.011,-1205.5C961.014,-1210.79 981.632,-1216.53 999.937,-1221.63"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="942.814,-1202.09 932.242,-1202.78 940.937,-1208.84 942.814,-1202.09"/>
+</g>
+<!-- Node40 -->
+<g id="node40" class="node"><title>Node40</title>
+<g id="a_node40"><a xlink:href="classTinyXML2_1_1XMLElement.xhtml#a600231a2e5e621634e4fcee4ff137106" target="_top" xlink:title="See QueryIntAttribute() ">
+<polygon fill="none" stroke="black" points="815.5,-1123.68 815.5,-1153.68 938.5,-1153.68 938.5,-1123.68 815.5,-1123.68"/>
+<text text-anchor="start" x="823.5" y="-1141.68" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLElement</text>
+<text text-anchor="middle" x="877" y="-1130.68" font-family="Helvetica,sans-Serif" font-size="10.00">::QueryBoolAttribute</text>
+</a>
+</g>
+</g>
+<!-- Node39&#45;&gt;Node40 -->
+<g id="edge45" class="edge"><title>Node39&#45;&gt;Node40</title>
+<path fill="none" stroke="midnightblue" d="M773.346,-1140.45C787.243,-1140.21 801.691,-1139.96 815.208,-1139.73"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="773.284,-1136.95 763.346,-1140.62 773.405,-1143.95 773.284,-1136.95"/>
+</g>
+<!-- Node42 -->
+<g id="node42" class="node"><title>Node42</title>
+<g id="a_node42"><a xlink:href="classTinyXML2_1_1XMLElement.xhtml#af3af1105159dbe30a833619eccd8a27f" target="_top" xlink:title="See QueryIntAttribute() ">
+<polygon fill="none" stroke="black" points="815.5,-1074.68 815.5,-1104.68 938.5,-1104.68 938.5,-1074.68 815.5,-1074.68"/>
+<text text-anchor="start" x="823.5" y="-1092.68" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLElement</text>
+<text text-anchor="middle" x="877" y="-1081.68" font-family="Helvetica,sans-Serif" font-size="10.00">::QueryDoubleAttribute</text>
+</a>
+</g>
+</g>
+<!-- Node41&#45;&gt;Node42 -->
+<g id="edge47" class="edge"><title>Node41&#45;&gt;Node42</title>
+<path fill="none" stroke="midnightblue" d="M773.346,-1091.45C787.243,-1091.21 801.691,-1090.96 815.208,-1090.73"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="773.284,-1087.95 763.346,-1091.62 773.405,-1094.95 773.284,-1087.95"/>
+</g>
+<!-- Node44 -->
+<g id="node44" class="node"><title>Node44</title>
+<g id="a_node44"><a xlink:href="classTinyXML2_1_1XMLElement.xhtml#afdc3b53ba1b7bf605ed5d4166de4984c" target="_top" xlink:title="See QueryIntAttribute() ">
+<polygon fill="none" stroke="black" points="815.5,-1025.68 815.5,-1055.68 938.5,-1055.68 938.5,-1025.68 815.5,-1025.68"/>
+<text text-anchor="start" x="823.5" y="-1043.68" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLElement</text>
+<text text-anchor="middle" x="877" y="-1032.68" font-family="Helvetica,sans-Serif" font-size="10.00">::QueryFloatAttribute</text>
+</a>
+</g>
+</g>
+<!-- Node43&#45;&gt;Node44 -->
+<g id="edge49" class="edge"><title>Node43&#45;&gt;Node44</title>
+<path fill="none" stroke="midnightblue" d="M773.346,-1042.45C787.243,-1042.21 801.691,-1041.96 815.208,-1041.73"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="773.284,-1038.95 763.346,-1042.62 773.405,-1045.95 773.284,-1038.95"/>
+</g>
+<!-- Node46 -->
+<g id="node46" class="node"><title>Node46</title>
+<g id="a_node46"><a xlink:href="classTinyXML2_1_1XMLElement.xhtml#a245dc8d2da965b96a5ce5e2be80c2831" target="_top" xlink:title="TinyXML2::XMLElement\l::QueryIntAttribute">
+<polygon fill="none" stroke="black" points="815.5,-976.681 815.5,-1006.68 938.5,-1006.68 938.5,-976.681 815.5,-976.681"/>
+<text text-anchor="start" x="823.5" y="-994.681" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLElement</text>
+<text text-anchor="middle" x="877" y="-983.681" font-family="Helvetica,sans-Serif" font-size="10.00">::QueryIntAttribute</text>
+</a>
+</g>
+</g>
+<!-- Node45&#45;&gt;Node46 -->
+<g id="edge51" class="edge"><title>Node45&#45;&gt;Node46</title>
+<path fill="none" stroke="midnightblue" d="M773.346,-993.451C787.243,-993.212 801.691,-992.963 815.208,-992.729"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="773.284,-989.952 763.346,-993.624 773.405,-996.951 773.284,-989.952"/>
+</g>
+<!-- Node48 -->
+<g id="node48" class="node"><title>Node48</title>
+<g id="a_node48"><a xlink:href="classTinyXML2_1_1XMLElement.xhtml#a3340cac4ff5f8c1c6e49942999c64612" target="_top" xlink:title="See QueryIntAttribute() ">
+<polygon fill="none" stroke="black" points="813.5,-1309.68 813.5,-1339.68 940.5,-1339.68 940.5,-1309.68 813.5,-1309.68"/>
+<text text-anchor="start" x="821.5" y="-1327.68" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLElement</text>
+<text text-anchor="middle" x="877" y="-1316.68" font-family="Helvetica,sans-Serif" font-size="10.00">::QueryUnsignedAttribute</text>
+</a>
+</g>
+</g>
+<!-- Node47&#45;&gt;Node48 -->
+<g id="edge53" class="edge"><title>Node47&#45;&gt;Node48</title>
+<path fill="none" stroke="midnightblue" d="M761.044,-1258.95C764.124,-1260.44 767.129,-1262.02 770,-1263.68 788.27,-1274.27 788.087,-1283.5 806,-1294.68 814.974,-1300.28 825.175,-1305.31 834.96,-1309.58"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="762.19,-1255.63 751.633,-1254.75 759.334,-1262.02 762.19,-1255.63"/>
 </g>
 <!-- Node49&#45;&gt;Node8 -->
 <g id="edge57" class="edge"><title>Node49&#45;&gt;Node8</title>

@@ -1,0 +1,9 @@
+<map id="ELFIO::elfio::Segments::size" name="ELFIO::elfio::Segments::size">
+<area shape="rect" id="node2" href="$classELFIO_1_1elfio.xhtml#a6ae5a2aeca80ad4ddac396673e3fa745" title="ELFIO::elfio::get_ordered\l_segments" alt="" coords="213,5,381,46"/>
+<area shape="rect" id="node4" href="$classELFIO_1_1elfio.xhtml#a4dfd167b10c72779390871865d16db61" title="ELFIO::elfio::save" alt="" coords="680,71,808,97"/>
+<area shape="rect" id="node5" href="$classELFIO_1_1elfio.xhtml#addb0a18fc070853b97cc3a3a6b51391f" title="ELFIO::elfio::is_section\l_without_segment" alt="" coords="218,122,377,163"/>
+<area shape="rect" id="node7" href="$classELFIO_1_1dump.xhtml#a057132b6114ffffe9cf5266307727af1" title="ELFIO::dump::segment\l_datas" alt="" coords="218,187,377,229"/>
+<area shape="rect" id="node8" href="$classELFIO_1_1dump.xhtml#ad1a6efd3db614d85b0c50a54451e696a" title="ELFIO::dump::segment\l_headers" alt="" coords="218,253,377,294"/>
+<area shape="rect" id="node3" href="$classELFIO_1_1elfio.xhtml#afeb689c3a26b7c317e89f26a6390fce2" title="ELFIO::elfio::layout\l_segments_and_their_sections" alt="" coords="429,5,632,46"/>
+<area shape="rect" id="node6" href="$classELFIO_1_1elfio.xhtml#a4fc135345793b514b770826a4f276267" title="ELFIO::elfio::layout\l_sections_without_segments" alt="" coords="435,122,626,163"/>
+</map>

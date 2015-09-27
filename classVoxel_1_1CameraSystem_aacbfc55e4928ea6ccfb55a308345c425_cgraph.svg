@@ -58,7 +58,7 @@
 </g>
 <!-- Node3 -->
 <g id="node3" class="node"><title>Node3</title>
-<g id="a_node3"><a xlink:href="group__Util.xhtml#ga16ec843ff8823b67816f0fa329fe0197" target="_top" xlink:title="Filesystem functions – returns the number of files read or else &#45;1 for error. Only those files whose ...">
+<g id="a_node3"><a xlink:href="group__Util.xhtml#ga16ec843ff8823b67816f0fa329fe0197" target="_top" xlink:title="Filesystem functions – returns the number of files read or else &#45;1 for error. Only those files whose...">
 <polygon fill="none" stroke="black" points="329,-188.5 329,-207.5 411,-207.5 411,-188.5 329,-188.5"/>
 <text text-anchor="middle" x="370" y="-195.5" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::getFiles</text>
 </a>

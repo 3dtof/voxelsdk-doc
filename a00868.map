@@ -1,9 +1,0 @@
-<map id="Voxel::FrameGenerator" name="Voxel::FrameGenerator">
-<area shape="rect" id="node2" href="$a00131.xhtml" title="Voxel::StringKeySerializableMap" alt="" coords="971,71,1183,97"/>
-<area shape="rect" id="node3" href="$a00125.xhtml" title="Voxel::SerializableMap\l\&lt; SerializableString \&gt;" alt="" coords="583,63,737,105"/>
-<area shape="rect" id="node5" href="$a00124.xhtml" title="Voxel::Serializable" alt="" coords="33,79,164,105"/>
-<area shape="rect" id="node6" href="$a00125.xhtml" title="Voxel::SerializableMap\l\&lt; Key \&gt;" alt="" coords="245,122,400,163"/>
-<area shape="rect" id="node9" href="$a00397.xhtml" title="int" alt="" coords="1058,172,1097,199"/>
-<area shape="rect" id="node11" href="$a00113.xhtml" title="Voxel::Ptr\&lt; Voxel::\lFrameStreamWriter \&gt;" alt="" coords="1003,281,1151,322"/>
-<area shape="rect" id="node13" href="$a00113.xhtml" title="Voxel::Ptr\&lt; T \&gt;" alt="" coords="604,323,716,349"/>
-</map>

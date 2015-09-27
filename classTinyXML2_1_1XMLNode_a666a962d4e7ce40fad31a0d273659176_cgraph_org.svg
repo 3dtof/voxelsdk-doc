@@ -103,17 +103,17 @@
 <path fill="none" stroke="midnightblue" d="M76.1552,-278.91C94.0882,-263.724 123.533,-240.405 152,-225 155.204,-223.266 158.559,-221.607 161.985,-220.029"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="163.384,-223.237 171.164,-216.045 160.597,-216.816 163.384,-223.237"/>
 </g>
-<!-- Node17 -->
-<g id="node17" class="node"><title>Node17</title>
-<g id="a_node17"><a xlink:href="classTinyXML2_1_1XMLUtil.xhtml#af0f1d719f7e1067ec06eeb2d687520a5" target="_top" xlink:title="TinyXML2::XMLUtil::\lStringEqual">
+<!-- Node18 -->
+<g id="node18" class="node"><title>Node18</title>
+<g id="a_node18"><a xlink:href="classTinyXML2_1_1XMLUtil.xhtml#af0f1d719f7e1067ec06eeb2d687520a5" target="_top" xlink:title="TinyXML2::XMLUtil::\lStringEqual">
 <polygon fill="none" stroke="black" points="333,-137 333,-167 441,-167 441,-137 333,-137"/>
 <text text-anchor="start" x="341" y="-155" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLUtil::</text>
 <text text-anchor="middle" x="387" y="-144" font-family="Helvetica,sans-Serif" font-size="10.00">StringEqual</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node17 -->
-<g id="edge27" class="edge"><title>Node1&#45;&gt;Node17</title>
+<!-- Node1&#45;&gt;Node18 -->
+<g id="edge27" class="edge"><title>Node1&#45;&gt;Node18</title>
 <path fill="none" stroke="midnightblue" d="M65.8994,-278.864C78.6981,-252.751 108.802,-199.755 152,-176 204.284,-147.249 273.109,-143.499 322.564,-145.577"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="322.645,-149.085 332.811,-146.102 323.003,-142.094 322.645,-149.085"/>
 </g>
@@ -337,28 +337,28 @@
 <polygon fill="midnightblue" stroke="midnightblue" points="632.371,-346.5 642.371,-343 632.371,-339.5 632.371,-346.5"/>
 </g>
 <!-- Node16&#45;&gt;Node13 -->
-<g id="edge18" class="edge"><title>Node16&#45;&gt;Node13</title>
+<g id="edge19" class="edge"><title>Node16&#45;&gt;Node13</title>
 <path fill="none" stroke="midnightblue" d="M274.22,-216.023C288.99,-219.518 305.015,-222.843 320,-225 430.541,-240.909 560.793,-244.528 636.522,-245.152"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="636.815,-248.653 646.838,-245.221 636.862,-241.654 636.815,-248.653"/>
 </g>
-<!-- Node16&#45;&gt;Node17 -->
-<g id="edge19" class="edge"><title>Node16&#45;&gt;Node17</title>
-<path fill="none" stroke="midnightblue" d="M270.468,-185.899C287.692,-180.845 307.059,-175.162 324.942,-169.915"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="326.092,-173.226 334.702,-167.052 324.121,-166.509 326.092,-173.226"/>
-</g>
-<!-- Node18 -->
-<g id="node18" class="node"><title>Node18</title>
-<g id="a_node18"><a xlink:href="classTinyXML2_1_1XMLText.xhtml#a44acb8346adaa28c3ed043a22104b917" target="_top" xlink:title="Declare whether this should be CDATA or standard text. ">
+<!-- Node17 -->
+<g id="node17" class="node"><title>Node17</title>
+<g id="a_node17"><a xlink:href="classTinyXML2_1_1XMLText.xhtml#a44acb8346adaa28c3ed043a22104b917" target="_top" xlink:title="Declare whether this should be CDATA or standard text. ">
 <polygon fill="none" stroke="black" points="330.5,-186 330.5,-216 443.5,-216 443.5,-186 330.5,-186"/>
 <text text-anchor="start" x="338.5" y="-204" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLText::</text>
 <text text-anchor="middle" x="387" y="-193" font-family="Helvetica,sans-Serif" font-size="10.00">SetCData</text>
 </a>
 </g>
 </g>
-<!-- Node16&#45;&gt;Node18 -->
-<g id="edge20" class="edge"><title>Node16&#45;&gt;Node18</title>
+<!-- Node16&#45;&gt;Node17 -->
+<g id="edge18" class="edge"><title>Node16&#45;&gt;Node17</title>
 <path fill="none" stroke="midnightblue" d="M284.045,-201C295.874,-201 308.224,-201 320.078,-201"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="320.342,-204.5 330.342,-201 320.342,-197.5 320.342,-204.5"/>
+</g>
+<!-- Node16&#45;&gt;Node18 -->
+<g id="edge20" class="edge"><title>Node16&#45;&gt;Node18</title>
+<path fill="none" stroke="midnightblue" d="M270.468,-185.899C287.692,-180.845 307.059,-175.162 324.942,-169.915"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="326.092,-173.226 334.702,-167.052 324.121,-166.509 326.092,-173.226"/>
 </g>
 <!-- Node19&#45;&gt;Node7 -->
 <g id="edge23" class="edge"><title>Node19&#45;&gt;Node7</title>

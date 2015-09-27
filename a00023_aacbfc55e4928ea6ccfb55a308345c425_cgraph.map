@@ -1,8 +1,0 @@
-<map id="Voxel::CameraSystem::_init" name="Voxel::CameraSystem::_init">
-<area shape="rect" id="node2" href="$a00023.xhtml#a5726264107cd83d943d7c0fb7a792705" title="Voxel::CameraSystem\l::_loadLibraries" alt="" coords="208,122,363,163"/>
-<area shape="rect" id="node5" href="$a00023.xhtml#a374eae066080ae542026fe94a8187d17" title="Voxel::CameraSystem\l::addFilterFactory" alt="" coords="421,187,576,229"/>
-<area shape="rect" id="node7" href="$a00030.xhtml#aa5167b4ef7942b679a71b551a1c62d63" title="Voxel::Configuration\l::getLibPaths" alt="" coords="215,242,355,283"/>
-<area shape="rect" id="node3" href="$a00390.xhtml#ga16ec843ff8823b67816f0fa329fe0197" title="Filesystem functions – returns the number of files read or else &#45;1 for error. Only those files whose ..." alt="" coords="444,5,553,32"/>
-<area shape="rect" id="node4" href="$a00023.xhtml#a77e8b59b472a2521737fc54b9a69f1b4" title="Voxel::CameraSystem\l::addDepthCameraFactory" alt="" coords="411,57,587,98"/>
-<area shape="rect" id="node6" href="$a00023.xhtml#a60d674e22886cfa211fbbb8d15d7e24b" title="Voxel::CameraSystem\l::addDownloaderFactory" alt="" coords="417,122,581,163"/>
-</map>

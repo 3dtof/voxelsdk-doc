@@ -1,51 +1,51 @@
 <map id="Voxel::TI::TintinCDKCamera::_init" name="Voxel::TI::TintinCDKCamera::_init">
-<area shape="rect" id="node2" href="$classVoxel_1_1DepthCamera.xhtml#a677a46dca2838e514d3238fb19d3400e" title="Voxel::DepthCamera\l::_addParameters" alt="" coords="757,726,901,767"/>
-<area shape="rect" id="node3" href="$classVoxel_1_1TI_1_1ToFTintinCamera.xhtml#af894a732f4beedc37144927eec93cc89" title="Voxel::TI::ToFTintinCamera\l::_init" alt="" coords="252,711,436,753"/>
-<area shape="rect" id="node39" href="$classVoxel_1_1TI_1_1TintinCDKCamera.xhtml#afd26c09edefbc8f80a8e30868c50228c" title="Voxel::TI::TintinCDKCamera\l::_readConfigFromHardware" alt="" coords="1225,989,1415,1030"/>
-<area shape="rect" id="node43" href="$classVoxel_1_1TI_1_1TintinCDKCamera.xhtml#aec613f395444d16e127b34aa406af267" title="Voxel::TI::TintinCDKCamera\l::_writeConfigFromHardware" alt="" coords="1225,1058,1415,1099"/>
-<area shape="rect" id="node44" href="$classVoxel_1_1DepthCamera.xhtml#a1bee96d5215894d03e16e10634f199e7" title="Voxel::DepthCamera\l::getParam" alt="" coords="272,1098,416,1139"/>
-<area shape="rect" id="node45" href="$classVoxel_1_1USBDevice.xhtml#a733db00843f6522b28a07719c943e1fe" title="Voxel::USBDevice::productID" alt="" coords="245,1164,443,1191"/>
-<area shape="rect" id="node46" href="$classVoxel_1_1DepthCamera.xhtml#a4f1c6d826c1842d7bc3fbeea5ebb9616" title="Voxel::DepthCamera::set" alt="" coords="259,941,429,968"/>
-<area shape="rect" id="node49" href="$classVoxel_1_1MainConfigurationFile.xhtml#ac92019989cb79e67ef5860163a9aea48" title="Voxel::MainConfiguration\lFile::setHardwareReader" alt="" coords="260,1215,428,1257"/>
-<area shape="rect" id="node50" href="$classVoxel_1_1MainConfigurationFile.xhtml#afda2ef2f661a2c30339e19b2b00e1674" title="Voxel::MainConfiguration\lFile::setHardwareWriter" alt="" coords="260,1281,428,1322"/>
-<area shape="rect" id="node4" href="$classVoxel_1_1DepthCamera.xhtml#ae3d6fcc6d4a20d1ad2de809ad65ecc34" title="Voxel::DepthCamera\l::name" alt="" coords="757,879,901,921"/>
-<area shape="rect" id="node5" href="$classVoxel_1_1MainConfigurationFile.xhtml#a0450eaddb1180226c1a3e898e978aba4" title="Voxel::MainConfiguration\lFile::get" alt="" coords="501,194,669,235"/>
-<area shape="rect" id="node11" href="$classVoxel_1_1Configuration.xhtml#aeed2f5638591b839dd233e8673a977e5" title="Updates &quot;name&quot; to full path. " alt="" coords="1511,774,1651,815"/>
-<area shape="rect" id="node12" href="$classVoxel_1_1ParameterDMLParser.xhtml#ad605e36f21f13ac72f59e58e64754e74" title="Voxel::ParameterDMLParser\l::getParameters" alt="" coords="491,431,680,473"/>
-<area shape="rect" id="node28" href="$classVoxel_1_1TI_1_1ToFCamera.xhtml#a8fd9aae6546d426f494b20633a881442" title="Voxel::TI::ToFCamera\l::_init" alt="" coords="509,661,661,702"/>
-<area shape="rect" id="node6" href="$classVoxel_1_1ConfigurationFile.xhtml#af5573f5dba76f1fde00220b892f8121c" title="Voxel::ConfigurationFile\l::_get" alt="" coords="749,51,910,93"/>
-<area shape="rect" id="node7" href="$classVoxel_1_1ConfigSet.xhtml#a49e4060aa2bc96690da36bdf5ef7b227" title="Voxel::ConfigSet::_get" alt="" coords="996,63,1151,89"/>
-<area shape="rect" id="node8" href="$classVoxel_1_1MainConfigurationFile.xhtml#ab24aaf7b18fea74c6f235da04fadbed0" title="Voxel::MainConfiguration\lFile::getCameraProfile" alt="" coords="1497,566,1665,607"/>
-<area shape="rect" id="node9" href="$classVoxel_1_1ConfigurationFile.xhtml#a440d9dd2f89d0c76c81f7285b31a5b94" title="Voxel::ConfigurationFile::set" alt="" coords="980,12,1167,39"/>
-<area shape="rect" id="node10" href="$classVoxel_1_1ConfigurationFile.xhtml#a3b9b573c1a3d9162fc0100c317ca0879" title="Voxel::ConfigurationFile\l::_set" alt="" coords="1239,5,1401,46"/>
-<area shape="rect" id="node13" href="$classVoxel_1_1ParameterDMLParser.xhtml#a045dd911c20e776e52ca27a94e145cb3" title="Voxel::ParameterDMLParser\l::_getParameter" alt="" coords="735,402,924,443"/>
-<area shape="rect" id="node14" href="$classVoxel_1_1ParameterDMLParser.xhtml#a4201ee5ff558a4f8c7d2091676fa0182" title="Voxel::ParameterDMLParser\l::_goTo" alt="" coords="979,219,1168,261"/>
-<area shape="rect" id="node15" href="$classTinyXML2_1_1XMLNode.xhtml#a86cc8875788543eee38da2b8f35efabc" title="TinyXML2::XMLNode::\lFirstChildElement" alt="" coords="1243,165,1397,206"/>
-<area shape="rect" id="node19" href="$classTinyXML2_1_1XMLElement.xhtml#a824774b2d0c2b797d028a5e2434d3759" title="TinyXML2::XMLElement\l::Attribute" alt="" coords="991,467,1155,509"/>
-<area shape="rect" id="node24" href="$classTinyXML2_1_1XMLNode.xhtml#aa4c176052f5724527a78f403b4e507ee" title="Get the next (right) sibling element of this node, with an optionally supplied name. " alt="" coords="996,533,1151,574"/>
-<area shape="rect" id="node26" href="$classVoxel_1_1ParameterDMLParser.xhtml#a2d21730f3b40ad5dabbc0ad62c596705" title="Voxel::ParameterDMLParser\l::_prepare" alt="" coords="735,337,924,378"/>
-<area shape="rect" id="node27" href="$classVoxel_1_1ParameterDMLParser.xhtml#aadddbe17e8050cf97655855fe1ab41d7" title="Voxel::ParameterDMLParser\l::isInitialized" alt="" coords="735,570,924,611"/>
-<area shape="rect" id="node23" href="$classTinyXML2_1_1XMLElement.xhtml#a500100ed17cf94334286acf8f4ee73d9" title="TinyXML2::XMLElement\l::IntAttribute" alt="" coords="991,337,1155,378"/>
-<area shape="rect" id="node25" href="$classTinyXML2_1_1XMLElement.xhtml#ae59a972421e78a101058bfb49e4eec65" title="See IntAttribute() " alt="" coords="991,402,1155,443"/>
-<area shape="rect" id="node16" href="$classTinyXML2_1_1XMLElement.xhtml#afd22b33b33e7128f217f96ec5b2f1871" title="Get the name of an element (which is the Value() of the node.) " alt="" coords="1499,133,1663,174"/>
-<area shape="rect" id="node17" href="$classTinyXML2_1_1XMLUtil.xhtml#af0f1d719f7e1067ec06eeb2d687520a5" title="TinyXML2::XMLUtil::\lStringEqual" alt="" coords="1509,369,1653,410"/>
-<area shape="rect" id="node18" href="$classTinyXML2_1_1XMLElement.xhtml#a6ab4f6a3ad156db7daab35c9218d9f4a" title="Safely cast to an Element, or null. " alt="" coords="1499,198,1663,239"/>
-<area shape="rect" id="node20" href="$classTinyXML2_1_1XMLElement.xhtml#a6461265b324c3901b5d83d51e9560693" title="Query a specific attribute in the list. " alt="" coords="1238,398,1402,439"/>
-<area shape="rect" id="node21" href="$classTinyXML2_1_1XMLAttribute.xhtml#a446d3d65226fa84cca9c038521bfa0e6" title="The value of the attribute. " alt="" coords="1237,230,1403,271"/>
-<area shape="rect" id="node22" href="$classTinyXML2_1_1StrPair.xhtml#a5e2c5bd32ba79f32f219cf9301c2bce6" title="TinyXML2::StrPair::\lGetStr" alt="" coords="1513,263,1650,305"/>
-<area shape="rect" id="node29" href="$classVoxel_1_1TI_1_1ToFCameraBase.xhtml#a34c90601da611e5cb61bd7a35f03a5f7" title="Voxel::TI::ToFCameraBase\l::_init" alt="" coords="738,661,921,702"/>
-<area shape="rect" id="node30" href="$classVoxel_1_1DepthCamera.xhtml#aeca7a6cb1df8643f0b38745286ac2844" title="Voxel::DepthCamera\l::_init" alt="" coords="1001,678,1145,719"/>
-<area shape="rect" id="node31" href="$classVoxel_1_1DepthCamera.xhtml#a3b88dacf88d024f94764b2643b05e7f8" title="Voxel::DepthCamera\l::_getCurrentProfileID" alt="" coords="1245,631,1395,673"/>
-<area shape="rect" id="node32" href="$classVoxel_1_1MainConfigurationFile.xhtml#a836e03c48f0fc57fa30079c5a74f55d7" title="Voxel::MainConfiguration\lFile::getDefaultCameraProfileID" alt="" coords="1216,697,1424,738"/>
-<area shape="rect" id="node33" href="$classVoxel_1_1DepthCamera.xhtml#a791d58b8feb262a19edb8d8275a1d7ed" title="Voxel::DepthCamera\l::getSerialNumber" alt="" coords="1248,762,1392,803"/>
-<area shape="rect" id="node34" href="$classVoxel_1_1MainConfigurationFile.xhtml#ab801a8f7e2eabaf3f524877c5c257fa2" title="Voxel::MainConfiguration\lFile::readFromHardware" alt="" coords="1236,879,1404,921"/>
-<area shape="rect" id="node38" href="$classVoxel_1_1DepthCamera.xhtml#ab0e9ecccc5da44339aafaee4c17b9e44" title="Voxel::DepthCamera\l::setCameraProfile" alt="" coords="1248,566,1392,607"/>
-<area shape="rect" id="node35" href="$classVoxel_1_1SerializedObject.xhtml#aac0058e6b0ea0cb6ac86f4e986f6de25" title="Voxel::SerializedObject\l::getBytes" alt="" coords="1502,1022,1661,1063"/>
-<area shape="rect" id="node36" href="$classVoxel_1_1SerializedObject.xhtml#a28bffcfa230e90768ea678269a782381" title="Voxel::SerializedObject\l::resize" alt="" coords="1502,839,1661,881"/>
-<area shape="rect" id="node37" href="$classVoxel_1_1SerializedObject.xhtml#adf11acb91f4adf3fe582a778c12b6286" title="Voxel::SerializedObject\l::size" alt="" coords="1502,905,1661,946"/>
-<area shape="rect" id="node40" href="$classVoxel_1_1Timer.xhtml#a363a248fe7dd94ae58681cf145b23a23" title="Voxel::Timer::getCurentRealTime" alt="" coords="1473,1153,1690,1180"/>
-<area shape="rect" id="node41" href="$classVoxel_1_1TI_1_1VoxelUSBProgrammer.xhtml#a065c3f93bfdc71dc92cd8416a07c9a22" title="Voxel::TI::VoxelUSBProgrammer\l::getUSBIO" alt="" coords="1739,1087,1954,1129"/>
-<area shape="rect" id="node42" href="$classVoxel_1_1TI_1_1TintinCDKCamera.xhtml#a33f200c85654bd6c44a32a711259bf5d" title="Voxel::TI::TintinCDKCamera\l::_getEEPROMSize" alt="" coords="1486,1087,1677,1129"/>
-<area shape="rect" id="node47" href="$classVoxel_1_1DepthCamera.xhtml#a474dfafecfd8b2a97a924aeab8a82a3c" title="Voxel::DepthCamera\l::_set" alt="" coords="513,930,657,971"/>
-<area shape="rect" id="node48" href="$classVoxel_1_1ParameterTemplate.xhtml#a64240b607339f55c4fac973fba8c8934" title="Voxel::ParameterTemplate::set" alt="" coords="728,945,931,972"/>
+<area shape="rect" id="node2" href="$classVoxel_1_1DepthCamera.xhtml#a677a46dca2838e514d3238fb19d3400e" title="Voxel::DepthCamera\l::_addParameters" alt="" coords="751,866,895,907"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1DepthCamera.xhtml#a86f98662043440d15c51ebb0e351b2ce" title="Voxel::DepthCamera\l::_getCalibrationInformation\lStructure" alt="" coords="1229,668,1411,724"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1TI_1_1ToFTintinCamera.xhtml#af894a732f4beedc37144927eec93cc89" title="Voxel::TI::ToFTintinCamera\l::_init" alt="" coords="252,781,436,822"/>
+<area shape="rect" id="node39" href="$classVoxel_1_1DepthCamera.xhtml#a4f1c6d826c1842d7bc3fbeea5ebb9616" title="Voxel::DepthCamera::set" alt="" coords="500,999,671,1025"/>
+<area shape="rect" id="node42" href="$classVoxel_1_1TI_1_1TintinCDKCamera.xhtml#afd26c09edefbc8f80a8e30868c50228c" title="Voxel::TI::TintinCDKCamera\l::_readConfigFromHardware" alt="" coords="1225,1009,1415,1050"/>
+<area shape="rect" id="node46" href="$classVoxel_1_1TI_1_1TintinCDKCamera.xhtml#aec613f395444d16e127b34aa406af267" title="Voxel::TI::TintinCDKCamera\l::_writeConfigFromHardware" alt="" coords="1225,1078,1415,1119"/>
+<area shape="rect" id="node47" href="$classVoxel_1_1DepthCamera.xhtml#a1bee96d5215894d03e16e10634f199e7" title="Voxel::DepthCamera\l::getParam" alt="" coords="272,1151,416,1193"/>
+<area shape="rect" id="node48" href="$classVoxel_1_1USBDevice.xhtml#a733db00843f6522b28a07719c943e1fe" title="Voxel::USBDevice::productID" alt="" coords="245,1217,443,1244"/>
+<area shape="rect" id="node49" href="$classVoxel_1_1MainConfigurationFile.xhtml#ac92019989cb79e67ef5860163a9aea48" title="Voxel::MainConfiguration\lFile::setHardwareReader" alt="" coords="260,1269,428,1310"/>
+<area shape="rect" id="node50" href="$classVoxel_1_1MainConfigurationFile.xhtml#afda2ef2f661a2c30339e19b2b00e1674" title="Voxel::MainConfiguration\lFile::setHardwareWriter" alt="" coords="260,1334,428,1375"/>
+<area shape="rect" id="node5" href="$classVoxel_1_1DepthCamera.xhtml#ae3d6fcc6d4a20d1ad2de809ad65ecc34" title="Voxel::DepthCamera\l::name" alt="" coords="995,925,1139,966"/>
+<area shape="rect" id="node6" href="$classVoxel_1_1MainConfigurationFile.xhtml#a0450eaddb1180226c1a3e898e978aba4" title="Voxel::MainConfiguration\lFile::get" alt="" coords="501,166,669,207"/>
+<area shape="rect" id="node12" href="$classVoxel_1_1Configuration.xhtml#aee8855b651aed3783dbd8aa4453b1a4d" title="Updates &quot;name&quot; to full path. " alt="" coords="1511,669,1651,710"/>
+<area shape="rect" id="node13" href="$classVoxel_1_1ParameterDMLParser.xhtml#ad605e36f21f13ac72f59e58e64754e74" title="Voxel::ParameterDMLParser\l::getParameters" alt="" coords="491,373,680,414"/>
+<area shape="rect" id="node29" href="$classVoxel_1_1TI_1_1ToFCamera.xhtml#a8fd9aae6546d426f494b20633a881442" title="Voxel::TI::ToFCamera\l::_init" alt="" coords="509,781,661,822"/>
+<area shape="rect" id="node7" href="$classVoxel_1_1ConfigurationFile.xhtml#af5573f5dba76f1fde00220b892f8121c" title="Voxel::ConfigurationFile\l::_get" alt="" coords="742,51,903,93"/>
+<area shape="rect" id="node8" href="$classVoxel_1_1ConfigSet.xhtml#a49e4060aa2bc96690da36bdf5ef7b227" title="Voxel::ConfigSet::_get" alt="" coords="989,63,1144,89"/>
+<area shape="rect" id="node9" href="$classVoxel_1_1MainConfigurationFile.xhtml#ab24aaf7b18fea74c6f235da04fadbed0" title="Voxel::MainConfiguration\lFile::getCameraProfile" alt="" coords="1497,446,1665,487"/>
+<area shape="rect" id="node10" href="$classVoxel_1_1ConfigurationFile.xhtml#a440d9dd2f89d0c76c81f7285b31a5b94" title="Voxel::ConfigurationFile::set" alt="" coords="973,12,1160,39"/>
+<area shape="rect" id="node11" href="$classVoxel_1_1ConfigurationFile.xhtml#a3b9b573c1a3d9162fc0100c317ca0879" title="Voxel::ConfigurationFile\l::_set" alt="" coords="1239,5,1401,46"/>
+<area shape="rect" id="node14" href="$classVoxel_1_1ParameterDMLParser.xhtml#a045dd911c20e776e52ca27a94e145cb3" title="Voxel::ParameterDMLParser\l::_getParameter" alt="" coords="728,467,917,509"/>
+<area shape="rect" id="node15" href="$classVoxel_1_1ParameterDMLParser.xhtml#a4201ee5ff558a4f8c7d2091676fa0182" title="Voxel::ParameterDMLParser\l::_goTo" alt="" coords="972,270,1161,311"/>
+<area shape="rect" id="node16" href="$classTinyXML2_1_1XMLNode.xhtml#a86cc8875788543eee38da2b8f35efabc" title="TinyXML2::XMLNode::\lFirstChildElement" alt="" coords="1243,197,1397,238"/>
+<area shape="rect" id="node20" href="$classTinyXML2_1_1XMLElement.xhtml#a824774b2d0c2b797d028a5e2434d3759" title="TinyXML2::XMLElement\l::Attribute" alt="" coords="985,531,1149,573"/>
+<area shape="rect" id="node25" href="$classTinyXML2_1_1XMLNode.xhtml#aa4c176052f5724527a78f403b4e507ee" title="Get the next (right) sibling element of this node, with an optionally supplied name. " alt="" coords="989,401,1144,442"/>
+<area shape="rect" id="node27" href="$classVoxel_1_1ParameterDMLParser.xhtml#a2d21730f3b40ad5dabbc0ad62c596705" title="Voxel::ParameterDMLParser\l::_prepare" alt="" coords="728,285,917,326"/>
+<area shape="rect" id="node28" href="$classVoxel_1_1ParameterDMLParser.xhtml#aadddbe17e8050cf97655855fe1ab41d7" title="Voxel::ParameterDMLParser\l::isInitialized" alt="" coords="728,402,917,443"/>
+<area shape="rect" id="node24" href="$classTinyXML2_1_1XMLElement.xhtml#a500100ed17cf94334286acf8f4ee73d9" title="TinyXML2::XMLElement\l::IntAttribute" alt="" coords="985,335,1149,377"/>
+<area shape="rect" id="node26" href="$classTinyXML2_1_1XMLElement.xhtml#ae59a972421e78a101058bfb49e4eec65" title="See IntAttribute() " alt="" coords="985,466,1149,507"/>
+<area shape="rect" id="node17" href="$classTinyXML2_1_1XMLElement.xhtml#afd22b33b33e7128f217f96ec5b2f1871" title="Get the name of an element (which is the Value() of the node.) " alt="" coords="1499,190,1663,231"/>
+<area shape="rect" id="node18" href="$classTinyXML2_1_1XMLUtil.xhtml#af0f1d719f7e1067ec06eeb2d687520a5" title="TinyXML2::XMLUtil::\lStringEqual" alt="" coords="1509,341,1653,382"/>
+<area shape="rect" id="node19" href="$classTinyXML2_1_1XMLElement.xhtml#a6ab4f6a3ad156db7daab35c9218d9f4a" title="Safely cast to an Element, or null. " alt="" coords="1499,255,1663,297"/>
+<area shape="rect" id="node21" href="$classTinyXML2_1_1XMLElement.xhtml#a6461265b324c3901b5d83d51e9560693" title="Query a specific attribute in the list. " alt="" coords="1238,466,1402,507"/>
+<area shape="rect" id="node22" href="$classTinyXML2_1_1XMLAttribute.xhtml#a446d3d65226fa84cca9c038521bfa0e6" title="The value of the attribute. " alt="" coords="1237,531,1403,573"/>
+<area shape="rect" id="node23" href="$classTinyXML2_1_1StrPair.xhtml#a5e2c5bd32ba79f32f219cf9301c2bce6" title="TinyXML2::StrPair::\lGetStr" alt="" coords="1513,531,1650,573"/>
+<area shape="rect" id="node30" href="$classVoxel_1_1TI_1_1ToFCameraBase.xhtml#a34c90601da611e5cb61bd7a35f03a5f7" title="Voxel::TI::ToFCameraBase\l::_init" alt="" coords="731,801,914,842"/>
+<area shape="rect" id="node31" href="$classVoxel_1_1DepthCamera.xhtml#aeca7a6cb1df8643f0b38745286ac2844" title="Voxel::DepthCamera\l::_init" alt="" coords="995,805,1139,846"/>
+<area shape="rect" id="node32" href="$classVoxel_1_1DepthCamera.xhtml#a3b88dacf88d024f94764b2643b05e7f8" title="Voxel::DepthCamera\l::_getCurrentProfileID" alt="" coords="1245,878,1395,919"/>
+<area shape="rect" id="node33" href="$classVoxel_1_1MainConfigurationFile.xhtml#a836e03c48f0fc57fa30079c5a74f55d7" title="Voxel::MainConfiguration\lFile::getDefaultCameraProfileID" alt="" coords="1216,943,1424,985"/>
+<area shape="rect" id="node34" href="$classVoxel_1_1DepthCamera.xhtml#a791d58b8feb262a19edb8d8275a1d7ed" title="Voxel::DepthCamera\l::getSerialNumber" alt="" coords="1248,747,1392,789"/>
+<area shape="rect" id="node35" href="$classVoxel_1_1MainConfigurationFile.xhtml#ab801a8f7e2eabaf3f524877c5c257fa2" title="Voxel::MainConfiguration\lFile::readFromHardware" alt="" coords="1236,813,1404,854"/>
+<area shape="rect" id="node36" href="$classVoxel_1_1SerializedObject.xhtml#aac0058e6b0ea0cb6ac86f4e986f6de25" title="Voxel::SerializedObject\l::getBytes" alt="" coords="1502,1005,1661,1046"/>
+<area shape="rect" id="node37" href="$classVoxel_1_1SerializedObject.xhtml#a28bffcfa230e90768ea678269a782381" title="Voxel::SerializedObject\l::resize" alt="" coords="1502,819,1661,861"/>
+<area shape="rect" id="node38" href="$classVoxel_1_1SerializedObject.xhtml#adf11acb91f4adf3fe582a778c12b6286" title="Voxel::SerializedObject\l::size" alt="" coords="1502,887,1661,929"/>
+<area shape="rect" id="node40" href="$classVoxel_1_1DepthCamera.xhtml#a474dfafecfd8b2a97a924aeab8a82a3c" title="Voxel::DepthCamera\l::_set" alt="" coords="751,983,895,1025"/>
+<area shape="rect" id="node41" href="$classVoxel_1_1ParameterTemplate.xhtml#a64240b607339f55c4fac973fba8c8934" title="Voxel::ParameterTemplate::set" alt="" coords="965,991,1168,1017"/>
+<area shape="rect" id="node43" href="$classVoxel_1_1Timer.xhtml#a363a248fe7dd94ae58681cf145b23a23" title="Voxel::Timer::getCurentRealTime" alt="" coords="1473,1136,1690,1163"/>
+<area shape="rect" id="node44" href="$classVoxel_1_1TI_1_1VoxelUSBProgrammer.xhtml#a065c3f93bfdc71dc92cd8416a07c9a22" title="Voxel::TI::VoxelUSBProgrammer\l::getUSBIO" alt="" coords="1739,1070,1954,1111"/>
+<area shape="rect" id="node45" href="$classVoxel_1_1TI_1_1TintinCDKCamera.xhtml#a33f200c85654bd6c44a32a711259bf5d" title="Voxel::TI::TintinCDKCamera\l::_getEEPROMSize" alt="" coords="1486,1070,1677,1111"/>
 </map>

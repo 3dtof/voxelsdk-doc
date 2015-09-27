@@ -1,3 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classVoxel_1_1PCLViewer.xhtml" title="Voxel::PCLViewer" alt="" coords="6,5,135,32"/>
+<area shape="rect" id="node1" href="$classVoxel_1_1DeviceScanner.xhtml" title="Voxel::DeviceScanner" alt="" coords="5,5,157,32"/>
+<area shape="rect" id="node2" href="$classVoxel_1_1USBDeviceScanner.xhtml" title="Voxel::USBDeviceScanner" alt="" coords="206,5,386,32"/>
 </map>

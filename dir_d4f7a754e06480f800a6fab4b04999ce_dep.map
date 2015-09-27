@@ -1,5 +1,6 @@
 <map id="Util" name="Util">
-<area shape="rect" id="node1" href="dir_d4f7a754e06480f800a6fab4b04999ce.xhtml" title="Util" alt="" coords="5,5,77,53"/>
-<area shape="rect" id="node2" href="dir_e7f07c35b19a6de9638fcd101b463d91.xhtml" title="Voxel" alt="" coords="5,101,77,149"/>
-<area shape="rect" id="edge1-headlabel" href="dir_000010_000000.xhtml" title="4" alt="" coords="46,76,54,90"/>
+<area shape="rect" id="node3" href="dir_e7f07c35b19a6de9638fcd101b463d91.xhtml" title="Voxel" alt="" coords="123,123,195,171"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000007_000000.xhtml" title="4" alt="" coords="163,97,171,112"/>
+<area shape="rect" id="node2" href="dir_fd724d2bac3d76b33b528d46582418a2.xhtml" title="elfio" alt="" coords="27,27,99,75"/>
+<area shape="rect" id="clust1" href="dir_d4f7a754e06480f800a6fab4b04999ce.xhtml" alt="" coords="16,16,205,85"/>
 </map>

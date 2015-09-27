@@ -5,7 +5,7 @@
 <area shape="rect" id="node9" href="$classTinyXML2_1_1XMLDocument.xhtml#a8302f8ca7f1ed6dd2690e3875f968a32" title="Return true if there was an error parsing the document. " alt="" coords="208,347,384,389"/>
 <area shape="rect" id="node10" href="$classTinyXML2_1_1StrPair.xhtml#a5e2c5bd32ba79f32f219cf9301c2bce6" title="TinyXML2::StrPair::\lGetStr" alt="" coords="453,406,590,447"/>
 <area shape="rect" id="node16" href="$classTinyXML2_1_1XMLDocument.xhtml#a0a09219933989db01f4e0cff84ce5af2" title="TinyXML2::XMLDocument\l::Identify" alt="" coords="208,530,384,571"/>
-<area shape="rect" id="node17" href="$classTinyXML2_1_1XMLUtil.xhtml#af0f1d719f7e1067ec06eeb2d687520a5" title="TinyXML2::XMLUtil::\lStringEqual" alt="" coords="449,595,593,637"/>
+<area shape="rect" id="node18" href="$classTinyXML2_1_1XMLUtil.xhtml#af0f1d719f7e1067ec06eeb2d687520a5" title="TinyXML2::XMLUtil::\lStringEqual" alt="" coords="449,595,593,637"/>
 <area shape="rect" id="node19" href="$classTinyXML2_1_1XMLNode.xhtml#a8ae11185b5fbb9620d71114c70b31368" title="TinyXML2::XMLNode::\lInsertEndChild" alt="" coords="219,165,373,206"/>
 <area shape="rect" id="node20" href="$classTinyXML2_1_1MemPool.xhtml#a97d309d72afeb96d9e54186285c26705" title="TinyXML2::MemPool::\lSetTracked" alt="" coords="445,223,597,265"/>
 <area shape="rect" id="node21" href="$classTinyXML2_1_1XMLDocument.xhtml#a38edba63c6f6b5de49f4ece2ba14dd8d" title="TinyXML2::XMLDocument\l::SetError" alt="" coords="208,647,384,689"/>
@@ -21,6 +21,6 @@
 <area shape="rect" id="node12" href="$classTinyXML2_1_1XMLUtil.xhtml#aa1b7cab8abab24f6deeb0b34a31b5a86" title="TinyXML2::XMLUtil::\lIsWhiteSpace" alt="" coords="868,406,1012,447"/>
 <area shape="rect" id="node13" href="$classTinyXML2_1_1XMLUtil.xhtml#a151c32ae2f90003379a2fc78a80da4f1" title="TinyXML2::XMLUtil::\lSkipWhiteSpace" alt="" coords="868,471,1012,513"/>
 <area shape="rect" id="node15" href="$classTinyXML2_1_1XMLUtil.xhtml#a568fea7b3c469d8fae0e1f3480a0d96c" title="TinyXML2::XMLUtil::\lConvertUTF32ToUTF8" alt="" coords="862,341,1018,382"/>
-<area shape="rect" id="node18" href="$classTinyXML2_1_1XMLText.xhtml#a44acb8346adaa28c3ed043a22104b917" title="Declare whether this should be CDATA or standard text. " alt="" coords="446,530,597,571"/>
+<area shape="rect" id="node17" href="$classTinyXML2_1_1XMLText.xhtml#a44acb8346adaa28c3ed043a22104b917" title="Declare whether this should be CDATA or standard text. " alt="" coords="446,530,597,571"/>
 <area shape="rect" id="node24" href="$classTinyXML2_1_1StrPair.xhtml#afbc7a4f921afeff8ef2aca24765ed24f" title="TinyXML2::StrPair::\lReset" alt="" coords="453,778,590,819"/>
 </map>

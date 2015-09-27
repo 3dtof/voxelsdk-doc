@@ -1,11 +1,12 @@
 <map id="Voxel::TI::ToFCamera::_getDealiasedPhaseMask" name="Voxel::TI::ToFCamera::_getDealiasedPhaseMask">
-<area shape="rect" id="node2" href="$classVoxel_1_1TI_1_1ToFCamera.xhtml#a52686f695d06876ef5a89e453c6a8ba3" title="Voxel::TI::ToFCamera\l::_initStartParams" alt="" coords="237,103,389,145"/>
+<area shape="rect" id="node2" href="$classVoxel_1_1TI_1_1ToFCamera.xhtml#a52686f695d06876ef5a89e453c6a8ba3" title="Voxel::TI::ToFCamera\l::_initStartParams" alt="" coords="237,135,389,177"/>
 <area shape="rect" id="node3" href="$classVoxel_1_1TI_1_1HaddockCDKCamera.xhtml#a4e8e32000eca9b81bc6401a8d512cbc7" title="Voxel::TI::HaddockCDKCamera\l::_initStartParams" alt="" coords="437,5,648,46"/>
-<area shape="rect" id="node4" href="$classVoxel_1_1TI_1_1ToFCalculusCamera.xhtml#adf420ba5e95dcb0cbd3da90f446242d9" title="Voxel::TI::ToFCalculusCamera\l::_initStartParams" alt="" coords="441,70,644,111"/>
-<area shape="rect" id="node6" href="$classVoxel_1_1TI_1_1ToFHaddockCamera.xhtml#ae87b0ca3c8867d1b520c0165d526e79d" title="Voxel::TI::ToFHaddockCamera\l::_initStartParams" alt="" coords="441,135,645,177"/>
-<area shape="rect" id="node8" href="$classVoxel_1_1TI_1_1ToFTintinCamera.xhtml#a17729406fadceea890b4e0e079aede46" title="Voxel::TI::ToFTintinCamera\l::_initStartParams" alt="" coords="451,201,635,242"/>
-<area shape="rect" id="node5" href="$classVoxel_1_1TI_1_1CalculusCDKCamera.xhtml#a2474713056342fa6774ff5a165961052" title="Voxel::TI::CalculusCDKCamera\l::_initStartParams" alt="" coords="697,70,906,111"/>
-<area shape="rect" id="node7" href="$classVoxel_1_1TI_1_1Voxel14Camera.xhtml#ad5dcde935444ac28a6e0b5705f504573" title="Voxel::TI::Voxel14Camera\l::_initStartParams" alt="" coords="713,135,889,177"/>
-<area shape="rect" id="node9" href="$classVoxel_1_1TI_1_1TintinCDKCamera.xhtml#a35274b5fd95ea088be4bc0637328d5f4" title="Voxel::TI::TintinCDKCamera\l::_initStartParams" alt="" coords="706,201,897,242"/>
-<area shape="rect" id="node10" href="$classVoxel_1_1TI_1_1VoxelDCamera.xhtml#ae0706724a5ebbb978d41fb2633af5040" title="Voxel::TI::VoxelDCamera\l::_initStartParams" alt="" coords="715,266,887,307"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1TI_1_1RTS5825Camera.xhtml#a2df71f9665a9c5d5dd1f6c58654175cd" title="Voxel::TI::RTS5825Camera\l::_initStartParams" alt="" coords="451,70,635,111"/>
+<area shape="rect" id="node5" href="$classVoxel_1_1TI_1_1ToFCalculusCamera.xhtml#adf420ba5e95dcb0cbd3da90f446242d9" title="Voxel::TI::ToFCalculusCamera\l::_initStartParams" alt="" coords="441,135,644,177"/>
+<area shape="rect" id="node7" href="$classVoxel_1_1TI_1_1ToFHaddockCamera.xhtml#ae87b0ca3c8867d1b520c0165d526e79d" title="Voxel::TI::ToFHaddockCamera\l::_initStartParams" alt="" coords="441,201,645,242"/>
+<area shape="rect" id="node9" href="$classVoxel_1_1TI_1_1ToFTintinCamera.xhtml#a17729406fadceea890b4e0e079aede46" title="Voxel::TI::ToFTintinCamera\l::_initStartParams" alt="" coords="451,266,635,307"/>
+<area shape="rect" id="node6" href="$classVoxel_1_1TI_1_1CalculusCDKCamera.xhtml#a2474713056342fa6774ff5a165961052" title="Voxel::TI::CalculusCDKCamera\l::_initStartParams" alt="" coords="697,135,906,177"/>
+<area shape="rect" id="node8" href="$classVoxel_1_1TI_1_1Voxel14Camera.xhtml#ad5dcde935444ac28a6e0b5705f504573" title="Voxel::TI::Voxel14Camera\l::_initStartParams" alt="" coords="713,201,889,242"/>
+<area shape="rect" id="node10" href="$classVoxel_1_1TI_1_1TintinCDKCamera.xhtml#a35274b5fd95ea088be4bc0637328d5f4" title="Voxel::TI::TintinCDKCamera\l::_initStartParams" alt="" coords="706,266,897,307"/>
+<area shape="rect" id="node11" href="$classVoxel_1_1TI_1_1VoxelDCamera.xhtml#ae0706724a5ebbb978d41fb2633af5040" title="Voxel::TI::VoxelDCamera\l::_initStartParams" alt="" coords="715,331,887,373"/>
 </map>

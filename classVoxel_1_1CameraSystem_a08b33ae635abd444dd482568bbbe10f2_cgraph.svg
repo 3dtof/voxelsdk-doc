@@ -123,7 +123,7 @@ var sectionId = 'dynsection-1';
 </g>
 <!-- Node6 -->
 <g id="node6" class="node"><title>Node6</title>
-<g id="a_node6"><a xlink:href="group__Util.xhtml#ga16ec843ff8823b67816f0fa329fe0197" target="_top" xlink:title="Filesystem functions – returns the number of files read or else &#45;1 for error. Only those files whose ...">
+<g id="a_node6"><a xlink:href="group__Util.xhtml#ga16ec843ff8823b67816f0fa329fe0197" target="_top" xlink:title="Filesystem functions – returns the number of files read or else &#45;1 for error. Only those files whose...">
 <polygon fill="none" stroke="black" points="481,-98.5 481,-117.5 563,-117.5 563,-98.5 481,-98.5"/>
 <text text-anchor="middle" x="522" y="-105.5" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::getFiles</text>
 </a>

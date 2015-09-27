@@ -16,7 +16,7 @@
 </g>
 <!-- Node2 -->
 <g id="node2" class="node"><title>Node2</title>
-<g id="a_node2"><a xlink:href="classVoxel_1_1Configuration.xhtml#aeed2f5638591b839dd233e8673a977e5" target="_top" xlink:title="Updates &quot;name&quot; to full path. ">
+<g id="a_node2"><a xlink:href="classVoxel_1_1Configuration.xhtml#aee8855b651aed3783dbd8aa4453b1a4d" target="_top" xlink:title="Updates &quot;name&quot; to full path. ">
 <polygon fill="none" stroke="black" points="186.5,-0 186.5,-30 291.5,-30 291.5,-0 186.5,-0"/>
 <text text-anchor="start" x="194.5" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::Configuration</text>
 <text text-anchor="middle" x="239" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">::getConfFile</text>

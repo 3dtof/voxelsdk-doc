@@ -46,7 +46,7 @@ if (edges && edges.length) {
         </defs>
 
 <script type="text/javascript">
-var viewWidth = 1198;
+var viewWidth = 1202;
 var viewHeight = 822;
 var sectionId = 'dynsection-22';
 </script>
@@ -189,30 +189,30 @@ var sectionId = 'dynsection-22';
 <!-- Node16 -->
 <g id="node16" class="node"><title>Node16</title>
 <g id="a_node16"><a xlink:href="classVoxel_1_1MainConfigurationFile.xhtml#a0450eaddb1180226c1a3e898e978aba4" target="_top" xlink:title="Voxel::MainConfiguration\lFile::get">
-<polygon fill="none" stroke="black" points="156,-343 156,-373 282,-373 282,-343 156,-343"/>
-<text text-anchor="start" x="164" y="-361" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::MainConfiguration</text>
-<text text-anchor="middle" x="219" y="-350" font-family="Helvetica,sans-Serif" font-size="10.00">File::get</text>
+<polygon fill="none" stroke="black" points="156,-294 156,-324 282,-324 282,-294 156,-294"/>
+<text text-anchor="start" x="164" y="-312" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::MainConfiguration</text>
+<text text-anchor="middle" x="219" y="-301" font-family="Helvetica,sans-Serif" font-size="10.00">File::get</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node16 -->
 <g id="edge16" class="edge"><title>Node1&#45;&gt;Node16</title>
-<path fill="none" stroke="midnightblue" d="M107.311,-391.899C123.66,-386.892 142.024,-381.268 159.025,-376.061"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="160.315,-379.326 168.852,-373.052 158.265,-372.633 160.315,-379.326"/>
+<path fill="none" stroke="midnightblue" d="M73.4105,-391.836C90.7767,-375.444 120.455,-349.462 150,-333 153.045,-331.303 156.232,-329.692 159.494,-328.167"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="161.061,-331.303 168.831,-324.101 158.265,-324.885 161.061,-331.303"/>
 </g>
 <!-- Node26 -->
 <g id="node26" class="node"><title>Node26</title>
 <g id="a_node26"><a xlink:href="classVoxel_1_1MainConfigurationFile.xhtml#a700e33f6f37c59f24bdea5db5a037898" target="_top" xlink:title="Voxel::MainConfiguration\lFile::getFile">
-<polygon fill="none" stroke="black" points="156,-245 156,-275 282,-275 282,-245 156,-245"/>
-<text text-anchor="start" x="164" y="-263" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::MainConfiguration</text>
-<text text-anchor="middle" x="219" y="-252" font-family="Helvetica,sans-Serif" font-size="10.00">File::getFile</text>
+<polygon fill="none" stroke="black" points="156,-343 156,-373 282,-373 282,-343 156,-343"/>
+<text text-anchor="start" x="164" y="-361" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::MainConfiguration</text>
+<text text-anchor="middle" x="219" y="-350" font-family="Helvetica,sans-Serif" font-size="10.00">File::getFile</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node26 -->
 <g id="edge28" class="edge"><title>Node1&#45;&gt;Node26</title>
-<path fill="none" stroke="midnightblue" d="M65.4753,-391.861C78.9254,-366.11 109.608,-313.695 150,-284 151.885,-282.614 153.857,-281.303 155.894,-280.062"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="158.021,-282.892 165.164,-275.068 154.701,-276.73 158.021,-282.892"/>
+<path fill="none" stroke="midnightblue" d="M107.311,-391.899C123.66,-386.892 142.024,-381.268 159.025,-376.061"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="160.315,-379.326 168.852,-373.052 158.265,-372.633 160.315,-379.326"/>
 </g>
 <!-- Node30 -->
 <g id="node30" class="node"><title>Node30</title>
@@ -224,7 +224,7 @@ var sectionId = 'dynsection-22';
 </g>
 </g>
 <!-- Node1&#45;&gt;Node30 -->
-<g id="edge32" class="edge"><title>Node1&#45;&gt;Node30</title>
+<g id="edge34" class="edge"><title>Node1&#45;&gt;Node30</title>
 <path fill="none" stroke="midnightblue" d="M61.9755,-391.995C71.5024,-358.883 98.7418,-279.01 150,-235 151.496,-233.716 153.065,-232.498 154.693,-231.345"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="156.56,-234.306 163.254,-226.093 152.9,-228.339 156.56,-234.306"/>
 </g>
@@ -238,7 +238,7 @@ var sectionId = 'dynsection-22';
 </g>
 </g>
 <!-- Node1&#45;&gt;Node31 -->
-<g id="edge33" class="edge"><title>Node1&#45;&gt;Node31</title>
+<g id="edge35" class="edge"><title>Node1&#45;&gt;Node31</title>
 <path fill="none" stroke="midnightblue" d="M60.0412,-391.736C66.1371,-352.089 87.8154,-244.845 150,-186 151.91,-184.193 153.963,-182.521 156.125,-180.974"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="158.208,-183.803 164.92,-175.605 154.561,-177.828 158.208,-183.803"/>
 </g>
@@ -252,7 +252,7 @@ var sectionId = 'dynsection-22';
 </g>
 </g>
 <!-- Node1&#45;&gt;Node33 -->
-<g id="edge35" class="edge"><title>Node1&#45;&gt;Node33</title>
+<g id="edge37" class="edge"><title>Node1&#45;&gt;Node33</title>
 <path fill="none" stroke="midnightblue" d="M58.7171,-391.791C61.6674,-346.537 76.5176,-211.287 150,-137 151.073,-135.915 152.198,-134.879 153.367,-133.89"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="155.52,-136.654 161.655,-128.016 151.473,-130.943 155.52,-136.654"/>
 </g>
@@ -266,7 +266,7 @@ var sectionId = 'dynsection-22';
 </g>
 </g>
 <!-- Node1&#45;&gt;Node34 -->
-<g id="edge36" class="edge"><title>Node1&#45;&gt;Node34</title>
+<g id="edge38" class="edge"><title>Node1&#45;&gt;Node34</title>
 <path fill="none" stroke="midnightblue" d="M57.7815,-391.66C57.9072,-341.119 65.1708,-177.944 150,-88 150.918,-87.0266 151.878,-86.0927 152.875,-85.1966"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="155.215,-87.8176 161.151,-79.0415 151.038,-82.2006 155.215,-87.8176"/>
 </g>
@@ -280,23 +280,23 @@ var sectionId = 'dynsection-22';
 </g>
 </g>
 <!-- Node1&#45;&gt;Node36 -->
-<g id="edge38" class="edge"><title>Node1&#45;&gt;Node36</title>
+<g id="edge40" class="edge"><title>Node1&#45;&gt;Node36</title>
 <path fill="none" stroke="midnightblue" d="M59.8879,-391.69C67.8963,-329.036 100.916,-92.9463 150,-39 151.975,-36.8297 154.158,-34.8556 156.495,-33.0601"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="158.437,-35.9721 164.952,-27.617 154.649,-30.0857 158.437,-35.9721"/>
 </g>
 <!-- Node38 -->
 <g id="node38" class="node"><title>Node38</title>
 <g id="a_node38"><a xlink:href="classVoxel_1_1MainConfigurationFile.xhtml#a0d061a6b01c29c40af3288f4783c3c07" target="_top" xlink:title="Voxel::MainConfiguration\lFile::isPresent">
-<polygon fill="none" stroke="black" points="156,-294 156,-324 282,-324 282,-294 156,-294"/>
-<text text-anchor="start" x="164" y="-312" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::MainConfiguration</text>
-<text text-anchor="middle" x="219" y="-301" font-family="Helvetica,sans-Serif" font-size="10.00">File::isPresent</text>
+<polygon fill="none" stroke="black" points="156,-245 156,-275 282,-275 282,-245 156,-245"/>
+<text text-anchor="start" x="164" y="-263" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::MainConfiguration</text>
+<text text-anchor="middle" x="219" y="-252" font-family="Helvetica,sans-Serif" font-size="10.00">File::isPresent</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node38 -->
-<g id="edge40" class="edge"><title>Node1&#45;&gt;Node38</title>
-<path fill="none" stroke="midnightblue" d="M73.4105,-391.836C90.7767,-375.444 120.455,-349.462 150,-333 153.045,-331.303 156.232,-329.692 159.494,-328.167"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="161.061,-331.303 168.831,-324.101 158.265,-324.885 161.061,-331.303"/>
+<g id="edge42" class="edge"><title>Node1&#45;&gt;Node38</title>
+<path fill="none" stroke="midnightblue" d="M65.4753,-391.861C78.9254,-366.11 109.608,-313.695 150,-284 151.885,-282.614 153.857,-281.303 155.894,-280.062"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="158.021,-282.892 165.164,-275.068 154.701,-276.73 158.021,-282.892"/>
 </g>
 <!-- Node5 -->
 <g id="node5" class="node"><title>Node5</title>
@@ -315,29 +315,29 @@ var sectionId = 'dynsection-22';
 <!-- Node6 -->
 <g id="node6" class="node"><title>Node6</title>
 <g id="a_node6"><a xlink:href="classVoxel_1_1ParameterTemplate.xhtml#afa8896eaffbd2b87d1482c0967a0fe1d" target="_top" xlink:title="Voxel::ParameterTemplate::get">
-<polygon fill="none" stroke="black" points="524,-644.5 524,-663.5 676,-663.5 676,-644.5 524,-644.5"/>
-<text text-anchor="middle" x="600" y="-651.5" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::ParameterTemplate::get</text>
+<polygon fill="none" stroke="black" points="524,-688.5 524,-707.5 676,-707.5 676,-688.5 524,-688.5"/>
+<text text-anchor="middle" x="600" y="-695.5" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::ParameterTemplate::get</text>
 </a>
 </g>
 </g>
 <!-- Node5&#45;&gt;Node6 -->
 <g id="edge5" class="edge"><title>Node5&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M460.228,-669.901C476.802,-668.002 495.514,-665.858 513.707,-663.773"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="514.207,-667.239 523.743,-662.623 513.41,-660.284 514.207,-667.239"/>
+<path fill="none" stroke="midnightblue" d="M460.228,-682.099C476.802,-683.998 495.514,-686.142 513.707,-688.227"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="513.41,-691.716 523.743,-689.377 514.207,-684.761 513.41,-691.716"/>
 </g>
 <!-- Node7 -->
 <g id="node7" class="node"><title>Node7</title>
 <g id="a_node7"><a xlink:href="classVoxel_1_1DepthCamera.xhtml#ae3d6fcc6d4a20d1ad2de809ad65ecc34" target="_top" xlink:title="Voxel::DepthCamera\l::name">
-<polygon fill="none" stroke="black" points="546,-683 546,-713 654,-713 654,-683 546,-683"/>
-<text text-anchor="start" x="554" y="-701" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::DepthCamera</text>
-<text text-anchor="middle" x="600" y="-690" font-family="Helvetica,sans-Serif" font-size="10.00">::name</text>
+<polygon fill="none" stroke="black" points="546,-639 546,-669 654,-669 654,-639 546,-639"/>
+<text text-anchor="start" x="554" y="-657" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::DepthCamera</text>
+<text text-anchor="middle" x="600" y="-646" font-family="Helvetica,sans-Serif" font-size="10.00">::name</text>
 </a>
 </g>
 </g>
 <!-- Node5&#45;&gt;Node7 -->
 <g id="edge6" class="edge"><title>Node5&#45;&gt;Node7</title>
-<path fill="none" stroke="midnightblue" d="M460.228,-682.099C483.533,-684.769 511.067,-687.924 535.439,-690.717"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="535.335,-694.228 545.669,-691.889 536.132,-687.273 535.335,-694.228"/>
+<path fill="none" stroke="midnightblue" d="M460.228,-669.901C483.533,-667.231 511.067,-664.076 535.439,-661.283"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="536.132,-664.727 545.669,-660.111 535.335,-657.772 536.132,-664.727"/>
 </g>
 <!-- Node10&#45;&gt;Node5 -->
 <g id="edge10" class="edge"><title>Node10&#45;&gt;Node5</title>
@@ -375,174 +375,184 @@ var sectionId = 'dynsection-22';
 <!-- Node17 -->
 <g id="node17" class="node"><title>Node17</title>
 <g id="a_node17"><a xlink:href="classVoxel_1_1ConfigurationFile.xhtml#af5573f5dba76f1fde00220b892f8121c" target="_top" xlink:title="Voxel::ConfigurationFile\l::_get">
-<polygon fill="none" stroke="black" points="345.5,-361 345.5,-391 466.5,-391 466.5,-361 345.5,-361"/>
-<text text-anchor="start" x="353.5" y="-379" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::ConfigurationFile</text>
-<text text-anchor="middle" x="406" y="-368" font-family="Helvetica,sans-Serif" font-size="10.00">::_get</text>
+<polygon fill="none" stroke="black" points="345.5,-294 345.5,-324 466.5,-324 466.5,-294 345.5,-294"/>
+<text text-anchor="start" x="353.5" y="-312" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::ConfigurationFile</text>
+<text text-anchor="middle" x="406" y="-301" font-family="Helvetica,sans-Serif" font-size="10.00">::_get</text>
 </a>
 </g>
 </g>
 <!-- Node16&#45;&gt;Node17 -->
 <g id="edge17" class="edge"><title>Node16&#45;&gt;Node17</title>
-<path fill="none" stroke="midnightblue" d="M282.117,-364.044C299.14,-365.7 317.708,-367.507 335.133,-369.202"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="334.949,-372.701 345.241,-370.186 335.627,-365.734 334.949,-372.701"/>
+<path fill="none" stroke="midnightblue" d="M282.117,-309C299.14,-309 317.708,-309 335.133,-309"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="335.241,-312.5 345.241,-309 335.241,-305.5 335.241,-312.5"/>
 </g>
 <!-- Node17&#45;&gt;Node17 -->
 <g id="edge19" class="edge"><title>Node17&#45;&gt;Node17</title>
-<path fill="none" stroke="midnightblue" d="M373.305,-391.275C366.039,-400.406 376.938,-409 406,-409 423.256,-409 434.108,-405.97 438.557,-401.598"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="442.061,-401.321 438.695,-391.275 435.062,-401.228 442.061,-401.321"/>
+<path fill="none" stroke="midnightblue" d="M373.305,-324.275C366.039,-333.406 376.938,-342 406,-342 423.256,-342 434.108,-338.97 438.557,-334.598"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="442.061,-334.321 438.695,-324.275 435.062,-334.228 442.061,-334.321"/>
 </g>
 <!-- Node18 -->
 <g id="node18" class="node"><title>Node18</title>
 <g id="a_node18"><a xlink:href="classVoxel_1_1ConfigSet.xhtml#a49e4060aa2bc96690da36bdf5ef7b227" target="_top" xlink:title="Voxel::ConfigSet::_get">
-<polygon fill="none" stroke="black" points="542,-404.5 542,-423.5 658,-423.5 658,-404.5 542,-404.5"/>
-<text text-anchor="middle" x="600" y="-411.5" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::ConfigSet::_get</text>
+<polygon fill="none" stroke="black" points="542,-337.5 542,-356.5 658,-356.5 658,-337.5 542,-337.5"/>
+<text text-anchor="middle" x="600" y="-344.5" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::ConfigSet::_get</text>
 </a>
 </g>
 </g>
 <!-- Node17&#45;&gt;Node18 -->
 <g id="edge18" class="edge"><title>Node17&#45;&gt;Node18</title>
-<path fill="none" stroke="midnightblue" d="M466.698,-387.815C490.393,-392.505 517.548,-397.879 541.067,-402.534"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="540.413,-405.973 550.903,-404.481 541.772,-399.106 540.413,-405.973"/>
+<path fill="none" stroke="midnightblue" d="M466.698,-320.815C490.393,-325.505 517.548,-330.879 541.067,-335.534"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="540.413,-338.973 550.903,-337.481 541.772,-332.106 540.413,-338.973"/>
 </g>
 <!-- Node19 -->
 <g id="node19" class="node"><title>Node19</title>
 <g id="a_node19"><a xlink:href="classVoxel_1_1MainConfigurationFile.xhtml#ab24aaf7b18fea74c6f235da04fadbed0" target="_top" xlink:title="Voxel::MainConfiguration\lFile::getCameraProfile">
-<polygon fill="none" stroke="black" points="537,-317 537,-347 663,-347 663,-317 537,-317"/>
-<text text-anchor="start" x="545" y="-335" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::MainConfiguration</text>
-<text text-anchor="middle" x="600" y="-324" font-family="Helvetica,sans-Serif" font-size="10.00">File::getCameraProfile</text>
+<polygon fill="none" stroke="black" points="712,-294 712,-324 838,-324 838,-294 712,-294"/>
+<text text-anchor="start" x="720" y="-312" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::MainConfiguration</text>
+<text text-anchor="middle" x="775" y="-301" font-family="Helvetica,sans-Serif" font-size="10.00">File::getCameraProfile</text>
 </a>
 </g>
 </g>
 <!-- Node17&#45;&gt;Node19 -->
 <g id="edge20" class="edge"><title>Node17&#45;&gt;Node19</title>
-<path fill="none" stroke="midnightblue" d="M466.698,-362.319C485.72,-357.96 506.973,-353.089 526.784,-348.55"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="527.718,-351.926 536.684,-346.281 526.155,-345.103 527.718,-351.926"/>
+<path fill="none" stroke="midnightblue" d="M466.782,-309C530.923,-309 632.812,-309 701.485,-309"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="701.789,-312.5 711.789,-309 701.789,-305.5 701.789,-312.5"/>
 </g>
 <!-- Node20 -->
 <g id="node20" class="node"><title>Node20</title>
 <g id="a_node20"><a xlink:href="classVoxel_1_1ConfigurationFile.xhtml#a440d9dd2f89d0c76c81f7285b31a5b94" target="_top" xlink:title="Voxel::ConfigurationFile::set">
-<polygon fill="none" stroke="black" points="530,-366.5 530,-385.5 670,-385.5 670,-366.5 530,-366.5"/>
-<text text-anchor="middle" x="600" y="-373.5" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::ConfigurationFile::set</text>
+<polygon fill="none" stroke="black" points="530,-223.5 530,-242.5 670,-242.5 670,-223.5 530,-223.5"/>
+<text text-anchor="middle" x="600" y="-230.5" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::ConfigurationFile::set</text>
 </a>
 </g>
 </g>
 <!-- Node17&#45;&gt;Node20 -->
 <g id="edge21" class="edge"><title>Node17&#45;&gt;Node20</title>
-<path fill="none" stroke="midnightblue" d="M466.698,-376C483.445,-376 501.922,-376 519.621,-376"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="519.934,-379.5 529.934,-376 519.934,-372.5 519.934,-379.5"/>
+<path fill="none" stroke="midnightblue" d="M448.739,-293.887C461.389,-289.214 475.296,-283.983 488,-279 514.897,-268.45 545.181,-255.851 567.314,-246.508"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="568.722,-249.713 576.567,-242.592 565.994,-243.267 568.722,-249.713"/>
 </g>
 <!-- Node21 -->
 <g id="node21" class="node"><title>Node21</title>
 <g id="a_node21"><a xlink:href="classVoxel_1_1ConfigurationFile.xhtml#a3b9b573c1a3d9162fc0100c317ca0879" target="_top" xlink:title="Voxel::ConfigurationFile\l::_set">
-<polygon fill="none" stroke="black" points="712.5,-361 712.5,-391 833.5,-391 833.5,-361 712.5,-361"/>
-<text text-anchor="start" x="720.5" y="-379" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::ConfigurationFile</text>
-<text text-anchor="middle" x="773" y="-368" font-family="Helvetica,sans-Serif" font-size="10.00">::_set</text>
+<polygon fill="none" stroke="black" points="714.5,-218 714.5,-248 835.5,-248 835.5,-218 714.5,-218"/>
+<text text-anchor="start" x="722.5" y="-236" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::ConfigurationFile</text>
+<text text-anchor="middle" x="775" y="-225" font-family="Helvetica,sans-Serif" font-size="10.00">::_set</text>
 </a>
 </g>
 </g>
 <!-- Node20&#45;&gt;Node21 -->
 <g id="edge22" class="edge"><title>Node20&#45;&gt;Node21</title>
-<path fill="none" stroke="midnightblue" d="M670.059,-369.362C680.666,-369.216 691.624,-369.213 702.246,-369.353"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="702.244,-372.853 712.304,-369.531 702.368,-365.854 702.244,-372.853"/>
+<path fill="none" stroke="midnightblue" d="M670.369,-226.369C681.525,-226.212 693.076,-226.21 704.241,-226.364"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="704.301,-229.865 714.363,-226.548 704.428,-222.866 704.301,-229.865"/>
 </g>
 <!-- Node21&#45;&gt;Node20 -->
 <g id="edge27" class="edge"><title>Node21&#45;&gt;Node20</title>
-<path fill="none" stroke="midnightblue" d="M712.304,-382.469C701.967,-382.701 691.075,-382.789 680.314,-382.734"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="680.092,-379.232 670.059,-382.638 680.026,-386.232 680.092,-379.232"/>
+<path fill="none" stroke="midnightblue" d="M714.363,-239.452C703.508,-239.7 692.027,-239.793 680.703,-239.731"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="680.402,-236.228 670.369,-239.631 680.334,-243.228 680.402,-236.228"/>
 </g>
 <!-- Node22 -->
 <g id="node22" class="node"><title>Node22</title>
 <g id="a_node22"><a xlink:href="classVoxel_1_1ConfigSet.xhtml#a8fb880c24ad7b0f04c84d4a33becb995" target="_top" xlink:title="Voxel::ConfigSet::_set">
-<polygon fill="none" stroke="black" points="870,-366.5 870,-385.5 986,-385.5 986,-366.5 870,-366.5"/>
-<text text-anchor="middle" x="928" y="-373.5" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::ConfigSet::_set</text>
+<polygon fill="none" stroke="black" points="874,-223.5 874,-242.5 990,-242.5 990,-223.5 874,-223.5"/>
+<text text-anchor="middle" x="932" y="-230.5" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::ConfigSet::_set</text>
 </a>
 </g>
 </g>
 <!-- Node21&#45;&gt;Node22 -->
 <g id="edge23" class="edge"><title>Node21&#45;&gt;Node22</title>
-<path fill="none" stroke="midnightblue" d="M833.592,-376C842.156,-376 851.017,-376 859.717,-376"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="859.828,-379.5 869.828,-376 859.828,-372.5 859.828,-379.5"/>
+<path fill="none" stroke="midnightblue" d="M835.927,-233C844.964,-233 854.337,-233 863.519,-233"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="863.777,-236.5 873.777,-233 863.777,-229.5 863.777,-236.5"/>
 </g>
 <!-- Node23 -->
 <g id="node23" class="node"><title>Node23</title>
 <g id="a_node23"><a xlink:href="group__Util.xhtml#ga6b2a26aa983349496fedae9aa54ad034" target="_top" xlink:title="Trim. ">
-<polygon fill="none" stroke="black" points="1022,-366.5 1022,-385.5 1086,-385.5 1086,-366.5 1022,-366.5"/>
-<text text-anchor="middle" x="1054" y="-373.5" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::trim</text>
+<polygon fill="none" stroke="black" points="1026,-223.5 1026,-242.5 1090,-242.5 1090,-223.5 1026,-223.5"/>
+<text text-anchor="middle" x="1058" y="-230.5" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::trim</text>
 </a>
 </g>
 </g>
 <!-- Node22&#45;&gt;Node23 -->
 <g id="edge24" class="edge"><title>Node22&#45;&gt;Node23</title>
-<path fill="none" stroke="midnightblue" d="M986.281,-376C994.753,-376 1003.34,-376 1011.41,-376"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1011.67,-379.5 1021.67,-376 1011.67,-372.5 1011.67,-379.5"/>
+<path fill="none" stroke="midnightblue" d="M990.281,-233C998.753,-233 1007.34,-233 1015.41,-233"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1015.67,-236.5 1025.67,-233 1015.67,-229.5 1015.67,-236.5"/>
 </g>
 <!-- Node24 -->
 <g id="node24" class="node"><title>Node24</title>
 <g id="a_node24"><a xlink:href="group__Util.xhtml#gac9c04e18f7878dd82964bb489b7b1314" target="_top" xlink:title="Left Trim. ">
-<polygon fill="none" stroke="black" points="1123,-385.5 1123,-404.5 1189,-404.5 1189,-385.5 1123,-385.5"/>
-<text text-anchor="middle" x="1156" y="-392.5" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::ltrim</text>
+<polygon fill="none" stroke="black" points="1127,-242.5 1127,-261.5 1193,-261.5 1193,-242.5 1127,-242.5"/>
+<text text-anchor="middle" x="1160" y="-249.5" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::ltrim</text>
 </a>
 </g>
 </g>
 <!-- Node23&#45;&gt;Node24 -->
 <g id="edge25" class="edge"><title>Node23&#45;&gt;Node24</title>
-<path fill="none" stroke="midnightblue" d="M1086.09,-381.908C1094.59,-383.522 1103.94,-385.299 1112.94,-387.009"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1112.41,-390.471 1122.89,-388.899 1113.72,-383.594 1112.41,-390.471"/>
+<path fill="none" stroke="midnightblue" d="M1090.09,-238.908C1098.59,-240.522 1107.94,-242.299 1116.94,-244.009"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1116.41,-247.471 1126.89,-245.899 1117.72,-240.594 1116.41,-247.471"/>
 </g>
 <!-- Node25 -->
 <g id="node25" class="node"><title>Node25</title>
 <g id="a_node25"><a xlink:href="group__Util.xhtml#ga3d95f05dde73bc9c54051437445e439b" target="_top" xlink:title="Right Trim. ">
-<polygon fill="none" stroke="black" points="1122.5,-347.5 1122.5,-366.5 1189.5,-366.5 1189.5,-347.5 1122.5,-347.5"/>
-<text text-anchor="middle" x="1156" y="-354.5" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::rtrim</text>
+<polygon fill="none" stroke="black" points="1126.5,-204.5 1126.5,-223.5 1193.5,-223.5 1193.5,-204.5 1126.5,-204.5"/>
+<text text-anchor="middle" x="1160" y="-211.5" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::rtrim</text>
 </a>
 </g>
 </g>
 <!-- Node23&#45;&gt;Node25 -->
 <g id="edge26" class="edge"><title>Node23&#45;&gt;Node25</title>
-<path fill="none" stroke="midnightblue" d="M1086.09,-370.092C1094.33,-368.526 1103.38,-366.808 1112.13,-365.146"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1113.02,-368.538 1122.2,-363.233 1111.72,-361.661 1113.02,-368.538"/>
+<path fill="none" stroke="midnightblue" d="M1090.09,-227.092C1098.33,-225.526 1107.38,-223.808 1116.13,-222.146"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1117.02,-225.538 1126.2,-220.233 1115.72,-218.661 1117.02,-225.538"/>
 </g>
 <!-- Node27 -->
 <g id="node27" class="node"><title>Node27</title>
 <g id="a_node27"><a xlink:href="classVoxel_1_1ConfigurationFile.xhtml#a49e5d191d816bda45d31e29a29272c9d" target="_top" xlink:title="Voxel::ConfigurationFile\l::getFile">
-<polygon fill="none" stroke="black" points="345.5,-237 345.5,-267 466.5,-267 466.5,-237 345.5,-237"/>
-<text text-anchor="start" x="353.5" y="-255" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::ConfigurationFile</text>
-<text text-anchor="middle" x="406" y="-244" font-family="Helvetica,sans-Serif" font-size="10.00">::getFile</text>
+<polygon fill="none" stroke="black" points="345.5,-369 345.5,-399 466.5,-399 466.5,-369 345.5,-369"/>
+<text text-anchor="start" x="353.5" y="-387" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::ConfigurationFile</text>
+<text text-anchor="middle" x="406" y="-376" font-family="Helvetica,sans-Serif" font-size="10.00">::getFile</text>
 </a>
 </g>
 </g>
 <!-- Node26&#45;&gt;Node27 -->
 <g id="edge29" class="edge"><title>Node26&#45;&gt;Node27</title>
-<path fill="none" stroke="midnightblue" d="M282.117,-257.314C299.14,-256.578 317.708,-255.775 335.133,-255.021"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="335.402,-258.513 345.241,-254.584 335.099,-251.52 335.402,-258.513"/>
+<path fill="none" stroke="midnightblue" d="M282.117,-366.73C299.14,-369.122 317.708,-371.732 335.133,-374.181"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="334.851,-377.676 345.241,-375.601 335.826,-370.744 334.851,-377.676"/>
 </g>
 <!-- Node28 -->
 <g id="node28" class="node"><title>Node28</title>
 <g id="a_node28"><a xlink:href="classVoxel_1_1ConfigurationFile.xhtml#a69e6c29b1e3caafca6e783937834113b" target="_top" xlink:title="Voxel::ConfigurationFile\l::_getData">
-<polygon fill="none" stroke="black" points="539.5,-229 539.5,-259 660.5,-259 660.5,-229 539.5,-229"/>
-<text text-anchor="start" x="547.5" y="-247" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::ConfigurationFile</text>
-<text text-anchor="middle" x="600" y="-236" font-family="Helvetica,sans-Serif" font-size="10.00">::_getData</text>
+<polygon fill="none" stroke="black" points="539.5,-376 539.5,-406 660.5,-406 660.5,-376 539.5,-376"/>
+<text text-anchor="start" x="547.5" y="-394" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::ConfigurationFile</text>
+<text text-anchor="middle" x="600" y="-383" font-family="Helvetica,sans-Serif" font-size="10.00">::_getData</text>
 </a>
 </g>
 </g>
 <!-- Node27&#45;&gt;Node28 -->
 <g id="edge30" class="edge"><title>Node27&#45;&gt;Node28</title>
-<path fill="none" stroke="midnightblue" d="M466.698,-249.513C486.474,-248.689 508.66,-247.764 529.131,-246.911"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="529.494,-250.399 539.339,-246.486 529.202,-243.405 529.494,-250.399"/>
+<path fill="none" stroke="midnightblue" d="M466.698,-386.176C486.474,-386.897 508.66,-387.706 529.131,-388.453"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="529.218,-391.958 539.339,-388.825 529.474,-384.963 529.218,-391.958"/>
+</g>
+<!-- Node28&#45;&gt;Node19 -->
+<g id="edge32" class="edge"><title>Node28&#45;&gt;Node19</title>
+<path fill="none" stroke="midnightblue" d="M651.172,-375.866C659.576,-372.881 668.12,-369.56 676,-366 698.968,-355.625 723.478,-341.368 742.24,-329.709"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="744.359,-332.511 750.958,-324.222 740.63,-326.587 744.359,-332.511"/>
+</g>
+<!-- Node28&#45;&gt;Node28 -->
+<g id="edge31" class="edge"><title>Node28&#45;&gt;Node28</title>
+<path fill="none" stroke="midnightblue" d="M569.414,-406.275C562.617,-415.406 572.812,-424 600,-424 616.143,-424 626.295,-420.97 630.457,-416.598"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="633.96,-416.319 630.586,-406.275 626.961,-416.231 633.96,-416.319"/>
 </g>
 <!-- Node29 -->
 <g id="node29" class="node"><title>Node29</title>
-<g id="a_node29"><a xlink:href="classVoxel_1_1Configuration.xhtml#aeed2f5638591b839dd233e8673a977e5" target="_top" xlink:title="Updates &quot;name&quot; to full path. ">
-<polygon fill="none" stroke="black" points="720.5,-229 720.5,-259 825.5,-259 825.5,-229 720.5,-229"/>
-<text text-anchor="start" x="728.5" y="-247" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::Configuration</text>
-<text text-anchor="middle" x="773" y="-236" font-family="Helvetica,sans-Serif" font-size="10.00">::getConfFile</text>
+<g id="a_node29"><a xlink:href="classVoxel_1_1Configuration.xhtml#aee8855b651aed3783dbd8aa4453b1a4d" target="_top" xlink:title="Updates &quot;name&quot; to full path. ">
+<polygon fill="none" stroke="black" points="722.5,-376 722.5,-406 827.5,-406 827.5,-376 722.5,-376"/>
+<text text-anchor="start" x="730.5" y="-394" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::Configuration</text>
+<text text-anchor="middle" x="775" y="-383" font-family="Helvetica,sans-Serif" font-size="10.00">::getConfFile</text>
 </a>
 </g>
 </g>
 <!-- Node28&#45;&gt;Node29 -->
-<g id="edge31" class="edge"><title>Node28&#45;&gt;Node29</title>
-<path fill="none" stroke="midnightblue" d="M660.808,-244C676.767,-244 694.042,-244 710.111,-244"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="710.47,-247.5 720.47,-244 710.47,-240.5 710.47,-247.5"/>
+<g id="edge33" class="edge"><title>Node28&#45;&gt;Node29</title>
+<path fill="none" stroke="midnightblue" d="M660.537,-391C677.211,-391 695.369,-391 712.173,-391"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="712.435,-394.5 722.435,-391 712.435,-387.5 712.435,-394.5"/>
 </g>
 <!-- Node32 -->
 <g id="node32" class="node"><title>Node32</title>
@@ -554,7 +564,7 @@ var sectionId = 'dynsection-22';
 </g>
 </g>
 <!-- Node31&#45;&gt;Node32 -->
-<g id="edge34" class="edge"><title>Node31&#45;&gt;Node32</title>
+<g id="edge36" class="edge"><title>Node31&#45;&gt;Node32</title>
 <path fill="none" stroke="midnightblue" d="M273.014,-162C294.495,-162 319.473,-162 341.884,-162"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="341.979,-165.5 351.979,-162 341.979,-158.5 341.979,-165.5"/>
 </g>
@@ -568,7 +578,7 @@ var sectionId = 'dynsection-22';
 </g>
 </g>
 <!-- Node34&#45;&gt;Node35 -->
-<g id="edge37" class="edge"><title>Node34&#45;&gt;Node35</title>
+<g id="edge39" class="edge"><title>Node34&#45;&gt;Node35</title>
 <path fill="none" stroke="midnightblue" d="M282.117,-64C297.444,-64 314.023,-64 329.894,-64"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="330.201,-67.5001 340.201,-64 330.201,-60.5001 330.201,-67.5001"/>
 </g>
@@ -582,51 +592,51 @@ var sectionId = 'dynsection-22';
 </g>
 </g>
 <!-- Node36&#45;&gt;Node37 -->
-<g id="edge39" class="edge"><title>Node36&#45;&gt;Node37</title>
+<g id="edge41" class="edge"><title>Node36&#45;&gt;Node37</title>
 <path fill="none" stroke="midnightblue" d="M273.014,-15C294.495,-15 319.473,-15 341.884,-15"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="341.979,-18.5001 351.979,-15 341.979,-11.5001 341.979,-18.5001"/>
 </g>
 <!-- Node39 -->
 <g id="node39" class="node"><title>Node39</title>
 <g id="a_node39"><a xlink:href="classVoxel_1_1ConfigurationFile.xhtml#a00e007801296e76b05ef10f1c8176c2d" target="_top" xlink:title="Voxel::ConfigurationFile\l::isPresent">
-<polygon fill="none" stroke="black" points="345.5,-294 345.5,-324 466.5,-324 466.5,-294 345.5,-294"/>
-<text text-anchor="start" x="353.5" y="-312" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::ConfigurationFile</text>
-<text text-anchor="middle" x="406" y="-301" font-family="Helvetica,sans-Serif" font-size="10.00">::isPresent</text>
+<polygon fill="none" stroke="black" points="345.5,-222 345.5,-252 466.5,-252 466.5,-222 345.5,-222"/>
+<text text-anchor="start" x="353.5" y="-240" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::ConfigurationFile</text>
+<text text-anchor="middle" x="406" y="-229" font-family="Helvetica,sans-Serif" font-size="10.00">::isPresent</text>
 </a>
 </g>
 </g>
 <!-- Node38&#45;&gt;Node39 -->
-<g id="edge41" class="edge"><title>Node38&#45;&gt;Node39</title>
-<path fill="none" stroke="midnightblue" d="M282.117,-309C299.14,-309 317.708,-309 335.133,-309"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="335.241,-312.5 345.241,-309 335.241,-305.5 335.241,-312.5"/>
+<g id="edge43" class="edge"><title>Node38&#45;&gt;Node39</title>
+<path fill="none" stroke="midnightblue" d="M282.117,-252.277C299.14,-250.161 317.708,-247.853 335.133,-245.686"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="335.749,-249.137 345.241,-244.429 334.886,-242.19 335.749,-249.137"/>
 </g>
 <!-- Node39&#45;&gt;Node19 -->
-<g id="edge42" class="edge"><title>Node39&#45;&gt;Node19</title>
-<path fill="none" stroke="midnightblue" d="M466.698,-316.151C485.633,-318.42 506.779,-320.953 526.512,-323.317"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="526.338,-326.821 536.684,-324.535 527.171,-319.87 526.338,-326.821"/>
+<g id="edge44" class="edge"><title>Node39&#45;&gt;Node19</title>
+<path fill="none" stroke="midnightblue" d="M466.782,-248.728C531.054,-261.338 633.23,-281.383 701.908,-294.857"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="701.302,-298.304 711.789,-296.795 702.65,-291.435 701.302,-298.304"/>
 </g>
 <!-- Node39&#45;&gt;Node20 -->
-<g id="edge45" class="edge"><title>Node39&#45;&gt;Node20</title>
-<path fill="none" stroke="midnightblue" d="M441.403,-324.103C464.498,-333.922 495.753,-346.599 524,-356 532.179,-358.722 540.954,-361.333 549.515,-363.718"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="548.852,-367.164 559.42,-366.406 550.686,-360.409 548.852,-367.164"/>
+<g id="edge47" class="edge"><title>Node39&#45;&gt;Node20</title>
+<path fill="none" stroke="midnightblue" d="M466.698,-235.756C483.445,-235.407 501.922,-235.022 519.621,-234.654"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="520.009,-238.147 529.934,-234.439 519.863,-231.148 520.009,-238.147"/>
 </g>
 <!-- Node39&#45;&gt;Node39 -->
-<g id="edge44" class="edge"><title>Node39&#45;&gt;Node39</title>
-<path fill="none" stroke="midnightblue" d="M373.305,-324.275C366.039,-333.406 376.938,-342 406,-342 423.256,-342 434.108,-338.97 438.557,-334.598"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="442.061,-334.321 438.695,-324.275 435.062,-334.228 442.061,-334.321"/>
+<g id="edge46" class="edge"><title>Node39&#45;&gt;Node39</title>
+<path fill="none" stroke="midnightblue" d="M373.305,-252.275C366.039,-261.406 376.938,-270 406,-270 423.256,-270 434.108,-266.97 438.557,-262.598"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="442.061,-262.321 438.695,-252.275 435.062,-262.228 442.061,-262.321"/>
 </g>
 <!-- Node40 -->
 <g id="node40" class="node"><title>Node40</title>
 <g id="a_node40"><a xlink:href="classVoxel_1_1ConfigSet.xhtml#ab7930d0d21d160341d989ef998ecac73" target="_top" xlink:title="Voxel::ConfigSet::isPresent">
-<polygon fill="none" stroke="black" points="531,-278.5 531,-297.5 669,-297.5 669,-278.5 531,-278.5"/>
-<text text-anchor="middle" x="600" y="-285.5" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::ConfigSet::isPresent</text>
+<polygon fill="none" stroke="black" points="531,-185.5 531,-204.5 669,-204.5 669,-185.5 531,-185.5"/>
+<text text-anchor="middle" x="600" y="-192.5" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::ConfigSet::isPresent</text>
 </a>
 </g>
 </g>
 <!-- Node39&#45;&gt;Node40 -->
-<g id="edge43" class="edge"><title>Node39&#45;&gt;Node40</title>
-<path fill="none" stroke="midnightblue" d="M466.698,-302.471C483.881,-300.591 502.884,-298.513 520.999,-296.531"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="521.395,-300.009 530.955,-295.442 520.634,-293.05 521.395,-300.009"/>
+<g id="edge45" class="edge"><title>Node39&#45;&gt;Node40</title>
+<path fill="none" stroke="midnightblue" d="M466.698,-223.941C491.95,-218.417 521.132,-212.034 545.654,-206.669"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="546.481,-210.071 555.502,-204.515 544.985,-203.233 546.481,-210.071"/>
 </g>
 </g>
 </svg>

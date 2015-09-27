@@ -239,7 +239,7 @@ var sectionId = 'dynsection-7';
 </g>
 <!-- Node13 -->
 <g id="node13" class="node"><title>Node13</title>
-<g id="a_node13"><a xlink:href="classVoxel_1_1Configuration.xhtml#abfeffa3f26a5d905901c85a8889823d7" target="_top" xlink:title="Voxel::Configuration\l::getLocalConfFile">
+<g id="a_node13"><a xlink:href="classVoxel_1_1Configuration.xhtml#a9bdd772364ff790be2acba9a27b09549" target="_top" xlink:title="Voxel::Configuration\l::getLocalConfFile">
 <polygon fill="none" stroke="black" points="534.5,-98 534.5,-128 639.5,-128 639.5,-98 534.5,-98"/>
 <text text-anchor="start" x="542.5" y="-116" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::Configuration</text>
 <text text-anchor="middle" x="587" y="-105" font-family="Helvetica,sans-Serif" font-size="10.00">::getLocalConfFile</text>

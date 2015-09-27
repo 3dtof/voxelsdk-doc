@@ -1,9 +1,0 @@
-<map id="Voxel::TI::ToFFrameGenerator::setParameters" name="Voxel::TI::ToFFrameGenerator::setParameters">
-<area shape="rect" id="node2" href="$a00158.xhtml#a522c6af12c92cd1bca21babc7e391a1c" title="Voxel::TI::ToFFrameGenerator\l::_createCrossTalkFilter" alt="" coords="253,5,453,46"/>
-<area shape="rect" id="node3" href="$a00068.xhtml#ab67672072af92365dd61a5024d007845" title="Voxel::FrameGenerator\l::_set" alt="" coords="275,70,432,111"/>
-<area shape="rect" id="node5" href="$a00068.xhtml#a48ef4931ae6cc2e09e8623560ada5628" title="Voxel::FrameGenerator\l::writeConfiguration" alt="" coords="275,167,432,209"/>
-<area shape="rect" id="node4" href="$a00068.xhtml#ab098236bfc71a96a4019c61f3c4d2ebc" title="Voxel::FrameGenerator\l::_getParam" alt="" coords="503,53,660,94"/>
-<area shape="rect" id="node6" href="$a00068.xhtml#a2747378e8bd5d331ca937c52c921d88e" title="Voxel::FrameGenerator\l::_onWriteConfiguration" alt="" coords="502,118,661,159"/>
-<area shape="rect" id="node7" href="$a00125.xhtml#aa264086223c8d210c036b6771b5cbece" title="Voxel::SerializableMap\l::serializedSize" alt="" coords="504,183,659,225"/>
-<area shape="rect" id="node8" href="$a00125.xhtml#a9cab27981418aee2008e657ffcfdb456" title="Voxel::SerializableMap\l::write" alt="" coords="504,249,659,290"/>
-</map>

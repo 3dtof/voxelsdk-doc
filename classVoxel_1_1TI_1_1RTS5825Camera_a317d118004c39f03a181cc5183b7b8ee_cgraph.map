@@ -1,0 +1,8 @@
+<map id="Voxel::TI::RTS5825Camera::_setStreamerFrameSize" name="Voxel::TI::RTS5825Camera::_setStreamerFrameSize">
+<area shape="rect" id="node2" href="$classVoxel_1_1UVCStreamer.xhtml#a7babd2f4cbe6152499b4c49b0137b6b4" title="Voxel::UVCStreamer\l::setVideoMode" alt="" coords="238,93,383,134"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1UVCStreamer.xhtml#aecd50d2937da72beedea5df3868b8d4d" title="Voxel::UVCStreamer\l::_storeCurrentVideoMode" alt="" coords="454,5,629,46"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1VideoMode.xhtml#a99b3955c15011399b66cbf609afdbacb" title="Voxel::VideoMode::getFrameRate" alt="" coords="432,71,651,97"/>
+<area shape="rect" id="node6" href="$classVoxel_1_1UVCStreamer.xhtml#aa1d2a26f98df476ac93ed407273b4405" title="Voxel::UVCStreamer\l::isInitialized" alt="" coords="469,122,614,163"/>
+<area shape="rect" id="node7" href="$classVoxel_1_1Streamer.xhtml#ab1cfea9ca2c261a33c38ccc00bc97c77" title="Voxel::Streamer::isRunning" alt="" coords="450,188,633,215"/>
+<area shape="rect" id="node5" href="$classVoxel_1_1FrameRate.xhtml#aad990de42e35d9c41ced1d4104e64c27" title="Voxel::FrameRate::getFrameRate" alt="" coords="699,71,917,97"/>
+</map>

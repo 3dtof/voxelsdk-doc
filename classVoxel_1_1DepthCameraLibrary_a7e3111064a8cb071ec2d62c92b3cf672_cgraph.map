@@ -1,4 +1,10 @@
 <map id="Voxel::DepthCameraLibrary::getABIVersion" name="Voxel::DepthCameraLibrary::getABIVersion">
-<area shape="rect" id="node2" href="$namespaceVoxel.xhtml#acc08a0292212365e4c4b0cf0091abbf1" title="Voxel::dynamicLoadError" alt="" coords="245,5,413,32"/>
-<area shape="rect" id="node3" href="$classVoxel_1_1DepthCameraLibrary.xhtml#afe3c4bf9d9f44924b707cab5a92644ad" title="Voxel::DepthCameraLibrary\l::isLoaded" alt="" coords="238,57,421,98"/>
+<area shape="rect" id="node2" href="$classELFIO_1_1dynamic__section__accessor.xhtml#a96572acd12da838914034ab7c6993d65" title="ELFIO::dynamic_section\l_accessor::get_entry" alt="" coords="238,70,405,111"/>
+<area shape="rect" id="node7" href="$classELFIO_1_1elfio.xhtml#af313dfceaf57ca8342e1cebba19a986e" title="ELFIO::elfio::load" alt="" coords="259,136,383,163"/>
+<area shape="rect" id="node8" href="$classELFIO_1_1elfio_1_1Sections.xhtml#a5c66bdb3ab662752c4968d8cd1a1a490" title="ELFIO::elfio::Sections\l::size" alt="" coords="246,187,397,229"/>
+<area shape="rect" id="node9" href="$group__Util.xhtml#gadd67e5b1a02a8a07764793e4598922d4" title="Voxel::split" alt="" coords="278,253,365,280"/>
+<area shape="rect" id="node3" href="$classELFIO_1_1dynamic__section__accessor.xhtml#a4a1f80115e8385d2ebfe0820c4862bd0" title="ELFIO::dynamic_section\l_accessor::get_entries_num" alt="" coords="453,5,640,46"/>
+<area shape="rect" id="node4" href="$classELFIO_1_1string__section__accessor.xhtml#abf7ba3e0d2d1e200f13ec4b4bdff96d1" title="ELFIO::string_section\l_accessor::get_string" alt="" coords="472,70,621,111"/>
+<area shape="rect" id="node6" href="$classELFIO_1_1dynamic__section__accessor.xhtml#a516030175a15e0f8aff06217e3ae5f85" title="ELFIO::dynamic_section\l_accessor::get_string\l_table_index" alt="" coords="463,135,630,191"/>
+<area shape="rect" id="node5" href="$classELFIO_1_1section.xhtml#accfaef20485ee803990b260130022bd2" title="ELFIO::section::get_data" alt="" coords="688,77,856,104"/>
 </map>

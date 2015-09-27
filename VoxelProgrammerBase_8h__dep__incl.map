@@ -1,15 +1,16 @@
 <map id="VoxelProgrammerBase.h" name="VoxelProgrammerBase.h">
 <area shape="rect" id="node2" href="$VoxelUSBProgrammer_8h.xhtml" title="VoxelUSBProgrammer.h" alt="" coords="463,80,627,107"/>
-<area shape="rect" id="node8" href="$VoxelProgrammerBase_8cpp.xhtml" title="VoxelProgrammerBase.cpp" alt="" coords="837,80,1019,107"/>
-<area shape="rect" id="node9" href="$VoxelXUProgrammer_8h.xhtml" title="VoxelXUProgrammer.h" alt="" coords="1143,80,1299,107"/>
+<area shape="rect" id="node8" href="$VoxelProgrammerBase_8cpp.xhtml" title="VoxelProgrammerBase.cpp" alt="" coords="823,80,1004,107"/>
+<area shape="rect" id="node9" href="$VoxelXUProgrammer_8h.xhtml" title="VoxelXUProgrammer.h" alt="" coords="1214,80,1369,107"/>
 <area shape="rect" id="node3" href="$CalculusCDKCamera_8cpp.xhtml" title="CalculusCDKCamera.cpp" alt="" coords="5,155,179,181"/>
 <area shape="rect" id="node4" href="$HaddockCDKCamera_8cpp.xhtml" title="HaddockCDKCamera.cpp" alt="" coords="203,155,377,181"/>
 <area shape="rect" id="node5" href="$TintinCDKCamera_8cpp.xhtml" title="TintinCDKCamera.cpp" alt="" coords="745,155,899,181"/>
 <area shape="rect" id="node6" href="$ToFCamera_8cpp.xhtml" title="ToFCamera.cpp" alt="" coords="402,155,517,181"/>
 <area shape="rect" id="node7" href="$VoxelUSBProgrammer_8cpp.xhtml" title="VoxelUSBProgrammer.cpp" alt="" coords="543,155,721,181"/>
 <area shape="rect" id="node10" href="$Voxel14RegisterTest_8cpp.xhtml" title="Voxel14RegisterTest.cpp" alt="" coords="925,155,1093,181"/>
-<area shape="rect" id="node11" href="$TintinEEPROMDownloader_8cpp.xhtml" title="TintinEEPROMDownloader.cpp" alt="" coords="1118,155,1324,181"/>
-<area shape="rect" id="node12" href="$Voxel14Camera_8cpp.xhtml" title="Voxel14Camera.cpp" alt="" coords="1349,155,1488,181"/>
-<area shape="rect" id="node13" href="$VoxelDCamera_8cpp.xhtml" title="VoxelDCamera.cpp" alt="" coords="1513,155,1648,181"/>
-<area shape="rect" id="node14" href="$VoxelXUProgrammer_8cpp.xhtml" title="VoxelXUProgrammer.cpp" alt="" coords="1673,155,1844,181"/>
+<area shape="rect" id="node11" href="$RTS5825Camera_8cpp.xhtml" title="RTS5825Camera.cpp" alt="" coords="1118,155,1265,181"/>
+<area shape="rect" id="node12" href="$TintinEEPROMDownloader_8cpp.xhtml" title="TintinEEPROMDownloader.cpp" alt="" coords="1290,155,1496,181"/>
+<area shape="rect" id="node13" href="$Voxel14Camera_8cpp.xhtml" title="Voxel14Camera.cpp" alt="" coords="1521,155,1660,181"/>
+<area shape="rect" id="node14" href="$VoxelDCamera_8cpp.xhtml" title="VoxelDCamera.cpp" alt="" coords="1685,155,1820,181"/>
+<area shape="rect" id="node15" href="$VoxelXUProgrammer_8cpp.xhtml" title="VoxelXUProgrammer.cpp" alt="" coords="1845,155,2016,181"/>
 </map>

@@ -1,0 +1,6 @@
+<map id="ELFIO::dynamic_section_accessor::add_entry" name="ELFIO::dynamic_section_accessor::add_entry">
+<area shape="rect" id="node2" href="$classELFIO_1_1dynamic__section__accessor.xhtml#adfdb7de723834790b364da662c146b38" title="ELFIO::dynamic_section\l_accessor::add_entry" alt="" coords="222,5,389,46"/>
+<area shape="rect" id="node3" href="$classELFIO_1_1string__section__accessor.xhtml#a328d5af973ac377b2597e40335dfc2c4" title="ELFIO::string_section\l_accessor::add_string" alt="" coords="230,70,381,111"/>
+<area shape="rect" id="node5" href="$classELFIO_1_1dynamic__section__accessor.xhtml#a516030175a15e0f8aff06217e3ae5f85" title="ELFIO::dynamic_section\l_accessor::get_string\l_table_index" alt="" coords="222,135,389,191"/>
+<area shape="rect" id="node4" href="$classELFIO_1_1section.xhtml#a46ee8988d3120629f0861e54f3fa5aa3" title="ELFIO::section::append_data" alt="" coords="437,77,629,104"/>
+</map>

@@ -1,7 +1,0 @@
-<map id="Voxel::Filter::_addParameters" name="Voxel::Filter::_addParameters">
-<area shape="rect" id="node2" href="$a00005.xhtml#a4786aa72c4a60b5d39176e6e68b9aadc" title="Voxel::BilateralFilter\l::BilateralFilter" alt="" coords="273,5,412,46"/>
-<area shape="rect" id="node3" href="$a00087.xhtml#a2e9215a8fbffd8afe02f3b051f8aa748" title="Voxel::IIRFilter::IIRFilter" alt="" coords="260,71,425,97"/>
-<area shape="rect" id="node4" href="$a00097.xhtml#afe7a38f899ce3883ab14b74abbb618e6" title="Voxel::MedianFilter\l::MedianFilter" alt="" coords="275,122,410,163"/>
-<area shape="rect" id="node5" href="$a00128.xhtml#add7a44dbb53a846ca852137bb1dd97aa" title="Voxel::SmoothFilter\l::SmoothFilter" alt="" coords="274,187,411,229"/>
-<area shape="rect" id="node6" href="$a00135.xhtml#afc8e595bd3dea027bc1cdfb17a9aa857" title="Voxel::TemporalMedianFilter\l::TemporalMedianFilter" alt="" coords="249,253,437,294"/>
-</map>

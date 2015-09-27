@@ -18,7 +18,7 @@ var searchData=
   ['uvc',['UVC',['../classVoxel_1_1UVC.xhtml#a6870b58c2943f577b7f46faae0a79471',1,'Voxel::UVC']]],
   ['uvcprivate',['UVCPrivate',['../classVoxel_1_1UVCPrivate.xhtml#af5327fac72097d4f50d7970dc99bad04',1,'Voxel::UVCPrivate::UVCPrivate(DevicePtr usb)'],['../classVoxel_1_1UVCPrivate.xhtml#af5327fac72097d4f50d7970dc99bad04',1,'Voxel::UVCPrivate::UVCPrivate(DevicePtr usb)']]],
   ['uvcstreamer',['UVCStreamer',['../classVoxel_1_1UVCStreamer.xhtml#a6e8d9c7e456ff0f9850666f4871ffcaa',1,'Voxel::UVCStreamer']]],
-  ['uvcstreamerprivate',['UVCStreamerPrivate',['../classVoxel_1_1UVCStreamer_1_1UVCStreamerPrivate.xhtml#a68f53022e6f2bd9e7e8a46dbc7a1b9be',1,'Voxel::UVCStreamer::UVCStreamerPrivate']]],
+  ['uvcstreamerprivate',['UVCStreamerPrivate',['../classVoxel_1_1UVCStreamer_1_1UVCStreamerPrivate.xhtml#a3e5335c32462ddabbd2e20a3b510058a',1,'Voxel::UVCStreamer::UVCStreamerPrivate']]],
   ['uvcxu',['UVCXU',['../classVoxel_1_1UVCXU.xhtml#ad237ce8d791c7d185d65f22a8dc1b74d',1,'Voxel::UVCXU']]],
   ['uvcxuprivate',['UVCXUPrivate',['../classVoxel_1_1UVCXU_1_1UVCXUPrivate.xhtml#a7294386d82012c3092343bedad7de913',1,'Voxel::UVCXU::UVCXUPrivate']]]
 ];

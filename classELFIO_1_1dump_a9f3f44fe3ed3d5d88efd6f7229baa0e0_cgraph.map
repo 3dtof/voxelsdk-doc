@@ -1,0 +1,8 @@
+<map id="ELFIO::dump::notes" name="ELFIO::dump::notes">
+<area shape="rect" id="node2" href="$classELFIO_1_1note__section__accessor.xhtml#afd087fe8678e7b7f05bcc69be2ed88f0" title="ELFIO::note_section\l_accessor::get_note" alt="" coords="213,23,355,65"/>
+<area shape="rect" id="node5" href="$classELFIO_1_1note__section__accessor.xhtml#ac96de265ea12f801797638f17092db76" title="ELFIO::note_section\l_accessor::get_notes_num" alt="" coords="195,89,373,130"/>
+<area shape="rect" id="node6" href="$classELFIO_1_1dump.xhtml#a056b95608d0bf7b982c5601713e7ad52" title="ELFIO::dump::note" alt="" coords="217,155,351,181"/>
+<area shape="rect" id="node7" href="$classELFIO_1_1elfio_1_1Sections.xhtml#a5c66bdb3ab662752c4968d8cd1a1a490" title="ELFIO::elfio::Sections\l::size" alt="" coords="209,206,359,247"/>
+<area shape="rect" id="node3" href="$classELFIO_1_1section.xhtml#accfaef20485ee803990b260130022bd2" title="ELFIO::section::get_data" alt="" coords="427,5,595,32"/>
+<area shape="rect" id="node4" href="$classELFIO_1_1elfio.xhtml#af8a6706052d3029c76e5332eba10ad77" title="ELFIO::elfio::get_convertor" alt="" coords="421,56,600,83"/>
+</map>

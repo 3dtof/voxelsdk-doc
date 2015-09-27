@@ -1,6 +1,6 @@
 <map id="Voxel::ConfigurationFile::write" name="Voxel::ConfigurationFile::write">
 <area shape="rect" id="node2" href="$classVoxel_1_1ConfigurationFile.xhtml#a3946cbd4206d722e401708eb1546b413" title="Voxel::ConfigurationFile\l::_saveAllDataFiles" alt="" coords="217,5,378,46"/>
 <area shape="rect" id="node3" href="$group__Util.xhtml#gad19078fe2a67a3174aaa6b4ab8e49292" title="Voxel::basename" alt="" coords="236,71,359,97"/>
-<area shape="rect" id="node4" href="$classVoxel_1_1Configuration.xhtml#abfeffa3f26a5d905901c85a8889823d7" title="Voxel::Configuration\l::getLocalConfFile" alt="" coords="227,122,367,163"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1Configuration.xhtml#a9bdd772364ff790be2acba9a27b09549" title="Voxel::Configuration\l::getLocalConfFile" alt="" coords="227,122,367,163"/>
 <area shape="rect" id="node5" href="$classVoxel_1_1ConfigurationFile.xhtml#af3cd57258007019ac09e45919cfc19c3" title="Voxel::ConfigurationFile\l::getLocation" alt="" coords="217,187,378,229"/>
 </map>

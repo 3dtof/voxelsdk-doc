@@ -1,6 +1,0 @@
-<map id="Voxel::PointCloudTransform::_init" name="Voxel::PointCloudTransform::_init">
-<area shape="rect" id="node2" href="$a00112.xhtml#ae248ffdde5970a941c5968150793c2a4" title="Voxel::PointCloudTransform\l::_computeClippingPlanes" alt="" coords="240,63,427,105"/>
-<area shape="rect" id="node3" href="$a00112.xhtml#a9b7d7e7da98f4a59601c7ff82d6f4574" title="Voxel::PointCloudTransform\l::_normalizedScreenToUnitWorld" alt="" coords="475,5,690,46"/>
-<area shape="rect" id="node4" href="$a00112.xhtml#adfcedf51d50b5173b1fdbb6e92da438f" title="Voxel::PointCloudTransform\l::_screenToNormalizedScreen" alt="" coords="483,122,682,163"/>
-<area shape="rect" id="node5" href="$a00393.xhtml#gac16545a9c8de820f61d87c0599ebb984" title="Voxel::Point::cross" alt="" coords="516,71,649,97"/>
-</map>

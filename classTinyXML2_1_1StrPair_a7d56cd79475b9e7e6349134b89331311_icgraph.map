@@ -43,9 +43,9 @@
 <area shape="rect" id="node42" href="$DMLParseTest_8cpp.xhtml#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1381,1245,1432,1272"/>
 <area shape="rect" id="node43" href="$classVoxel_1_1TI_1_1ToFCalculusCamera.xhtml#aa931ad7b5e4b84779df941814c2a5b17" title="Voxel::TI::ToFCalculusCamera\l::_init" alt="" coords="1305,1297,1508,1338"/>
 <area shape="rect" id="node45" href="$classVoxel_1_1TI_1_1ToFHaddockCamera.xhtml#a749a2bbcdbfa69054d523866504743d1" title="Voxel::TI::ToFHaddockCamera\l::_init" alt="" coords="1305,1362,1509,1403"/>
-<area shape="rect" id="node48" href="$classVoxel_1_1TI_1_1ToFTintinCamera.xhtml#af894a732f4beedc37144927eec93cc89" title="Voxel::TI::ToFTintinCamera\l::_init" alt="" coords="1315,1427,1499,1469"/>
+<area shape="rect" id="node49" href="$classVoxel_1_1TI_1_1ToFTintinCamera.xhtml#af894a732f4beedc37144927eec93cc89" title="Voxel::TI::ToFTintinCamera\l::_init" alt="" coords="1315,1427,1499,1469"/>
 <area shape="rect" id="node44" href="$classVoxel_1_1TI_1_1CalculusCDKCamera.xhtml#a82eb752fb0d4b63495d2e29b6b8aed2c" title="Voxel::TI::CalculusCDKCamera\l::_init" alt="" coords="1558,1263,1767,1305"/>
-<area shape="rect" id="node46" href="$classVoxel_1_1TI_1_1HaddockCDKCamera.xhtml#a7dff103da3145dd303a5bc0db75ae961" title="Voxel::TI::HaddockCDKCamera\l::_init" alt="" coords="1557,1329,1768,1370"/>
-<area shape="rect" id="node47" href="$classVoxel_1_1TI_1_1Voxel14Camera.xhtml#a89011bfb795ff58d3fb8675364b91abe" title="Voxel::TI::Voxel14Camera\l::_init" alt="" coords="1575,1394,1751,1435"/>
-<area shape="rect" id="node49" href="$classVoxel_1_1TI_1_1TintinCDKCamera.xhtml#af5337f40c1a075c026263ea9871a20ee" title="Voxel::TI::TintinCDKCamera\l::_init" alt="" coords="1567,1459,1758,1501"/>
+<area shape="rect" id="node46" href="$classVoxel_1_1TI_1_1HaddockCDKCamera.xhtml#a7dff103da3145dd303a5bc0db75ae961" title="Voxel::TI::HaddockCDKCamera\l::_init" alt="" coords="1557,1394,1768,1435"/>
+<area shape="rect" id="node47" href="$classVoxel_1_1TI_1_1RTS5825Camera.xhtml#af7d33e164feac1c63726d2757227c3bc" title="Voxel::TI::RTS5825Camera\l::_init" alt="" coords="1571,1459,1755,1501"/>
+<area shape="rect" id="node48" href="$classVoxel_1_1TI_1_1Voxel14Camera.xhtml#a89011bfb795ff58d3fb8675364b91abe" title="Voxel::TI::Voxel14Camera\l::_init" alt="" coords="1575,1329,1751,1370"/>
 </map>

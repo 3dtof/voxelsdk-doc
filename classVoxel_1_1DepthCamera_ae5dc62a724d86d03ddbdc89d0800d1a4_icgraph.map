@@ -1,7 +1,7 @@
 <map id="Voxel::DepthCamera::_makeID" name="Voxel::DepthCamera::_makeID">
 <area shape="rect" id="node2" href="$classVoxel_1_1TI_1_1Voxel14Camera.xhtml#a89011bfb795ff58d3fb8675364b91abe" title="Voxel::TI::Voxel14Camera\l::_init" alt="" coords="197,5,373,46"/>
 <area shape="rect" id="node4" href="$classVoxel_1_1TI_1_1VoxelDCamera.xhtml#a47b15c40c3fbcc52ae1eb3c9fe74d9f1" title="Voxel::TI::VoxelDCamera\l::_init" alt="" coords="199,70,371,111"/>
-<area shape="rect" id="node6" href="$classVoxel_1_1DepthCamera.xhtml#af70e20cd13e08c6392058b1f3310f08a" title="Voxel::DepthCamera\l::DepthCamera" alt="" coords="213,135,357,177"/>
+<area shape="rect" id="node6" href="$classVoxel_1_1DepthCamera.xhtml#a44a3dc4a5afb86dc23eeff82e70c3374" title="Voxel::DepthCamera\l::DepthCamera" alt="" coords="213,135,357,177"/>
 <area shape="rect" id="node3" href="$classVoxel_1_1TI_1_1Voxel14Camera.xhtml#a606f13ed73547ee43f585e241b42dd5d" title="Voxel::TI::Voxel14Camera\l::Voxel14Camera" alt="" coords="421,5,597,46"/>
 <area shape="rect" id="node5" href="$classVoxel_1_1TI_1_1VoxelDCamera.xhtml#a4a95cf8257e2f9f5fd34386b87f6663a" title="Voxel::TI::VoxelDCamera\l::VoxelDCamera" alt="" coords="423,70,595,111"/>
 </map>

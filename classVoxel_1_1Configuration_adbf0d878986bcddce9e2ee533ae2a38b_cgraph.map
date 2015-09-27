@@ -1,0 +1,5 @@
+<map id="Voxel::Configuration::getLocalFile" name="Voxel::Configuration::getLocalFile">
+<area shape="rect" id="node2" href="$classVoxel_1_1Configuration.xhtml#aa5e86bb7d74ab652210978b4fb09fde4" title="Voxel::Configuration\l::getLocalPath" alt="" coords="195,23,335,65"/>
+<area shape="rect" id="node3" href="$group__Util.xhtml#ga36148965f675233e100e0915a2e36160" title="Voxel::isFilePresent" alt="" coords="389,5,528,32"/>
+<area shape="rect" id="node4" href="$group__Util.xhtml#gaed6651f54ac7aeb2169fc9b604db0b06" title="Voxel::makeDirectory" alt="" coords="385,56,533,83"/>
+</map>

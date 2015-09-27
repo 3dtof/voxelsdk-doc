@@ -1,0 +1,14 @@
+<map id="ELFIO::section::append_data" name="ELFIO::section::append_data">
+<area shape="rect" id="node2" href="$classELFIO_1_1note__section__accessor.xhtml#ad46e25a82332ced686adb2a1bd208d9d" title="ELFIO::note_section\l_accessor::add_note" alt="" coords="273,30,415,71"/>
+<area shape="rect" id="node3" href="$classELFIO_1_1string__section__accessor.xhtml#a328d5af973ac377b2597e40335dfc2c4" title="ELFIO::string_section\l_accessor::add_string" alt="" coords="269,95,419,137"/>
+<area shape="rect" id="node11" href="$classELFIO_1_1dynamic__section__accessor.xhtml#a1a4d50d9e026665387af9711302d9de1" title="ELFIO::dynamic_section\l_accessor::generic_add_entry" alt="" coords="246,161,442,202"/>
+<area shape="rect" id="node12" href="$classELFIO_1_1relocation__section__accessor.xhtml#a592d363db224b9d867f181a3c7e5ad42" title="ELFIO::relocation_section\l_accessor::generic_add_entry" alt="" coords="246,226,442,267"/>
+<area shape="rect" id="node13" href="$classELFIO_1_1symbol__section__accessor.xhtml#a9a0776d80a0653cfdcfab42b229abe2e" title="ELFIO::symbol_section\l_accessor::generic_add\l_symbol" alt="" coords="264,291,424,347"/>
+<area shape="rect" id="node4" href="$classELFIO_1_1elfio_1_1Sections.xhtml#af60206f1e95ae37985df476419ce875e" title="ELFIO::elfio::Sections::add" alt="" coords="491,12,671,39"/>
+<area shape="rect" id="node8" href="$classELFIO_1_1dynamic__section__accessor.xhtml#a1b39689421c68493e3582bf432db4351" title="ELFIO::dynamic_section\l_accessor::add_entry" alt="" coords="498,63,665,105"/>
+<area shape="rect" id="node9" href="$classELFIO_1_1relocation__section__accessor.xhtml#a28378f46b0a5fcf3aa17f229bd9b3cdd" title="ELFIO::relocation_section\l_accessor::add_entry" alt="" coords="495,129,668,170"/>
+<area shape="rect" id="node10" href="$classELFIO_1_1symbol__section__accessor.xhtml#ae68036ebd3d43a8d94aff3ce847c3123" title="ELFIO::symbol_section\l_accessor::add_symbol" alt="" coords="501,194,661,235"/>
+<area shape="rect" id="node5" href="$classELFIO_1_1elfio.xhtml#a905e7d6672f7109423309f05c941cf80" title="ELFIO::elfio::create\l_mandatory_sections" alt="" coords="720,5,867,46"/>
+<area shape="rect" id="node6" href="$classELFIO_1_1elfio.xhtml#a505f88e23277cb7945d4f411fe2b4d85" title="ELFIO::elfio::create" alt="" coords="915,12,1051,39"/>
+<area shape="rect" id="node7" href="$classELFIO_1_1elfio.xhtml#ab5d99cd44a973c1adabdba1c1e7c086b" title="ELFIO::elfio::elfio" alt="" coords="1099,12,1223,39"/>
+</map>

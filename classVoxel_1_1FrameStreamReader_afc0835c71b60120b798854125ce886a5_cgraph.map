@@ -14,6 +14,6 @@
 <area shape="rect" id="node17" href="$classVoxel_1_1RawDataFrame.xhtml#a56f5db6fdd8b92640d8c50f57de6de3a" title="Voxel::RawDataFrame\l::deserialize" alt="" coords="716,154,871,195"/>
 <area shape="rect" id="node14" href="$structVoxel_1_1GeneratorConfigurationSubPacket.xhtml#a253f162d98db8c99d09400e766280aa4" title="Voxel::GeneratorConfiguration\lSubPacket::read" alt="" coords="933,37,1131,78"/>
 <area shape="rect" id="node13" href="$structVoxel_1_1DataPacket.xhtml#a3e9f061054a9cad39f3232febaea292a" title="Voxel::DataPacket::read" alt="" coords="1179,157,1344,184"/>
-<area shape="rect" id="node15" href="$classVoxel_1_1SerializedObject.xhtml#aac0058e6b0ea0cb6ac86f4e986f6de25" title="Voxel::SerializedObject\l::getBytes" alt="" coords="1182,5,1341,46"/>
-<area shape="rect" id="node16" href="$classVoxel_1_1SerializedObject.xhtml#a28bffcfa230e90768ea678269a782381" title="Voxel::SerializedObject\l::resize" alt="" coords="1182,70,1341,111"/>
+<area shape="rect" id="node15" href="$classVoxel_1_1SerializedObject.xhtml#a28bffcfa230e90768ea678269a782381" title="Voxel::SerializedObject\l::resize" alt="" coords="1182,5,1341,46"/>
+<area shape="rect" id="node16" href="$classVoxel_1_1SerializedObject.xhtml#aac0058e6b0ea0cb6ac86f4e986f6de25" title="Voxel::SerializedObject\l::getBytes" alt="" coords="1182,70,1341,111"/>
 </map>

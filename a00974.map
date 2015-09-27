@@ -1,7 +1,0 @@
-<map id="Voxel::USBIO::USBIOPrivate" name="Voxel::USBIO::USBIOPrivate">
-<area shape="rect" id="node4" href="$a00172.xhtml" title="Voxel::USBSystem" alt="" coords="277,296,412,323"/>
-<area shape="rect" id="node5" href="$a00113.xhtml" title="Voxel::Ptr\&lt; Voxel::\lUSBSystemPrivate \&gt;" alt="" coords="198,190,345,231"/>
-<area shape="rect" id="node7" href="$a00113.xhtml" title="Voxel::Ptr\&lt; T \&gt;" alt="" coords="341,91,452,117"/>
-<area shape="rect" id="node10" href="$a00113.xhtml" title="Voxel::Ptr\&lt; Device \&gt;" alt="" coords="414,197,559,224"/>
-<area shape="rect" id="node9" href="$a00398.xhtml" title="bool" alt="" coords="529,296,575,323"/>
-</map>

@@ -1,0 +1,6 @@
+<map id="ELFIO::elfio::load_sections" name="ELFIO::elfio::load_sections">
+<area shape="rect" id="node2" href="$classELFIO_1_1elfio.xhtml#a6bb2c14190dc3ee9a220ec349c1640f5" title="ELFIO::elfio::create\l_section" alt="" coords="185,5,321,46"/>
+<area shape="rect" id="node3" href="$classELFIO_1_1string__section__accessor.xhtml#abf7ba3e0d2d1e200f13ec4b4bdff96d1" title="ELFIO::string_section\l_accessor::get_string" alt="" coords="179,70,328,111"/>
+<area shape="rect" id="node5" href="$classELFIO_1_1section.xhtml#a6b85f1b2b75aca23446772c146052e54" title="ELFIO::section::load" alt="" coords="182,136,325,163"/>
+<area shape="rect" id="node4" href="$classELFIO_1_1section.xhtml#accfaef20485ee803990b260130022bd2" title="ELFIO::section::get_data" alt="" coords="376,77,544,104"/>
+</map>

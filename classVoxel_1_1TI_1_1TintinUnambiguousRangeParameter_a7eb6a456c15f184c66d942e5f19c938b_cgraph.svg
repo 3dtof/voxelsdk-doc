@@ -359,31 +359,31 @@ var sectionId = 'dynsection-3';
 </g>
 <!-- Node17 -->
 <g id="node17" class="node"><title>Node17</title>
-<g id="a_node17"><a xlink:href="classVoxel_1_1TI_1_1ToFTintinCamera.xhtml#a793dd51b034de659906683a35920b09f" target="_top" xlink:title="Voxel::TI::ToFTintinCamera\l::_getSystemClockFrequency">
-<polygon fill="none" stroke="black" points="640,-322 640,-352 786,-352 786,-322 640,-322"/>
-<text text-anchor="start" x="648" y="-340" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::TI::ToFTintinCamera</text>
-<text text-anchor="middle" x="713" y="-329" font-family="Helvetica,sans-Serif" font-size="10.00">::_getSystemClockFrequency</text>
-</a>
-</g>
-</g>
-<!-- Node16&#45;&gt;Node17 -->
-<g id="edge24" class="edge"><title>Node16&#45;&gt;Node17</title>
-<path fill="none" stroke="midnightblue" d="M574.192,-357.467C591.916,-354.834 611.393,-351.942 629.979,-349.181"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="630.522,-352.639 639.899,-347.708 629.494,-345.715 630.522,-352.639"/>
-</g>
-<!-- Node18 -->
-<g id="node18" class="node"><title>Node18</title>
-<g id="a_node18"><a xlink:href="classVoxel_1_1ParameterTemplate.xhtml#a3f4472338de2a9fc48cddf389b85fb1b" target="_top" xlink:title="Voxel::ParameterTemplate\l\&lt; float \&gt;::refresh">
+<g id="a_node17"><a xlink:href="classVoxel_1_1ParameterTemplate.xhtml#a3f4472338de2a9fc48cddf389b85fb1b" target="_top" xlink:title="Voxel::ParameterTemplate\l\&lt; float \&gt;::refresh">
 <polygon fill="none" stroke="black" points="646.5,-371 646.5,-401 779.5,-401 779.5,-371 646.5,-371"/>
 <text text-anchor="start" x="654.5" y="-389" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::ParameterTemplate</text>
 <text text-anchor="middle" x="713" y="-378" font-family="Helvetica,sans-Serif" font-size="10.00">&lt; float &gt;::refresh</text>
 </a>
 </g>
 </g>
-<!-- Node16&#45;&gt;Node18 -->
-<g id="edge25" class="edge"><title>Node16&#45;&gt;Node18</title>
+<!-- Node16&#45;&gt;Node17 -->
+<g id="edge24" class="edge"><title>Node16&#45;&gt;Node17</title>
 <path fill="none" stroke="midnightblue" d="M595.666,-375.058C609.205,-376.331 623.12,-377.64 636.407,-378.89"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="636.146,-382.381 646.429,-379.832 636.801,-375.411 636.146,-382.381"/>
+</g>
+<!-- Node18 -->
+<g id="node18" class="node"><title>Node18</title>
+<g id="a_node18"><a xlink:href="classVoxel_1_1TI_1_1ToFTintinCamera.xhtml#a793dd51b034de659906683a35920b09f" target="_top" xlink:title="Voxel::TI::ToFTintinCamera\l::_getSystemClockFrequency">
+<polygon fill="none" stroke="black" points="640,-322 640,-352 786,-352 786,-322 640,-322"/>
+<text text-anchor="start" x="648" y="-340" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::TI::ToFTintinCamera</text>
+<text text-anchor="middle" x="713" y="-329" font-family="Helvetica,sans-Serif" font-size="10.00">::_getSystemClockFrequency</text>
+</a>
+</g>
+</g>
+<!-- Node16&#45;&gt;Node18 -->
+<g id="edge25" class="edge"><title>Node16&#45;&gt;Node18</title>
+<path fill="none" stroke="midnightblue" d="M574.192,-357.467C591.916,-354.834 611.393,-351.942 629.979,-349.181"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="630.522,-352.639 639.899,-347.708 629.494,-345.715 630.522,-352.639"/>
 </g>
 <!-- Node16&#45;&gt;Node19 -->
 <g id="edge26" class="edge"><title>Node16&#45;&gt;Node19</title>
@@ -395,13 +395,13 @@ var sectionId = 'dynsection-3';
 <path fill="none" stroke="midnightblue" d="M578.511,-338.515C584.74,-341.008 590.691,-344.121 596,-348 621.727,-366.8 607.1,-390.118 632,-410 637.272,-414.209 643.257,-417.714 649.526,-420.631"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="648.284,-423.905 658.862,-424.498 650.963,-417.437 648.284,-423.905"/>
 </g>
-<!-- Node20&#45;&gt;Node17 -->
-<g id="edge30" class="edge"><title>Node20&#45;&gt;Node17</title>
+<!-- Node20&#45;&gt;Node18 -->
+<g id="edge32" class="edge"><title>Node20&#45;&gt;Node18</title>
 <path fill="none" stroke="midnightblue" d="M595.666,-332.393C606.945,-332.839 618.485,-333.296 629.706,-333.741"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="629.774,-337.246 639.904,-334.145 630.051,-330.252 629.774,-337.246"/>
 </g>
 <!-- Node20&#45;&gt;Node19 -->
-<g id="edge32" class="edge"><title>Node20&#45;&gt;Node19</title>
+<g id="edge30" class="edge"><title>Node20&#45;&gt;Node19</title>
 <path fill="none" stroke="midnightblue" d="M556.851,-319.491C577.952,-315.208 603.531,-310.016 627.782,-305.094"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="628.611,-308.497 637.715,-303.078 627.218,-301.637 628.611,-308.497"/>
 </g>

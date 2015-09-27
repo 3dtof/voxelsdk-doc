@@ -1,6 +1,0 @@
-<map id="Voxel::FrameGenerator" name="Voxel::FrameGenerator">
-<area shape="rect" id="node2" href="$a00041.xhtml" title="Voxel::DepthFrameGenerator" alt="" coords="225,12,417,39"/>
-<area shape="rect" id="node4" href="$a00110.xhtml" title="Voxel::PointCloudFrameGenerator" alt="" coords="211,63,432,89"/>
-<area shape="rect" id="node5" href="$a00158.xhtml" title="Voxel::TI::ToFFrameGenerator" alt="" coords="221,113,421,140"/>
-<area shape="rect" id="node3" href="$a00157.xhtml" title="Voxel::TI::ToFDepthFrame\lGenerator" alt="" coords="480,5,659,46"/>
-</map>

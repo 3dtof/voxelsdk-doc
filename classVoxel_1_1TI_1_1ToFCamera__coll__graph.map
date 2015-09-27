@@ -1,26 +1,26 @@
 <map id="Voxel::TI::ToFCamera" name="Voxel::TI::ToFCamera">
-<area shape="rect" id="node2" href="$classVoxel_1_1TI_1_1ToFCameraBase.xhtml" title="This is a generic ToFCamera which is not strictly dependent on TI&#39;s ToF chips. " alt="" coords="1974,1971,2157,1997"/>
-<area shape="rect" id="node3" href="$classVoxel_1_1DepthCamera.xhtml" title="This is primary class which provides API for a depth camera. " alt="" coords="1652,1368,1796,1395"/>
-<area shape="rect" id="node4" href="$classVoxel_1_1Ptr.xhtml" title="Voxel::Ptr\&lt; Voxel::\lRegisterProgrammer \&gt;" alt="" coords="1243,1627,1397,1669"/>
-<area shape="rect" id="node6" href="$classVoxel_1_1Ptr.xhtml" title="Voxel::Ptr\&lt; T \&gt;" alt="" coords="785,1709,897,1736"/>
-<area shape="rect" id="node28" href="$classVoxel_1_1Ptr.xhtml" title="Voxel::Ptr\&lt; FrameGenerator \&gt;" alt="" coords="1221,1693,1419,1720"/>
-<area shape="rect" id="node30" href="$classVoxel_1_1Ptr.xhtml" title="Voxel::Ptr\&lt; Voxel::\lStreamer \&gt;" alt="" coords="1253,1795,1387,1837"/>
-<area shape="rect" id="node32" href="$classVoxel_1_1Ptr.xhtml" title="Voxel::Ptr\&lt; Device \&gt;" alt="" coords="1247,575,1393,601"/>
-<area shape="rect" id="node37" href="$classVoxel_1_1Ptr.xhtml" title="Voxel::Ptr\&lt; Thread \&gt;" alt="" coords="1248,1412,1392,1439"/>
-<area shape="rect" id="node40" href="$classVoxel_1_1Ptr.xhtml" title="Voxel::Ptr\&lt; FrameStreamWriter \&gt;" alt="" coords="1211,1744,1429,1771"/>
-<area shape="rect" id="node42" href="$classVoxel_1_1Ptr.xhtml" title="Voxel::Ptr\&lt; Voxel::\lPointCloudFrameGenerator \&gt;" alt="" coords="1224,1155,1416,1197"/>
-<area shape="rect" id="node45" href="$classVoxel_1_1Ptr.xhtml" title="Voxel::Ptr\&lt; RawDataFrame \&gt;" alt="" coords="1222,1940,1418,1967"/>
-<area shape="rect" id="node47" href="$classVoxel_1_1Ptr.xhtml" title="Voxel::Ptr\&lt; Voxel::\lTI::ToFDepthFrameGenerator \&gt;" alt="" coords="1217,1993,1423,2034"/>
-<area shape="rect" id="node49" href="$classVoxel_1_1Ptr.xhtml" title="Voxel::Ptr\&lt; Voxel::\lTI::ToFFrameGenerator \&gt;" alt="" coords="1235,2058,1405,2099"/>
-<area shape="rect" id="node8" href="$classVoxel_1_1MainConfigurationFile.xhtml" title="Voxel::MainConfigurationFile" alt="" coords="747,195,936,221"/>
-<area shape="rect" id="node9" href="$classVoxel_1_1ConfigurationFile.xhtml" title="Voxel::ConfigurationFile" alt="" coords="1239,295,1401,321"/>
-<area shape="rect" id="node24" href="$classVoxel_1_1FilterSet.xhtml" title="Voxel::FilterSet\&lt; Voxel\l::RawFrame \&gt;" alt="" coords="1241,1090,1399,1131"/>
-<area shape="rect" id="node27" href="$classVoxel_1_1FilterSet.xhtml" title="Voxel::FilterSet\&lt; FrameType \&gt;" alt="" coords="740,921,943,948"/>
-<area shape="rect" id="node36" href="$classVoxel_1_1FilterSet.xhtml" title="Voxel::FilterSet\&lt; Voxel\l::DepthFrame \&gt;" alt="" coords="1241,887,1399,929"/>
-<area shape="rect" id="node11" href="$classint.xhtml" title="int" alt="" coords="339,621,378,648"/>
-<area shape="rect" id="node16" href="$classVoxel_1_1FrameBufferManager.xhtml" title="Voxel::FrameBufferManager\l\&lt; Voxel::PointCloudFrame \&gt;" alt="" coords="747,1474,935,1515"/>
-<area shape="rect" id="node19" href="$classVoxel_1_1FrameBufferManager.xhtml" title="Voxel::FrameBufferManager\l\&lt; BufferType \&gt;" alt="" coords="266,1371,451,1413"/>
-<area shape="rect" id="node20" href="$classVoxel_1_1FrameBufferManager.xhtml" title="Voxel::FrameBufferManager\l\&lt; Voxel::RawFrame \&gt;" alt="" coords="749,1354,934,1395"/>
-<area shape="rect" id="node34" href="$classVoxel_1_1FrameBufferManager.xhtml" title="Voxel::FrameBufferManager\l\&lt; Voxel::DepthFrame \&gt;" alt="" coords="749,1289,934,1330"/>
-<area shape="rect" id="node23" href="$classbool.xhtml" title="bool" alt="" coords="1297,1576,1343,1603"/>
+<area shape="rect" id="node2" href="$classVoxel_1_1TI_1_1ToFCameraBase.xhtml" title="This is a generic ToFCamera which is not strictly dependent on TI&#39;s ToF chips. " alt="" coords="1974,167,2157,193"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1DepthCamera.xhtml" title="This is primary class which provides API for a depth camera. " alt="" coords="1652,760,1796,787"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1Ptr.xhtml" title="Voxel::Ptr\&lt; Voxel::\lRegisterProgrammer \&gt;" alt="" coords="1243,245,1397,286"/>
+<area shape="rect" id="node6" href="$classVoxel_1_1Ptr.xhtml" title="Voxel::Ptr\&lt; T \&gt;" alt="" coords="785,413,897,440"/>
+<area shape="rect" id="node29" href="$classVoxel_1_1Ptr.xhtml" title="Voxel::Ptr\&lt; FrameGenerator \&gt;" alt="" coords="1221,479,1419,505"/>
+<area shape="rect" id="node31" href="$classVoxel_1_1Ptr.xhtml" title="Voxel::Ptr\&lt; Voxel::\lStreamer \&gt;" alt="" coords="1253,609,1387,650"/>
+<area shape="rect" id="node33" href="$classVoxel_1_1Ptr.xhtml" title="Voxel::Ptr\&lt; Device \&gt;" alt="" coords="1247,843,1393,869"/>
+<area shape="rect" id="node38" href="$classVoxel_1_1Ptr.xhtml" title="Voxel::Ptr\&lt; Thread \&gt;" alt="" coords="1248,675,1392,701"/>
+<area shape="rect" id="node41" href="$classVoxel_1_1Ptr.xhtml" title="Voxel::Ptr\&lt; FrameStreamWriter \&gt;" alt="" coords="1211,792,1429,819"/>
+<area shape="rect" id="node43" href="$classVoxel_1_1Ptr.xhtml" title="Voxel::Ptr\&lt; Voxel::\lPointCloudFrameGenerator \&gt;" alt="" coords="1224,413,1416,454"/>
+<area shape="rect" id="node45" href="$classVoxel_1_1Ptr.xhtml" title="Voxel::Ptr\&lt; RawDataFrame \&gt;" alt="" coords="1222,127,1418,153"/>
+<area shape="rect" id="node47" href="$classVoxel_1_1Ptr.xhtml" title="Voxel::Ptr\&lt; Voxel::\lTI::ToFDepthFrameGenerator \&gt;" alt="" coords="1217,179,1423,221"/>
+<area shape="rect" id="node49" href="$classVoxel_1_1Ptr.xhtml" title="Voxel::Ptr\&lt; Voxel::\lTI::ToFFrameGenerator \&gt;" alt="" coords="1235,61,1405,102"/>
+<area shape="rect" id="node8" href="$classVoxel_1_1MainConfigurationFile.xhtml" title="Voxel::MainConfigurationFile" alt="" coords="747,1861,936,1888"/>
+<area shape="rect" id="node9" href="$classVoxel_1_1ConfigurationFile.xhtml" title="Voxel::ConfigurationFile" alt="" coords="1239,1832,1401,1859"/>
+<area shape="rect" id="node25" href="$classVoxel_1_1FilterSet.xhtml" title="Voxel::FilterSet\&lt; Voxel\l::RawFrame \&gt;" alt="" coords="1241,1225,1399,1266"/>
+<area shape="rect" id="node28" href="$classVoxel_1_1FilterSet.xhtml" title="Voxel::FilterSet\&lt; FrameType \&gt;" alt="" coords="740,1132,943,1159"/>
+<area shape="rect" id="node37" href="$classVoxel_1_1FilterSet.xhtml" title="Voxel::FilterSet\&lt; Voxel\l::DepthFrame \&gt;" alt="" coords="1241,1034,1399,1075"/>
+<area shape="rect" id="node11" href="$classint.xhtml" title="int" alt="" coords="339,1492,378,1519"/>
+<area shape="rect" id="node17" href="$classVoxel_1_1FrameBufferManager.xhtml" title="Voxel::FrameBufferManager\l\&lt; Voxel::PointCloudFrame \&gt;" alt="" coords="747,2197,935,2238"/>
+<area shape="rect" id="node20" href="$classVoxel_1_1FrameBufferManager.xhtml" title="Voxel::FrameBufferManager\l\&lt; BufferType \&gt;" alt="" coords="266,1591,451,1633"/>
+<area shape="rect" id="node21" href="$classVoxel_1_1FrameBufferManager.xhtml" title="Voxel::FrameBufferManager\l\&lt; Voxel::RawFrame \&gt;" alt="" coords="749,1434,934,1475"/>
+<area shape="rect" id="node35" href="$classVoxel_1_1FrameBufferManager.xhtml" title="Voxel::FrameBufferManager\l\&lt; Voxel::DepthFrame \&gt;" alt="" coords="749,1641,934,1682"/>
+<area shape="rect" id="node24" href="$classbool.xhtml" title="bool" alt="" coords="1297,361,1343,388"/>
 </map>

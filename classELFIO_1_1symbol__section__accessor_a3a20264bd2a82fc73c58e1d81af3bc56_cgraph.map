@@ -1,0 +1,6 @@
+<map id="ELFIO::symbol_section_accessor::get_symbol" name="ELFIO::symbol_section_accessor::get_symbol">
+<area shape="rect" id="node2" href="$namespaceELFIO.xhtml#a4e6fad47cad2d1e45a81f93e8780e731" title="ELFIO::elf_hash" alt="" coords="263,5,380,32"/>
+<area shape="rect" id="node3" href="$classELFIO_1_1section.xhtml#accfaef20485ee803990b260130022bd2" title="ELFIO::section::get_data" alt="" coords="237,56,405,83"/>
+<area shape="rect" id="node4" href="$classELFIO_1_1symbol__section__accessor.xhtml#a6a0001713e200d548f25b01d7b9a3698" title="ELFIO::symbol_section\l_accessor::get_hash_table_index" alt="" coords="213,107,429,149"/>
+<area shape="rect" id="node5" href="$classELFIO_1_1symbol__section__accessor.xhtml#a073e7ac88181aefa032c2fb94040e8d4" title="ELFIO::symbol_section\l_accessor::get_symbol" alt="" coords="242,173,401,214"/>
+</map>

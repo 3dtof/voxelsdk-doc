@@ -6,6 +6,6 @@
 <area shape="rect" id="node10" href="$classTinyXML2_1_1XMLDocument.xhtml#a358e6212710ba0ab608aec8f8b4aa999" title="If there is an error, print it to stdout. " alt="" coords="229,301,405,342"/>
 <area shape="rect" id="node3" href="$classTinyXML2_1_1XMLDocument.xhtml#a6665d0d689e8b8290a0cd6d8f340c19d" title="TinyXML2::XMLDocument\l::LoadFile" alt="" coords="453,34,629,75"/>
 <area shape="rect" id="node6" href="$classTinyXML2_1_1XMLDocument.xhtml#a6f714d611df15326a1ff41e31a39490d" title="TinyXML2::XMLDocument\l::~XMLDocument" alt="" coords="453,99,629,141"/>
-<area shape="rect" id="node8" href="$classTinyXML2_1_1XMLDocument.xhtml#a25c1fd4903914444fc31fb1b90dcffdb" title="TinyXML2::XMLDocument\l::LoadFile" alt="" coords="453,233,629,274"/>
-<area shape="rect" id="node9" href="$classTinyXML2_1_1XMLElement.xhtml#a1f37b0bb41320c4121515755b8a057a4" title="TinyXML2::XMLElement\l::ParseDeep" alt="" coords="459,298,623,339"/>
+<area shape="rect" id="node8" href="$classTinyXML2_1_1XMLElement.xhtml#a1f37b0bb41320c4121515755b8a057a4" title="TinyXML2::XMLElement\l::ParseDeep" alt="" coords="459,233,623,274"/>
+<area shape="rect" id="node9" href="$classTinyXML2_1_1XMLDocument.xhtml#a25c1fd4903914444fc31fb1b90dcffdb" title="TinyXML2::XMLDocument\l::LoadFile" alt="" coords="453,298,629,339"/>
 </map>

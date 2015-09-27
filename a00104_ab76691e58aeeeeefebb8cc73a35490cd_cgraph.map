@@ -1,6 +1,0 @@
-<map id="Voxel::PCLGrabber::PCLGrabber" name="Voxel::PCLGrabber::PCLGrabber">
-<area shape="rect" id="node2" href="$a00104.xhtml#a75f4b6ad255767769f0156150b7699ec" title="Voxel::PCLGrabber::\l_callback" alt="" coords="198,5,341,46"/>
-<area shape="rect" id="node4" href="$a00036.xhtml#a76b787f9ef331cf412c8c6d8a2aa330e" title="Voxel::DepthCamera\l::registerCallback" alt="" coords="197,70,341,111"/>
-<area shape="rect" id="node3" href="$a00067.xhtml#a1ee65c5853ea7548e9d122de95f59cf5" title="Voxel::FrameBufferManager::get" alt="" coords="389,12,600,39"/>
-<area shape="rect" id="node5" href="$a00036.xhtml#ad9fa96ac56384c771fcdfcc76c0e3b2b" title="Voxel::DepthCamera::id" alt="" coords="413,77,576,104"/>
-</map>

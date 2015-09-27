@@ -1,16 +1,16 @@
 <map id="Voxel::TI::TintinVCOFrequency" name="Voxel::TI::TintinVCOFrequency">
 <area shape="rect" id="node2" href="$classVoxel_1_1FloatParameter.xhtml" title="Voxel::FloatParameter" alt="" coords="2120,335,2272,361"/>
-<area shape="rect" id="node3" href="$classVoxel_1_1RangeParameterTemplate.xhtml" title="Voxel::RangeParameterTemplate\l\&lt; float \&gt;" alt="" coords="1838,233,2053,274"/>
-<area shape="rect" id="node4" href="$classVoxel_1_1ParameterTemplate.xhtml" title="Voxel::ParameterTemplate\l\&lt; float \&gt;" alt="" coords="1523,83,1701,125"/>
-<area shape="rect" id="node5" href="$classVoxel_1_1Parameter.xhtml" title="Voxel::Parameter" alt="" coords="720,117,843,144"/>
-<area shape="rect" id="node13" href="$classVoxel_1_1ParameterTemplate.xhtml" title="Voxel::ParameterTemplate\&lt; T \&gt;" alt="" coords="1107,159,1317,185"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1RangeParameterTemplate.xhtml" title="Voxel::RangeParameterTemplate\l\&lt; float \&gt;" alt="" coords="1838,234,2053,275"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1ParameterTemplate.xhtml" title="Voxel::ParameterTemplate\l\&lt; float \&gt;" alt="" coords="1523,85,1701,126"/>
+<area shape="rect" id="node5" href="$classVoxel_1_1Parameter.xhtml" title="Voxel::Parameter" alt="" coords="720,115,843,141"/>
+<area shape="rect" id="node13" href="$classVoxel_1_1ParameterTemplate.xhtml" title="Voxel::ParameterTemplate\&lt; T \&gt;" alt="" coords="1107,164,1317,191"/>
 <area shape="rect" id="node6" href="$classVoxel_1_1RegisterProgrammer.xhtml" title="Voxel::RegisterProgrammer" alt="" coords="214,107,397,133"/>
 <area shape="rect" id="node19" href="$classVoxel_1_1DepthCamera.xhtml" title="This is primary class which provides API for a depth camera. " alt="" coords="1140,1439,1284,1465"/>
-<area shape="rect" id="node15" href="$classVoxel_1_1RangeParameterTemplate.xhtml" title="Voxel::RangeParameterTemplate\&lt; T \&gt;" alt="" coords="1489,240,1735,267"/>
-<area shape="rect" id="node24" href="$classVoxel_1_1MainConfigurationFile.xhtml" title="Voxel::MainConfigurationFile" alt="" coords="687,663,876,689"/>
-<area shape="rect" id="node25" href="$classVoxel_1_1ConfigurationFile.xhtml" title="Voxel::ConfigurationFile" alt="" coords="1131,629,1293,656"/>
+<area shape="rect" id="node15" href="$classVoxel_1_1RangeParameterTemplate.xhtml" title="Voxel::RangeParameterTemplate\&lt; T \&gt;" alt="" coords="1489,241,1735,268"/>
+<area shape="rect" id="node24" href="$classVoxel_1_1MainConfigurationFile.xhtml" title="Voxel::MainConfigurationFile" alt="" coords="687,667,876,693"/>
+<area shape="rect" id="node25" href="$classVoxel_1_1ConfigurationFile.xhtml" title="Voxel::ConfigurationFile" alt="" coords="1131,633,1293,660"/>
 <area shape="rect" id="node10" href="$classVector_3_01String_01_4.xhtml" title="Vector\&lt; String \&gt;" alt="" coords="246,5,365,32"/>
-<area shape="rect" id="node12" href="$classfloat.xhtml" title="float" alt="" coords="1189,103,1235,129"/>
+<area shape="rect" id="node12" href="$classfloat.xhtml" title="float" alt="" coords="1189,105,1235,132"/>
 <area shape="rect" id="node16" href="$classVoxel_1_1TI_1_1ToFTintinCamera.xhtml" title="Voxel::TI::ToFTintinCamera" alt="" coords="2104,705,2288,732"/>
 <area shape="rect" id="node17" href="$classVoxel_1_1TI_1_1ToFCamera.xhtml" title="Voxel::TI::ToFCamera" alt="" coords="1869,1439,2021,1465"/>
 <area shape="rect" id="node18" href="$classVoxel_1_1TI_1_1ToFCameraBase.xhtml" title="This is a generic ToFCamera which is not strictly dependent on TI&#39;s ToF chips. " alt="" coords="1521,1439,1703,1465"/>

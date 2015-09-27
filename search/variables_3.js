@@ -1,6 +1,7 @@
 var searchData=
 [
   ['c',['c',['../structVoxel_1_1Data2DCodec_1_1EightBitOffset.xhtml#ac7a7dd4ca51c694098583ae0e8832628',1,'Voxel::Data2DCodec::EightBitOffset']]],
+  ['calibrationparameters',['calibrationParameters',['../structVoxel_1_1CalibrationInformation.xhtml#ab90ea67ef89a1a4b8f69b98113e8866a',1,'Voxel::CalibrationInformation']]],
   ['camsys',['camsys',['../namespaceCameraSystemIQFrameTest.xhtml#a9987e40dac25da896bb111c1abb227ec',1,'CameraSystemIQFrameTest']]],
   ['capture',['capture',['../structLineNoise_1_1current.xhtml#a345267497c1248989f54a7ec822dc1b2',1,'LineNoise::current']]],
   ['capturerunning',['captureRunning',['../classVoxel_1_1USBBulkStreamer_1_1USBBulkStreamerPrivate.xhtml#a47422295e4d424a12b388354e08468eb',1,'Voxel::USBBulkStreamer::USBBulkStreamerPrivate']]],
@@ -13,7 +14,9 @@ var searchData=
   ['config',['config',['../structVoxel_1_1GeneratorConfigurationSubPacket.xhtml#a809c5e058901ba0b36d9c5f03850c582',1,'Voxel::GeneratorConfigurationSubPacket']]],
   ['configfile',['configFile',['../classVoxel_1_1DepthCamera.xhtml#a5dbe82899ae021d3f2cdd25ca2212f77',1,'Voxel::DepthCamera']]],
   ['configs',['configs',['../classVoxel_1_1ConfigurationFile.xhtml#acff819e0d2a7cc526c19534faa60da30',1,'Voxel::ConfigurationFile']]],
+  ['convertor',['convertor',['../classELFIO_1_1elfio.xhtml#a94816dad4699ebedb4e6ac502dd395dc',1,'ELFIO::elfio::convertor()'],['../classELFIO_1_1elf__header__impl.xhtml#a02938e06e0d4ed5fd4fea2740ce3f2f0',1,'ELFIO::elf_header_impl::convertor()'],['../classELFIO_1_1section__impl.xhtml#a66ca0472385651b5e8e63912f044a893',1,'ELFIO::section_impl::convertor()'],['../classELFIO_1_1segment__impl.xhtml#a9fbbd96fcb3a5a0b11394a543e7b0e94',1,'ELFIO::segment_impl::convertor()']]],
   ['count',['count',['../namespaceCameraSystemIQFrameTest.xhtml#ac2abb9d1e1e9e639f1bd83f5342d44c2',1,'CameraSystemIQFrameTest.count()'],['../namespaceCameraSystemTest.xhtml#a8457e577d0c59c669e800ffc73a18471',1,'CameraSystemTest.count()']]],
+  ['current_5ffile_5fpos',['current_file_pos',['../classELFIO_1_1elfio.xhtml#ad98b3ec59f72efa652135e760df9cdb3',1,'ELFIO::elfio']]],
   ['cvec',['cvec',['../structLineNoise_1_1linenoiseCompletions.xhtml#a13b6a173b84d31b627fce502951d643b',1,'LineNoise::linenoiseCompletions']]],
   ['cx',['cx',['../classVoxel_1_1PointCloudTransform.xhtml#abcc4b0d4fdea021c07b9c84a07e6341e',1,'Voxel::PointCloudTransform']]],
   ['cxerror',['cxError',['../classVoxel_1_1PointCloudTransform.xhtml#a4a6a90bbc99dfdc6aa3fd1f79666357c',1,'Voxel::PointCloudTransform']]],

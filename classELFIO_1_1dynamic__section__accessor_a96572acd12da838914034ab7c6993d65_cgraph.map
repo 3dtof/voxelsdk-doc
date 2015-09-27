@@ -1,0 +1,6 @@
+<map id="ELFIO::dynamic_section_accessor::get_entry" name="ELFIO::dynamic_section_accessor::get_entry">
+<area shape="rect" id="node2" href="$classELFIO_1_1dynamic__section__accessor.xhtml#a4a1f80115e8385d2ebfe0820c4862bd0" title="ELFIO::dynamic_section\l_accessor::get_entries_num" alt="" coords="221,5,408,46"/>
+<area shape="rect" id="node3" href="$classELFIO_1_1string__section__accessor.xhtml#abf7ba3e0d2d1e200f13ec4b4bdff96d1" title="ELFIO::string_section\l_accessor::get_string" alt="" coords="240,70,389,111"/>
+<area shape="rect" id="node5" href="$classELFIO_1_1dynamic__section__accessor.xhtml#a516030175a15e0f8aff06217e3ae5f85" title="ELFIO::dynamic_section\l_accessor::get_string\l_table_index" alt="" coords="231,135,398,191"/>
+<area shape="rect" id="node4" href="$classELFIO_1_1section.xhtml#accfaef20485ee803990b260130022bd2" title="ELFIO::section::get_data" alt="" coords="456,77,624,104"/>
+</map>

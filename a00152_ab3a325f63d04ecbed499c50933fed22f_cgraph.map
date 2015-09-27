@@ -1,9 +1,0 @@
-<map id="Voxel::TI::ToFCalculusCamera::_setROI" name="Voxel::TI::ToFCalculusCamera::_setROI">
-<area shape="rect" id="node2" href="$a00152.xhtml#ae5f99bc01f02bff50db1bb8ebf1e2a30" title="Voxel::TI::ToFCalculusCamera\l::_getFrameSize" alt="" coords="256,5,459,46"/>
-<area shape="rect" id="node3" href="$a00036.xhtml#a474dfafecfd8b2a97a924aeab8a82a3c" title="Voxel::DepthCamera\l::_set" alt="" coords="285,70,429,111"/>
-<area shape="rect" id="node6" href="$a00152.xhtml#a3599f989b4afc7847e189989540e4a8b" title="Voxel::TI::ToFCalculusCamera\l::_setBinning" alt="" coords="256,135,459,177"/>
-<area shape="rect" id="node7" href="$a00153.xhtml#acdcfa070468d49469af82f721f971fec" title="Voxel::TI::ToFCamera\l::_setFrameSize" alt="" coords="281,201,433,242"/>
-<area shape="rect" id="node8" href="$a00036.xhtml#a1ff46a5643f0a02a6970236e0b6a7634" title="Voxel::DepthCamera\l::isRunning" alt="" coords="285,266,429,307"/>
-<area shape="rect" id="node4" href="$a00036.xhtml#ae3d6fcc6d4a20d1ad2de809ad65ecc34" title="Voxel::DepthCamera\l::name" alt="" coords="536,41,680,82"/>
-<area shape="rect" id="node5" href="$a00103.xhtml#a64240b607339f55c4fac973fba8c8934" title="Voxel::ParameterTemplate::set" alt="" coords="507,107,709,133"/>
-</map>

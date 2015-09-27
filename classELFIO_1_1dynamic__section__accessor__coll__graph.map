@@ -1,0 +1,9 @@
+<map id="ELFIO::dynamic_section_accessor" name="ELFIO::dynamic_section_accessor">
+<area shape="rect" id="node2" href="$classELFIO_1_1elfio.xhtml" title="ELFIO::elfio" alt="" coords="551,107,643,133"/>
+<area shape="rect" id="node5" href="$classELFIO_1_1elfio_1_1Segments.xhtml" title="ELFIO::elfio::Segments" alt="" coords="810,137,969,164"/>
+<area shape="rect" id="node7" href="$classELFIO_1_1elfio_1_1Sections.xhtml" title="ELFIO::elfio::Sections" alt="" coords="814,39,965,65"/>
+<area shape="rect" id="node6" href="$classELFIO_1_1elf__header.xhtml" title="ELFIO::elf_header" alt="" coords="236,107,364,133"/>
+<area shape="rect" id="node9" href="$classELFIO_1_1endianess__convertor.xhtml" title="ELFIO::endianess_convertor" alt="" coords="206,208,394,235"/>
+<area shape="rect" id="node10" href="$classbool.xhtml" title="bool" alt="" coords="6,208,53,235"/>
+<area shape="rect" id="node11" href="$classELFIO_1_1section.xhtml" title="ELFIO::section" alt="" coords="542,243,653,269"/>
+</map>

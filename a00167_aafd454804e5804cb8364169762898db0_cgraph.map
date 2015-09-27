@@ -1,8 +1,0 @@
-<map id="Voxel::USBDevice::getDevices" name="Voxel::USBDevice::getDevices">
-<area shape="rect" id="node2" href="$a00042.xhtml#aedf97df8a9dfb00efb05f8b58c190dc2" title="Voxel::Device::description" alt="" coords="279,5,454,32"/>
-<area shape="rect" id="node3" href="$a00167.xhtml#a733db00843f6522b28a07719c943e1fe" title="Voxel::USBDevice::productID" alt="" coords="268,56,465,83"/>
-<area shape="rect" id="node4" href="$a00042.xhtml#a015328649745ae11a52afaecbf6a6de5" title="Voxel::Device::serialIndex" alt="" coords="279,107,454,133"/>
-<area shape="rect" id="node5" href="$a00042.xhtml#af5b725547c816ee4bac357b3ff049a80" title="Voxel::Device::serialNumber" alt="" coords="272,157,461,184"/>
-<area shape="rect" id="node6" href="$a00167.xhtml#af7514fb809427188c3bfd5f0bb6c9cf3" title="Voxel::USBDevice::USBDevice" alt="" coords="262,208,471,235"/>
-<area shape="rect" id="node7" href="$a00167.xhtml#ad7edff89623a9ecf8a2840b5181c67ac" title="Voxel::USBDevice::vendorID" alt="" coords="270,259,463,285"/>
-</map>

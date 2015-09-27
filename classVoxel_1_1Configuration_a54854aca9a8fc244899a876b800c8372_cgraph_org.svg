@@ -43,10 +43,10 @@
 </g>
 <!-- Node4 -->
 <g id="node4" class="node"><title>Node4</title>
-<g id="a_node4"><a xlink:href="classVoxel_1_1Configuration.xhtml#ae1f7aa4fe922060cdd292ae7841d214d" target="_top" xlink:title="Voxel::Configuration\l::_getLocalFile">
+<g id="a_node4"><a xlink:href="classVoxel_1_1Configuration.xhtml#aa5e86bb7d74ab652210978b4fb09fde4" target="_top" xlink:title="Voxel::Configuration\l::getLocalPath">
 <polygon fill="none" stroke="black" points="295.5,-49 295.5,-79 400.5,-79 400.5,-49 295.5,-49"/>
 <text text-anchor="start" x="303.5" y="-67" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::Configuration</text>
-<text text-anchor="middle" x="348" y="-56" font-family="Helvetica,sans-Serif" font-size="10.00">::_getLocalFile</text>
+<text text-anchor="middle" x="348" y="-56" font-family="Helvetica,sans-Serif" font-size="10.00">::getLocalPath</text>
 </a>
 </g>
 </g>

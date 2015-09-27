@@ -1,20 +1,6 @@
 var searchData=
 [
-  ['parameter_2ecpp',['Parameter.cpp',['../Parameter_8cpp.xhtml',1,'']]],
-  ['parameter_2eh',['Parameter.h',['../Parameter_8h.xhtml',1,'']]],
-  ['parameterdmlparser_2ecpp',['ParameterDMLParser.cpp',['../ParameterDMLParser_8cpp.xhtml',1,'']]],
-  ['parameterdmlparser_2eh',['ParameterDMLParser.h',['../ParameterDMLParser_8h.xhtml',1,'']]],
-  ['pclgrabber_2ecpp',['PCLGrabber.cpp',['../PCLGrabber_8cpp.xhtml',1,'']]],
-  ['pclgrabber_2eh',['PCLGrabber.h',['../PCLGrabber_8h.xhtml',1,'']]],
-  ['pclviewer_2ecpp',['PCLViewer.cpp',['../PCLViewer_8cpp.xhtml',1,'']]],
-  ['pclviewer_2eh',['PCLViewer.h',['../PCLViewer_8h.xhtml',1,'']]],
-  ['point_2eh',['Point.h',['../Point_8h.xhtml',1,'']]],
-  ['pointcloudframegenerator_2ecpp',['PointCloudFrameGenerator.cpp',['../PointCloudFrameGenerator_8cpp.xhtml',1,'']]],
-  ['pointcloudframegenerator_2eh',['PointCloudFrameGenerator.h',['../PointCloudFrameGenerator_8h.xhtml',1,'']]],
-  ['pointcloudtransform_2ecpp',['PointCloudTransform.cpp',['../PointCloudTransform_8cpp.xhtml',1,'']]],
-  ['pointcloudtransform_2eh',['PointCloudTransform.h',['../PointCloudTransform_8h.xhtml',1,'']]],
-  ['ptr_2eh',['Ptr.h',['../Ptr_8h.xhtml',1,'']]],
-  ['pydepthcameracallback_2eh',['PyDepthCameraCallback.h',['../PyDepthCameraCallback_8h.xhtml',1,'']]],
-  ['pyloggeroutputstream_2eh',['PyLoggerOutputStream.h',['../PyLoggerOutputStream_8h.xhtml',1,'']]],
-  ['pyprogressfunction_2eh',['PyProgressFunction.h',['../PyProgressFunction_8h.xhtml',1,'']]]
+  ['mainpage_2edox',['mainpage.dox',['../mainpage_8dox.xhtml',1,'']]],
+  ['medianfilter_2ecpp',['MedianFilter.cpp',['../MedianFilter_8cpp.xhtml',1,'']]],
+  ['medianfilter_2eh',['MedianFilter.h',['../MedianFilter_8h.xhtml',1,'']]]
 ];

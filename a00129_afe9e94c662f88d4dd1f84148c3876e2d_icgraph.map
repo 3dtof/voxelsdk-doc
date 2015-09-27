@@ -1,7 +1,0 @@
-<map id="Voxel::Streamer::isInitialized" name="Voxel::Streamer::isInitialized">
-<area shape="rect" id="node2" href="$a00129.xhtml#a22a51cee97c9db6de5a1ab5e87cc9c9d" title="Voxel::Streamer::capture" alt="" coords="243,5,410,32"/>
-<area shape="rect" id="node4" href="$a00129.xhtml#a68c34331e30aa486949d145be3bd4e99" title="Voxel::Streamer::start" alt="" coords="251,56,402,83"/>
-<area shape="rect" id="node5" href="$a00129.xhtml#a3cb2a1d6b7ae774f34726a079c6e032e" title="Voxel::Streamer::stop" alt="" coords="252,107,401,133"/>
-<area shape="rect" id="node3" href="$a00356.xhtml#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="507,52,557,79"/>
-<area shape="rect" id="node6" href="$a00177.xhtml#a3310a4b702610446c70967ccc6b23b14" title="Voxel::UVCStreamer\l::~UVCStreamer" alt="" coords="459,103,605,145"/>
-</map>

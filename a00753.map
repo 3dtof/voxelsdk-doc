@@ -1,8 +1,0 @@
-<map id="Voxel::DepthCameraFactory" name="Voxel::DepthCameraFactory">
-<area shape="rect" id="node2" href="$a00155.xhtml" title="Voxel::TI::ToFCameraFactoryBase" alt="" coords="243,143,469,169"/>
-<area shape="rect" id="node3" href="$a00014.xhtml" title="Voxel::TI::CalculusCDKCamera\lFactory" alt="" coords="521,5,730,46"/>
-<area shape="rect" id="node4" href="$a00078.xhtml" title="Voxel::TI::HaddockCDKCamera\lFactory" alt="" coords="520,70,731,111"/>
-<area shape="rect" id="node5" href="$a00138.xhtml" title="Voxel::TI::TintinCDKCamera\lFactory" alt="" coords="530,135,721,177"/>
-<area shape="rect" id="node6" href="$a00183.xhtml" title="Voxel::TI::Voxel14Camera\lFactory" alt="" coords="537,201,713,242"/>
-<area shape="rect" id="node7" href="$a00187.xhtml" title="Voxel::TI::VoxelDCameraFactory" alt="" coords="517,267,733,293"/>
-</map>

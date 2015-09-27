@@ -1,0 +1,6 @@
+<map id="ELFIO::dump::symbol_tables" name="ELFIO::dump::symbol_tables">
+<area shape="rect" id="node2" href="$classELFIO_1_1symbol__section__accessor.xhtml#a073e7ac88181aefa032c2fb94040e8d4" title="ELFIO::symbol_section\l_accessor::get_symbol" alt="" coords="225,5,383,46"/>
+<area shape="rect" id="node3" href="$classELFIO_1_1symbol__section__accessor.xhtml#aea9697f3f01b0406a7832f99c31ce8b3" title="ELFIO::symbol_section\l_accessor::get_symbols_num" alt="" coords="206,70,402,111"/>
+<area shape="rect" id="node4" href="$classELFIO_1_1elfio_1_1Sections.xhtml#a5c66bdb3ab662752c4968d8cd1a1a490" title="ELFIO::elfio::Sections\l::size" alt="" coords="229,135,379,177"/>
+<area shape="rect" id="node5" href="$classELFIO_1_1dump.xhtml#a8bc5912b0f4138ccf89b0e46ce8781e8" title="ELFIO::dump::symbol\l_table" alt="" coords="229,201,379,242"/>
+</map>

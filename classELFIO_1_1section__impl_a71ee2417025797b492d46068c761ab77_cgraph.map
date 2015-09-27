@@ -1,0 +1,6 @@
+<map id="ELFIO::section_impl::save" name="ELFIO::section_impl::save">
+<area shape="rect" id="node2" href="$classELFIO_1_1section__impl.xhtml#a35883bb9a5359f6a8746e3087f9d15d5" title="ELFIO::section_impl\l::get_index" alt="" coords="195,5,336,46"/>
+<area shape="rect" id="node3" href="$classELFIO_1_1section__impl.xhtml#a70ea0fd475c1948097e3637a766acd0e" title="ELFIO::section_impl\l::save_data" alt="" coords="195,70,336,111"/>
+<area shape="rect" id="node5" href="$classELFIO_1_1section__impl.xhtml#a0353e6b5b9de5f2fd13f07f0f3bbbe86" title="ELFIO::section_impl\l::save_header" alt="" coords="195,135,336,177"/>
+<area shape="rect" id="node4" href="$classELFIO_1_1section__impl.xhtml#a3d7b791ceaad8836a9f9369d7a691664" title="ELFIO::section_impl\l::get_data" alt="" coords="384,70,525,111"/>
+</map>

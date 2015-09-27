@@ -2,8 +2,8 @@
 <area shape="rect" id="node2" href="$classTinyXML2_1_1XMLAttribute.xhtml#a63c839cfa95b0a88bdace75571e2e061" title="See QueryIntValue. " alt="" coords="219,103,384,145"/>
 <area shape="rect" id="node3" href="$classTinyXML2_1_1XMLUtil.xhtml#a25dd8394af7cc2735c3b08c4613d401a" title="TinyXML2::XMLUtil::\lToBool" alt="" coords="443,70,587,111"/>
 <area shape="rect" id="node6" href="$classTinyXML2_1_1XMLAttribute.xhtml#a446d3d65226fa84cca9c038521bfa0e6" title="The value of the attribute. " alt="" coords="432,135,597,177"/>
-<area shape="rect" id="node4" href="$classTinyXML2_1_1XMLUtil.xhtml#af0f1d719f7e1067ec06eeb2d687520a5" title="TinyXML2::XMLUtil::\lStringEqual" alt="" coords="645,5,789,46"/>
-<area shape="rect" id="node5" href="$classTinyXML2_1_1XMLUtil.xhtml#ab788174893c461fa399fc0ee05b75f4c" title="TinyXML2::XMLUtil::\lToInt" alt="" coords="645,70,789,111"/>
+<area shape="rect" id="node4" href="$classTinyXML2_1_1XMLUtil.xhtml#ab788174893c461fa399fc0ee05b75f4c" title="TinyXML2::XMLUtil::\lToInt" alt="" coords="645,5,789,46"/>
+<area shape="rect" id="node5" href="$classTinyXML2_1_1XMLUtil.xhtml#af0f1d719f7e1067ec06eeb2d687520a5" title="TinyXML2::XMLUtil::\lStringEqual" alt="" coords="645,70,789,111"/>
 <area shape="rect" id="node7" href="$classTinyXML2_1_1StrPair.xhtml#a5e2c5bd32ba79f32f219cf9301c2bce6" title="TinyXML2::StrPair::\lGetStr" alt="" coords="649,135,786,177"/>
 <area shape="rect" id="node8" href="$classTinyXML2_1_1StrPair.xhtml#a7d56cd79475b9e7e6349134b89331311" title="TinyXML2::StrPair::\lCollapseWhitespace" alt="" coords="838,102,981,143"/>
 <area shape="rect" id="node11" href="$classTinyXML2_1_1XMLUtil.xhtml#a7b69ac5d9474c28a4b2fd675d692ea43" title="TinyXML2::XMLUtil::\lGetCharacterRef" alt="" coords="837,167,981,209"/>

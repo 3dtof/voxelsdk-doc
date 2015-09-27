@@ -1,0 +1,9 @@
+<map id="Voxel::TI::RTS5825CameraUVCStreamer::~RTS5825CameraUVCStreamer" name="Voxel::TI::RTS5825CameraUVCStreamer::~RTS5825CameraUVCStreamer">
+<area shape="rect" id="node2" href="$classVoxel_1_1UVCStreamer.xhtml#aa1d2a26f98df476ac93ed407273b4405" title="Voxel::UVCStreamer\l::isInitialized" alt="" coords="377,5,522,46"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1TI_1_1RTS5825CameraUVCStreamer.xhtml#ac2af82a9c2a6d97bfb32e5084f6dc8d8" title="Voxel::TI::RTS5825Camera\lUVCStreamer::isRunning" alt="" coords="357,70,541,111"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1Streamer.xhtml#a3cb2a1d6b7ae774f34726a079c6e032e" title="Voxel::Streamer::stop" alt="" coords="375,136,524,163"/>
+<area shape="rect" id="node8" href="$classVoxel_1_1TI_1_1RTS5825CameraUVCStreamer.xhtml#a2a0546899a1d7347b1cbdba57b141cce" title="Voxel::TI::RTS5825Camera\lUVCStreamer::stop" alt="" coords="357,187,541,229"/>
+<area shape="rect" id="node5" href="$classVoxel_1_1Streamer.xhtml#aad8b53e967d0c4ebfdd92a1de22205bf" title="Voxel::Streamer::_stop" alt="" coords="606,85,762,112"/>
+<area shape="rect" id="node6" href="$classVoxel_1_1Streamer.xhtml#afe9e94c662f88d4dd1f84148c3876e2d" title="Voxel::Streamer::isInitialized" alt="" coords="589,136,779,163"/>
+<area shape="rect" id="node7" href="$classVoxel_1_1Streamer.xhtml#ab1cfea9ca2c261a33c38ccc00bc97c77" title="Voxel::Streamer::isRunning" alt="" coords="593,187,775,213"/>
+</map>

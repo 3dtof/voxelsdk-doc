@@ -1,7 +1,0 @@
-<map id="Voxel::PCLViewer::viewerStopped" name="Voxel::PCLViewer::viewerStopped">
-<area shape="rect" id="node2" href="$a00105.xhtml#a0751fa6190e95d3483726db767fd320d" title="Voxel::PCLViewer::isRunning" alt="" coords="229,72,424,98"/>
-<area shape="rect" id="node3" href="$a00301.xhtml#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="712,42,763,69"/>
-<area shape="rect" id="node4" href="$a00105.xhtml#ad599e27ffdd12922402dda879a983780" title="Voxel::PCLViewer::remove\lDepthCamera" alt="" coords="478,31,658,72"/>
-<area shape="rect" id="node5" href="$a00105.xhtml#aa71433675a254cc3df3a2b02599c408f" title="Voxel::PCLViewer::setDepth\lCamera" alt="" coords="473,96,663,138"/>
-<area shape="rect" id="node6" href="$a00105.xhtml#afe633d65563a4496bb0cfc48fd314cee" title="Voxel::PCLViewer::\l~PCLViewer" alt="" coords="499,162,637,203"/>
-</map>

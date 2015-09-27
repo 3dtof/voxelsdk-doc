@@ -1,5 +1,8 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classVoxel_1_1Downloader.xhtml" title="Voxel::Downloader" alt="" coords="6,5,138,32"/>
-<area shape="rect" id="node2" href="$classVoxel_1_1USBDownloader.xhtml" title="Voxel::USBDownloader" alt="" coords="187,5,347,32"/>
-<area shape="rect" id="node3" href="$classVoxel_1_1TI_1_1TintinEEPROMDownloader.xhtml" title="Voxel::TI::TintinEEPROMDownloader" alt="" coords="395,5,637,32"/>
+<area shape="rect" id="node1" href="$classTinyXML2_1_1MemPool.xhtml" title="TinyXML2::MemPool" alt="" coords="5,143,149,169"/>
+<area shape="rect" id="node2" href="$classTinyXML2_1_1MemPoolT.xhtml" title="TinyXML2::MemPoolT\l\&lt; sizeof(TinyXML2::XMLAttribute) \&gt;" alt="" coords="201,5,433,46"/>
+<area shape="rect" id="node3" href="$classTinyXML2_1_1MemPoolT.xhtml" title="TinyXML2::MemPoolT\l\&lt; sizeof(TinyXML2::XMLComment) \&gt;" alt="" coords="197,70,437,111"/>
+<area shape="rect" id="node4" href="$classTinyXML2_1_1MemPoolT.xhtml" title="TinyXML2::MemPoolT\l\&lt; sizeof(TinyXML2::XMLElement) \&gt;" alt="" coords="202,135,433,177"/>
+<area shape="rect" id="node5" href="$classTinyXML2_1_1MemPoolT.xhtml" title="TinyXML2::MemPoolT\l\&lt; sizeof(TinyXML2::XMLText) \&gt;" alt="" coords="213,201,422,242"/>
+<area shape="rect" id="node6" href="$classTinyXML2_1_1MemPoolT.xhtml" title="TinyXML2::MemPoolT\l\&lt; SIZE \&gt;" alt="" coords="241,266,393,307"/>
 </map>

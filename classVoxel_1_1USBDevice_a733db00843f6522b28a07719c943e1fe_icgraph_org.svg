@@ -99,10 +99,10 @@
 </g>
 <!-- Node11 -->
 <g id="node11" class="node"><title>Node11</title>
-<g id="a_node11"><a xlink:href="classVoxel_1_1TI_1_1TintinCDKCamera.xhtml#a35274b5fd95ea088be4bc0637328d5f4" target="_top" xlink:title="Voxel::TI::TintinCDKCamera\l::_initStartParams">
+<g id="a_node11"><a xlink:href="classVoxel_1_1TI_1_1TintinCDKCamera.xhtml#a2ffbaceb53ded2b382116ac66b787698" target="_top" xlink:title="Voxel::TI::TintinCDKCamera\l::_setStreamerFrameSize">
 <polygon fill="none" stroke="black" points="203.5,-519 203.5,-549 346.5,-549 346.5,-519 203.5,-519"/>
 <text text-anchor="start" x="211.5" y="-537" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::TI::TintinCDKCamera</text>
-<text text-anchor="middle" x="275" y="-526" font-family="Helvetica,sans-Serif" font-size="10.00">::_initStartParams</text>
+<text text-anchor="middle" x="275" y="-526" font-family="Helvetica,sans-Serif" font-size="10.00">::_setStreamerFrameSize</text>
 </a>
 </g>
 </g>
@@ -113,10 +113,10 @@
 </g>
 <!-- Node12 -->
 <g id="node12" class="node"><title>Node12</title>
-<g id="a_node12"><a xlink:href="classVoxel_1_1TI_1_1TintinCDKCamera.xhtml#a2ffbaceb53ded2b382116ac66b787698" target="_top" xlink:title="Voxel::TI::TintinCDKCamera\l::_setStreamerFrameSize">
-<polygon fill="none" stroke="black" points="203.5,-470 203.5,-500 346.5,-500 346.5,-470 203.5,-470"/>
-<text text-anchor="start" x="211.5" y="-488" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::TI::TintinCDKCamera</text>
-<text text-anchor="middle" x="275" y="-477" font-family="Helvetica,sans-Serif" font-size="10.00">::_setStreamerFrameSize</text>
+<g id="a_node12"><a xlink:href="classVoxel_1_1USBSystemPrivate.xhtml#a1cbfa177d183726f0e4a16cb45e30d35" target="_top" xlink:title="Voxel::USBSystemPrivate\l::getBusDevNumbers">
+<polygon fill="none" stroke="black" points="208.5,-470 208.5,-500 341.5,-500 341.5,-470 208.5,-470"/>
+<text text-anchor="start" x="216.5" y="-488" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::USBSystemPrivate</text>
+<text text-anchor="middle" x="275" y="-477" font-family="Helvetica,sans-Serif" font-size="10.00">::getBusDevNumbers</text>
 </a>
 </g>
 </g>
@@ -125,18 +125,18 @@
 <path fill="none" stroke="midnightblue" d="M102.928,-424.969C124.666,-435.494 155.784,-449.805 184,-460 193.914,-463.582 204.595,-466.956 215.015,-469.998"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="104.454,-421.819 93.9329,-420.571 101.379,-428.108 104.454,-421.819"/>
 </g>
-<!-- Node13 -->
-<g id="node13" class="node"><title>Node13</title>
-<g id="a_node13"><a xlink:href="classVoxel_1_1USBSystemPrivate.xhtml#a1cbfa177d183726f0e4a16cb45e30d35" target="_top" xlink:title="Voxel::USBSystemPrivate\l::getBusDevNumbers">
-<polygon fill="none" stroke="black" points="208.5,-421 208.5,-451 341.5,-451 341.5,-421 208.5,-421"/>
-<text text-anchor="start" x="216.5" y="-439" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::USBSystemPrivate</text>
-<text text-anchor="middle" x="275" y="-428" font-family="Helvetica,sans-Serif" font-size="10.00">::getBusDevNumbers</text>
+<!-- Node15 -->
+<g id="node15" class="node"><title>Node15</title>
+<g id="a_node15"><a xlink:href="classVoxel_1_1TI_1_1CalculusCDKCameraFactory.xhtml#a6c7800c534f4b2acf5093ca7e6a08c0a" target="_top" xlink:title="Voxel::TI::CalculusCDKCamera\lFactory::getDepthCamera">
+<polygon fill="none" stroke="black" points="196.5,-421 196.5,-451 353.5,-451 353.5,-421 196.5,-421"/>
+<text text-anchor="start" x="204.5" y="-439" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::TI::CalculusCDKCamera</text>
+<text text-anchor="middle" x="275" y="-428" font-family="Helvetica,sans-Serif" font-size="10.00">Factory::getDepthCamera</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node13 -->
-<g id="edge12" class="edge"><title>Node1&#45;&gt;Node13</title>
-<path fill="none" stroke="midnightblue" d="M158.538,-421.495C175.212,-423.59 192.501,-425.761 208.464,-427.767"/>
+<!-- Node1&#45;&gt;Node15 -->
+<g id="edge14" class="edge"><title>Node1&#45;&gt;Node15</title>
+<path fill="none" stroke="midnightblue" d="M158.249,-421.458C170.829,-423.039 183.765,-424.664 196.224,-426.229"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="158.611,-417.976 148.252,-420.203 157.738,-424.922 158.611,-417.976"/>
 </g>
 <!-- Node16 -->
@@ -155,9 +155,9 @@
 </g>
 <!-- Node17 -->
 <g id="node17" class="node"><title>Node17</title>
-<g id="a_node17"><a xlink:href="classVoxel_1_1TI_1_1CalculusCDKCameraFactory.xhtml#a6c7800c534f4b2acf5093ca7e6a08c0a" target="_top" xlink:title="Voxel::TI::CalculusCDKCamera\lFactory::getDepthCamera">
-<polygon fill="none" stroke="black" points="196.5,-323 196.5,-353 353.5,-353 353.5,-323 196.5,-323"/>
-<text text-anchor="start" x="204.5" y="-341" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::TI::CalculusCDKCamera</text>
+<g id="a_node17"><a xlink:href="classVoxel_1_1TI_1_1Voxel14CameraFactory.xhtml#a1454e626c3afc067cd35a7a7c5c95812" target="_top" xlink:title="Voxel::TI::Voxel14Camera\lFactory::getDepthCamera">
+<polygon fill="none" stroke="black" points="209,-323 209,-353 341,-353 341,-323 209,-323"/>
+<text text-anchor="start" x="217" y="-341" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::TI::Voxel14Camera</text>
 <text text-anchor="middle" x="275" y="-330" font-family="Helvetica,sans-Serif" font-size="10.00">Factory::getDepthCamera</text>
 </a>
 </g>
@@ -169,10 +169,10 @@
 </g>
 <!-- Node18 -->
 <g id="node18" class="node"><title>Node18</title>
-<g id="a_node18"><a xlink:href="classVoxel_1_1TI_1_1VoxelDCameraFactory.xhtml#a7ffb1d8421aedcfe79455e3e787be967" target="_top" xlink:title="Voxel::TI::VoxelDCameraFactory\l::getDepthCamera">
-<polygon fill="none" stroke="black" points="194,-274 194,-304 356,-304 356,-274 194,-274"/>
-<text text-anchor="start" x="202" y="-292" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::TI::VoxelDCameraFactory</text>
-<text text-anchor="middle" x="275" y="-281" font-family="Helvetica,sans-Serif" font-size="10.00">::getDepthCamera</text>
+<g id="a_node18"><a xlink:href="classVoxel_1_1TI_1_1HaddockCDKCameraFactory.xhtml#a7cf07873ca56e107ef607b1e5406c076" target="_top" xlink:title="Voxel::TI::HaddockCDKCamera\lFactory::getDepthCamera">
+<polygon fill="none" stroke="black" points="196,-274 196,-304 354,-304 354,-274 196,-274"/>
+<text text-anchor="start" x="204" y="-292" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::TI::HaddockCDKCamera</text>
+<text text-anchor="middle" x="275" y="-281" font-family="Helvetica,sans-Serif" font-size="10.00">Factory::getDepthCamera</text>
 </a>
 </g>
 </g>
@@ -183,24 +183,24 @@
 </g>
 <!-- Node19 -->
 <g id="node19" class="node"><title>Node19</title>
-<g id="a_node19"><a xlink:href="classVoxel_1_1TI_1_1Voxel14CameraFactory.xhtml#a1454e626c3afc067cd35a7a7c5c95812" target="_top" xlink:title="Voxel::TI::Voxel14Camera\lFactory::getDepthCamera">
-<polygon fill="none" stroke="black" points="209,-225 209,-255 341,-255 341,-225 209,-225"/>
-<text text-anchor="start" x="217" y="-243" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::TI::Voxel14Camera</text>
+<g id="a_node19"><a xlink:href="classVoxel_1_1TI_1_1RTS5825CameraFactory.xhtml#a8106f57e78856af663b33329b378f85f" target="_top" xlink:title="Voxel::TI::RTS5825Camera\lFactory::getDepthCamera">
+<polygon fill="none" stroke="black" points="206,-225 206,-255 344,-255 344,-225 206,-225"/>
+<text text-anchor="start" x="214" y="-243" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::TI::RTS5825Camera</text>
 <text text-anchor="middle" x="275" y="-232" font-family="Helvetica,sans-Serif" font-size="10.00">Factory::getDepthCamera</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node19 -->
 <g id="edge18" class="edge"><title>Node1&#45;&gt;Node19</title>
-<path fill="none" stroke="midnightblue" d="M83.8801,-392.117C99.5738,-360.83 135.22,-298.388 184,-265 191.494,-259.871 200.016,-255.789 208.758,-252.542"/>
+<path fill="none" stroke="midnightblue" d="M83.8801,-392.117C99.5738,-360.83 135.22,-298.388 184,-265 190.691,-260.42 198.202,-256.676 205.956,-253.615"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="80.5683,-390.923 79.3327,-401.446 86.8606,-393.991 80.5683,-390.923"/>
 </g>
 <!-- Node20 -->
 <g id="node20" class="node"><title>Node20</title>
-<g id="a_node20"><a xlink:href="classVoxel_1_1TI_1_1HaddockCDKCameraFactory.xhtml#a7cf07873ca56e107ef607b1e5406c076" target="_top" xlink:title="Voxel::TI::HaddockCDKCamera\lFactory::getDepthCamera">
-<polygon fill="none" stroke="black" points="196,-176 196,-206 354,-206 354,-176 196,-176"/>
-<text text-anchor="start" x="204" y="-194" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::TI::HaddockCDKCamera</text>
-<text text-anchor="middle" x="275" y="-183" font-family="Helvetica,sans-Serif" font-size="10.00">Factory::getDepthCamera</text>
+<g id="a_node20"><a xlink:href="classVoxel_1_1TI_1_1VoxelDCameraFactory.xhtml#a7ffb1d8421aedcfe79455e3e787be967" target="_top" xlink:title="Voxel::TI::VoxelDCameraFactory\l::getDepthCamera">
+<polygon fill="none" stroke="black" points="194,-176 194,-206 356,-206 356,-176 194,-176"/>
+<text text-anchor="start" x="202" y="-194" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::TI::VoxelDCameraFactory</text>
+<text text-anchor="middle" x="275" y="-183" font-family="Helvetica,sans-Serif" font-size="10.00">::getDepthCamera</text>
 </a>
 </g>
 </g>
@@ -305,33 +305,33 @@
 <path fill="none" stroke="midnightblue" d="M356.877,-583C371.928,-583 387.547,-583 402.265,-583"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="356.565,-579.5 346.565,-583 356.565,-586.5 356.565,-579.5"/>
 </g>
+<!-- Node13 -->
+<g id="node13" class="node"><title>Node13</title>
+<g id="a_node13"><a xlink:href="classVoxel_1_1USBSystemPrivate.xhtml#a0a4343643663e5cb000014b35bec5802" target="_top" xlink:title="This does not look at the channel to determine which channel to use. ">
+<polygon fill="none" stroke="black" points="407.5,-470 407.5,-500 540.5,-500 540.5,-470 407.5,-470"/>
+<text text-anchor="start" x="415.5" y="-488" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::USBSystemPrivate</text>
+<text text-anchor="middle" x="474" y="-477" font-family="Helvetica,sans-Serif" font-size="10.00">::getDeviceHandle</text>
+</a>
+</g>
+</g>
+<!-- Node12&#45;&gt;Node13 -->
+<g id="edge12" class="edge"><title>Node12&#45;&gt;Node13</title>
+<path fill="none" stroke="midnightblue" d="M351.664,-485C370.022,-485 389.501,-485 407.353,-485"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="351.598,-481.5 341.598,-485 351.598,-488.5 351.598,-481.5"/>
+</g>
 <!-- Node14 -->
 <g id="node14" class="node"><title>Node14</title>
-<g id="a_node14"><a xlink:href="classVoxel_1_1USBSystemPrivate.xhtml#a0a4343643663e5cb000014b35bec5802" target="_top" xlink:title="This does not look at the channel to determine which channel to use. ">
-<polygon fill="none" stroke="black" points="407.5,-421 407.5,-451 540.5,-451 540.5,-421 407.5,-421"/>
-<text text-anchor="start" x="415.5" y="-439" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::USBSystemPrivate</text>
-<text text-anchor="middle" x="474" y="-428" font-family="Helvetica,sans-Serif" font-size="10.00">::getDeviceHandle</text>
+<g id="a_node14"><a xlink:href="classVoxel_1_1USBIO_1_1USBIOPrivate.xhtml#a72862681db5fbc61c173f711b60e76f3" target="_top" xlink:title="Voxel::USBIO::USBIOPrivate\l::USBIOPrivate">
+<polygon fill="none" stroke="black" points="582.5,-470 582.5,-500 729.5,-500 729.5,-470 582.5,-470"/>
+<text text-anchor="start" x="590.5" y="-488" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::USBIO::USBIOPrivate</text>
+<text text-anchor="middle" x="656" y="-477" font-family="Helvetica,sans-Serif" font-size="10.00">::USBIOPrivate</text>
 </a>
 </g>
 </g>
 <!-- Node13&#45;&gt;Node14 -->
 <g id="edge13" class="edge"><title>Node13&#45;&gt;Node14</title>
-<path fill="none" stroke="midnightblue" d="M351.664,-436C370.022,-436 389.501,-436 407.353,-436"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="351.598,-432.5 341.598,-436 351.598,-439.5 351.598,-432.5"/>
-</g>
-<!-- Node15 -->
-<g id="node15" class="node"><title>Node15</title>
-<g id="a_node15"><a xlink:href="classVoxel_1_1USBIO_1_1USBIOPrivate.xhtml#a72862681db5fbc61c173f711b60e76f3" target="_top" xlink:title="Voxel::USBIO::USBIOPrivate\l::USBIOPrivate">
-<polygon fill="none" stroke="black" points="582.5,-421 582.5,-451 729.5,-451 729.5,-421 582.5,-421"/>
-<text text-anchor="start" x="590.5" y="-439" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::USBIO::USBIOPrivate</text>
-<text text-anchor="middle" x="656" y="-428" font-family="Helvetica,sans-Serif" font-size="10.00">::USBIOPrivate</text>
-</a>
-</g>
-</g>
-<!-- Node14&#45;&gt;Node15 -->
-<g id="edge14" class="edge"><title>Node14&#45;&gt;Node15</title>
-<path fill="none" stroke="midnightblue" d="M551.044,-436C561.446,-436 572.103,-436 582.441,-436"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="550.748,-432.5 540.748,-436 550.748,-439.5 550.748,-432.5"/>
+<path fill="none" stroke="midnightblue" d="M551.044,-485C561.446,-485 572.103,-485 582.441,-485"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="550.748,-481.5 540.748,-485 550.748,-488.5 550.748,-481.5"/>
 </g>
 </g>
 </svg>

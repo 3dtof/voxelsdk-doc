@@ -1,4 +1,5 @@
 <map id="Voxel::ConfigurationFile::getFile" name="Voxel::ConfigurationFile::getFile">
-<area shape="rect" id="node2" href="$classVoxel_1_1ConfigurationFile.xhtml#a69e6c29b1e3caafca6e783937834113b" title="Voxel::ConfigurationFile\l::_getData" alt="" coords="217,5,378,46"/>
-<area shape="rect" id="node3" href="$classVoxel_1_1Configuration.xhtml#aeed2f5638591b839dd233e8673a977e5" title="Updates &quot;name&quot; to full path. " alt="" coords="427,5,567,46"/>
+<area shape="rect" id="node2" href="$classVoxel_1_1ConfigurationFile.xhtml#a69e6c29b1e3caafca6e783937834113b" title="Voxel::ConfigurationFile\l::_getData" alt="" coords="217,38,378,79"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1MainConfigurationFile.xhtml#ab24aaf7b18fea74c6f235da04fadbed0" title="Voxel::MainConfiguration\lFile::getCameraProfile" alt="" coords="427,5,595,46"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1Configuration.xhtml#aee8855b651aed3783dbd8aa4453b1a4d" title="Updates &quot;name&quot; to full path. " alt="" coords="441,70,581,111"/>
 </map>

@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['xmlbase',['XMLBase',['../classTinyXML2_1_1XMLText.xhtml#a449202cfc89e7ae5c2f81995476f9ec1',1,'TinyXML2::XMLText::XMLBase()'],['../classTinyXML2_1_1XMLElement.xhtml#a449202cfc89e7ae5c2f81995476f9ec1',1,'TinyXML2::XMLElement::XMLBase()']]],
-  ['xmldocument',['XMLDocument',['../classTinyXML2_1_1XMLNode.xhtml#a4eee3bda60c60a30e4e8cd4ea91c4c6e',1,'TinyXML2::XMLNode::XMLDocument()'],['../classTinyXML2_1_1XMLText.xhtml#a4eee3bda60c60a30e4e8cd4ea91c4c6e',1,'TinyXML2::XMLText::XMLDocument()'],['../classTinyXML2_1_1XMLComment.xhtml#a4eee3bda60c60a30e4e8cd4ea91c4c6e',1,'TinyXML2::XMLComment::XMLDocument()'],['../classTinyXML2_1_1XMLDeclaration.xhtml#a4eee3bda60c60a30e4e8cd4ea91c4c6e',1,'TinyXML2::XMLDeclaration::XMLDocument()'],['../classTinyXML2_1_1XMLUnknown.xhtml#a4eee3bda60c60a30e4e8cd4ea91c4c6e',1,'TinyXML2::XMLUnknown::XMLDocument()'],['../classTinyXML2_1_1XMLElement.xhtml#a4eee3bda60c60a30e4e8cd4ea91c4c6e',1,'TinyXML2::XMLElement::XMLDocument()']]],
-  ['xmlelement',['XMLElement',['../classTinyXML2_1_1XMLNode.xhtml#ac2fba9b6e452829dd892f7392c24e0eb',1,'TinyXML2::XMLNode::XMLElement()'],['../classTinyXML2_1_1XMLAttribute.xhtml#ac2fba9b6e452829dd892f7392c24e0eb',1,'TinyXML2::XMLAttribute::XMLElement()'],['../classTinyXML2_1_1XMLDocument.xhtml#ac2fba9b6e452829dd892f7392c24e0eb',1,'TinyXML2::XMLDocument::XMLElement()']]]
+  ['tintinmodulationfrequencyparameter',['TintinModulationFrequencyParameter',['../classVoxel_1_1TI_1_1ToFTintinCamera.xhtml#a63415916281ef2bb06b717f483c4d3c7',1,'Voxel::TI::ToFTintinCamera']]],
+  ['tintinunambiguousrangeparameter',['TintinUnambiguousRangeParameter',['../classVoxel_1_1TI_1_1ToFTintinCamera.xhtml#aae6c6a0ea49bf1232b6f6c81d5aa21dc',1,'Voxel::TI::ToFTintinCamera']]],
+  ['tintinvcofrequency',['TintinVCOFrequency',['../classVoxel_1_1TI_1_1ToFTintinCamera.xhtml#a528467d5c6b8c3c41aecfc5d7e91f49f',1,'Voxel::TI::ToFTintinCamera']]]
 ];

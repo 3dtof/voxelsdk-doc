@@ -1,0 +1,7 @@
+<map id="ELFIO::symbol_section_accessor::generic_get_symbol" name="ELFIO::symbol_section_accessor::generic_get_symbol">
+<area shape="rect" id="node2" href="$classELFIO_1_1elfio.xhtml#af8a6706052d3029c76e5332eba10ad77" title="ELFIO::elfio::get_convertor" alt="" coords="223,5,401,32"/>
+<area shape="rect" id="node3" href="$classELFIO_1_1section.xhtml#accfaef20485ee803990b260130022bd2" title="ELFIO::section::get_data" alt="" coords="459,85,627,112"/>
+<area shape="rect" id="node4" href="$classELFIO_1_1string__section__accessor.xhtml#abf7ba3e0d2d1e200f13ec4b4bdff96d1" title="ELFIO::string_section\l_accessor::get_string" alt="" coords="237,107,387,149"/>
+<area shape="rect" id="node5" href="$classELFIO_1_1symbol__section__accessor.xhtml#a722b6d616524fa49fb05b788f76be233" title="ELFIO::symbol_section\l_accessor::get_string\l_table_index" alt="" coords="233,172,391,228"/>
+<area shape="rect" id="node6" href="$classELFIO_1_1symbol__section__accessor.xhtml#aea9697f3f01b0406a7832f99c31ce8b3" title="ELFIO::symbol_section\l_accessor::get_symbols_num" alt="" coords="214,251,410,293"/>
+</map>

@@ -1,8 +1,0 @@
-<map id="Voxel::ParameterTemplate::refresh" name="Voxel::ParameterTemplate::refresh">
-<area shape="rect" id="node2" href="$a00089.xhtml#a24d53995a5ab52556ee64bde8d634a3f" title="Voxel::TI::IntegrationTime\lParameter::get" alt="" coords="261,5,435,46"/>
-<area shape="rect" id="node3" href="$a00080.xhtml#a49969d74f796d8eb707087eede0b12cb" title="Voxel::TI::HaddockCDKIllumination\lPowerPercentageParameter::get" alt="" coords="233,70,463,111"/>
-<area shape="rect" id="node4" href="$a00103.xhtml#afa8896eaffbd2b87d1482c0967a0fe1d" title="Voxel::ParameterTemplate\l\&lt; bool \&gt;::get" alt="" coords="259,135,437,177"/>
-<area shape="rect" id="node6" href="$a00084.xhtml#a651affc3a71f50f73cd47963d30ed18b" title="Voxel::TI::HaddockUnambiguous\lRangeParameter::get" alt="" coords="241,201,455,242"/>
-<area shape="rect" id="node7" href="$a00150.xhtml#aee1307d07b01cdc5f3a34719e5b79ac0" title="Voxel::TI::TintinUnambiguous\lRangeParameter::get" alt="" coords="251,266,445,307"/>
-<area shape="rect" id="node5" href="$a00132.xhtml#aac48c08e6aa19fdfd4e4661e3f56992e" title="Voxel::StrobeBoolParameter::get" alt="" coords="512,143,725,169"/>
-</map>

@@ -1,6 +1,8 @@
 <map id="Voxel::TI::ToFHaddockCamera::_init" name="Voxel::TI::ToFHaddockCamera::_init">
-<area shape="rect" id="node2" href="$classVoxel_1_1TI_1_1Voxel14Camera.xhtml#a89011bfb795ff58d3fb8675364b91abe" title="Voxel::TI::Voxel14Camera\l::_init" alt="" coords="276,5,452,46"/>
-<area shape="rect" id="node4" href="$classVoxel_1_1TI_1_1HaddockCDKCamera.xhtml#a7dff103da3145dd303a5bc0db75ae961" title="Voxel::TI::HaddockCDKCamera\l::_init" alt="" coords="259,70,469,111"/>
-<area shape="rect" id="node3" href="$classVoxel_1_1TI_1_1Voxel14Camera.xhtml#a606f13ed73547ee43f585e241b42dd5d" title="Voxel::TI::Voxel14Camera\l::Voxel14Camera" alt="" coords="535,5,711,46"/>
-<area shape="rect" id="node5" href="$classVoxel_1_1TI_1_1HaddockCDKCamera.xhtml#ac2c5e82486c4cc3f5edada38cd4274c5" title="Voxel::TI::HaddockCDKCamera\l::HaddockCDKCamera" alt="" coords="517,70,728,111"/>
+<area shape="rect" id="node2" href="$classVoxel_1_1TI_1_1RTS5825Camera.xhtml#af7d33e164feac1c63726d2757227c3bc" title="Voxel::TI::RTS5825Camera\l::_init" alt="" coords="272,5,456,46"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1TI_1_1Voxel14Camera.xhtml#a89011bfb795ff58d3fb8675364b91abe" title="Voxel::TI::Voxel14Camera\l::_init" alt="" coords="276,70,452,111"/>
+<area shape="rect" id="node6" href="$classVoxel_1_1TI_1_1HaddockCDKCamera.xhtml#a7dff103da3145dd303a5bc0db75ae961" title="Voxel::TI::HaddockCDKCamera\l::_init" alt="" coords="259,135,469,177"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1TI_1_1RTS5825Camera.xhtml#a7a242f28e79a95d9a918946beb0b0461" title="Voxel::TI::RTS5825Camera\l::RTS5825Camera" alt="" coords="531,5,715,46"/>
+<area shape="rect" id="node5" href="$classVoxel_1_1TI_1_1Voxel14Camera.xhtml#a606f13ed73547ee43f585e241b42dd5d" title="Voxel::TI::Voxel14Camera\l::Voxel14Camera" alt="" coords="535,70,711,111"/>
+<area shape="rect" id="node7" href="$classVoxel_1_1TI_1_1HaddockCDKCamera.xhtml#ac2c5e82486c4cc3f5edada38cd4274c5" title="Voxel::TI::HaddockCDKCamera\l::HaddockCDKCamera" alt="" coords="517,135,728,177"/>
 </map>

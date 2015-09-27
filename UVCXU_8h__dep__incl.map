@@ -1,10 +1,11 @@
 <map id="UVCXU.h" name="UVCXU.h">
-<area shape="rect" id="node2" href="$VoxelXUProgrammer_8h.xhtml" title="VoxelXUProgrammer.h" alt="" coords="502,80,657,107"/>
-<area shape="rect" id="node9" href="$UVCXU_8cpp.xhtml" title="UVCXU.cpp" alt="" coords="682,80,776,107"/>
+<area shape="rect" id="node2" href="$VoxelXUProgrammer_8h.xhtml" title="VoxelXUProgrammer.h" alt="" coords="575,80,731,107"/>
+<area shape="rect" id="node10" href="$UVCXU_8cpp.xhtml" title="UVCXU.cpp" alt="" coords="755,80,849,107"/>
 <area shape="rect" id="node3" href="$Voxel14RegisterTest_8cpp.xhtml" title="Voxel14RegisterTest.cpp" alt="" coords="5,155,173,181"/>
-<area shape="rect" id="node4" href="$TintinCDKCamera_8cpp.xhtml" title="TintinCDKCamera.cpp" alt="" coords="199,155,352,181"/>
-<area shape="rect" id="node5" href="$TintinEEPROMDownloader_8cpp.xhtml" title="TintinEEPROMDownloader.cpp" alt="" coords="378,155,584,181"/>
-<area shape="rect" id="node6" href="$Voxel14Camera_8cpp.xhtml" title="Voxel14Camera.cpp" alt="" coords="609,155,748,181"/>
-<area shape="rect" id="node7" href="$VoxelDCamera_8cpp.xhtml" title="VoxelDCamera.cpp" alt="" coords="773,155,908,181"/>
-<area shape="rect" id="node8" href="$VoxelXUProgrammer_8cpp.xhtml" title="VoxelXUProgrammer.cpp" alt="" coords="933,155,1104,181"/>
+<area shape="rect" id="node4" href="$RTS5825Camera_8cpp.xhtml" title="RTS5825Camera.cpp" alt="" coords="198,155,345,181"/>
+<area shape="rect" id="node5" href="$TintinCDKCamera_8cpp.xhtml" title="TintinCDKCamera.cpp" alt="" coords="371,155,524,181"/>
+<area shape="rect" id="node6" href="$TintinEEPROMDownloader_8cpp.xhtml" title="TintinEEPROMDownloader.cpp" alt="" coords="550,155,756,181"/>
+<area shape="rect" id="node7" href="$Voxel14Camera_8cpp.xhtml" title="Voxel14Camera.cpp" alt="" coords="781,155,920,181"/>
+<area shape="rect" id="node8" href="$VoxelDCamera_8cpp.xhtml" title="VoxelDCamera.cpp" alt="" coords="945,155,1080,181"/>
+<area shape="rect" id="node9" href="$VoxelXUProgrammer_8cpp.xhtml" title="VoxelXUProgrammer.cpp" alt="" coords="1105,155,1276,181"/>
 </map>

@@ -1,5 +1,0 @@
-<map id="Voxel::DepthCamera::_getSupportedVideoModes" name="Voxel::DepthCamera::_getSupportedVideoModes">
-<area shape="rect" id="node2" href="$a00153.xhtml#a3e338b01dde4b43a180b6ebccd4272f5" title="Voxel::TI::ToFCamera\l::_getMaximumFrameRate" alt="" coords="241,5,418,46"/>
-<area shape="rect" id="node3" href="$a00153.xhtml#a732a6cb4d0a909776abf8004f2ddf4ee" title="Voxel::TI::ToFCamera\l::_setFrameSize" alt="" coords="253,70,405,111"/>
-<area shape="rect" id="node4" href="$a00036.xhtml#a9604ada4f0170774ae80716a703f0ccc" title="Voxel::DepthCamera\l::getSupportedVideoModes" alt="" coords="240,135,419,177"/>
-</map>

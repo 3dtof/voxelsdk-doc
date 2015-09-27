@@ -413,7 +413,7 @@
 </g>
 <!-- Node29 -->
 <g id="node29" class="node"><title>Node29</title>
-<g id="a_node29"><a xlink:href="classVoxel_1_1Configuration.xhtml#abfeffa3f26a5d905901c85a8889823d7" target="_top" xlink:title="Voxel::Configuration\l::getLocalConfFile">
+<g id="a_node29"><a xlink:href="classVoxel_1_1Configuration.xhtml#a9bdd772364ff790be2acba9a27b09549" target="_top" xlink:title="Voxel::Configuration\l::getLocalConfFile">
 <polygon fill="none" stroke="black" points="266.5,-249 266.5,-279 371.5,-279 371.5,-249 266.5,-249"/>
 <text text-anchor="start" x="274.5" y="-267" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::Configuration</text>
 <text text-anchor="middle" x="319" y="-256" font-family="Helvetica,sans-Serif" font-size="10.00">::getLocalConfFile</text>

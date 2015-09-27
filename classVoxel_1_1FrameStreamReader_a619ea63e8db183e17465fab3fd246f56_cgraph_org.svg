@@ -146,10 +146,10 @@
 </g>
 <!-- Node10 -->
 <g id="node10" class="node"><title>Node10</title>
-<g id="a_node10"><a xlink:href="classVoxel_1_1SerializedObject.xhtml#aac0058e6b0ea0cb6ac86f4e986f6de25" target="_top" xlink:title="Voxel::SerializedObject\l::getBytes">
+<g id="a_node10"><a xlink:href="classVoxel_1_1SerializedObject.xhtml#a28bffcfa230e90768ea678269a782381" target="_top" xlink:title="Voxel::SerializedObject\l::resize">
 <polygon fill="none" stroke="black" points="360.5,-49 360.5,-79 479.5,-79 479.5,-49 360.5,-49"/>
 <text text-anchor="start" x="368.5" y="-67" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::SerializedObject</text>
-<text text-anchor="middle" x="420" y="-56" font-family="Helvetica,sans-Serif" font-size="10.00">::getBytes</text>
+<text text-anchor="middle" x="420" y="-56" font-family="Helvetica,sans-Serif" font-size="10.00">::resize</text>
 </a>
 </g>
 </g>
@@ -160,10 +160,10 @@
 </g>
 <!-- Node11 -->
 <g id="node11" class="node"><title>Node11</title>
-<g id="a_node11"><a xlink:href="classVoxel_1_1SerializedObject.xhtml#a28bffcfa230e90768ea678269a782381" target="_top" xlink:title="Voxel::SerializedObject\l::resize">
+<g id="a_node11"><a xlink:href="classVoxel_1_1SerializedObject.xhtml#aac0058e6b0ea0cb6ac86f4e986f6de25" target="_top" xlink:title="Voxel::SerializedObject\l::getBytes">
 <polygon fill="none" stroke="black" points="360.5,-0 360.5,-30 479.5,-30 479.5,-0 360.5,-0"/>
 <text text-anchor="start" x="368.5" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::SerializedObject</text>
-<text text-anchor="middle" x="420" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">::resize</text>
+<text text-anchor="middle" x="420" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">::getBytes</text>
 </a>
 </g>
 </g>

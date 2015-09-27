@@ -142,13 +142,13 @@ var sectionId = 'dynsection-1';
 </g>
 <!-- Node7 -->
 <g id="node7" class="node"><title>Node7</title>
-<polygon fill="none" stroke="#bfbfbf" points="199.5,-1172.5 199.5,-1191.5 250.5,-1191.5 250.5,-1172.5 199.5,-1172.5"/>
-<text text-anchor="middle" x="225" y="-1179.5" font-family="Helvetica,sans-Serif" font-size="10.00">uint32_t</text>
+<polygon fill="none" stroke="#bfbfbf" points="199.5,-1174.5 199.5,-1193.5 250.5,-1193.5 250.5,-1174.5 199.5,-1174.5"/>
+<text text-anchor="middle" x="225" y="-1181.5" font-family="Helvetica,sans-Serif" font-size="10.00">uint32_t</text>
 </g>
 <!-- Node7&#45;&gt;Node5 -->
 <g id="edge6" class="edge"><title>Node7&#45;&gt;Node5</title>
-<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M260.977,-1175.16C323.281,-1163.85 449.954,-1145.14 482,-1173 525.359,-1210.69 465.645,-1254.96 500,-1301 509.892,-1314.26 525.666,-1322.9 540.676,-1328.46"/>
-<polygon fill="#9a32cd" stroke="#9a32cd" points="260.037,-1171.77 250.841,-1177.03 261.312,-1178.65 260.037,-1171.77"/>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M260.972,-1176.84C323.268,-1164.97 449.929,-1145.15 482,-1173 525.047,-1210.38 466.116,-1254.15 500,-1300 510.155,-1313.74 526.539,-1322.69 541.923,-1328.43"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="259.987,-1173.46 250.838,-1178.81 261.322,-1180.33 259.987,-1173.46"/>
 <text text-anchor="middle" x="403" y="-1187" font-family="Helvetica,sans-Serif" font-size="10.00"> _mask</text>
 <text text-anchor="middle" x="403" y="-1176" font-family="Helvetica,sans-Serif" font-size="10.00">_address</text>
 </g>
@@ -162,9 +162,9 @@ var sectionId = 'dynsection-1';
 </g>
 <!-- Node7&#45;&gt;Node19 -->
 <g id="edge44" class="edge"><title>Node7&#45;&gt;Node19</title>
-<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M260.669,-1181.33C276.489,-1179.22 294.266,-1174.01 306,-1162 331.463,-1135.93 298.265,-1107.8 324,-1082 374.858,-1031 430.104,-1095.94 482,-1046 504.218,-1024.62 476.836,-999.351 500,-979 527.624,-954.731 628.419,-966.28 664,-957 730.603,-939.629 762.02,-951.221 808,-900 901.99,-795.296 904.959,-606.605 904.266,-561.754"/>
-<polygon fill="#9a32cd" stroke="#9a32cd" points="260.252,-1177.85 250.64,-1182.31 260.933,-1184.82 260.252,-1177.85"/>
-<text text-anchor="middle" x="582" y="-982" font-family="Helvetica,sans-Serif" font-size="10.00"> _callBackTypesRegistered</text>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M260.669,-1183.33C276.489,-1181.22 294.266,-1176.01 306,-1164 331.463,-1137.93 298.42,-1109.96 324,-1084 374.694,-1032.56 428.788,-1094.84 482,-1046 500.639,-1028.89 481.727,-1009.5 500,-992 602.832,-893.542 707.94,-1005.27 808,-904 858.864,-852.52 895.411,-612.503 902.675,-561.531"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="260.252,-1179.85 250.64,-1184.31 260.933,-1186.82 260.252,-1179.85"/>
+<text text-anchor="middle" x="582" y="-995" font-family="Helvetica,sans-Serif" font-size="10.00"> _callBackTypesRegistered</text>
 </g>
 <!-- Node8 -->
 <g id="node8" class="node"><title>Node8</title>
@@ -201,22 +201,23 @@ var sectionId = 'dynsection-1';
 </g>
 <!-- Node8&#45;&gt;Node19 -->
 <g id="edge46" class="edge"><title>Node8&#45;&gt;Node19</title>
-<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M255.505,-1342.1C274.864,-1336.45 300.799,-1329.24 324,-1324 393.564,-1308.29 431.632,-1346.49 482,-1296 514.821,-1263.1 468.211,-1226.9 500,-1193 556.926,-1132.3 600.933,-1167.8 682,-1149 737.882,-1136.04 768.494,-1162.6 808,-1121 888.891,-1035.83 902.139,-629.255 903.794,-561.564"/>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M255.505,-1342.1C274.864,-1336.45 300.799,-1329.24 324,-1324 393.564,-1308.29 431.942,-1346.8 482,-1296 517.08,-1260.4 465.055,-1220.73 500,-1185 548.669,-1135.24 759.222,-1177.66 808,-1128 891.299,-1043.2 902.544,-630.444 903.845,-561.711"/>
 <polygon fill="#9a32cd" stroke="#9a32cd" points="254.36,-1338.78 245.758,-1344.97 256.34,-1345.5 254.36,-1338.78"/>
-<text text-anchor="middle" x="582" y="-1207" font-family="Helvetica,sans-Serif" font-size="10.00"> _id</text>
-<text text-anchor="middle" x="582" y="-1196" font-family="Helvetica,sans-Serif" font-size="10.00">_name</text>
+<text text-anchor="middle" x="582" y="-1210" font-family="Helvetica,sans-Serif" font-size="10.00"> _id</text>
+<text text-anchor="middle" x="582" y="-1199" font-family="Helvetica,sans-Serif" font-size="10.00">_name</text>
+<text text-anchor="middle" x="582" y="-1188" font-family="Helvetica,sans-Serif" font-size="10.00">_chipset</text>
 </g>
 <!-- Node24 -->
 <g id="node24" class="node"><title>Node24</title>
 <g id="a_node24"><a xlink:href="classVoxel_1_1MainConfigurationFile.xhtml" target="_top" xlink:title="Voxel::MainConfigurationFile">
-<polygon fill="none" stroke="black" points="511,-1099.5 511,-1118.5 653,-1118.5 653,-1099.5 511,-1099.5"/>
-<text text-anchor="middle" x="582" y="-1106.5" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::MainConfigurationFile</text>
+<polygon fill="none" stroke="red" points="511,-1106.5 511,-1125.5 653,-1125.5 653,-1106.5 511,-1106.5"/>
+<text text-anchor="middle" x="582" y="-1113.5" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::MainConfigurationFile</text>
 </a>
 </g>
 </g>
 <!-- Node8&#45;&gt;Node24 -->
 <g id="edge39" class="edge"><title>Node8&#45;&gt;Node24</title>
-<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M247.501,-1335.07C264.57,-1321.78 288.407,-1301.73 306,-1281 315.816,-1269.43 312.212,-1261.55 324,-1252 382.012,-1205.01 428.511,-1247.08 482,-1195 497.73,-1179.69 485.156,-1165.17 500,-1149 513.15,-1134.67 532.565,-1124.84 549.091,-1118.51"/>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M247.501,-1335.07C264.57,-1321.78 288.407,-1301.73 306,-1281 315.816,-1269.43 312.212,-1261.55 324,-1252 382.012,-1205.01 427.23,-1245.73 482,-1195 496.303,-1181.75 486.395,-1168.96 500,-1155 513.398,-1141.25 532.62,-1131.71 548.977,-1125.51"/>
 <polygon fill="#9a32cd" stroke="#9a32cd" points="245.078,-1332.52 239.26,-1341.37 249.33,-1338.08 245.078,-1332.52"/>
 <text text-anchor="middle" x="403" y="-1266" font-family="Helvetica,sans-Serif" font-size="10.00"> _hardwareID</text>
 <text text-anchor="middle" x="403" y="-1255" font-family="Helvetica,sans-Serif" font-size="10.00">_mainConfigName</text>
@@ -224,14 +225,14 @@ var sectionId = 'dynsection-1';
 <!-- Node25 -->
 <g id="node25" class="node"><title>Node25</title>
 <g id="a_node25"><a xlink:href="classVoxel_1_1ConfigurationFile.xhtml" target="_top" xlink:title="Voxel::ConfigurationFile">
-<polygon fill="none" stroke="red" points="844.5,-1124.5 844.5,-1143.5 965.5,-1143.5 965.5,-1124.5 844.5,-1124.5"/>
-<text text-anchor="middle" x="905" y="-1131.5" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::ConfigurationFile</text>
+<polygon fill="none" stroke="red" points="844.5,-1131.5 844.5,-1150.5 965.5,-1150.5 965.5,-1131.5 844.5,-1131.5"/>
+<text text-anchor="middle" x="905" y="-1138.5" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::ConfigurationFile</text>
 </a>
 </g>
 </g>
 <!-- Node8&#45;&gt;Node25 -->
 <g id="edge34" class="edge"><title>Node8&#45;&gt;Node25</title>
-<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M255.926,-1350.42C314.99,-1348.79 444.114,-1342.79 482,-1321 493.558,-1314.35 489.429,-1305.13 500,-1297 562.66,-1248.83 792.282,-1170.67 874.484,-1143.59"/>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M255.926,-1350.42C314.99,-1348.79 444.114,-1342.79 482,-1321 493.558,-1314.35 489.369,-1305.05 500,-1297 562.273,-1249.87 789.536,-1176.5 872.992,-1150.51"/>
 <polygon fill="#9a32cd" stroke="#9a32cd" points="255.66,-1346.92 245.75,-1350.67 255.835,-1353.92 255.66,-1346.92"/>
 <text text-anchor="middle" x="582" y="-1311" font-family="Helvetica,sans-Serif" font-size="10.00"> _fileName</text>
 <text text-anchor="middle" x="582" y="-1300" font-family="Helvetica,sans-Serif" font-size="10.00">_profileName</text>
@@ -559,26 +560,26 @@ var sectionId = 'dynsection-1';
 </g>
 <!-- Node24&#45;&gt;Node19 -->
 <g id="edge29" class="edge"><title>Node24&#45;&gt;Node19</title>
-<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M629.716,-1096.44C681.45,-1080.03 763.419,-1046.19 808,-987 861.743,-915.651 896.662,-618.877 902.97,-561.594"/>
-<polygon fill="#9a32cd" stroke="#9a32cd" points="628.636,-1093.11 620.108,-1099.39 630.695,-1099.8 628.636,-1093.11"/>
-<text text-anchor="middle" x="745" y="-1078" font-family="Helvetica,sans-Serif" font-size="10.00"> configFile</text>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M633.282,-1103.72C685.167,-1088.37 764.481,-1056.9 808,-1000 863.936,-926.867 897.211,-619.649 903.067,-561.515"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="632.258,-1100.38 623.608,-1106.49 634.186,-1107.1 632.258,-1100.38"/>
+<text text-anchor="middle" x="745" y="-1088" font-family="Helvetica,sans-Serif" font-size="10.00"> configFile</text>
 </g>
 <!-- Node24&#45;&gt;Node25 -->
 <g id="edge31" class="edge"><title>Node24&#45;&gt;Node25</title>
-<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M614.317,-1122.32C633.474,-1129.74 658.7,-1138.22 682,-1142 736.438,-1150.83 799.329,-1147.3 844.243,-1142.46"/>
-<polygon fill="#9a32cd" stroke="#9a32cd" points="615.48,-1119.02 604.895,-1118.57 612.891,-1125.52 615.48,-1119.02"/>
-<text text-anchor="middle" x="745" y="-1151" font-family="Helvetica,sans-Serif" font-size="10.00"> _mainConfigurationFile</text>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M614.317,-1129.32C633.474,-1136.74 658.7,-1145.22 682,-1149 736.438,-1157.83 799.329,-1154.3 844.243,-1149.46"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="615.48,-1126.02 604.895,-1125.57 612.891,-1132.52 615.48,-1126.02"/>
+<text text-anchor="middle" x="745" y="-1158" font-family="Helvetica,sans-Serif" font-size="10.00"> _mainConfigurationFile</text>
 </g>
 <!-- Node25&#45;&gt;Node24 -->
 <g id="edge30" class="edge"><title>Node25&#45;&gt;Node24</title>
-<path fill="none" stroke="midnightblue" d="M833.8,-1132.73C790.057,-1131.47 732.655,-1128.96 682,-1124 667.986,-1122.63 652.93,-1120.62 638.893,-1118.52"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="833.955,-1136.23 844.046,-1133.01 834.146,-1129.24 833.955,-1136.23"/>
+<path fill="none" stroke="midnightblue" d="M833.8,-1139.73C790.057,-1138.47 732.655,-1135.96 682,-1131 667.986,-1129.63 652.93,-1127.62 638.893,-1125.52"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="833.955,-1143.23 844.046,-1140.01 834.146,-1136.24 833.955,-1143.23"/>
 </g>
 <!-- Node25&#45;&gt;Node24 -->
 <g id="edge35" class="edge"><title>Node25&#45;&gt;Node24</title>
-<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M865.215,-1121.5C847.905,-1116.54 827.136,-1111.45 808,-1109 756.468,-1102.4 697.75,-1102.66 653.223,-1104.43"/>
-<polygon fill="#9a32cd" stroke="#9a32cd" points="864.387,-1124.9 874.969,-1124.38 866.369,-1118.19 864.387,-1124.9"/>
-<text text-anchor="middle" x="745" y="-1112" font-family="Helvetica,sans-Serif" font-size="10.00"> _currentCameraProfile</text>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M865.215,-1128.5C847.905,-1123.54 827.136,-1118.45 808,-1116 756.468,-1109.4 697.75,-1109.66 653.223,-1111.43"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="864.387,-1131.9 874.969,-1131.38 866.369,-1125.19 864.387,-1131.9"/>
+<text text-anchor="middle" x="745" y="-1119" font-family="Helvetica,sans-Serif" font-size="10.00"> _currentCameraProfile</text>
 </g>
 <!-- Node26 -->
 <g id="node26" class="node"><title>Node26</title>
@@ -594,9 +595,9 @@ var sectionId = 'dynsection-1';
 </g>
 <!-- Node26&#45;&gt;Node25 -->
 <g id="edge32" class="edge"><title>Node26&#45;&gt;Node25</title>
-<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M245.637,-824.99C264.559,-839.546 294.573,-860.472 324,-872 390.403,-898.013 412.272,-885.03 482,-900 563.574,-917.513 583.152,-925.396 664,-946 728.032,-962.318 754.529,-944.177 808,-983 860.538,-1021.15 891.277,-1097.65 900.793,-1124.46"/>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M245.637,-824.99C264.559,-839.546 294.573,-860.472 324,-872 390.403,-898.013 412.576,-883.68 482,-900 629.032,-934.565 686.508,-906.262 808,-996 858.269,-1033.13 890.011,-1105.02 900.32,-1131.18"/>
 <polygon fill="#9a32cd" stroke="#9a32cd" points="247.553,-822.044 237.528,-818.615 243.227,-827.547 247.553,-822.044"/>
-<text text-anchor="middle" x="582" y="-949" font-family="Helvetica,sans-Serif" font-size="10.00"> _mutex</text>
+<text text-anchor="middle" x="582" y="-932" font-family="Helvetica,sans-Serif" font-size="10.00"> _mutex</text>
 </g>
 <!-- Node34 -->
 <g id="node34" class="node"><title>Node34</title>
@@ -638,18 +639,18 @@ var sectionId = 'dynsection-1';
 </g>
 <!-- Node27&#45;&gt;Node24 -->
 <g id="edge38" class="edge"><title>Node27&#45;&gt;Node24</title>
-<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M249.747,-937.672C309.864,-952.209 464.55,-990.792 482,-1007 498.694,-1022.51 485.837,-1037.15 500,-1055 515.969,-1075.12 541.53,-1090.39 559.663,-1099.47"/>
-<polygon fill="#9a32cd" stroke="#9a32cd" points="250.218,-934.185 239.677,-935.248 248.58,-940.991 250.218,-934.185"/>
-<text text-anchor="middle" x="403" y="-1032" font-family="Helvetica,sans-Serif" font-size="10.00"> _defaultCameraProfileID</text>
-<text text-anchor="middle" x="403" y="-1021" font-family="Helvetica,sans-Serif" font-size="10.00">_currentCameraProfileID</text>
-<text text-anchor="middle" x="403" y="-1010" font-family="Helvetica,sans-Serif" font-size="10.00">_defaultCameraProfileIDInHardware</text>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M249.556,-938.055C311.278,-954.007 473.539,-996.544 482,-1005 502.597,-1025.59 482.213,-1044.94 500,-1068 513.878,-1085.99 536.565,-1098.6 554.404,-1106.36"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="250.139,-934.591 239.581,-935.482 248.39,-941.369 250.139,-934.591"/>
+<text text-anchor="middle" x="403" y="-1030" font-family="Helvetica,sans-Serif" font-size="10.00"> _defaultCameraProfileID</text>
+<text text-anchor="middle" x="403" y="-1019" font-family="Helvetica,sans-Serif" font-size="10.00">_currentCameraProfileID</text>
+<text text-anchor="middle" x="403" y="-1008" font-family="Helvetica,sans-Serif" font-size="10.00">_defaultCameraProfileIDInHardware</text>
 </g>
 <!-- Node27&#45;&gt;Node25 -->
 <g id="edge33" class="edge"><title>Node27&#45;&gt;Node25</title>
-<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M249.588,-931.697C305.573,-931.411 444.579,-933.375 482,-959 496.433,-968.883 486.776,-982.55 500,-994 554.722,-1041.38 739.661,-1076.14 808,-1100 831.37,-1108.16 857.89,-1117.56 877.125,-1124.41"/>
-<polygon fill="#9a32cd" stroke="#9a32cd" points="249.524,-928.197 239.552,-931.778 249.58,-935.197 249.524,-928.197"/>
-<text text-anchor="middle" x="582" y="-1074" font-family="Helvetica,sans-Serif" font-size="10.00"> _id</text>
-<text text-anchor="middle" x="582" y="-1063" font-family="Helvetica,sans-Serif" font-size="10.00">_parentID</text>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M249.788,-931.423C306.216,-930.528 446.13,-931.244 482,-959 500.019,-972.943 483.532,-991.254 500,-1007 552.012,-1056.73 739.855,-1083.87 808,-1107 831.608,-1115.01 858.333,-1124.51 877.579,-1131.43"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="249.602,-927.925 239.671,-931.616 249.736,-934.924 249.602,-927.925"/>
+<text text-anchor="middle" x="582" y="-1085" font-family="Helvetica,sans-Serif" font-size="10.00"> _id</text>
+<text text-anchor="middle" x="582" y="-1074" font-family="Helvetica,sans-Serif" font-size="10.00">_parentID</text>
 </g>
 <!-- Node27&#45;&gt;Node34 -->
 <g id="edge50" class="edge"><title>Node27&#45;&gt;Node34</title>
@@ -665,40 +666,41 @@ var sectionId = 'dynsection-1';
 </g>
 <!-- Node28 -->
 <g id="node28" class="node"><title>Node28</title>
-<polygon fill="none" stroke="#bfbfbf" points="150.5,-1123 150.5,-1153 299.5,-1153 299.5,-1123 150.5,-1123"/>
-<text text-anchor="start" x="158.5" y="-1141" font-family="Helvetica,sans-Serif" font-size="10.00">Map&lt; int, Voxel::Configuration</text>
-<text text-anchor="middle" x="225" y="-1130" font-family="Helvetica,sans-Serif" font-size="10.00">File &gt;</text>
+<polygon fill="none" stroke="#bfbfbf" points="150.5,-1125 150.5,-1155 299.5,-1155 299.5,-1125 150.5,-1125"/>
+<text text-anchor="start" x="158.5" y="-1143" font-family="Helvetica,sans-Serif" font-size="10.00">Map&lt; int, Voxel::Configuration</text>
+<text text-anchor="middle" x="225" y="-1132" font-family="Helvetica,sans-Serif" font-size="10.00">File &gt;</text>
 </g>
 <!-- Node28&#45;&gt;Node24 -->
 <g id="edge36" class="edge"><title>Node28&#45;&gt;Node24</title>
-<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M309.582,-1131.17C370.827,-1126.17 453.025,-1119.45 510.862,-1114.73"/>
-<polygon fill="#9a32cd" stroke="#9a32cd" points="309.238,-1127.69 299.556,-1131.99 309.808,-1134.67 309.238,-1127.69"/>
-<text text-anchor="middle" x="403" y="-1133" font-family="Helvetica,sans-Serif" font-size="10.00"> _cameraProfiles</text>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M309.582,-1134.35C370.827,-1130.21 453.025,-1124.65 510.862,-1120.74"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="309.297,-1130.86 299.556,-1135.03 309.77,-1137.84 309.297,-1130.86"/>
+<text text-anchor="middle" x="403" y="-1136" font-family="Helvetica,sans-Serif" font-size="10.00"> _cameraProfiles</text>
 </g>
 <!-- Node29 -->
 <g id="node29" class="node"><title>Node29</title>
-<polygon fill="none" stroke="#bfbfbf" points="144.5,-1063.5 144.5,-1104.5 305.5,-1104.5 305.5,-1063.5 144.5,-1063.5"/>
-<text text-anchor="start" x="152.5" y="-1092.5" font-family="Helvetica,sans-Serif" font-size="10.00">Function&lt; bool(ConfigSerial</text>
-<text text-anchor="start" x="152.5" y="-1081.5" font-family="Helvetica,sans-Serif" font-size="10.00">NumberType &amp;, TimeStampType</text>
-<text text-anchor="middle" x="225" y="-1070.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &amp;, SerializedObject &amp;)&gt;</text>
+<polygon fill="none" stroke="#bfbfbf" points="144.5,-1065.5 144.5,-1106.5 305.5,-1106.5 305.5,-1065.5 144.5,-1065.5"/>
+<text text-anchor="start" x="152.5" y="-1094.5" font-family="Helvetica,sans-Serif" font-size="10.00">Function&lt; bool(ConfigSerial</text>
+<text text-anchor="start" x="152.5" y="-1083.5" font-family="Helvetica,sans-Serif" font-size="10.00">NumberType &amp;, TimeStampType</text>
+<text text-anchor="middle" x="225" y="-1072.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &amp;, SerializedObject &amp;)&gt;</text>
 </g>
 <!-- Node29&#45;&gt;Node24 -->
 <g id="edge37" class="edge"><title>Node29&#45;&gt;Node24</title>
-<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M316.005,-1085.07C365.148,-1086.27 427.02,-1088.78 482,-1094 496.191,-1095.35 511.448,-1097.37 525.632,-1099.5"/>
-<polygon fill="#9a32cd" stroke="#9a32cd" points="315.797,-1081.56 305.719,-1084.83 315.636,-1088.56 315.797,-1081.56"/>
-<text text-anchor="middle" x="403" y="-1108" font-family="Helvetica,sans-Serif" font-size="10.00"> _hardwareWriter</text>
-<text text-anchor="middle" x="403" y="-1097" font-family="Helvetica,sans-Serif" font-size="10.00">_hardwareReader</text>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M316.076,-1087.3C365.239,-1088.74 427.108,-1091.75 482,-1098 499.704,-1100.02 519.017,-1103.28 535.846,-1106.48"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="315.877,-1083.79 305.784,-1087.01 315.684,-1090.79 315.877,-1083.79"/>
+<text text-anchor="middle" x="403" y="-1112" font-family="Helvetica,sans-Serif" font-size="10.00"> _hardwareWriter</text>
+<text text-anchor="middle" x="403" y="-1101" font-family="Helvetica,sans-Serif" font-size="10.00">_hardwareReader</text>
 </g>
 <!-- Node30 -->
 <g id="node30" class="node"><title>Node30</title>
-<polygon fill="none" stroke="#bfbfbf" points="177.5,-1024.5 177.5,-1043.5 272.5,-1043.5 272.5,-1024.5 177.5,-1024.5"/>
-<text text-anchor="middle" x="225" y="-1031.5" font-family="Helvetica,sans-Serif" font-size="10.00">Map&lt; int, String &gt;</text>
+<polygon fill="none" stroke="#bfbfbf" points="161.5,-1017 161.5,-1047 288.5,-1047 288.5,-1017 161.5,-1017"/>
+<text text-anchor="start" x="169.5" y="-1035" font-family="Helvetica,sans-Serif" font-size="10.00">Map&lt; String, Voxel</text>
+<text text-anchor="middle" x="225" y="-1024" font-family="Helvetica,sans-Serif" font-size="10.00">::CalibrationInformation &gt;</text>
 </g>
 <!-- Node30&#45;&gt;Node24 -->
 <g id="edge40" class="edge"><title>Node30&#45;&gt;Node24</title>
-<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M282.966,-1038.56C335.327,-1043.62 414.782,-1053.48 482,-1071 509.791,-1078.24 540.474,-1090.77 560.205,-1099.45"/>
-<polygon fill="#9a32cd" stroke="#9a32cd" points="283.15,-1035.07 272.867,-1037.62 282.496,-1042.04 283.15,-1035.07"/>
-<text text-anchor="middle" x="403" y="-1074" font-family="Helvetica,sans-Serif" font-size="10.00"> _cameraProfileNames</text>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M298.622,-1038.72C350.464,-1044.7 421.447,-1055.31 482,-1073 511.318,-1081.57 543.437,-1096.66 562.904,-1106.49"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="298.846,-1035.22 288.518,-1037.58 298.064,-1042.18 298.846,-1035.22"/>
+<text text-anchor="middle" x="403" y="-1076" font-family="Helvetica,sans-Serif" font-size="10.00"> _calibrationInformation</text>
 </g>
 <!-- Node31 -->
 <g id="node31" class="node"><title>Node31</title>
@@ -746,17 +748,18 @@ var sectionId = 'dynsection-1';
 </g>
 <!-- Node33&#45;&gt;Node19 -->
 <g id="edge45" class="edge"><title>Node33&#45;&gt;Node19</title>
-<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M610.07,-873.806C663.128,-874.825 778.225,-874.103 808,-850 902.211,-773.736 905.134,-604.214 904.322,-561.777"/>
-<polygon fill="#9a32cd" stroke="#9a32cd" points="609.82,-870.299 599.742,-873.57 609.66,-877.297 609.82,-870.299"/>
-<text text-anchor="middle" x="745" y="-888" font-family="Helvetica,sans-Serif" font-size="10.00"> _parameterInit</text>
-<text text-anchor="middle" x="745" y="-877" font-family="Helvetica,sans-Serif" font-size="10.00">_running</text>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M609.852,-871.638C666.212,-868.548 792.899,-860.31 808,-848 901.38,-771.881 904.92,-603.769 904.281,-561.693"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="609.371,-868.158 599.572,-872.187 609.745,-875.148 609.371,-868.158"/>
+<text text-anchor="middle" x="745" y="-892" font-family="Helvetica,sans-Serif" font-size="10.00"> _isPaused</text>
+<text text-anchor="middle" x="745" y="-881" font-family="Helvetica,sans-Serif" font-size="10.00">_parameterInit</text>
+<text text-anchor="middle" x="745" y="-870" font-family="Helvetica,sans-Serif" font-size="10.00">_running</text>
 </g>
 <!-- Node34&#45;&gt;Node19 -->
 <g id="edge47" class="edge"><title>Node34&#45;&gt;Node19</title>
-<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M651.145,-826.079C708.311,-822.322 784.308,-813.857 808,-795 885.902,-732.994 900.791,-598.672 903.453,-561.629"/>
-<polygon fill="#9a32cd" stroke="#9a32cd" points="650.831,-822.592 641.068,-826.706 651.266,-829.578 650.831,-822.592"/>
-<text text-anchor="middle" x="745" y="-838" font-family="Helvetica,sans-Serif" font-size="10.00"> _processedFilters</text>
-<text text-anchor="middle" x="745" y="-827" font-family="Helvetica,sans-Serif" font-size="10.00">_unprocessedFilters</text>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M651.162,-825.087C708.338,-820.512 784.342,-811 808,-792 884.627,-730.46 900.405,-598.573 903.366,-561.735"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="650.786,-821.605 641.082,-825.858 651.32,-828.585 650.786,-821.605"/>
+<text text-anchor="middle" x="745" y="-836" font-family="Helvetica,sans-Serif" font-size="10.00"> _processedFilters</text>
+<text text-anchor="middle" x="745" y="-825" font-family="Helvetica,sans-Serif" font-size="10.00">_unprocessedFilters</text>
 </g>
 <!-- Node35&#45;&gt;Node19 -->
 <g id="edge51" class="edge"><title>Node35&#45;&gt;Node19</title>

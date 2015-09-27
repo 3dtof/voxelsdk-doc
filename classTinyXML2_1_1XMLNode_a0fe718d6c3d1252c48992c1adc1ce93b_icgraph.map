@@ -1,20 +1,20 @@
 <map id="TinyXML2::XMLNode::Unlink" name="TinyXML2::XMLNode::Unlink">
-<area shape="rect" id="node2" href="$classTinyXML2_1_1XMLNode.xhtml#ac71764a70bec2eb37ed1ee30c97b2b51" title="TinyXML2::XMLNode::\lDeleteChildren" alt="" coords="208,230,363,271"/>
-<area shape="rect" id="node8" href="$classTinyXML2_1_1XMLNode.xhtml#a5ce8791c0920489f9df667b0a0264935" title="TinyXML2::XMLNode::\l~XMLNode" alt="" coords="421,289,576,330"/>
-<area shape="rect" id="node15" href="$classTinyXML2_1_1XMLNode.xhtml#ae27e0da5712dd159e879e2baf07f48db" title="TinyXML2::XMLNode::\lInsertAfterChild" alt="" coords="421,354,576,395"/>
-<area shape="rect" id="node16" href="$classTinyXML2_1_1XMLNode.xhtml#a8ae11185b5fbb9620d71114c70b31368" title="TinyXML2::XMLNode::\lInsertEndChild" alt="" coords="208,401,363,442"/>
-<area shape="rect" id="node17" href="$classTinyXML2_1_1XMLNode.xhtml#ae7eb7051f843bf705bbcf6551c13fd97" title="TinyXML2::XMLNode::\lInsertFirstChild" alt="" coords="208,470,363,511"/>
-<area shape="rect" id="node3" href="$classTinyXML2_1_1XMLDocument.xhtml#a20554f58b1fbdc5a5e4986ca59126837" title="Clear the document, resetting it to the initial state. " alt="" coords="411,95,587,137"/>
-<area shape="rect" id="node7" href="$classTinyXML2_1_1XMLDocument.xhtml#a2734f0824ea57c5c26f61b4f3ff2514a" title="TinyXML2::XMLDocument\l::Parse" alt="" coords="1096,179,1272,221"/>
-<area shape="rect" id="node4" href="$classTinyXML2_1_1XMLDocument.xhtml#a6f714d611df15326a1ff41e31a39490d" title="TinyXML2::XMLDocument\l::~XMLDocument" alt="" coords="635,5,811,46"/>
-<area shape="rect" id="node5" href="$classTinyXML2_1_1XMLDocument.xhtml#a6665d0d689e8b8290a0cd6d8f340c19d" title="TinyXML2::XMLDocument\l::LoadFile" alt="" coords="635,70,811,111"/>
-<area shape="rect" id="node6" href="$classVoxel_1_1ParameterDMLParser.xhtml#ad7b846eaea75affd17c95cbbf860f80a" title="Voxel::ParameterDMLParser\l::ParameterDMLParser" alt="" coords="859,70,1048,111"/>
-<area shape="rect" id="node9" href="$classTinyXML2_1_1XMLNode.xhtml#ae64fa52593db503652ee0258bf69d376" title="TinyXML2::XMLNode::\lDeleteNode" alt="" coords="645,278,800,319"/>
-<area shape="rect" id="node10" href="$classTinyXML2_1_1XMLNode.xhtml#a28b94200b666def2677964cb83df1569" title="TinyXML2::XMLNode::\lDeleteChild" alt="" coords="876,266,1031,307"/>
-<area shape="rect" id="node12" href="$classTinyXML2_1_1XMLNode.xhtml#a666a962d4e7ce40fad31a0d273659176" title="TinyXML2::XMLNode::\lParseDeep" alt="" coords="876,355,1031,397"/>
-<area shape="rect" id="node11" href="$classTinyXML2_1_1XMLDocument.xhtml#ad4c52955b49fc5fd7ad93ac9e78f0d65" title="TinyXML2::XMLDocument\l::DeleteNode" alt="" coords="1096,266,1272,307"/>
-<area shape="rect" id="node13" href="$classTinyXML2_1_1XMLDocument.xhtml#a25c1fd4903914444fc31fb1b90dcffdb" title="TinyXML2::XMLDocument\l::LoadFile" alt="" coords="1096,343,1272,385"/>
-<area shape="rect" id="node14" href="$classTinyXML2_1_1XMLElement.xhtml#a1f37b0bb41320c4121515755b8a057a4" title="TinyXML2::XMLElement\l::ParseDeep" alt="" coords="1102,409,1266,450"/>
-<area shape="rect" id="node18" href="$classTinyXML2_1_1XMLElement.xhtml#ad0f8edb7feb82def4e5245a9650f80fc" title="TinyXML2::XMLElement\l::SetText" alt="" coords="417,471,581,513"/>
-<area shape="rect" id="node19" href="$classTinyXML2_1_1XMLElement.xhtml#aa6a50c3d5d452ce300212dac850d3a2c" title="Convenience method for setting text inside and element. See SetText() for important limitations..." alt="" coords="641,471,805,513"/>
+<area shape="rect" id="node2" href="$classTinyXML2_1_1XMLNode.xhtml#ac71764a70bec2eb37ed1ee30c97b2b51" title="TinyXML2::XMLNode::\lDeleteChildren" alt="" coords="208,231,363,273"/>
+<area shape="rect" id="node8" href="$classTinyXML2_1_1XMLNode.xhtml#a5ce8791c0920489f9df667b0a0264935" title="TinyXML2::XMLNode::\l~XMLNode" alt="" coords="421,290,576,331"/>
+<area shape="rect" id="node15" href="$classTinyXML2_1_1XMLNode.xhtml#ae27e0da5712dd159e879e2baf07f48db" title="TinyXML2::XMLNode::\lInsertAfterChild" alt="" coords="421,355,576,397"/>
+<area shape="rect" id="node16" href="$classTinyXML2_1_1XMLNode.xhtml#a8ae11185b5fbb9620d71114c70b31368" title="TinyXML2::XMLNode::\lInsertEndChild" alt="" coords="208,402,363,443"/>
+<area shape="rect" id="node17" href="$classTinyXML2_1_1XMLNode.xhtml#ae7eb7051f843bf705bbcf6551c13fd97" title="TinyXML2::XMLNode::\lInsertFirstChild" alt="" coords="208,471,363,513"/>
+<area shape="rect" id="node3" href="$classTinyXML2_1_1XMLDocument.xhtml#a20554f58b1fbdc5a5e4986ca59126837" title="Clear the document, resetting it to the initial state. " alt="" coords="411,93,587,134"/>
+<area shape="rect" id="node6" href="$classTinyXML2_1_1XMLDocument.xhtml#a2734f0824ea57c5c26f61b4f3ff2514a" title="TinyXML2::XMLDocument\l::Parse" alt="" coords="1096,181,1272,222"/>
+<area shape="rect" id="node4" href="$classTinyXML2_1_1XMLDocument.xhtml#a6665d0d689e8b8290a0cd6d8f340c19d" title="TinyXML2::XMLDocument\l::LoadFile" alt="" coords="635,5,811,46"/>
+<area shape="rect" id="node7" href="$classTinyXML2_1_1XMLDocument.xhtml#a6f714d611df15326a1ff41e31a39490d" title="TinyXML2::XMLDocument\l::~XMLDocument" alt="" coords="635,122,811,163"/>
+<area shape="rect" id="node5" href="$classVoxel_1_1ParameterDMLParser.xhtml#ad7b846eaea75affd17c95cbbf860f80a" title="Voxel::ParameterDMLParser\l::ParameterDMLParser" alt="" coords="859,5,1048,46"/>
+<area shape="rect" id="node9" href="$classTinyXML2_1_1XMLNode.xhtml#ae64fa52593db503652ee0258bf69d376" title="TinyXML2::XMLNode::\lDeleteNode" alt="" coords="645,269,800,310"/>
+<area shape="rect" id="node10" href="$classTinyXML2_1_1XMLNode.xhtml#a28b94200b666def2677964cb83df1569" title="TinyXML2::XMLNode::\lDeleteChild" alt="" coords="876,257,1031,298"/>
+<area shape="rect" id="node12" href="$classTinyXML2_1_1XMLNode.xhtml#a666a962d4e7ce40fad31a0d273659176" title="TinyXML2::XMLNode::\lParseDeep" alt="" coords="876,346,1031,387"/>
+<area shape="rect" id="node11" href="$classTinyXML2_1_1XMLDocument.xhtml#ad4c52955b49fc5fd7ad93ac9e78f0d65" title="TinyXML2::XMLDocument\l::DeleteNode" alt="" coords="1096,257,1272,298"/>
+<area shape="rect" id="node13" href="$classTinyXML2_1_1XMLDocument.xhtml#a25c1fd4903914444fc31fb1b90dcffdb" title="TinyXML2::XMLDocument\l::LoadFile" alt="" coords="1096,334,1272,375"/>
+<area shape="rect" id="node14" href="$classTinyXML2_1_1XMLElement.xhtml#a1f37b0bb41320c4121515755b8a057a4" title="TinyXML2::XMLElement\l::ParseDeep" alt="" coords="1102,399,1266,441"/>
+<area shape="rect" id="node18" href="$classTinyXML2_1_1XMLElement.xhtml#ad0f8edb7feb82def4e5245a9650f80fc" title="TinyXML2::XMLElement\l::SetText" alt="" coords="417,473,581,514"/>
+<area shape="rect" id="node19" href="$classTinyXML2_1_1XMLElement.xhtml#aa6a50c3d5d452ce300212dac850d3a2c" title="Convenience method for setting text inside and element. See SetText() for important limitations..." alt="" coords="641,473,805,514"/>
 </map>

@@ -313,31 +313,31 @@
 </g>
 <!-- Node17 -->
 <g id="node17" class="node"><title>Node17</title>
-<g id="a_node17"><a xlink:href="classVoxel_1_1TI_1_1ToFHaddockCamera.xhtml#a01be99984c412b2deb15f736a4cd2fef" target="_top" xlink:title="Voxel::TI::ToFHaddockCamera\l::_getSystemClockFrequency">
-<polygon fill="none" stroke="black" points="666.5,-107 666.5,-137 819.5,-137 819.5,-107 666.5,-107"/>
-<text text-anchor="start" x="674.5" y="-125" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::TI::ToFHaddockCamera</text>
-<text text-anchor="middle" x="743" y="-114" font-family="Helvetica,sans-Serif" font-size="10.00">::_getSystemClockFrequency</text>
-</a>
-</g>
-</g>
-<!-- Node16&#45;&gt;Node17 -->
-<g id="edge22" class="edge"><title>Node16&#45;&gt;Node17</title>
-<path fill="none" stroke="midnightblue" d="M626.192,-129.203C636.129,-128.585 646.204,-127.959 656.053,-127.346"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="656.454,-130.828 666.218,-126.714 656.02,-123.841 656.454,-130.828"/>
-</g>
-<!-- Node18 -->
-<g id="node18" class="node"><title>Node18</title>
-<g id="a_node18"><a xlink:href="classVoxel_1_1ParameterTemplate.xhtml#a3f4472338de2a9fc48cddf389b85fb1b" target="_top" xlink:title="Voxel::ParameterTemplate\l\&lt; float \&gt;::refresh">
+<g id="a_node17"><a xlink:href="classVoxel_1_1ParameterTemplate.xhtml#a3f4472338de2a9fc48cddf389b85fb1b" target="_top" xlink:title="Voxel::ParameterTemplate\l\&lt; float \&gt;::refresh">
 <polygon fill="none" stroke="black" points="676.5,-156 676.5,-186 809.5,-186 809.5,-156 676.5,-156"/>
 <text text-anchor="start" x="684.5" y="-174" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::ParameterTemplate</text>
 <text text-anchor="middle" x="743" y="-163" font-family="Helvetica,sans-Serif" font-size="10.00">&lt; float &gt;::refresh</text>
 </a>
 </g>
 </g>
-<!-- Node16&#45;&gt;Node18 -->
-<g id="edge23" class="edge"><title>Node16&#45;&gt;Node18</title>
+<!-- Node16&#45;&gt;Node17 -->
+<g id="edge22" class="edge"><title>Node16&#45;&gt;Node17</title>
 <path fill="none" stroke="midnightblue" d="M588.186,-144.506C612.101,-148.625 640.488,-153.515 666.325,-157.965"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="666.013,-161.463 676.462,-159.711 667.202,-154.564 666.013,-161.463"/>
+</g>
+<!-- Node18 -->
+<g id="node18" class="node"><title>Node18</title>
+<g id="a_node18"><a xlink:href="classVoxel_1_1TI_1_1ToFHaddockCamera.xhtml#a01be99984c412b2deb15f736a4cd2fef" target="_top" xlink:title="Voxel::TI::ToFHaddockCamera\l::_getSystemClockFrequency">
+<polygon fill="none" stroke="black" points="666.5,-107 666.5,-137 819.5,-137 819.5,-107 666.5,-107"/>
+<text text-anchor="start" x="674.5" y="-125" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::TI::ToFHaddockCamera</text>
+<text text-anchor="middle" x="743" y="-114" font-family="Helvetica,sans-Serif" font-size="10.00">::_getSystemClockFrequency</text>
+</a>
+</g>
+</g>
+<!-- Node16&#45;&gt;Node18 -->
+<g id="edge23" class="edge"><title>Node16&#45;&gt;Node18</title>
+<path fill="none" stroke="midnightblue" d="M626.192,-129.203C636.129,-128.585 646.204,-127.959 656.053,-127.346"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="656.454,-130.828 666.218,-126.714 656.02,-123.841 656.454,-130.828"/>
 </g>
 <!-- Node16&#45;&gt;Node19 -->
 <g id="edge24" class="edge"><title>Node16&#45;&gt;Node19</title>
@@ -345,17 +345,17 @@
 <polygon fill="midnightblue" stroke="midnightblue" points="678.498,-94.5184 686.855,-88.0054 676.261,-87.8856 678.498,-94.5184"/>
 </g>
 <!-- Node20&#45;&gt;Node8 -->
-<g id="edge29" class="edge"><title>Node20&#45;&gt;Node8</title>
+<g id="edge30" class="edge"><title>Node20&#45;&gt;Node8</title>
 <path fill="none" stroke="midnightblue" d="M610.26,-106.586C615.896,-109.105 621.23,-112.202 626,-116 656.187,-140.032 645.282,-160.225 662,-195 684.96,-242.758 713.265,-297.824 729.311,-328.712"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="726.346,-330.596 734.068,-337.851 732.555,-327.364 726.346,-330.596"/>
 </g>
-<!-- Node20&#45;&gt;Node17 -->
-<g id="edge28" class="edge"><title>Node20&#45;&gt;Node17</title>
+<!-- Node20&#45;&gt;Node18 -->
+<g id="edge29" class="edge"><title>Node20&#45;&gt;Node18</title>
 <path fill="none" stroke="midnightblue" d="M612.61,-106.523C626.951,-108.238 641.955,-110.033 656.456,-111.767"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="656.055,-115.244 666.4,-112.957 656.886,-108.294 656.055,-115.244"/>
 </g>
 <!-- Node20&#45;&gt;Node19 -->
-<g id="edge30" class="edge"><title>Node20&#45;&gt;Node19</title>
+<g id="edge28" class="edge"><title>Node20&#45;&gt;Node19</title>
 <path fill="none" stroke="midnightblue" d="M615.903,-87.4801C627.834,-86.11 640.157,-84.6949 652.214,-83.3103"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="652.73,-86.7742 662.265,-82.1562 651.931,-79.8199 652.73,-86.7742"/>
 </g>

@@ -1,6 +1,0 @@
-<map id="Voxel::Downloader" name="Voxel::Downloader">
-<area shape="rect" id="node2" href="$a00396.xhtml" title="float" alt="" coords="579,5,626,32"/>
-<area shape="rect" id="node3" href="$a00113.xhtml" title="Voxel::Ptr\&lt; Device \&gt;" alt="" coords="530,56,675,83"/>
-<area shape="rect" id="node5" href="$a00113.xhtml" title="Voxel::Ptr\&lt; T \&gt;" alt="" coords="229,75,341,101"/>
-<area shape="rect" id="node8" href="$a00094.xhtml" title="Voxel::LoggerOutStream" alt="" coords="520,157,685,184"/>
-</map>

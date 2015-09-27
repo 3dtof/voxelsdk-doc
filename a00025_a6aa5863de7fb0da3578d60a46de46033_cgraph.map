@@ -1,9 +1,0 @@
-<map id="Voxel::CLIManager::_showParameterInfo" name="Voxel::CLIManager::_showParameterInfo">
-<area shape="rect" id="node2" href="$a00053.xhtml#ab74f397082b4134fe8e3338a72f91639" title="Voxel::EnumParameter\l::allowedValues" alt="" coords="227,5,384,46"/>
-<area shape="rect" id="node3" href="$a00103.xhtml#afa8896eaffbd2b87d1482c0967a0fe1d" title="Voxel::ParameterTemplate::get" alt="" coords="204,71,407,97"/>
-<area shape="rect" id="node4" href="$a00117.xhtml#a5748dd5aee4616996abbecd8b603af2c" title="Voxel::RangeParameterTemplate\l::lowerLimit" alt="" coords="198,122,413,163"/>
-<area shape="rect" id="node5" href="$a00117.xhtml#a37ac5f7905a5849207fde317192ae7ce" title="Voxel::RangeParameterTemplate\l::unit" alt="" coords="198,187,413,229"/>
-<area shape="rect" id="node6" href="$a00117.xhtml#abb8c7dc72be4ed50f400dc4ee440fd2f" title="Voxel::RangeParameterTemplate\l::upperLimit" alt="" coords="198,253,413,294"/>
-<area shape="rect" id="node7" href="$a00054.xhtml#a8d6a37e707b0e960bb6229f51e12b85a" title="Voxel::EnumParameterTemplate\l::valueDescription" alt="" coords="200,318,411,359"/>
-<area shape="rect" id="node8" href="$a00054.xhtml#ae5c837d7ae2ba54a9adb59116e0d0708" title="Voxel::EnumParameterTemplate\l::valueMeaning" alt="" coords="200,383,411,425"/>
-</map>

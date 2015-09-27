@@ -1,7 +1,0 @@
-<map id="Voxel::TI::TintinCDKCamera::_writeConfigFromHardware" name="Voxel::TI::TintinCDKCamera::_writeConfigFromHardware">
-<area shape="rect" id="node2" href="$a00137.xhtml#a33f200c85654bd6c44a32a711259bf5d" title="Voxel::TI::TintinCDKCamera\l::_getEEPROMSize" alt="" coords="259,5,450,46"/>
-<area shape="rect" id="node3" href="$a00192.xhtml#a065c3f93bfdc71dc92cd8416a07c9a22" title="Voxel::TI::VoxelUSBProgrammer\l::getUSBIO" alt="" coords="513,34,727,75"/>
-<area shape="rect" id="node4" href="$a00127.xhtml#aac0058e6b0ea0cb6ac86f4e986f6de25" title="Voxel::SerializedObject\l::getBytes" alt="" coords="275,122,434,163"/>
-<area shape="rect" id="node5" href="$a00136.xhtml#a363a248fe7dd94ae58681cf145b23a23" title="Voxel::Timer::getCurentRealTime" alt="" coords="246,188,463,215"/>
-<area shape="rect" id="node6" href="$a00127.xhtml#adf11acb91f4adf3fe582a778c12b6286" title="Voxel::SerializedObject\l::size" alt="" coords="275,239,434,281"/>
-</map>

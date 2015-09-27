@@ -44,10 +44,10 @@
 </g>
 <!-- Node3 -->
 <g id="node3" class="node"><title>Node3</title>
-<g id="a_node3"><a xlink:href="classTinyXML2_1_1XMLUtil.xhtml#af0f1d719f7e1067ec06eeb2d687520a5" target="_top" xlink:title="TinyXML2::XMLUtil::\lStringEqual">
+<g id="a_node3"><a xlink:href="classTinyXML2_1_1XMLUtil.xhtml#ab788174893c461fa399fc0ee05b75f4c" target="_top" xlink:title="TinyXML2::XMLUtil::\lToInt">
 <polygon fill="none" stroke="black" points="320,-122 320,-152 428,-152 428,-122 320,-122"/>
 <text text-anchor="start" x="328" y="-140" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLUtil::</text>
-<text text-anchor="middle" x="374" y="-129" font-family="Helvetica,sans-Serif" font-size="10.00">StringEqual</text>
+<text text-anchor="middle" x="374" y="-129" font-family="Helvetica,sans-Serif" font-size="10.00">ToInt</text>
 </a>
 </g>
 </g>
@@ -58,10 +58,10 @@
 </g>
 <!-- Node4 -->
 <g id="node4" class="node"><title>Node4</title>
-<g id="a_node4"><a xlink:href="classTinyXML2_1_1XMLUtil.xhtml#ab788174893c461fa399fc0ee05b75f4c" target="_top" xlink:title="TinyXML2::XMLUtil::\lToInt">
+<g id="a_node4"><a xlink:href="classTinyXML2_1_1XMLUtil.xhtml#af0f1d719f7e1067ec06eeb2d687520a5" target="_top" xlink:title="TinyXML2::XMLUtil::\lStringEqual">
 <polygon fill="none" stroke="black" points="320,-73 320,-103 428,-103 428,-73 320,-73"/>
 <text text-anchor="start" x="328" y="-91" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLUtil::</text>
-<text text-anchor="middle" x="374" y="-80" font-family="Helvetica,sans-Serif" font-size="10.00">ToInt</text>
+<text text-anchor="middle" x="374" y="-80" font-family="Helvetica,sans-Serif" font-size="10.00">StringEqual</text>
 </a>
 </g>
 </g>

@@ -1,0 +1,14 @@
+<map id="ELFIO::elfio::Sections::size" name="ELFIO::elfio::Sections::size">
+<area shape="rect" id="node2" href="$classELFIO_1_1dump.xhtml#a86b6fd3d926ec4ffd27e266836adf600" title="ELFIO::dump::dynamic_tags" alt="" coords="212,5,401,32"/>
+<area shape="rect" id="node3" href="$classELFIO_1_1symbol__section__accessor.xhtml#a09505a4cbf75a47e14c78323ebc9efd5" title="ELFIO::symbol_section\l_accessor::find_hash\l_section" alt="" coords="227,56,386,112"/>
+<area shape="rect" id="node5" href="$classVoxel_1_1DepthCameraLibrary.xhtml#a7e3111064a8cb071ec2d62c92b3cf672" title="Voxel::DepthCameraLibrary\l::getABIVersion" alt="" coords="215,135,398,177"/>
+<area shape="rect" id="node6" href="$classELFIO_1_1elfio.xhtml#afeb689c3a26b7c317e89f26a6390fce2" title="ELFIO::elfio::layout\l_segments_and_their_sections" alt="" coords="205,201,408,242"/>
+<area shape="rect" id="node7" href="$classELFIO_1_1elfio.xhtml#a4dfd167b10c72779390871865d16db61" title="ELFIO::elfio::save" alt="" coords="483,237,611,264"/>
+<area shape="rect" id="node8" href="$classELFIO_1_1elfio.xhtml#a0c0eab65897234841184372f1a472166" title="ELFIO::elfio::load\l_segments" alt="" coords="245,318,369,359"/>
+<area shape="rect" id="node10" href="$classELFIO_1_1dump.xhtml#a9f3f44fe3ed3d5d88efd6f7229baa0e0" title="ELFIO::dump::notes" alt="" coords="237,384,377,411"/>
+<area shape="rect" id="node11" href="$classELFIO_1_1dump.xhtml#a7174e9f611a14c0b561a5c2ca7a9d340" title="ELFIO::dump::section\l_datas" alt="" coords="231,435,382,477"/>
+<area shape="rect" id="node12" href="$classELFIO_1_1dump.xhtml#aee9c2e17dc9c709b78401f7a38a31c8e" title="ELFIO::dump::section\l_headers" alt="" coords="231,501,382,542"/>
+<area shape="rect" id="node13" href="$classELFIO_1_1dump.xhtml#ac2fee2fccc29233d6839b39a84805637" title="ELFIO::dump::symbol\l_tables" alt="" coords="231,566,382,607"/>
+<area shape="rect" id="node4" href="$classELFIO_1_1symbol__section__accessor.xhtml#ac31279955d20fd7afd28425a5f405ce9" title="ELFIO::symbol_section\l_accessor::symbol_section\l_accessor" alt="" coords="456,56,637,112"/>
+<area shape="rect" id="node9" href="$classELFIO_1_1elfio.xhtml#a1eb421b95b3deb91f7e4c28cbf094614" title="ELFIO::elfio::load" alt="" coords="485,325,609,352"/>
+</map>

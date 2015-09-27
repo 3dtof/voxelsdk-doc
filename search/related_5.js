@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['mainconfigurationfile',['MainConfigurationFile',['../classVoxel_1_1ConfigurationFile.xhtml#a3faf147eebd8ac140ba55587a644155e',1,'Voxel::ConfigurationFile']]]
+  ['integrationtimeparameter',['IntegrationTimeParameter',['../classVoxel_1_1TI_1_1ToFCamera.xhtml#a5b1efa220db6e60faa3b28e29391369a',1,'Voxel::TI::ToFCamera']]]
 ];

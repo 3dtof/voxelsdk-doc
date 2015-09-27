@@ -1,7 +1,0 @@
-<map id="Voxel::dynamicLoadError" name="Voxel::dynamicLoadError">
-<area shape="rect" id="node2" href="$a00038.xhtml#a7e3111064a8cb071ec2d62c92b3cf672" title="Voxel::DepthCameraLibrary\l::getABIVersion" alt="" coords="222,5,405,46"/>
-<area shape="rect" id="node3" href="$a00038.xhtml#a1581e41749f03924aa14202fb2700c73" title="Voxel::DepthCameraLibrary\l::getDepthCameraFactory" alt="" coords="222,70,405,111"/>
-<area shape="rect" id="node4" href="$a00038.xhtml#adbd37155217c141edd1738702c4420e3" title="Voxel::DepthCameraLibrary\l::getDownloaderFactory" alt="" coords="222,135,405,177"/>
-<area shape="rect" id="node5" href="$a00038.xhtml#aba514e341211e8a2eb55e3a0a62fcd37" title="Voxel::DepthCameraLibrary\l::getFilterFactory" alt="" coords="222,201,405,242"/>
-<area shape="rect" id="node6" href="$a00038.xhtml#ade838e133bf441df6323e3e4502a0b73" title="Voxel::DepthCameraLibrary\l::load" alt="" coords="222,266,405,307"/>
-</map>

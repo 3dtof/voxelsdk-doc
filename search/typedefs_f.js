@@ -10,6 +10,7 @@ var searchData=
   ['serializableunsignedintptr',['SerializableUnsignedIntPtr',['../namespaceVoxel.xhtml#a38a166ff7a3935654ff5279a549b69eb',1,'Voxel']]],
   ['set',['Set',['../group__Util.xhtml#ga69863b6d047cf3817af4c0bbbc466339',1,'Voxel']]],
   ['shared_5fptr',['shared_ptr',['../group__Util.xhtml#gab725d4ffa7585389afa14e04e8a2be76',1,'Voxel']]],
+  ['shdr_5ftype',['Shdr_type',['../structELFIO_1_1elf__header__impl__types_3_01Elf32__Ehdr_01_4.xhtml#ac5cf48a8698f0f7947677e306784aace',1,'ELFIO::elf_header_impl_types&lt; Elf32_Ehdr &gt;::Shdr_type()'],['../structELFIO_1_1elf__header__impl__types_3_01Elf64__Ehdr_01_4.xhtml#aa4b7b8e2f0ef6bdb750c0044ef8ec174',1,'ELFIO::elf_header_impl_types&lt; Elf64_Ehdr &gt;::Shdr_type()']]],
   ['signedfilterparameter',['SignedFilterParameter',['../group__Flt.xhtml#ga2bfc1b384c2ea1baa69a0f3d109762f4',1,'Voxel']]],
   ['sizetype',['SizeType',['../group__Util.xhtml#ga28d9021e26c1a8a13e80d2436b3dd8fe',1,'Voxel']]],
   ['slaveaddresstobytemap',['SlaveAddressToByteMap',['../classVoxel_1_1TI_1_1VoxelProgrammerBase.xhtml#aa5fd87c5c5f54df09b1d53f92e91dac2',1,'Voxel::TI::VoxelProgrammerBase']]],

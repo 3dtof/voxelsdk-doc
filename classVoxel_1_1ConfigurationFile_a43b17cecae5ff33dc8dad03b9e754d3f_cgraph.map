@@ -1,7 +1,7 @@
 <map id="Voxel::ConfigurationFile::setFile" name="Voxel::ConfigurationFile::setFile">
 <area shape="rect" id="node2" href="$classVoxel_1_1ConfigurationFile.xhtml#ac398ce9d525c69b44afbd639d83be00f" title="Voxel::ConfigurationFile\l::_setData" alt="" coords="229,9,390,50"/>
 <area shape="rect" id="node4" href="$classVoxel_1_1ConfigurationFile.xhtml#a440d9dd2f89d0c76c81f7285b31a5b94" title="Voxel::ConfigurationFile::set" alt="" coords="216,77,403,104"/>
-<area shape="rect" id="node3" href="$classVoxel_1_1Configuration.xhtml#abfeffa3f26a5d905901c85a8889823d7" title="Voxel::Configuration\l::getLocalConfFile" alt="" coords="462,5,602,46"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1Configuration.xhtml#a9bdd772364ff790be2acba9a27b09549" title="Voxel::Configuration\l::getLocalConfFile" alt="" coords="462,5,602,46"/>
 <area shape="rect" id="node5" href="$classVoxel_1_1ConfigurationFile.xhtml#a3b9b573c1a3d9162fc0100c317ca0879" title="Voxel::ConfigurationFile\l::_set" alt="" coords="451,70,613,111"/>
 <area shape="rect" id="node6" href="$classVoxel_1_1ConfigSet.xhtml#a8fb880c24ad7b0f04c84d4a33becb995" title="Voxel::ConfigSet::_set" alt="" coords="661,77,816,104"/>
 <area shape="rect" id="node7" href="$group__Util.xhtml#ga6b2a26aa983349496fedae9aa54ad034" title="Trim. " alt="" coords="864,77,949,104"/>

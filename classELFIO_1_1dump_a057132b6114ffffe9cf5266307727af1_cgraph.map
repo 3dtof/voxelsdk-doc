@@ -1,0 +1,5 @@
+<map id="ELFIO::dump::segment_datas" name="ELFIO::dump::segment_datas">
+<area shape="rect" id="node2" href="$classELFIO_1_1dump.xhtml#a3185bd59b2f1eadd79528beb99baa4d6" title="ELFIO::dump::segment_data" alt="" coords="214,5,405,32"/>
+<area shape="rect" id="node4" href="$classELFIO_1_1elfio_1_1Segments.xhtml#a18257fed02ff029ccca28e70b7eabfa6" title="ELFIO::elfio::Segments\l::size" alt="" coords="230,57,389,98"/>
+<area shape="rect" id="node3" href="$classELFIO_1_1segment.xhtml#a0e7c9e9da5d1df20f62117fd93607ddf" title="ELFIO::segment::get_data" alt="" coords="453,5,629,32"/>
+</map>

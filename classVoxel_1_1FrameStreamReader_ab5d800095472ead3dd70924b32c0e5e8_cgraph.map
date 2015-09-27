@@ -10,6 +10,6 @@
 <area shape="rect" id="node6" href="$classVoxel_1_1SerializedObject.xhtml#adf11acb91f4adf3fe582a778c12b6286" title="Voxel::SerializedObject\l::size" alt="" coords="1350,96,1509,137"/>
 <area shape="rect" id="node7" href="$structVoxel_1_1DataPacket.xhtml#a6b513813ba962f331cb8a2683fbf5b85" title="Voxel::DataPacket::\lreadHeader" alt="" coords="929,92,1069,133"/>
 <area shape="rect" id="node10" href="$structVoxel_1_1GeneratorConfigurationSubPacket.xhtml#a253f162d98db8c99d09400e766280aa4" title="Voxel::GeneratorConfiguration\lSubPacket::read" alt="" coords="469,187,667,228"/>
-<area shape="rect" id="node11" href="$classVoxel_1_1SerializedObject.xhtml#aac0058e6b0ea0cb6ac86f4e986f6de25" title="Voxel::SerializedObject\l::getBytes" alt="" coords="718,187,877,228"/>
-<area shape="rect" id="node12" href="$classVoxel_1_1SerializedObject.xhtml#a28bffcfa230e90768ea678269a782381" title="Voxel::SerializedObject\l::resize" alt="" coords="718,252,877,293"/>
+<area shape="rect" id="node11" href="$classVoxel_1_1SerializedObject.xhtml#a28bffcfa230e90768ea678269a782381" title="Voxel::SerializedObject\l::resize" alt="" coords="718,187,877,228"/>
+<area shape="rect" id="node12" href="$classVoxel_1_1SerializedObject.xhtml#aac0058e6b0ea0cb6ac86f4e986f6de25" title="Voxel::SerializedObject\l::getBytes" alt="" coords="718,252,877,293"/>
 </map>

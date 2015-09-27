@@ -1,7 +1,0 @@
-<map id="Voxel::FrameStreamWriter" name="Voxel::FrameStreamWriter">
-<area shape="rect" id="node5" href="$a00076.xhtml" title="Voxel::GeneratorConfiguration\lSubPacket" alt="" coords="517,77,715,118"/>
-<area shape="rect" id="node12" href="$a00035.xhtml" title="Voxel::DataPacket" alt="" coords="550,220,682,247"/>
-<area shape="rect" id="node14" href="$a00072.xhtml" title="Voxel::FrameStreamHeader" alt="" coords="524,333,708,360"/>
-<area shape="rect" id="node7" href="$a00127.xhtml" title="Voxel::SerializedObject" alt="" coords="230,129,389,156"/>
-<area shape="rect" id="node11" href="$a00073.xhtml" title="Voxel::FrameStreamPacket" alt="" coords="766,220,949,247"/>
-</map>

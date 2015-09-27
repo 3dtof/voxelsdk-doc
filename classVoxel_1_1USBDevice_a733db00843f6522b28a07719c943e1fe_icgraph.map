@@ -5,14 +5,14 @@
 <area shape="rect" id="node5" href="$classVoxel_1_1TI_1_1Voxel14Camera.xhtml#a89011bfb795ff58d3fb8675364b91abe" title="Voxel::TI::Voxel14Camera\l::_init" alt="" coords="284,201,460,242"/>
 <area shape="rect" id="node7" href="$classVoxel_1_1TI_1_1VoxelDCamera.xhtml#a47b15c40c3fbcc52ae1eb3c9fe74d9f1" title="Voxel::TI::VoxelDCamera\l::_init" alt="" coords="286,266,458,307"/>
 <area shape="rect" id="node9" href="$classVoxel_1_1TI_1_1TintinCDKCamera.xhtml#af5337f40c1a075c026263ea9871a20ee" title="Voxel::TI::TintinCDKCamera\l::_init" alt="" coords="277,331,467,373"/>
-<area shape="rect" id="node11" href="$classVoxel_1_1TI_1_1TintinCDKCamera.xhtml#a35274b5fd95ea088be4bc0637328d5f4" title="Voxel::TI::TintinCDKCamera\l::_initStartParams" alt="" coords="277,397,467,438"/>
-<area shape="rect" id="node12" href="$classVoxel_1_1TI_1_1TintinCDKCamera.xhtml#a2ffbaceb53ded2b382116ac66b787698" title="Voxel::TI::TintinCDKCamera\l::_setStreamerFrameSize" alt="" coords="277,462,467,503"/>
-<area shape="rect" id="node13" href="$classVoxel_1_1USBSystemPrivate.xhtml#a1cbfa177d183726f0e4a16cb45e30d35" title="Voxel::USBSystemPrivate\l::getBusDevNumbers" alt="" coords="283,527,461,569"/>
+<area shape="rect" id="node11" href="$classVoxel_1_1TI_1_1TintinCDKCamera.xhtml#a2ffbaceb53ded2b382116ac66b787698" title="Voxel::TI::TintinCDKCamera\l::_setStreamerFrameSize" alt="" coords="277,397,467,438"/>
+<area shape="rect" id="node12" href="$classVoxel_1_1USBSystemPrivate.xhtml#a1cbfa177d183726f0e4a16cb45e30d35" title="Voxel::USBSystemPrivate\l::getBusDevNumbers" alt="" coords="283,462,461,503"/>
+<area shape="rect" id="node15" href="$classVoxel_1_1TI_1_1CalculusCDKCameraFactory.xhtml#a6c7800c534f4b2acf5093ca7e6a08c0a" title="Voxel::TI::CalculusCDKCamera\lFactory::getDepthCamera" alt="" coords="267,527,477,569"/>
 <area shape="rect" id="node16" href="$classVoxel_1_1TI_1_1TintinCDKCameraFactory.xhtml#a9ab43b0816bbc351e80e3f2b4552c987" title="Voxel::TI::TintinCDKCamera\lFactory::getDepthCamera" alt="" coords="277,593,467,634"/>
-<area shape="rect" id="node17" href="$classVoxel_1_1TI_1_1CalculusCDKCameraFactory.xhtml#a6c7800c534f4b2acf5093ca7e6a08c0a" title="Voxel::TI::CalculusCDKCamera\lFactory::getDepthCamera" alt="" coords="267,658,477,699"/>
-<area shape="rect" id="node18" href="$classVoxel_1_1TI_1_1VoxelDCameraFactory.xhtml#a7ffb1d8421aedcfe79455e3e787be967" title="Voxel::TI::VoxelDCameraFactory\l::getDepthCamera" alt="" coords="264,723,480,765"/>
-<area shape="rect" id="node19" href="$classVoxel_1_1TI_1_1Voxel14CameraFactory.xhtml#a1454e626c3afc067cd35a7a7c5c95812" title="Voxel::TI::Voxel14Camera\lFactory::getDepthCamera" alt="" coords="284,789,460,830"/>
-<area shape="rect" id="node20" href="$classVoxel_1_1TI_1_1HaddockCDKCameraFactory.xhtml#a7cf07873ca56e107ef607b1e5406c076" title="Voxel::TI::HaddockCDKCamera\lFactory::getDepthCamera" alt="" coords="267,854,477,895"/>
+<area shape="rect" id="node17" href="$classVoxel_1_1TI_1_1Voxel14CameraFactory.xhtml#a1454e626c3afc067cd35a7a7c5c95812" title="Voxel::TI::Voxel14Camera\lFactory::getDepthCamera" alt="" coords="284,658,460,699"/>
+<area shape="rect" id="node18" href="$classVoxel_1_1TI_1_1HaddockCDKCameraFactory.xhtml#a7cf07873ca56e107ef607b1e5406c076" title="Voxel::TI::HaddockCDKCamera\lFactory::getDepthCamera" alt="" coords="267,723,477,765"/>
+<area shape="rect" id="node19" href="$classVoxel_1_1TI_1_1RTS5825CameraFactory.xhtml#a8106f57e78856af663b33329b378f85f" title="Voxel::TI::RTS5825Camera\lFactory::getDepthCamera" alt="" coords="280,789,464,830"/>
+<area shape="rect" id="node20" href="$classVoxel_1_1TI_1_1VoxelDCameraFactory.xhtml#a7ffb1d8421aedcfe79455e3e787be967" title="Voxel::TI::VoxelDCameraFactory\l::getDepthCamera" alt="" coords="264,854,480,895"/>
 <area shape="rect" id="node21" href="$classVoxel_1_1USBSystemPrivate.xhtml#af6f114a79ec61cc4815afc7828a84f85" title="Voxel::USBSystemPrivate\l::getDeviceNode" alt="" coords="283,919,461,961"/>
 <area shape="rect" id="node22" href="$classVoxel_1_1USBDevice.xhtml#aafd454804e5804cb8364169762898db0" title="Voxel::USBDevice::getDevices" alt="" coords="269,985,475,1012"/>
 <area shape="rect" id="node23" href="$classVoxel_1_1TI_1_1TintinCDKDownloaderFactory.xhtml#a7a6573344dfbb20eb7d2abb407f54609" title="Voxel::TI::TintinCDKDownloader\lFactory::getDownloader" alt="" coords="265,1037,479,1078"/>
@@ -20,6 +20,6 @@
 <area shape="rect" id="node6" href="$classVoxel_1_1TI_1_1Voxel14Camera.xhtml#a606f13ed73547ee43f585e241b42dd5d" title="Voxel::TI::Voxel14Camera\l::Voxel14Camera" alt="" coords="549,201,725,242"/>
 <area shape="rect" id="node8" href="$classVoxel_1_1TI_1_1VoxelDCamera.xhtml#a4a95cf8257e2f9f5fd34386b87f6663a" title="Voxel::TI::VoxelDCamera\l::VoxelDCamera" alt="" coords="551,266,723,307"/>
 <area shape="rect" id="node10" href="$classVoxel_1_1TI_1_1TintinCDKCamera.xhtml#a7a9918bb8b6d76bc3511536019847c1d" title="Voxel::TI::TintinCDKCamera\l::TintinCDKCamera" alt="" coords="542,331,733,373"/>
-<area shape="rect" id="node14" href="$classVoxel_1_1USBSystemPrivate.xhtml#a0a4343643663e5cb000014b35bec5802" title="This does not look at the channel to determine which channel to use. " alt="" coords="549,527,726,569"/>
-<area shape="rect" id="node15" href="$classVoxel_1_1USBIO_1_1USBIOPrivate.xhtml#a72862681db5fbc61c173f711b60e76f3" title="Voxel::USBIO::USBIOPrivate\l::USBIOPrivate" alt="" coords="782,527,978,569"/>
+<area shape="rect" id="node13" href="$classVoxel_1_1USBSystemPrivate.xhtml#a0a4343643663e5cb000014b35bec5802" title="This does not look at the channel to determine which channel to use. " alt="" coords="549,462,726,503"/>
+<area shape="rect" id="node14" href="$classVoxel_1_1USBIO_1_1USBIOPrivate.xhtml#a72862681db5fbc61c173f711b60e76f3" title="Voxel::USBIO::USBIOPrivate\l::USBIOPrivate" alt="" coords="782,462,978,503"/>
 </map>

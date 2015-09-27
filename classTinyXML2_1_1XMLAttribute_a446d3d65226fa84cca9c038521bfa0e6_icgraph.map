@@ -1,34 +1,36 @@
 <map id="TinyXML2::XMLAttribute::Value" name="TinyXML2::XMLAttribute::Value">
-<area shape="rect" id="node2" href="$classTinyXML2_1_1XMLElement.xhtml#a824774b2d0c2b797d028a5e2434d3759" title="TinyXML2::XMLElement\l::Attribute" alt="" coords="219,149,383,190"/>
-<area shape="rect" id="node22" href="$classTinyXML2_1_1XMLAttribute.xhtml#a63c839cfa95b0a88bdace75571e2e061" title="See QueryIntValue. " alt="" coords="219,279,384,321"/>
-<area shape="rect" id="node24" href="$classTinyXML2_1_1XMLAttribute.xhtml#a37effab97ca5300dacdec6ca00a04ad3" title="See QueryIntValue. " alt="" coords="219,345,384,386"/>
-<area shape="rect" id="node26" href="$classTinyXML2_1_1XMLAttribute.xhtml#a4037788a612e1acac4e806ae917bce65" title="See QueryIntValue. " alt="" coords="219,410,384,451"/>
-<area shape="rect" id="node28" href="$classTinyXML2_1_1XMLAttribute.xhtml#aeb3f40e5032781658289c543a24a25c1" title="TinyXML2::XMLAttribute\l::QueryIntValue" alt="" coords="219,475,384,517"/>
-<area shape="rect" id="node30" href="$classTinyXML2_1_1XMLAttribute.xhtml#a3bb8836bee3c3c3e2414d79020fdc027" title="See QueryIntValue. " alt="" coords="219,541,384,582"/>
-<area shape="rect" id="node32" href="$classTinyXML2_1_1XMLElement.xhtml#acabaa32707cda48d09044f9e051f8a7b" title="TinyXML2::XMLElement\l::ShallowEqual" alt="" coords="219,606,383,647"/>
-<area shape="rect" id="node33" href="$classTinyXML2_1_1XMLPrinter.xhtml#a4b451a18ff455a3ba120179017af44de" title="Visit an element. " alt="" coords="224,671,379,713"/>
-<area shape="rect" id="node3" href="$classVoxel_1_1ParameterDMLParser.xhtml#a2d21730f3b40ad5dabbc0ad62c596705" title="Voxel::ParameterDMLParser\l::_prepare" alt="" coords="432,31,621,73"/>
-<area shape="rect" id="node4" href="$classVoxel_1_1ParameterDMLParser.xhtml#ad605e36f21f13ac72f59e58e64754e74" title="Voxel::ParameterDMLParser\l::getParameters" alt="" coords="669,90,859,131"/>
-<area shape="rect" id="node19" href="$classVoxel_1_1ParameterDMLParser.xhtml#a045dd911c20e776e52ca27a94e145cb3" title="Voxel::ParameterDMLParser\l::_getParameter" alt="" coords="432,149,621,190"/>
-<area shape="rect" id="node20" href="$classTinyXML2_1_1XMLElement.xhtml#a2b7dddea778d54aa6a213abed7ef7ab7" title="TinyXML2::XMLElement\l::ParseAttributes" alt="" coords="445,214,609,255"/>
-<area shape="rect" id="node5" href="$DMLParseTest_8cpp.xhtml#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="984,5,1035,32"/>
-<area shape="rect" id="node6" href="$classVoxel_1_1TI_1_1ToFCalculusCamera.xhtml#aa931ad7b5e4b84779df941814c2a5b17" title="Voxel::TI::ToFCalculusCamera\l::_init" alt="" coords="908,57,1111,98"/>
-<area shape="rect" id="node9" href="$classVoxel_1_1TI_1_1ToFHaddockCamera.xhtml#a749a2bbcdbfa69054d523866504743d1" title="Voxel::TI::ToFHaddockCamera\l::_init" alt="" coords="907,122,1111,163"/>
-<area shape="rect" id="node14" href="$classVoxel_1_1TI_1_1ToFTintinCamera.xhtml#af894a732f4beedc37144927eec93cc89" title="Voxel::TI::ToFTintinCamera\l::_init" alt="" coords="917,219,1101,261"/>
-<area shape="rect" id="node7" href="$classVoxel_1_1TI_1_1CalculusCDKCamera.xhtml#a82eb752fb0d4b63495d2e29b6b8aed2c" title="Voxel::TI::CalculusCDKCamera\l::_init" alt="" coords="1161,23,1370,65"/>
-<area shape="rect" id="node8" href="$classVoxel_1_1TI_1_1CalculusCDKCamera.xhtml#af406b1427962d80da9af9fb24e89b239" title="Voxel::TI::CalculusCDKCamera\l::CalculusCDKCamera" alt="" coords="1419,23,1629,65"/>
-<area shape="rect" id="node10" href="$classVoxel_1_1TI_1_1HaddockCDKCamera.xhtml#a7dff103da3145dd303a5bc0db75ae961" title="Voxel::TI::HaddockCDKCamera\l::_init" alt="" coords="1160,89,1371,130"/>
-<area shape="rect" id="node12" href="$classVoxel_1_1TI_1_1Voxel14Camera.xhtml#a89011bfb795ff58d3fb8675364b91abe" title="Voxel::TI::Voxel14Camera\l::_init" alt="" coords="1177,154,1353,195"/>
-<area shape="rect" id="node11" href="$classVoxel_1_1TI_1_1HaddockCDKCamera.xhtml#ac2c5e82486c4cc3f5edada38cd4274c5" title="Voxel::TI::HaddockCDKCamera\l::HaddockCDKCamera" alt="" coords="1419,89,1629,130"/>
-<area shape="rect" id="node13" href="$classVoxel_1_1TI_1_1Voxel14Camera.xhtml#a606f13ed73547ee43f585e241b42dd5d" title="Voxel::TI::Voxel14Camera\l::Voxel14Camera" alt="" coords="1436,154,1612,195"/>
-<area shape="rect" id="node15" href="$classVoxel_1_1TI_1_1TintinCDKCamera.xhtml#af5337f40c1a075c026263ea9871a20ee" title="Voxel::TI::TintinCDKCamera\l::_init" alt="" coords="1170,219,1361,261"/>
-<area shape="rect" id="node17" href="$classVoxel_1_1TI_1_1VoxelDCamera.xhtml#a47b15c40c3fbcc52ae1eb3c9fe74d9f1" title="Voxel::TI::VoxelDCamera\l::_init" alt="" coords="1179,285,1351,326"/>
-<area shape="rect" id="node16" href="$classVoxel_1_1TI_1_1TintinCDKCamera.xhtml#a7a9918bb8b6d76bc3511536019847c1d" title="Voxel::TI::TintinCDKCamera\l::TintinCDKCamera" alt="" coords="1429,219,1619,261"/>
-<area shape="rect" id="node18" href="$classVoxel_1_1TI_1_1VoxelDCamera.xhtml#a4a95cf8257e2f9f5fd34386b87f6663a" title="Voxel::TI::VoxelDCamera\l::VoxelDCamera" alt="" coords="1438,285,1610,326"/>
-<area shape="rect" id="node21" href="$classTinyXML2_1_1XMLElement.xhtml#a1f37b0bb41320c4121515755b8a057a4" title="TinyXML2::XMLElement\l::ParseDeep" alt="" coords="682,214,846,255"/>
-<area shape="rect" id="node23" href="$classTinyXML2_1_1XMLElement.xhtml#a600231a2e5e621634e4fcee4ff137106" title="See QueryIntAttribute() " alt="" coords="445,279,609,321"/>
-<area shape="rect" id="node25" href="$classTinyXML2_1_1XMLElement.xhtml#af3af1105159dbe30a833619eccd8a27f" title="See QueryIntAttribute() " alt="" coords="445,345,609,386"/>
-<area shape="rect" id="node27" href="$classTinyXML2_1_1XMLElement.xhtml#afdc3b53ba1b7bf605ed5d4166de4984c" title="See QueryIntAttribute() " alt="" coords="445,410,609,451"/>
-<area shape="rect" id="node29" href="$classTinyXML2_1_1XMLElement.xhtml#a245dc8d2da965b96a5ce5e2be80c2831" title="TinyXML2::XMLElement\l::QueryIntAttribute" alt="" coords="445,475,609,517"/>
-<area shape="rect" id="node31" href="$classTinyXML2_1_1XMLElement.xhtml#a3340cac4ff5f8c1c6e49942999c64612" title="See QueryIntAttribute() " alt="" coords="442,541,611,582"/>
+<area shape="rect" id="node2" href="$classTinyXML2_1_1XMLElement.xhtml#a824774b2d0c2b797d028a5e2434d3759" title="TinyXML2::XMLElement\l::Attribute" alt="" coords="219,162,383,203"/>
+<area shape="rect" id="node24" href="$classTinyXML2_1_1XMLAttribute.xhtml#a63c839cfa95b0a88bdace75571e2e061" title="See QueryIntValue. " alt="" coords="219,293,384,334"/>
+<area shape="rect" id="node26" href="$classTinyXML2_1_1XMLAttribute.xhtml#a37effab97ca5300dacdec6ca00a04ad3" title="See QueryIntValue. " alt="" coords="219,358,384,399"/>
+<area shape="rect" id="node28" href="$classTinyXML2_1_1XMLAttribute.xhtml#a4037788a612e1acac4e806ae917bce65" title="See QueryIntValue. " alt="" coords="219,423,384,465"/>
+<area shape="rect" id="node30" href="$classTinyXML2_1_1XMLAttribute.xhtml#aeb3f40e5032781658289c543a24a25c1" title="TinyXML2::XMLAttribute\l::QueryIntValue" alt="" coords="219,489,384,530"/>
+<area shape="rect" id="node32" href="$classTinyXML2_1_1XMLAttribute.xhtml#a3bb8836bee3c3c3e2414d79020fdc027" title="See QueryIntValue. " alt="" coords="219,554,384,595"/>
+<area shape="rect" id="node34" href="$classTinyXML2_1_1XMLElement.xhtml#acabaa32707cda48d09044f9e051f8a7b" title="TinyXML2::XMLElement\l::ShallowEqual" alt="" coords="219,619,383,661"/>
+<area shape="rect" id="node35" href="$classTinyXML2_1_1XMLPrinter.xhtml#a4b451a18ff455a3ba120179017af44de" title="Visit an element. " alt="" coords="224,685,379,726"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1ParameterDMLParser.xhtml#a2d21730f3b40ad5dabbc0ad62c596705" title="Voxel::ParameterDMLParser\l::_prepare" alt="" coords="432,45,621,86"/>
+<area shape="rect" id="node4" href="$classVoxel_1_1ParameterDMLParser.xhtml#ad605e36f21f13ac72f59e58e64754e74" title="Voxel::ParameterDMLParser\l::getParameters" alt="" coords="669,103,859,145"/>
+<area shape="rect" id="node21" href="$classVoxel_1_1ParameterDMLParser.xhtml#a045dd911c20e776e52ca27a94e145cb3" title="Voxel::ParameterDMLParser\l::_getParameter" alt="" coords="432,162,621,203"/>
+<area shape="rect" id="node22" href="$classTinyXML2_1_1XMLElement.xhtml#a2b7dddea778d54aa6a213abed7ef7ab7" title="TinyXML2::XMLElement\l::ParseAttributes" alt="" coords="445,227,609,269"/>
+<area shape="rect" id="node5" href="$DMLParseTest_8cpp.xhtml#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="984,19,1035,45"/>
+<area shape="rect" id="node6" href="$classVoxel_1_1TI_1_1ToFCalculusCamera.xhtml#aa931ad7b5e4b84779df941814c2a5b17" title="Voxel::TI::ToFCalculusCamera\l::_init" alt="" coords="908,70,1111,111"/>
+<area shape="rect" id="node9" href="$classVoxel_1_1TI_1_1ToFHaddockCamera.xhtml#a749a2bbcdbfa69054d523866504743d1" title="Voxel::TI::ToFHaddockCamera\l::_init" alt="" coords="907,135,1111,177"/>
+<area shape="rect" id="node16" href="$classVoxel_1_1TI_1_1ToFTintinCamera.xhtml#af894a732f4beedc37144927eec93cc89" title="Voxel::TI::ToFTintinCamera\l::_init" alt="" coords="917,266,1101,307"/>
+<area shape="rect" id="node7" href="$classVoxel_1_1TI_1_1CalculusCDKCamera.xhtml#a82eb752fb0d4b63495d2e29b6b8aed2c" title="Voxel::TI::CalculusCDKCamera\l::_init" alt="" coords="1161,5,1370,46"/>
+<area shape="rect" id="node8" href="$classVoxel_1_1TI_1_1CalculusCDKCamera.xhtml#af406b1427962d80da9af9fb24e89b239" title="Voxel::TI::CalculusCDKCamera\l::CalculusCDKCamera" alt="" coords="1419,5,1629,46"/>
+<area shape="rect" id="node10" href="$classVoxel_1_1TI_1_1HaddockCDKCamera.xhtml#a7dff103da3145dd303a5bc0db75ae961" title="Voxel::TI::HaddockCDKCamera\l::_init" alt="" coords="1160,70,1371,111"/>
+<area shape="rect" id="node12" href="$classVoxel_1_1TI_1_1RTS5825Camera.xhtml#af7d33e164feac1c63726d2757227c3bc" title="Voxel::TI::RTS5825Camera\l::_init" alt="" coords="1173,135,1357,177"/>
+<area shape="rect" id="node14" href="$classVoxel_1_1TI_1_1Voxel14Camera.xhtml#a89011bfb795ff58d3fb8675364b91abe" title="Voxel::TI::Voxel14Camera\l::_init" alt="" coords="1177,201,1353,242"/>
+<area shape="rect" id="node11" href="$classVoxel_1_1TI_1_1HaddockCDKCamera.xhtml#ac2c5e82486c4cc3f5edada38cd4274c5" title="Voxel::TI::HaddockCDKCamera\l::HaddockCDKCamera" alt="" coords="1419,70,1629,111"/>
+<area shape="rect" id="node13" href="$classVoxel_1_1TI_1_1RTS5825Camera.xhtml#a7a242f28e79a95d9a918946beb0b0461" title="Voxel::TI::RTS5825Camera\l::RTS5825Camera" alt="" coords="1432,135,1616,177"/>
+<area shape="rect" id="node15" href="$classVoxel_1_1TI_1_1Voxel14Camera.xhtml#a606f13ed73547ee43f585e241b42dd5d" title="Voxel::TI::Voxel14Camera\l::Voxel14Camera" alt="" coords="1436,201,1612,242"/>
+<area shape="rect" id="node17" href="$classVoxel_1_1TI_1_1TintinCDKCamera.xhtml#af5337f40c1a075c026263ea9871a20ee" title="Voxel::TI::TintinCDKCamera\l::_init" alt="" coords="1170,266,1361,307"/>
+<area shape="rect" id="node19" href="$classVoxel_1_1TI_1_1VoxelDCamera.xhtml#a47b15c40c3fbcc52ae1eb3c9fe74d9f1" title="Voxel::TI::VoxelDCamera\l::_init" alt="" coords="1179,331,1351,373"/>
+<area shape="rect" id="node18" href="$classVoxel_1_1TI_1_1TintinCDKCamera.xhtml#a7a9918bb8b6d76bc3511536019847c1d" title="Voxel::TI::TintinCDKCamera\l::TintinCDKCamera" alt="" coords="1429,266,1619,307"/>
+<area shape="rect" id="node20" href="$classVoxel_1_1TI_1_1VoxelDCamera.xhtml#a4a95cf8257e2f9f5fd34386b87f6663a" title="Voxel::TI::VoxelDCamera\l::VoxelDCamera" alt="" coords="1438,331,1610,373"/>
+<area shape="rect" id="node23" href="$classTinyXML2_1_1XMLElement.xhtml#a1f37b0bb41320c4121515755b8a057a4" title="TinyXML2::XMLElement\l::ParseDeep" alt="" coords="682,227,846,269"/>
+<area shape="rect" id="node25" href="$classTinyXML2_1_1XMLElement.xhtml#a600231a2e5e621634e4fcee4ff137106" title="See QueryIntAttribute() " alt="" coords="445,293,609,334"/>
+<area shape="rect" id="node27" href="$classTinyXML2_1_1XMLElement.xhtml#af3af1105159dbe30a833619eccd8a27f" title="See QueryIntAttribute() " alt="" coords="445,358,609,399"/>
+<area shape="rect" id="node29" href="$classTinyXML2_1_1XMLElement.xhtml#afdc3b53ba1b7bf605ed5d4166de4984c" title="See QueryIntAttribute() " alt="" coords="445,423,609,465"/>
+<area shape="rect" id="node31" href="$classTinyXML2_1_1XMLElement.xhtml#a245dc8d2da965b96a5ce5e2be80c2831" title="TinyXML2::XMLElement\l::QueryIntAttribute" alt="" coords="445,489,609,530"/>
+<area shape="rect" id="node33" href="$classTinyXML2_1_1XMLElement.xhtml#a3340cac4ff5f8c1c6e49942999c64612" title="See QueryIntAttribute() " alt="" coords="442,554,611,595"/>
 </map>

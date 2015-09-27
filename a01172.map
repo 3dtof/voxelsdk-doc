@@ -1,7 +1,0 @@
-<map id="Voxel::TI::VoxelUSBProgrammer" name="Voxel::TI::VoxelUSBProgrammer">
-<area shape="rect" id="node2" href="$a00191.xhtml" title="Voxel::TI::VoxelProgrammerBase" alt="" coords="883,107,1101,133"/>
-<area shape="rect" id="node3" href="$a00121.xhtml" title="Voxel::RegisterProgrammer" alt="" coords="494,56,677,83"/>
-<area shape="rect" id="node6" href="$a00113.xhtml" title="Voxel::Ptr\&lt; Device \&gt;" alt="" coords="513,5,658,32"/>
-<area shape="rect" id="node8" href="$a00113.xhtml" title="Voxel::Ptr\&lt; T \&gt;" alt="" coords="229,93,341,120"/>
-<area shape="rect" id="node10" href="$a00113.xhtml" title="Voxel::Ptr\&lt; USBIO \&gt;" alt="" coords="512,208,659,235"/>
-</map>

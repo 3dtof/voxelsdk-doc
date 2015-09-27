@@ -1,4 +1,0 @@
-<map id="Voxel::DeviceScanner::scan" name="Voxel::DeviceScanner::scan">
-<area shape="rect" id="node2" href="$a00168.xhtml#ac69e2e7bc897f304afab90acdbd004a6" title="Voxel::USBDeviceScanner\l::_scan" alt="" coords="206,5,386,46"/>
-<area shape="rect" id="node3" href="$a00172.xhtml#abbc09af335ace0ddfca5b74c63abf519" title="Voxel::USBSystem::getDevices" alt="" coords="435,12,645,39"/>
-</map>

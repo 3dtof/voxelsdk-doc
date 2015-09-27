@@ -1,0 +1,4 @@
+<map id="Voxel::TI::RTS5825CameraFactory" name="Voxel::TI::RTS5825CameraFactory">
+<area shape="rect" id="node2" href="$classVoxel_1_1TI_1_1ToFCameraFactoryBase.xhtml" title="Voxel::TI::ToFCameraFactoryBase" alt="" coords="5,80,232,107"/>
+<area shape="rect" id="node3" href="$classVoxel_1_1DepthCameraFactory.xhtml" title="Voxel::DepthCameraFactory" alt="" coords="25,5,212,32"/>
+</map>

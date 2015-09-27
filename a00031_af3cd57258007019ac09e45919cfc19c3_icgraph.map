@@ -1,6 +1,0 @@
-<map id="Voxel::ConfigurationFile::getLocation" name="Voxel::ConfigurationFile::getLocation">
-<area shape="rect" id="node2" href="$a00096.xhtml#a4abe1141d3c441fc54cd870e09a22b2c" title="Voxel::MainConfiguration\lFile::removeCameraProfile" alt="" coords="499,31,677,72"/>
-<area shape="rect" id="node4" href="$a00096.xhtml#a62f0d5bdc21e9ed7b4cf4ee24dab75e4" title="Voxel::MainConfiguration\lFile::saveCameraProfileToHardware" alt="" coords="217,27,450,68"/>
-<area shape="rect" id="node5" href="$a00096.xhtml#ad0ea67099cfd8a8e869b46b833e19800" title="Voxel::MainConfiguration\lFile::setDefaultCameraProfile" alt="" coords="236,92,431,133"/>
-<area shape="rect" id="node3" href="$a00036.xhtml#a51bc1371938f78ddc18af0b36850545c" title="Voxel::DepthCamera\l::removeCameraProfile" alt="" coords="726,31,882,72"/>
-</map>

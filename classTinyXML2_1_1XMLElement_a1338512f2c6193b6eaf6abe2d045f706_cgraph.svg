@@ -174,31 +174,31 @@ var sectionId = 'dynsection-42';
 </g>
 <!-- Node6 -->
 <g id="node6" class="node"><title>Node6</title>
-<g id="a_node6"><a xlink:href="classTinyXML2_1_1MemPool.xhtml#a97d309d72afeb96d9e54186285c26705" target="_top" xlink:title="TinyXML2::MemPool::\lSetTracked">
-<polygon fill="none" stroke="black" points="489,-175 489,-205 603,-205 603,-175 489,-175"/>
-<text text-anchor="start" x="497" y="-193" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::MemPool::</text>
-<text text-anchor="middle" x="546" y="-182" font-family="Helvetica,sans-Serif" font-size="10.00">SetTracked</text>
+<g id="a_node6"><a xlink:href="classTinyXML2_1_1XMLNode.xhtml#a0fe718d6c3d1252c48992c1adc1ce93b" target="_top" xlink:title="TinyXML2::XMLNode::\lUnlink">
+<polygon fill="none" stroke="black" points="488,-175 488,-205 604,-205 604,-175 488,-175"/>
+<text text-anchor="start" x="496" y="-193" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLNode::</text>
+<text text-anchor="middle" x="546" y="-182" font-family="Helvetica,sans-Serif" font-size="10.00">Unlink</text>
 </a>
 </g>
 </g>
 <!-- Node5&#45;&gt;Node6 -->
 <g id="edge5" class="edge"><title>Node5&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M444.042,-165.719C455.322,-168.432 467.251,-171.301 478.805,-174.08"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="478.295,-177.557 488.836,-176.492 479.932,-170.751 478.295,-177.557"/>
+<path fill="none" stroke="midnightblue" d="M444.042,-165.719C455.049,-168.366 466.673,-171.162 477.964,-173.878"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="477.236,-177.302 487.777,-176.237 478.873,-170.496 477.236,-177.302"/>
 </g>
 <!-- Node7 -->
 <g id="node7" class="node"><title>Node7</title>
-<g id="a_node7"><a xlink:href="classTinyXML2_1_1XMLNode.xhtml#a0fe718d6c3d1252c48992c1adc1ce93b" target="_top" xlink:title="TinyXML2::XMLNode::\lUnlink">
-<polygon fill="none" stroke="black" points="488,-126 488,-156 604,-156 604,-126 488,-126"/>
-<text text-anchor="start" x="496" y="-144" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::XMLNode::</text>
-<text text-anchor="middle" x="546" y="-133" font-family="Helvetica,sans-Serif" font-size="10.00">Unlink</text>
+<g id="a_node7"><a xlink:href="classTinyXML2_1_1MemPool.xhtml#a97d309d72afeb96d9e54186285c26705" target="_top" xlink:title="TinyXML2::MemPool::\lSetTracked">
+<polygon fill="none" stroke="black" points="489,-126 489,-156 603,-156 603,-126 489,-126"/>
+<text text-anchor="start" x="497" y="-144" font-family="Helvetica,sans-Serif" font-size="10.00">TinyXML2::MemPool::</text>
+<text text-anchor="middle" x="546" y="-133" font-family="Helvetica,sans-Serif" font-size="10.00">SetTracked</text>
 </a>
 </g>
 </g>
 <!-- Node5&#45;&gt;Node7 -->
 <g id="edge6" class="edge"><title>Node5&#45;&gt;Node7</title>
-<path fill="none" stroke="midnightblue" d="M444.042,-148.029C454.937,-147.27 466.439,-146.469 477.622,-145.691"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="478.044,-149.17 487.777,-144.984 477.558,-142.187 478.044,-149.17"/>
+<path fill="none" stroke="midnightblue" d="M444.042,-148.029C455.322,-147.243 467.251,-146.413 478.805,-145.608"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="479.104,-149.096 488.836,-144.91 478.617,-142.113 479.104,-149.096"/>
 </g>
 <!-- Node8&#45;&gt;Node9 -->
 <g id="edge8" class="edge"><title>Node8&#45;&gt;Node9</title>

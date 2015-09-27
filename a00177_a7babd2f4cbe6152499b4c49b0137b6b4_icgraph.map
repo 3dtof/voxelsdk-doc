@@ -1,8 +1,0 @@
-<map id="Voxel::UVCStreamer::setVideoMode" name="Voxel::UVCStreamer::setVideoMode">
-<area shape="rect" id="node2" href="$a00177.xhtml#acc806ec3fc0f1e55739a844a0ff0f3c0" title="Voxel::UVCStreamer\l::_initForCapture" alt="" coords="223,5,369,46"/>
-<area shape="rect" id="node4" href="$a00182.xhtml#afeb9b488760b3c32cf6d5decb25bfdcf" title="Voxel::TI::Voxel14Camera\l::_setStreamerFrameSize" alt="" coords="208,70,384,111"/>
-<area shape="rect" id="node5" href="$a00186.xhtml#aa13368de49716d5ec7ed82df1010a6b0" title="Voxel::TI::VoxelDCamera\l::_setStreamerFrameSize" alt="" coords="210,135,382,177"/>
-<area shape="rect" id="node6" href="$a00137.xhtml#a2ffbaceb53ded2b382116ac66b787698" title="Voxel::TI::TintinCDKCamera\l::_setStreamerFrameSize" alt="" coords="201,201,391,242"/>
-<area shape="rect" id="node7" href="$a00356.xhtml#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="271,267,321,293"/>
-<area shape="rect" id="node3" href="$a00177.xhtml#a3bf08c2dd6922d8e4a44a63840095d97" title="Voxel::UVCStreamer\l::_start" alt="" coords="441,5,586,46"/>
-</map>

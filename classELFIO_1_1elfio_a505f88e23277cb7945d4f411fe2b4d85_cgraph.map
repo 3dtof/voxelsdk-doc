@@ -1,0 +1,11 @@
+<map id="ELFIO::elfio::create" name="ELFIO::elfio::create">
+<area shape="rect" id="node2" href="$classELFIO_1_1elfio.xhtml#ae462b15020a575fd0adc005338324a8c" title="ELFIO::elfio::clean" alt="" coords="219,5,349,32"/>
+<area shape="rect" id="node3" href="$classELFIO_1_1elfio.xhtml#a67a760cc86b7595b483e93da603ec774" title="ELFIO::elfio::create\l_header" alt="" coords="216,57,352,98"/>
+<area shape="rect" id="node4" href="$classELFIO_1_1elfio.xhtml#a905e7d6672f7109423309f05c941cf80" title="ELFIO::elfio::create\l_mandatory_sections" alt="" coords="211,122,357,163"/>
+<area shape="rect" id="node9" href="$classELFIO_1_1endianess__convertor.xhtml#a67d470a1b50e356dba4666781872a090" title="ELFIO::endianess_convertor\l::setup" alt="" coords="190,187,378,229"/>
+<area shape="rect" id="node5" href="$classELFIO_1_1elfio.xhtml#a6bb2c14190dc3ee9a220ec349c1640f5" title="ELFIO::elfio::create\l_section" alt="" coords="672,75,808,117"/>
+<area shape="rect" id="node6" href="$classELFIO_1_1elfio_1_1Sections.xhtml#af60206f1e95ae37985df476419ce875e" title="ELFIO::elfio::Sections::add" alt="" coords="431,133,611,160"/>
+<area shape="rect" id="node7" href="$classELFIO_1_1string__section__accessor.xhtml#a328d5af973ac377b2597e40335dfc2c4" title="ELFIO::string_section\l_accessor::add_string" alt="" coords="665,141,815,182"/>
+<area shape="rect" id="node8" href="$classELFIO_1_1section.xhtml#a46ee8988d3120629f0861e54f3fa5aa3" title="ELFIO::section::append_data" alt="" coords="864,148,1056,175"/>
+<area shape="rect" id="node10" href="$classELFIO_1_1endianess__convertor.xhtml#a1aa3942a43b432b529a376cc90b60870" title="ELFIO::endianess_convertor\l::get_host_encoding" alt="" coords="427,187,615,229"/>
+</map>

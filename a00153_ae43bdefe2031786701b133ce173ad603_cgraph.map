@@ -1,7 +1,0 @@
-<map id="Voxel::TI::ToFCamera::_getFrameRate" name="Voxel::TI::ToFCamera::_getFrameRate">
-<area shape="rect" id="node2" href="$a00036.xhtml#ac850b3829f41e647686610c283197ea6" title="Voxel::DepthCamera\l::_get" alt="" coords="231,27,375,69"/>
-<area shape="rect" id="node5" href="$a00153.xhtml#ae2c116b5f3e0598f9a449c70f8ff5b6a" title="Voxel::TI::ToFCamera\l::_getSystemClockFrequency" alt="" coords="205,93,400,134"/>
-<area shape="rect" id="node6" href="$a00390.xhtml#ga148a066c676b3c831918800b78a2f056" title="Voxel::gcd" alt="" coords="261,159,345,185"/>
-<area shape="rect" id="node3" href="$a00103.xhtml#afa8896eaffbd2b87d1482c0967a0fe1d" title="Voxel::ParameterTemplate::get" alt="" coords="448,5,651,32"/>
-<area shape="rect" id="node4" href="$a00036.xhtml#ae3d6fcc6d4a20d1ad2de809ad65ecc34" title="Voxel::DepthCamera\l::name" alt="" coords="477,57,621,98"/>
-</map>

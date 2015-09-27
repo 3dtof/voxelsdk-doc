@@ -1,5 +1,0 @@
-<map id="Voxel::TI::TintinEEPROMDownloader::_download" name="Voxel::TI::TintinEEPROMDownloader::_download">
-<area shape="rect" id="node2" href="$a00148.xhtml#a5e8d288c9261361f1d769dfaac5cb920" title="Voxel::TI::TintinEEPROMDownloader\l::_printEEPROMFirst64Bytes" alt="" coords="296,5,539,46"/>
-<area shape="rect" id="node3" href="$a00047.xhtml#ae9b2538c8a0b2907157c6b003d12b01c" title="Voxel::Downloader::\l_setProgress" alt="" coords="347,70,487,111"/>
-<area shape="rect" id="node4" href="$a00047.xhtml#a452a2b0c18ec856b16fa5317cf7a5a33" title="Voxel::Downloader::\lgetProgress" alt="" coords="347,135,487,177"/>
-</map>

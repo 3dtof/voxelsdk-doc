@@ -239,10 +239,10 @@ var sectionId = 'dynsection-10';
 </g>
 <!-- Node11 -->
 <g id="node11" class="node"><title>Node11</title>
-<g id="a_node11"><a xlink:href="classVoxel_1_1SerializedObject.xhtml#aac0058e6b0ea0cb6ac86f4e986f6de25" target="_top" xlink:title="Voxel::SerializedObject\l::getBytes">
+<g id="a_node11"><a xlink:href="classVoxel_1_1SerializedObject.xhtml#a28bffcfa230e90768ea678269a782381" target="_top" xlink:title="Voxel::SerializedObject\l::resize">
 <polygon fill="none" stroke="black" points="534.5,-93 534.5,-123 653.5,-123 653.5,-93 534.5,-93"/>
 <text text-anchor="start" x="542.5" y="-111" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::SerializedObject</text>
-<text text-anchor="middle" x="594" y="-100" font-family="Helvetica,sans-Serif" font-size="10.00">::getBytes</text>
+<text text-anchor="middle" x="594" y="-100" font-family="Helvetica,sans-Serif" font-size="10.00">::resize</text>
 </a>
 </g>
 </g>
@@ -253,10 +253,10 @@ var sectionId = 'dynsection-10';
 </g>
 <!-- Node12 -->
 <g id="node12" class="node"><title>Node12</title>
-<g id="a_node12"><a xlink:href="classVoxel_1_1SerializedObject.xhtml#a28bffcfa230e90768ea678269a782381" target="_top" xlink:title="Voxel::SerializedObject\l::resize">
+<g id="a_node12"><a xlink:href="classVoxel_1_1SerializedObject.xhtml#aac0058e6b0ea0cb6ac86f4e986f6de25" target="_top" xlink:title="Voxel::SerializedObject\l::getBytes">
 <polygon fill="none" stroke="black" points="534.5,-44 534.5,-74 653.5,-74 653.5,-44 534.5,-44"/>
 <text text-anchor="start" x="542.5" y="-62" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::SerializedObject</text>
-<text text-anchor="middle" x="594" y="-51" font-family="Helvetica,sans-Serif" font-size="10.00">::resize</text>
+<text text-anchor="middle" x="594" y="-51" font-family="Helvetica,sans-Serif" font-size="10.00">::getBytes</text>
 </a>
 </g>
 </g>

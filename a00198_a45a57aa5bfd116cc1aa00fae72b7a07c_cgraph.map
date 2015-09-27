@@ -1,8 +1,0 @@
-<map id="TinyXML2::XMLDocument::SaveFile" name="TinyXML2::XMLDocument::SaveFile">
-<area shape="rect" id="node2" href="$a00198.xhtml#ac08d5b42d07bdd8956d9fec3e8c6e7b4" title="TinyXML2::XMLDocument\l::Print" alt="" coords="229,103,405,145"/>
-<area shape="rect" id="node3" href="$a00198.xhtml#ad02be21c4459af97b6294eb4d1f82cd6" title="TinyXML2::XMLDocument\l::Accept" alt="" coords="453,103,629,145"/>
-<area shape="rect" id="node4" href="$a00201.xhtml#a81d2f010536dc2ca37f74d40b074ac8d" title="Get the first child node, or null if none exists. " alt="" coords="677,5,832,46"/>
-<area shape="rect" id="node5" href="$a00201.xhtml#aee7c15f0bf3bdc684fda87d584356c1b" title="Get the next (right) sibling node of this node. " alt="" coords="677,70,832,111"/>
-<area shape="rect" id="node6" href="$a00206.xhtml#ad84b4221bdd2cdecbda2fe51ac506bed" title="Visit a document. " alt="" coords="678,135,831,177"/>
-<area shape="rect" id="node7" href="$a00206.xhtml#a164c7fc45b4799c5d850571780deeb0a" title="Visit a document. " alt="" coords="678,201,831,242"/>
-</map>

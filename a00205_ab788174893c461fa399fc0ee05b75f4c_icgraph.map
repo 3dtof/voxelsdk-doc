@@ -1,9 +1,0 @@
-<map id="TinyXML2::XMLUtil::ToInt" name="TinyXML2::XMLUtil::ToInt">
-<area shape="rect" id="node2" href="$a00199.xhtml#a079b02a944021267fd0109fd78bad905" title="TinyXML2::XMLElement\l::QueryIntText" alt="" coords="198,5,362,46"/>
-<area shape="rect" id="node3" href="$a00194.xhtml#aeb3f40e5032781658289c543a24a25c1" title="TinyXML2::XMLAttribute\l::QueryIntValue" alt="" coords="197,70,363,111"/>
-<area shape="rect" id="node5" href="$a00205.xhtml#a25dd8394af7cc2735c3b08c4613d401a" title="TinyXML2::XMLUtil::\lToBool" alt="" coords="208,135,352,177"/>
-<area shape="rect" id="node4" href="$a00199.xhtml#a245dc8d2da965b96a5ce5e2be80c2831" title="TinyXML2::XMLElement\l::QueryIntAttribute" alt="" coords="411,70,575,111"/>
-<area shape="rect" id="node6" href="$a00199.xhtml#af5d64f466a0b18f38183e4e9437bd5bd" title="See QueryIntText() " alt="" coords="411,135,575,177"/>
-<area shape="rect" id="node7" href="$a00194.xhtml#a63c839cfa95b0a88bdace75571e2e061" title="See QueryIntValue. " alt="" coords="411,201,576,242"/>
-<area shape="rect" id="node8" href="$a00199.xhtml#a600231a2e5e621634e4fcee4ff137106" title="See QueryIntAttribute() " alt="" coords="625,201,789,242"/>
-</map>

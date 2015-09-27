@@ -46,7 +46,7 @@ if (edges && edges.length) {
         </defs>
 
 <script type="text/javascript">
-var viewWidth = 2760;
+var viewWidth = 2614;
 var viewHeight = 364;
 var sectionId = 'dynsection-1';
 </script>
@@ -56,34 +56,34 @@ var sectionId = 'dynsection-1';
 <title>Configuration.h</title>
 <!-- Node1 -->
 <g id="node1" class="node"><title>Node1</title>
-<polygon fill="#bfbfbf" stroke="black" points="1225.5,-336.5 1225.5,-355.5 1308.5,-355.5 1308.5,-336.5 1225.5,-336.5"/>
-<text text-anchor="middle" x="1267" y="-343.5" font-family="Helvetica,sans-Serif" font-size="10.00">Configuration.h</text>
+<polygon fill="#bfbfbf" stroke="black" points="118.5,-336.5 118.5,-355.5 201.5,-355.5 201.5,-336.5 118.5,-336.5"/>
+<text text-anchor="middle" x="160" y="-343.5" font-family="Helvetica,sans-Serif" font-size="10.00">Configuration.h</text>
 </g>
 <!-- Node2 -->
 <g id="node2" class="node"><title>Node2</title>
 <g id="a_node2"><a xlink:href="ToFCalculusCamera_8cpp.xhtml" target="_top" xlink:title="ToFCalculusCamera.cpp">
-<polygon fill="none" stroke="black" points="894.5,-56.5 894.5,-75.5 1019.5,-75.5 1019.5,-56.5 894.5,-56.5"/>
-<text text-anchor="middle" x="957" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">ToFCalculusCamera.cpp</text>
+<polygon fill="none" stroke="black" points="287.5,-56.5 287.5,-75.5 412.5,-75.5 412.5,-56.5 287.5,-56.5"/>
+<text text-anchor="middle" x="350" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">ToFCalculusCamera.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node2 -->
 <g id="edge1" class="edge"><title>Node1&#45;&gt;Node2</title>
-<path fill="none" stroke="midnightblue" d="M1215.3,-341.536C1149.99,-334.029 1046,-310.261 1046,-235 1046,-235 1046,-235 1046,-177 1046,-146.775 1044.19,-136.141 1026,-112 1013.44,-95.3233 992.759,-83.0319 977.311,-75.5481"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1215.12,-345.036 1225.43,-342.606 1215.85,-338.074 1215.12,-345.036"/>
+<path fill="none" stroke="midnightblue" d="M130.414,-331.88C116.234,-324.316 99.9874,-313.593 89,-300 69.641,-276.051 65,-265.795 65,-235 65,-235 65,-235 65,-177 65,-146.205 65.3262,-131.695 89,-112 118.427,-87.5185 219.981,-75.8467 287.393,-70.6779"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="128.853,-335.013 139.358,-336.393 132.007,-328.763 128.853,-335.013"/>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node"><title>Node3</title>
 <g id="a_node3"><a xlink:href="ToFCamera_8cpp.xhtml" target="_top" xlink:title="ToFCamera.cpp">
-<polygon fill="none" stroke="black" points="74.5,-112.5 74.5,-131.5 161.5,-131.5 161.5,-112.5 74.5,-112.5"/>
-<text text-anchor="middle" x="118" y="-119.5" font-family="Helvetica,sans-Serif" font-size="10.00">ToFCamera.cpp</text>
+<polygon fill="none" stroke="black" points="169.5,-112.5 169.5,-131.5 256.5,-131.5 256.5,-112.5 169.5,-112.5"/>
+<text text-anchor="middle" x="213" y="-119.5" font-family="Helvetica,sans-Serif" font-size="10.00">ToFCamera.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node3 -->
 <g id="edge2" class="edge"><title>Node1&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M1215.33,-335.138C1167.71,-326.041 1095.08,-312.148 1032,-300 697.117,-235.511 293.354,-157.086 161.754,-131.507"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1214.91,-338.622 1225.39,-337.06 1216.23,-331.746 1214.91,-338.622"/>
+<path fill="none" stroke="midnightblue" d="M160.363,-325.99C160.88,-312.953 162.107,-295.311 165,-280 175.954,-222.026 200.577,-155.156 209.601,-131.682"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="156.862,-325.99 160.068,-336.088 163.859,-326.194 156.862,-325.99"/>
 </g>
 <!-- Node4 -->
 <g id="node4" class="node"><title>Node4</title>
@@ -95,706 +95,706 @@ var sectionId = 'dynsection-1';
 </g>
 <!-- Node1&#45;&gt;Node4 -->
 <g id="edge3" class="edge"><title>Node1&#45;&gt;Node4</title>
-<path fill="none" stroke="midnightblue" d="M1215.3,-344.232C1035.28,-341.32 436.625,-329.594 247,-300 138.236,-283.026 8,-345.081 8,-235 8,-235 8,-235 8,-177 8,-135.365 39.9118,-93.3346 55.1198,-75.6684"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1215.25,-347.731 1225.3,-344.391 1215.36,-340.732 1215.25,-347.731"/>
+<path fill="none" stroke="midnightblue" d="M108.604,-333.374C88.4193,-326.563 66.4371,-316.032 51,-300 29.6402,-277.817 27,-265.795 27,-235 27,-235 27,-235 27,-177 27,-137.415 48.3184,-93.6141 58.1449,-75.5273"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="107.743,-336.772 118.332,-336.426 109.839,-330.093 107.743,-336.772"/>
 </g>
 <!-- Node5 -->
 <g id="node5" class="node"><title>Node5</title>
 <g id="a_node5"><a xlink:href="ToFTintinCamera_8cpp.xhtml" target="_top" xlink:title="ToFTintinCamera.cpp">
-<polygon fill="none" stroke="black" points="199.5,-56.5 199.5,-75.5 310.5,-75.5 310.5,-56.5 199.5,-56.5"/>
-<text text-anchor="middle" x="255" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">ToFTintinCamera.cpp</text>
+<polygon fill="none" stroke="black" points="501.5,-56.5 501.5,-75.5 612.5,-75.5 612.5,-56.5 501.5,-56.5"/>
+<text text-anchor="middle" x="557" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">ToFTintinCamera.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node5 -->
 <g id="edge4" class="edge"><title>Node1&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M1215.1,-343.088C982.327,-334.181 46,-294.642 46,-235 46,-235 46,-235 46,-177 46,-146.902 43.1734,-132.724 65,-112 84.1747,-93.7941 150.534,-81.0665 199.452,-73.901"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1215.2,-346.595 1225.32,-343.477 1215.46,-339.6 1215.2,-346.595"/>
+<path fill="none" stroke="midnightblue" d="M145.21,-328.703C128.321,-308.343 103,-271.7 103,-235 103,-235 103,-235 103,-177 103,-146.205 102.685,-130.898 127,-112 141.594,-100.657 388.364,-80.1237 501.334,-71.2615"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="142.652,-331.096 151.833,-336.384 147.954,-326.525 142.652,-331.096"/>
 </g>
 <!-- Node6 -->
 <g id="node6" class="node"><title>Node6</title>
 <g id="a_node6"><a xlink:href="CameraSystem_8cpp.xhtml" target="_top" xlink:title="CameraSystem.cpp">
-<polygon fill="none" stroke="black" points="2435,-56.5 2435,-75.5 2539,-75.5 2539,-56.5 2435,-56.5"/>
-<text text-anchor="middle" x="2487" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">CameraSystem.cpp</text>
+<polygon fill="none" stroke="black" points="835,-56.5 835,-75.5 939,-75.5 939,-56.5 835,-56.5"/>
+<text text-anchor="middle" x="887" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">CameraSystem.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node6 -->
 <g id="edge5" class="edge"><title>Node1&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M1318.94,-343.226C1556.16,-334.79 2525,-296.567 2525,-235 2525,-235 2525,-235 2525,-177 2525,-137.399 2502.73,-93.957 2492.28,-75.769"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1318.73,-339.731 1308.86,-343.583 1318.97,-346.727 1318.73,-339.731"/>
+<path fill="none" stroke="midnightblue" d="M162.554,-326.233C163.529,-318.175 164.521,-308.642 165,-300 165.492,-291.125 165.15,-288.888 165,-280 163.739,-205.311 108.837,-166.428 160,-112 171.564,-99.698 670.071,-76.5918 834.787,-69.2795"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="159.052,-326.031 161.242,-336.397 165.994,-326.927 159.052,-326.031"/>
 </g>
 <!-- Node7 -->
 <g id="node7" class="node"><title>Node7</title>
 <g id="a_node7"><a xlink:href="Configuration_8cpp.xhtml" target="_top" xlink:title="Configuration.cpp">
-<polygon fill="none" stroke="black" points="2553.5,-280.5 2553.5,-299.5 2646.5,-299.5 2646.5,-280.5 2553.5,-280.5"/>
-<text text-anchor="middle" x="2600" y="-287.5" font-family="Helvetica,sans-Serif" font-size="10.00">Configuration.cpp</text>
+<polygon fill="none" stroke="black" points="207.5,-280.5 207.5,-299.5 300.5,-299.5 300.5,-280.5 207.5,-280.5"/>
+<text text-anchor="middle" x="254" y="-287.5" font-family="Helvetica,sans-Serif" font-size="10.00">Configuration.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node7 -->
 <g id="edge6" class="edge"><title>Node1&#45;&gt;Node7</title>
-<path fill="none" stroke="midnightblue" d="M1318.65,-345.228C1491.66,-345.552 2066.45,-343.085 2539,-300 2543.69,-299.572 2548.57,-299.026 2553.44,-298.414"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1318.57,-341.727 1308.56,-345.205 1318.55,-348.727 1318.57,-341.727"/>
+<path fill="none" stroke="midnightblue" d="M184.062,-331.177C201.359,-321.241 224.148,-308.149 238.935,-299.655"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="182.03,-328.308 175.103,-336.324 185.517,-334.378 182.03,-328.308"/>
 </g>
 <!-- Node8 -->
 <g id="node8" class="node"><title>Node8</title>
 <g id="a_node8"><a xlink:href="DepthCamera_8h.xhtml" target="_top" xlink:title="DepthCamera.h">
-<polygon fill="none" stroke="black" points="1445,-280.5 1445,-299.5 1531,-299.5 1531,-280.5 1445,-280.5"/>
-<text text-anchor="middle" x="1488" y="-287.5" font-family="Helvetica,sans-Serif" font-size="10.00">DepthCamera.h</text>
+<polygon fill="none" stroke="black" points="1073,-280.5 1073,-299.5 1159,-299.5 1159,-280.5 1073,-280.5"/>
+<text text-anchor="middle" x="1116" y="-287.5" font-family="Helvetica,sans-Serif" font-size="10.00">DepthCamera.h</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node8 -->
 <g id="edge7" class="edge"><title>Node1&#45;&gt;Node8</title>
-<path fill="none" stroke="midnightblue" d="M1311.92,-334.024C1353.67,-323.823 1414.98,-308.841 1453.15,-299.516"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1310.9,-330.67 1302.02,-336.444 1312.56,-337.47 1310.9,-330.67"/>
+<path fill="none" stroke="midnightblue" d="M211.844,-342.072C381.228,-332.504 916.404,-302.274 1072.73,-293.444"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="211.48,-338.586 201.693,-342.645 211.874,-345.575 211.48,-338.586"/>
 </g>
 <!-- Node50 -->
 <g id="node50" class="node"><title>Node50</title>
 <g id="a_node50"><a xlink:href="Downloader_8cpp.xhtml" target="_top" xlink:title="Downloader.cpp">
-<polygon fill="none" stroke="black" points="2664.5,-280.5 2664.5,-299.5 2751.5,-299.5 2751.5,-280.5 2664.5,-280.5"/>
-<text text-anchor="middle" x="2708" y="-287.5" font-family="Helvetica,sans-Serif" font-size="10.00">Downloader.cpp</text>
+<polygon fill="none" stroke="black" points="1177.5,-280.5 1177.5,-299.5 1264.5,-299.5 1264.5,-280.5 1177.5,-280.5"/>
+<text text-anchor="middle" x="1221" y="-287.5" font-family="Helvetica,sans-Serif" font-size="10.00">Downloader.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node50 -->
 <g id="edge69" class="edge"><title>Node1&#45;&gt;Node50</title>
-<path fill="none" stroke="midnightblue" d="M1318.79,-344.264C1537.73,-341.005 2388.3,-326.843 2655,-300 2658.06,-299.692 2661.22,-299.313 2664.39,-298.888"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1318.5,-340.767 1308.55,-344.415 1318.6,-347.767 1318.5,-340.767"/>
+<path fill="none" stroke="midnightblue" d="M212.151,-344.941C361.511,-344.283 803.558,-338.927 1168,-300 1171.06,-299.673 1174.22,-299.281 1177.39,-298.845"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="211.894,-341.442 201.908,-344.98 211.921,-348.442 211.894,-341.442"/>
 </g>
 <!-- Node9 -->
 <g id="node9" class="node"><title>Node9</title>
 <g id="a_node9"><a xlink:href="PCLViewer_8h.xhtml" target="_top" xlink:title="PCLViewer.h">
-<polygon fill="none" stroke="black" points="1997,-112.5 1997,-131.5 2071,-131.5 2071,-112.5 1997,-112.5"/>
-<text text-anchor="middle" x="2034" y="-119.5" font-family="Helvetica,sans-Serif" font-size="10.00">PCLViewer.h</text>
+<polygon fill="none" stroke="black" points="1106,-112.5 1106,-131.5 1180,-131.5 1180,-112.5 1106,-112.5"/>
+<text text-anchor="middle" x="1143" y="-119.5" font-family="Helvetica,sans-Serif" font-size="10.00">PCLViewer.h</text>
 </a>
 </g>
 </g>
 <!-- Node8&#45;&gt;Node9 -->
 <g id="edge8" class="edge"><title>Node8&#45;&gt;Node9</title>
-<path fill="none" stroke="midnightblue" d="M1541.19,-287.23C1661.73,-282.787 1947.93,-269.64 1983,-244 2021.09,-216.15 2030.93,-154.226 2033.3,-131.541"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1540.95,-283.736 1531.09,-287.597 1541.21,-290.732 1540.95,-283.736"/>
+<path fill="none" stroke="midnightblue" d="M1157.12,-277.423C1184.86,-268.688 1217.83,-256.168 1226,-244 1244.83,-215.956 1243.28,-197.024 1226,-168 1215.02,-149.55 1193.54,-138.199 1175.18,-131.512"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1155.73,-274.187 1147.2,-280.462 1157.78,-280.881 1155.73,-274.187"/>
 </g>
 <!-- Node15 -->
 <g id="node15" class="node"><title>Node15</title>
 <g id="a_node15"><a xlink:href="ToFCameraBase_8h.xhtml" target="_top" xlink:title="ToFCameraBase.h">
-<polygon fill="none" stroke="black" points="812.5,-224.5 812.5,-243.5 911.5,-243.5 911.5,-224.5 812.5,-224.5"/>
-<text text-anchor="middle" x="862" y="-231.5" font-family="Helvetica,sans-Serif" font-size="10.00">ToFCameraBase.h</text>
+<polygon fill="none" stroke="black" points="655.5,-224.5 655.5,-243.5 754.5,-243.5 754.5,-224.5 655.5,-224.5"/>
+<text text-anchor="middle" x="705" y="-231.5" font-family="Helvetica,sans-Serif" font-size="10.00">ToFCameraBase.h</text>
 </a>
 </g>
 </g>
 <!-- Node8&#45;&gt;Node15 -->
 <g id="edge14" class="edge"><title>Node8&#45;&gt;Node15</title>
-<path fill="none" stroke="midnightblue" d="M1434.99,-284.427C1315.75,-274.142 1027.84,-249.305 911.753,-239.292"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1434.71,-287.916 1444.97,-285.288 1435.31,-280.942 1434.71,-287.916"/>
+<path fill="none" stroke="midnightblue" d="M1062.92,-282.296C994.825,-273.655 873.071,-258.065 769,-244 764.33,-243.369 759.469,-242.703 754.607,-242.03"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1062.61,-285.785 1072.97,-283.571 1063.49,-278.841 1062.61,-285.785"/>
 </g>
-<!-- Node26 -->
-<g id="node26" class="node"><title>Node26</title>
-<g id="a_node26"><a xlink:href="DepthCamera_8cpp.xhtml" target="_top" xlink:title="DepthCamera.cpp">
-<polygon fill="none" stroke="black" points="1216,-224.5 1216,-243.5 1312,-243.5 1312,-224.5 1216,-224.5"/>
-<text text-anchor="middle" x="1264" y="-231.5" font-family="Helvetica,sans-Serif" font-size="10.00">DepthCamera.cpp</text>
+<!-- Node24 -->
+<g id="node24" class="node"><title>Node24</title>
+<g id="a_node24"><a xlink:href="DepthCamera_8cpp.xhtml" target="_top" xlink:title="DepthCamera.cpp">
+<polygon fill="none" stroke="black" points="1278,-224.5 1278,-243.5 1374,-243.5 1374,-224.5 1278,-224.5"/>
+<text text-anchor="middle" x="1326" y="-231.5" font-family="Helvetica,sans-Serif" font-size="10.00">DepthCamera.cpp</text>
 </a>
 </g>
 </g>
-<!-- Node8&#45;&gt;Node26 -->
-<g id="edge29" class="edge"><title>Node8&#45;&gt;Node26</title>
-<path fill="none" stroke="midnightblue" d="M1442.74,-278.088C1400.42,-267.887 1338.09,-252.861 1299.33,-243.516"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1441.96,-281.502 1452.51,-280.444 1443.61,-274.697 1441.96,-281.502"/>
+<!-- Node8&#45;&gt;Node24 -->
+<g id="edge27" class="edge"><title>Node8&#45;&gt;Node24</title>
+<path fill="none" stroke="midnightblue" d="M1159.19,-277.894C1198.85,-267.697 1256.77,-252.802 1292.88,-243.516"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1158.09,-274.563 1149.28,-280.444 1159.83,-281.343 1158.09,-274.563"/>
 </g>
-<!-- Node27 -->
-<g id="node27" class="node"><title>Node27</title>
-<g id="a_node27"><a xlink:href="DepthCameraFactory_8h.xhtml" target="_top" xlink:title="DepthCameraFactory.h">
-<polygon fill="none" stroke="black" points="1656.5,-224.5 1656.5,-243.5 1775.5,-243.5 1775.5,-224.5 1656.5,-224.5"/>
-<text text-anchor="middle" x="1716" y="-231.5" font-family="Helvetica,sans-Serif" font-size="10.00">DepthCameraFactory.h</text>
+<!-- Node25 -->
+<g id="node25" class="node"><title>Node25</title>
+<g id="a_node25"><a xlink:href="DepthCameraFactory_8h.xhtml" target="_top" xlink:title="DepthCameraFactory.h">
+<polygon fill="none" stroke="black" points="1889.5,-224.5 1889.5,-243.5 2008.5,-243.5 2008.5,-224.5 1889.5,-224.5"/>
+<text text-anchor="middle" x="1949" y="-231.5" font-family="Helvetica,sans-Serif" font-size="10.00">DepthCameraFactory.h</text>
 </a>
 </g>
 </g>
-<!-- Node8&#45;&gt;Node27 -->
-<g id="edge30" class="edge"><title>Node8&#45;&gt;Node27</title>
-<path fill="none" stroke="midnightblue" d="M1534.07,-278.088C1577.15,-267.887 1640.59,-252.861 1680.04,-243.516"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1533.05,-274.733 1524.13,-280.444 1534.66,-281.545 1533.05,-274.733"/>
+<!-- Node8&#45;&gt;Node25 -->
+<g id="edge28" class="edge"><title>Node8&#45;&gt;Node25</title>
+<path fill="none" stroke="midnightblue" d="M1169.23,-279.996C1443.66,-248.962 1759.48,-239.076 1889.03,-236.131"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1168.61,-276.543 1159.08,-281.156 1169.41,-283.498 1168.61,-276.543"/>
 </g>
-<!-- Node40 -->
-<g id="node40" class="node"><title>Node40</title>
-<g id="a_node40"><a xlink:href="FrameStream_8cpp.xhtml" target="_top" xlink:title="FrameStream.cpp">
-<polygon fill="none" stroke="black" points="1996.5,-56.5 1996.5,-75.5 2091.5,-75.5 2091.5,-56.5 1996.5,-56.5"/>
-<text text-anchor="middle" x="2044" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">FrameStream.cpp</text>
+<!-- Node41 -->
+<g id="node41" class="node"><title>Node41</title>
+<g id="a_node41"><a xlink:href="FrameStream_8cpp.xhtml" target="_top" xlink:title="FrameStream.cpp">
+<polygon fill="none" stroke="black" points="1504.5,-56.5 1504.5,-75.5 1599.5,-75.5 1599.5,-56.5 1504.5,-56.5"/>
+<text text-anchor="middle" x="1552" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">FrameStream.cpp</text>
 </a>
 </g>
 </g>
-<!-- Node8&#45;&gt;Node40 -->
-<g id="edge62" class="edge"><title>Node8&#45;&gt;Node40</title>
-<path fill="none" stroke="midnightblue" d="M1541.31,-287.945C1602.03,-285.161 1703.26,-275.653 1784,-244 1839.67,-222.177 1990.37,-108.158 2032.76,-75.6558"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1541.04,-284.453 1531.2,-288.364 1541.33,-291.447 1541.04,-284.453"/>
+<!-- Node8&#45;&gt;Node41 -->
+<g id="edge62" class="edge"><title>Node8&#45;&gt;Node41</title>
+<path fill="none" stroke="midnightblue" d="M1169.27,-279.832C1265.37,-264.295 1293.55,-271.794 1383,-244 1488.16,-211.326 1548.12,-226.882 1604,-132 1616.91,-110.084 1587.49,-87.5799 1567.84,-75.655"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1168.42,-276.426 1159.13,-281.517 1169.57,-283.332 1168.42,-276.426"/>
 </g>
-<!-- Node42 -->
-<g id="node42" class="node"><title>Node42</title>
-<g id="a_node42"><a xlink:href="FilterFactory_8h.xhtml" target="_top" xlink:title="FilterFactory.h">
-<polygon fill="none" stroke="black" points="2172,-224.5 2172,-243.5 2252,-243.5 2252,-224.5 2172,-224.5"/>
-<text text-anchor="middle" x="2212" y="-231.5" font-family="Helvetica,sans-Serif" font-size="10.00">FilterFactory.h</text>
+<!-- Node43 -->
+<g id="node43" class="node"><title>Node43</title>
+<g id="a_node43"><a xlink:href="FilterFactory_8h.xhtml" target="_top" xlink:title="FilterFactory.h">
+<polygon fill="none" stroke="black" points="778,-224.5 778,-243.5 858,-243.5 858,-224.5 778,-224.5"/>
+<text text-anchor="middle" x="818" y="-231.5" font-family="Helvetica,sans-Serif" font-size="10.00">FilterFactory.h</text>
 </a>
 </g>
 </g>
-<!-- Node8&#45;&gt;Node42 -->
-<g id="edge56" class="edge"><title>Node8&#45;&gt;Node42</title>
-<path fill="none" stroke="midnightblue" d="M1541.49,-285.011C1680.2,-274.665 2049.24,-247.14 2171.8,-237.998"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1540.83,-281.55 1531.12,-285.784 1541.35,-288.53 1540.83,-281.55"/>
+<!-- Node8&#45;&gt;Node43 -->
+<g id="edge57" class="edge"><title>Node8&#45;&gt;Node43</title>
+<path fill="none" stroke="midnightblue" d="M1062.79,-279.429C1012.37,-270.349 934.522,-256.302 867,-244 864.107,-243.473 861.118,-242.927 858.11,-242.377"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1062.35,-282.906 1072.81,-281.233 1063.59,-276.016 1062.35,-282.906"/>
 </g>
 <!-- Node46 -->
 <g id="node46" class="node"><title>Node46</title>
 <g id="a_node46"><a xlink:href="PointCloudFrameGenerator_8cpp.xhtml" target="_top" xlink:title="PointCloudFrameGenerator.cpp">
-<polygon fill="none" stroke="black" points="1330,-224.5 1330,-243.5 1484,-243.5 1484,-224.5 1330,-224.5"/>
-<text text-anchor="middle" x="1407" y="-231.5" font-family="Helvetica,sans-Serif" font-size="10.00">PointCloudFrameGenerator.cpp</text>
+<polygon fill="none" stroke="black" points="876,-224.5 876,-243.5 1030,-243.5 1030,-224.5 876,-224.5"/>
+<text text-anchor="middle" x="953" y="-231.5" font-family="Helvetica,sans-Serif" font-size="10.00">PointCloudFrameGenerator.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node8&#45;&gt;Node46 -->
 <g id="edge63" class="edge"><title>Node8&#45;&gt;Node46</title>
-<path fill="none" stroke="midnightblue" d="M1466.43,-274.622C1451.64,-264.757 1432.49,-251.992 1419.98,-243.655"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1464.72,-277.689 1474.99,-280.324 1468.61,-271.865 1464.72,-277.689"/>
+<path fill="none" stroke="midnightblue" d="M1080.3,-277.172C1049.6,-267.004 1006.08,-252.585 978.707,-243.516"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1079.58,-280.621 1090.17,-280.444 1081.78,-273.976 1079.58,-280.621"/>
 </g>
 <!-- Node47 -->
 <g id="node47" class="node"><title>Node47</title>
 <g id="a_node47"><a xlink:href="PyDepthCameraCallback_8h.xhtml" target="_top" xlink:title="PyDepthCameraCallback.h">
-<polygon fill="none" stroke="black" points="1502,-224.5 1502,-243.5 1638,-243.5 1638,-224.5 1502,-224.5"/>
-<text text-anchor="middle" x="1570" y="-231.5" font-family="Helvetica,sans-Serif" font-size="10.00">PyDepthCameraCallback.h</text>
+<polygon fill="none" stroke="black" points="1048,-224.5 1048,-243.5 1184,-243.5 1184,-224.5 1048,-224.5"/>
+<text text-anchor="middle" x="1116" y="-231.5" font-family="Helvetica,sans-Serif" font-size="10.00">PyDepthCameraCallback.h</text>
 </a>
 </g>
 </g>
 <!-- Node8&#45;&gt;Node47 -->
 <g id="edge64" class="edge"><title>Node8&#45;&gt;Node47</title>
-<path fill="none" stroke="midnightblue" d="M1509.83,-274.622C1524.81,-264.757 1544.2,-251.992 1556.86,-243.655"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1507.6,-271.901 1501.17,-280.324 1511.45,-277.747 1507.6,-271.901"/>
+<path fill="none" stroke="midnightblue" d="M1116,-269.805C1116,-260.91 1116,-250.78 1116,-243.751"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1112.5,-270.083 1116,-280.083 1119.5,-270.083 1112.5,-270.083"/>
 </g>
 <!-- Node48 -->
 <g id="node48" class="node"><title>Node48</title>
 <g id="a_node48"><a xlink:href="PCLGrabber_8h.xhtml" target="_top" xlink:title="PCLGrabber.h">
-<polygon fill="none" stroke="black" points="1244.5,-112.5 1244.5,-131.5 1323.5,-131.5 1323.5,-112.5 1244.5,-112.5"/>
-<text text-anchor="middle" x="1284" y="-119.5" font-family="Helvetica,sans-Serif" font-size="10.00">PCLGrabber.h</text>
+<polygon fill="none" stroke="black" points="1008.5,-112.5 1008.5,-131.5 1087.5,-131.5 1087.5,-112.5 1008.5,-112.5"/>
+<text text-anchor="middle" x="1048" y="-119.5" font-family="Helvetica,sans-Serif" font-size="10.00">PCLGrabber.h</text>
 </a>
 </g>
 </g>
 <!-- Node8&#45;&gt;Node48 -->
 <g id="edge65" class="edge"><title>Node8&#45;&gt;Node48</title>
-<path fill="none" stroke="midnightblue" d="M1434.46,-288.358C1361.23,-286.215 1235.64,-277.594 1207,-244 1174.37,-205.726 1241.17,-152.516 1270.81,-131.771"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1434.78,-291.867 1444.86,-288.629 1434.96,-284.87 1434.78,-291.867"/>
+<path fill="none" stroke="midnightblue" d="M1151.45,-276.529C1177.01,-265.327 1205.06,-247.102 1193,-224 1167.51,-175.185 1106.48,-145.17 1072.28,-131.59"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1149.78,-273.432 1141.86,-280.474 1152.44,-279.905 1149.78,-273.432"/>
 </g>
 <!-- Node10 -->
 <g id="node10" class="node"><title>Node10</title>
 <g id="a_node10"><a xlink:href="CLIManager_8h.xhtml" target="_top" xlink:title="CLIManager.h">
-<polygon fill="none" stroke="black" points="2110,-56.5 2110,-75.5 2188,-75.5 2188,-56.5 2110,-56.5"/>
-<text text-anchor="middle" x="2149" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">CLIManager.h</text>
+<polygon fill="none" stroke="black" points="1363,-56.5 1363,-75.5 1441,-75.5 1441,-56.5 1363,-56.5"/>
+<text text-anchor="middle" x="1402" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">CLIManager.h</text>
 </a>
 </g>
 </g>
 <!-- Node9&#45;&gt;Node10 -->
 <g id="edge9" class="edge"><title>Node9&#45;&gt;Node10</title>
-<path fill="none" stroke="midnightblue" d="M2061.48,-108.096C2082.97,-98.0073 2112.22,-84.2697 2130.86,-75.5164"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="2059.79,-105.025 2052.22,-112.444 2062.76,-111.361 2059.79,-105.025"/>
+<path fill="none" stroke="midnightblue" d="M1189.92,-111.216C1239.41,-100.898 1316.5,-84.8254 1362.84,-75.1643"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1189.18,-107.796 1180.11,-113.263 1190.61,-114.648 1189.18,-107.796"/>
 </g>
 <!-- Node13 -->
 <g id="node13" class="node"><title>Node13</title>
 <g id="a_node13"><a xlink:href="PCLViewer_8cpp.xhtml" target="_top" xlink:title="PCLViewer.cpp">
-<polygon fill="none" stroke="black" points="1233.5,-56.5 1233.5,-75.5 1318.5,-75.5 1318.5,-56.5 1233.5,-56.5"/>
-<text text-anchor="middle" x="1276" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">PCLViewer.cpp</text>
+<polygon fill="none" stroke="black" points="1103.5,-56.5 1103.5,-75.5 1188.5,-75.5 1188.5,-56.5 1103.5,-56.5"/>
+<text text-anchor="middle" x="1146" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">PCLViewer.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node9&#45;&gt;Node13 -->
 <g id="edge12" class="edge"><title>Node9&#45;&gt;Node13</title>
-<path fill="none" stroke="midnightblue" d="M1986.75,-115.592C1974.47,-114.298 1961.25,-113.002 1949,-112 1673.02,-89.4153 1602.04,-108.116 1327,-76 1324.23,-75.6767 1321.39,-75.2998 1318.52,-74.8869"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1986.48,-119.084 1996.8,-116.673 1987.23,-112.124 1986.48,-119.084"/>
+<path fill="none" stroke="midnightblue" d="M1144.07,-101.805C1144.56,-92.9102 1145.12,-82.7798 1145.51,-75.7511"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1140.56,-101.904 1143.5,-112.083 1147.54,-102.293 1140.56,-101.904"/>
 </g>
 <!-- Node14 -->
 <g id="node14" class="node"><title>Node14</title>
 <g id="a_node14"><a xlink:href="SimpleVoxelViewer_8cpp.xhtml" target="_top" xlink:title="SimpleVoxelViewer.cpp">
-<polygon fill="none" stroke="black" points="2206,-56.5 2206,-75.5 2326,-75.5 2326,-56.5 2206,-56.5"/>
-<text text-anchor="middle" x="2266" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">SimpleVoxelViewer.cpp</text>
+<polygon fill="none" stroke="black" points="1219,-56.5 1219,-75.5 1339,-75.5 1339,-56.5 1219,-56.5"/>
+<text text-anchor="middle" x="1279" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">SimpleVoxelViewer.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node9&#45;&gt;Node14 -->
 <g id="edge13" class="edge"><title>Node9&#45;&gt;Node14</title>
-<path fill="none" stroke="midnightblue" d="M2080.6,-110.153C2124.44,-99.95 2189.18,-84.8809 2229.41,-75.5164"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="2079.71,-106.768 2070.76,-112.444 2081.29,-113.585 2079.71,-106.768"/>
+<path fill="none" stroke="midnightblue" d="M1174.13,-108.638C1199.66,-98.504 1235.11,-84.4274 1257.55,-75.5164"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1172.55,-105.5 1164.55,-112.444 1175.14,-112.006 1172.55,-105.5"/>
 </g>
 <!-- Node11 -->
 <g id="node11" class="node"><title>Node11</title>
 <g id="a_node11"><a xlink:href="CLIManager_8cpp.xhtml" target="_top" xlink:title="CLIManager.cpp">
-<polygon fill="none" stroke="black" points="1632.5,-0.5 1632.5,-19.5 1721.5,-19.5 1721.5,-0.5 1632.5,-0.5"/>
-<text text-anchor="middle" x="1677" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">CLIManager.cpp</text>
+<polygon fill="none" stroke="black" points="1143.5,-0.5 1143.5,-19.5 1232.5,-19.5 1232.5,-0.5 1143.5,-0.5"/>
+<text text-anchor="middle" x="1188" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">CLIManager.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node10&#45;&gt;Node11 -->
 <g id="edge10" class="edge"><title>Node10&#45;&gt;Node11</title>
-<path fill="none" stroke="midnightblue" d="M2100.31,-56.0443C2100.2,-56.0295 2100.1,-56.0147 2100,-56 1962.59,-36.101 1798.88,-21.1599 1721.6,-14.6264"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="2099.57,-59.4724 2109.99,-57.5608 2100.66,-52.5566 2099.57,-59.4724"/>
+<path fill="none" stroke="midnightblue" d="M1358.24,-53.959C1317.83,-43.7598 1258.63,-28.8217 1221.75,-19.5164"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1357.54,-57.3904 1368.09,-56.4435 1359.25,-50.6032 1357.54,-57.3904"/>
 </g>
 <!-- Node12 -->
 <g id="node12" class="node"><title>Node12</title>
 <g id="a_node12"><a xlink:href="VoxelCLI_8cpp.xhtml" target="_top" xlink:title="VoxelCLI.cpp">
-<polygon fill="none" stroke="black" points="2213,-0.5 2213,-19.5 2289,-19.5 2289,-0.5 2213,-0.5"/>
-<text text-anchor="middle" x="2251" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">VoxelCLI.cpp</text>
+<polygon fill="none" stroke="black" points="1399,-0.5 1399,-19.5 1475,-19.5 1475,-0.5 1399,-0.5"/>
+<text text-anchor="middle" x="1437" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">VoxelCLI.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node10&#45;&gt;Node12 -->
 <g id="edge11" class="edge"><title>Node10&#45;&gt;Node12</title>
-<path fill="none" stroke="midnightblue" d="M2174.33,-51.5895C2193.19,-41.6052 2218.38,-28.2672 2234.65,-19.6545"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="2172.59,-48.5518 2165.39,-56.324 2175.86,-54.7383 2172.59,-48.5518"/>
+<path fill="none" stroke="midnightblue" d="M1413.3,-47.5656C1419.32,-38.2747 1426.47,-27.2484 1431.33,-19.7511"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1410.28,-45.7878 1407.78,-56.083 1416.16,-49.5951 1410.28,-45.7878"/>
 </g>
 <!-- Node16 -->
 <g id="node16" class="node"><title>Node16</title>
 <g id="a_node16"><a xlink:href="ToFCamera_8h.xhtml" target="_top" xlink:title="ToFCamera.h">
-<polygon fill="none" stroke="black" points="533.5,-168.5 533.5,-187.5 610.5,-187.5 610.5,-168.5 533.5,-168.5"/>
-<text text-anchor="middle" x="572" y="-175.5" font-family="Helvetica,sans-Serif" font-size="10.00">ToFCamera.h</text>
+<polygon fill="none" stroke="black" points="554.5,-168.5 554.5,-187.5 631.5,-187.5 631.5,-168.5 554.5,-168.5"/>
+<text text-anchor="middle" x="593" y="-175.5" font-family="Helvetica,sans-Serif" font-size="10.00">ToFCamera.h</text>
 </a>
 </g>
 </g>
 <!-- Node15&#45;&gt;Node16 -->
 <g id="edge15" class="edge"><title>Node15&#45;&gt;Node16</title>
-<path fill="none" stroke="midnightblue" d="M806.057,-222.583C748.68,-211.899 660.94,-195.561 610.776,-186.22"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="805.577,-226.054 816.049,-224.444 806.858,-219.172 805.577,-226.054"/>
+<path fill="none" stroke="midnightblue" d="M677.751,-219.862C656.984,-209.849 628.977,-196.346 610.95,-187.655"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="676.477,-223.134 687.005,-224.324 679.518,-216.828 676.477,-223.134"/>
 </g>
-<!-- Node25 -->
-<g id="node25" class="node"><title>Node25</title>
-<g id="a_node25"><a xlink:href="ToFCameraBase_8cpp.xhtml" target="_top" xlink:title="ToFCameraBase.cpp">
-<polygon fill="none" stroke="black" points="807,-168.5 807,-187.5 917,-187.5 917,-168.5 807,-168.5"/>
-<text text-anchor="middle" x="862" y="-175.5" font-family="Helvetica,sans-Serif" font-size="10.00">ToFCameraBase.cpp</text>
+<!-- Node23 -->
+<g id="node23" class="node"><title>Node23</title>
+<g id="a_node23"><a xlink:href="ToFCameraBase_8cpp.xhtml" target="_top" xlink:title="ToFCameraBase.cpp">
+<polygon fill="none" stroke="black" points="650,-168.5 650,-187.5 760,-187.5 760,-168.5 650,-168.5"/>
+<text text-anchor="middle" x="705" y="-175.5" font-family="Helvetica,sans-Serif" font-size="10.00">ToFCameraBase.cpp</text>
 </a>
 </g>
 </g>
-<!-- Node15&#45;&gt;Node25 -->
-<g id="edge28" class="edge"><title>Node15&#45;&gt;Node25</title>
-<path fill="none" stroke="midnightblue" d="M862,-213.805C862,-204.91 862,-194.78 862,-187.751"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="858.5,-214.083 862,-224.083 865.5,-214.083 858.5,-214.083"/>
+<!-- Node15&#45;&gt;Node23 -->
+<g id="edge26" class="edge"><title>Node15&#45;&gt;Node23</title>
+<path fill="none" stroke="midnightblue" d="M705,-213.805C705,-204.91 705,-194.78 705,-187.751"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="701.5,-214.083 705,-224.083 708.5,-214.083 701.5,-214.083"/>
 </g>
 <!-- Node16&#45;&gt;Node3 -->
-<g id="edge20" class="edge"><title>Node16&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M523.32,-172.432C447.75,-165.139 297.71,-149.854 171,-132 167.95,-131.57 164.806,-131.102 161.642,-130.612"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="523.19,-175.936 533.479,-173.407 523.859,-168.968 523.19,-175.936"/>
+<g id="edge18" class="edge"><title>Node16&#45;&gt;Node3</title>
+<path fill="none" stroke="midnightblue" d="M544.244,-170.777C480.283,-162.502 364.589,-147.151 266,-132 262.956,-131.532 259.816,-131.035 256.655,-130.525"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="544.068,-174.283 554.433,-172.092 544.964,-167.341 544.068,-174.283"/>
 </g>
 <!-- Node17 -->
 <g id="node17" class="node"><title>Node17</title>
 <g id="a_node17"><a xlink:href="ToFCalculusCamera_8h.xhtml" target="_top" xlink:title="ToFCalculusCamera.h">
-<polygon fill="none" stroke="black" points="741.5,-112.5 741.5,-131.5 856.5,-131.5 856.5,-112.5 741.5,-112.5"/>
-<text text-anchor="middle" x="799" y="-119.5" font-family="Helvetica,sans-Serif" font-size="10.00">ToFCalculusCamera.h</text>
+<polygon fill="none" stroke="red" points="409.5,-112.5 409.5,-131.5 524.5,-131.5 524.5,-112.5 409.5,-112.5"/>
+<text text-anchor="middle" x="467" y="-119.5" font-family="Helvetica,sans-Serif" font-size="10.00">ToFCalculusCamera.h</text>
 </a>
 </g>
 </g>
 <!-- Node16&#45;&gt;Node17 -->
 <g id="edge16" class="edge"><title>Node16&#45;&gt;Node17</title>
-<path fill="none" stroke="midnightblue" d="M617.869,-166.088C660.755,-155.887 723.917,-140.861 763.199,-131.516"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="616.887,-162.724 607.969,-168.444 618.507,-169.534 616.887,-162.724"/>
+<path fill="none" stroke="midnightblue" d="M563.84,-164.503C540.219,-154.38 507.572,-140.388 486.872,-131.516"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="562.465,-167.721 573.035,-168.444 565.222,-161.287 562.465,-167.721"/>
+</g>
+<!-- Node18 -->
+<g id="node18" class="node"><title>Node18</title>
+<g id="a_node18"><a xlink:href="ToFCameraFactoryBase_8cpp.xhtml" target="_top" xlink:title="ToFCameraFactoryBase.cpp">
+<polygon fill="none" stroke="black" points="1341.5,-112.5 1341.5,-131.5 1484.5,-131.5 1484.5,-112.5 1341.5,-112.5"/>
+<text text-anchor="middle" x="1413" y="-119.5" font-family="Helvetica,sans-Serif" font-size="10.00">ToFCameraFactoryBase.cpp</text>
+</a>
+</g>
+</g>
+<!-- Node16&#45;&gt;Node18 -->
+<g id="edge19" class="edge"><title>Node16&#45;&gt;Node18</title>
+<path fill="none" stroke="midnightblue" d="M641.764,-168.091C948.09,-132.122 1028.78,-156.723 1332,-132 1335.1,-131.747 1338.27,-131.471 1341.47,-131.178"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="641.222,-164.631 631.704,-169.285 642.047,-171.582 641.222,-164.631"/>
+</g>
+<!-- Node19 -->
+<g id="node19" class="node"><title>Node19</title>
+<g id="a_node19"><a xlink:href="ToFDepthFrameGenerator_8cpp.xhtml" target="_top" xlink:title="ToFDepthFrameGenerator.cpp">
+<polygon fill="none" stroke="black" points="661.5,-112.5 661.5,-131.5 810.5,-131.5 810.5,-112.5 661.5,-112.5"/>
+<text text-anchor="middle" x="736" y="-119.5" font-family="Helvetica,sans-Serif" font-size="10.00">ToFDepthFrameGenerator.cpp</text>
+</a>
+</g>
+</g>
+<!-- Node16&#45;&gt;Node19 -->
+<g id="edge20" class="edge"><title>Node16&#45;&gt;Node19</title>
+<path fill="none" stroke="midnightblue" d="M625.027,-164.906C651.912,-154.754 689.641,-140.506 713.447,-131.516"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="623.778,-161.636 615.659,-168.444 626.25,-168.185 623.778,-161.636"/>
 </g>
 <!-- Node20 -->
 <g id="node20" class="node"><title>Node20</title>
-<g id="a_node20"><a xlink:href="ToFCameraFactoryBase_8cpp.xhtml" target="_top" xlink:title="ToFCameraFactoryBase.cpp">
-<polygon fill="none" stroke="black" points="874.5,-112.5 874.5,-131.5 1017.5,-131.5 1017.5,-112.5 874.5,-112.5"/>
-<text text-anchor="middle" x="946" y="-119.5" font-family="Helvetica,sans-Serif" font-size="10.00">ToFCameraFactoryBase.cpp</text>
+<g id="a_node20"><a xlink:href="ToFFrameGenerator_8cpp.xhtml" target="_top" xlink:title="ToFFrameGenerator.cpp">
+<polygon fill="none" stroke="black" points="828.5,-112.5 828.5,-131.5 951.5,-131.5 951.5,-112.5 828.5,-112.5"/>
+<text text-anchor="middle" x="890" y="-119.5" font-family="Helvetica,sans-Serif" font-size="10.00">ToFFrameGenerator.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node16&#45;&gt;Node20 -->
 <g id="edge21" class="edge"><title>Node16&#45;&gt;Node20</title>
-<path fill="none" stroke="midnightblue" d="M620.682,-169.971C689.01,-160.106 813.214,-142.172 886.8,-131.548"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="620.013,-166.531 610.616,-171.424 621.013,-173.459 620.013,-166.531"/>
+<path fill="none" stroke="midnightblue" d="M641.76,-167.87C717.904,-153.87 794.265,-140.131 842.248,-131.534"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="640.71,-164.504 631.508,-169.757 641.977,-171.389 640.71,-164.504"/>
 </g>
 <!-- Node21 -->
 <g id="node21" class="node"><title>Node21</title>
-<g id="a_node21"><a xlink:href="ToFDepthFrameGenerator_8cpp.xhtml" target="_top" xlink:title="ToFDepthFrameGenerator.cpp">
-<polygon fill="none" stroke="black" points="574.5,-112.5 574.5,-131.5 723.5,-131.5 723.5,-112.5 574.5,-112.5"/>
-<text text-anchor="middle" x="649" y="-119.5" font-family="Helvetica,sans-Serif" font-size="10.00">ToFDepthFrameGenerator.cpp</text>
+<g id="a_node21"><a xlink:href="ToFHaddockCamera_8h.xhtml" target="_top" xlink:title="ToFHaddockCamera.h">
+<polygon fill="none" stroke="red" points="275,-112.5 275,-131.5 391,-131.5 391,-112.5 275,-112.5"/>
+<text text-anchor="middle" x="333" y="-119.5" font-family="Helvetica,sans-Serif" font-size="10.00">ToFHaddockCamera.h</text>
 </a>
 </g>
 </g>
 <!-- Node16&#45;&gt;Node21 -->
 <g id="edge22" class="edge"><title>Node16&#45;&gt;Node21</title>
-<path fill="none" stroke="midnightblue" d="M592.901,-162.342C606.911,-152.517 624.883,-139.913 636.659,-131.655"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="590.549,-159.717 584.371,-168.324 594.568,-165.448 590.549,-159.717"/>
+<path fill="none" stroke="midnightblue" d="M544.286,-166.883C495.164,-156.68 420.179,-141.106 374.004,-131.516"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="543.853,-170.367 554.356,-168.974 545.277,-163.513 543.853,-170.367"/>
 </g>
 <!-- Node22 -->
 <g id="node22" class="node"><title>Node22</title>
-<g id="a_node22"><a xlink:href="ToFFrameGenerator_8cpp.xhtml" target="_top" xlink:title="ToFFrameGenerator.cpp">
-<polygon fill="none" stroke="black" points="433.5,-112.5 433.5,-131.5 556.5,-131.5 556.5,-112.5 433.5,-112.5"/>
-<text text-anchor="middle" x="495" y="-119.5" font-family="Helvetica,sans-Serif" font-size="10.00">ToFFrameGenerator.cpp</text>
+<g id="a_node22"><a xlink:href="ToFTintinCamera_8h.xhtml" target="_top" xlink:title="ToFTintinCamera.h">
+<polygon fill="none" stroke="red" points="542.5,-112.5 542.5,-131.5 643.5,-131.5 643.5,-112.5 542.5,-112.5"/>
+<text text-anchor="middle" x="593" y="-119.5" font-family="Helvetica,sans-Serif" font-size="10.00">ToFTintinCamera.h</text>
 </a>
 </g>
 </g>
 <!-- Node16&#45;&gt;Node22 -->
-<g id="edge23" class="edge"><title>Node16&#45;&gt;Node22</title>
-<path fill="none" stroke="midnightblue" d="M551.099,-162.342C537.089,-152.517 519.117,-139.913 507.341,-131.655"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="549.432,-165.448 559.629,-168.324 553.451,-159.717 549.432,-165.448"/>
-</g>
-<!-- Node23 -->
-<g id="node23" class="node"><title>Node23</title>
-<g id="a_node23"><a xlink:href="ToFHaddockCamera_8h.xhtml" target="_top" xlink:title="ToFHaddockCamera.h">
-<polygon fill="none" stroke="red" points="180,-112.5 180,-131.5 296,-131.5 296,-112.5 180,-112.5"/>
-<text text-anchor="middle" x="238" y="-119.5" font-family="Helvetica,sans-Serif" font-size="10.00">ToFHaddockCamera.h</text>
-</a>
-</g>
-</g>
-<!-- Node16&#45;&gt;Node23 -->
-<g id="edge24" class="edge"><title>Node16&#45;&gt;Node23</title>
-<path fill="none" stroke="midnightblue" d="M523.445,-169.15C461.497,-159.134 354.739,-141.874 290.814,-131.539"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="522.929,-172.612 533.36,-170.753 524.046,-165.702 522.929,-172.612"/>
-</g>
-<!-- Node24 -->
-<g id="node24" class="node"><title>Node24</title>
-<g id="a_node24"><a xlink:href="ToFTintinCamera_8h.xhtml" target="_top" xlink:title="ToFTintinCamera.h">
-<polygon fill="none" stroke="red" points="314.5,-112.5 314.5,-131.5 415.5,-131.5 415.5,-112.5 314.5,-112.5"/>
-<text text-anchor="middle" x="365" y="-119.5" font-family="Helvetica,sans-Serif" font-size="10.00">ToFTintinCamera.h</text>
-</a>
-</g>
-</g>
-<!-- Node16&#45;&gt;Node24 -->
-<g id="edge26" class="edge"><title>Node16&#45;&gt;Node24</title>
-<path fill="none" stroke="midnightblue" d="M529.178,-165.829C490.094,-155.633 433.165,-140.782 397.646,-131.516"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="528.641,-169.306 539.2,-168.444 530.408,-162.533 528.641,-169.306"/>
+<g id="edge24" class="edge"><title>Node16&#45;&gt;Node22</title>
+<path fill="none" stroke="midnightblue" d="M593,-157.805C593,-148.91 593,-138.78 593,-131.751"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="589.5,-158.083 593,-168.083 596.5,-158.083 589.5,-158.083"/>
 </g>
 <!-- Node17&#45;&gt;Node2 -->
-<g id="edge19" class="edge"><title>Node17&#45;&gt;Node2</title>
-<path fill="none" stroke="midnightblue" d="M833.608,-109.172C863.359,-99.0039 905.547,-84.5852 932.082,-75.5164"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="832.366,-105.898 824.036,-112.444 834.63,-112.521 832.366,-105.898"/>
+<g id="edge17" class="edge"><title>Node17&#45;&gt;Node2</title>
+<path fill="none" stroke="midnightblue" d="M439.336,-108.232C417.451,-98.1312 387.503,-84.3091 368.452,-75.5164"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="437.915,-111.431 448.461,-112.444 440.848,-105.075 437.915,-111.431"/>
 </g>
-<!-- Node18 -->
-<g id="node18" class="node"><title>Node18</title>
-<g id="a_node18"><a xlink:href="CalculusCDKCamera_8h.xhtml" target="_top" xlink:title="CalculusCDKCamera.h">
-<polygon fill="none" stroke="red" points="743.5,-56.5 743.5,-75.5 862.5,-75.5 862.5,-56.5 743.5,-56.5"/>
-<text text-anchor="middle" x="803" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">CalculusCDKCamera.h</text>
+<!-- Node21&#45;&gt;Node4 -->
+<g id="edge23" class="edge"><title>Node21&#45;&gt;Node4</title>
+<path fill="none" stroke="midnightblue" d="M280.367,-110.473C229.339,-100.268 152.897,-84.9794 105.582,-75.5164"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="279.725,-113.914 290.218,-112.444 281.098,-107.05 279.725,-113.914"/>
+</g>
+<!-- Node22&#45;&gt;Node5 -->
+<g id="edge25" class="edge"><title>Node22&#45;&gt;Node5</title>
+<path fill="none" stroke="midnightblue" d="M581.377,-103.566C575.183,-94.2747 567.832,-83.2484 562.834,-75.7511"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="578.596,-105.704 587.055,-112.083 584.42,-101.821 578.596,-105.704"/>
+</g>
+<!-- Node26 -->
+<g id="node26" class="node"><title>Node26</title>
+<g id="a_node26"><a xlink:href="CalculusCDKCameraFactory_8h.xhtml" target="_top" xlink:title="CalculusCDKCameraFactory.h">
+<polygon fill="none" stroke="black" points="1796,-112.5 1796,-131.5 1948,-131.5 1948,-112.5 1796,-112.5"/>
+<text text-anchor="middle" x="1872" y="-119.5" font-family="Helvetica,sans-Serif" font-size="10.00">CalculusCDKCameraFactory.h</text>
 </a>
 </g>
 </g>
-<!-- Node17&#45;&gt;Node18 -->
-<g id="edge17" class="edge"><title>Node17&#45;&gt;Node18</title>
-<path fill="none" stroke="midnightblue" d="M800.4,-102.101C801.064,-93.1357 801.825,-82.8579 802.352,-75.7511"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="796.909,-101.852 799.661,-112.083 803.89,-102.369 796.909,-101.852"/>
-</g>
-<!-- Node19 -->
-<g id="node19" class="node"><title>Node19</title>
-<g id="a_node19"><a xlink:href="CalculusCDKCameraFactory_8cpp.xhtml" target="_top" xlink:title="CalculusCDKCameraFactory.cpp">
-<polygon fill="none" stroke="black" points="847.5,-0.5 847.5,-19.5 1010.5,-19.5 1010.5,-0.5 847.5,-0.5"/>
-<text text-anchor="middle" x="929" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">CalculusCDKCameraFactory.cpp</text>
-</a>
-</g>
-</g>
-<!-- Node18&#45;&gt;Node19 -->
-<g id="edge18" class="edge"><title>Node18&#45;&gt;Node19</title>
-<path fill="none" stroke="midnightblue" d="M832.16,-52.503C855.781,-42.3795 888.428,-28.388 909.128,-19.5164"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="830.778,-49.2873 822.965,-56.4435 833.535,-55.7213 830.778,-49.2873"/>
-</g>
-<!-- Node23&#45;&gt;Node4 -->
-<g id="edge25" class="edge"><title>Node23&#45;&gt;Node4</title>
-<path fill="none" stroke="midnightblue" d="M200.525,-109.436C167.53,-99.2551 120.244,-84.664 90.5995,-75.5164"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="199.683,-112.839 210.271,-112.444 201.747,-106.151 199.683,-112.839"/>
-</g>
-<!-- Node24&#45;&gt;Node5 -->
-<g id="edge27" class="edge"><title>Node24&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M338.238,-107.862C317.841,-97.8492 290.334,-84.3458 272.63,-75.6545"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="336.808,-111.059 347.327,-112.324 339.892,-104.775 336.808,-111.059"/>
+<!-- Node25&#45;&gt;Node26 -->
+<g id="edge29" class="edge"><title>Node25&#45;&gt;Node26</title>
+<path fill="none" stroke="midnightblue" d="M1937.07,-215.957C1920.38,-192.118 1890.7,-149.709 1878.01,-131.591"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1934.36,-218.183 1942.96,-224.368 1940.09,-214.169 1934.36,-218.183"/>
 </g>
 <!-- Node28 -->
 <g id="node28" class="node"><title>Node28</title>
-<g id="a_node28"><a xlink:href="CalculusCDKCameraFactory_8h.xhtml" target="_top" xlink:title="CalculusCDKCameraFactory.h">
-<polygon fill="none" stroke="black" points="1074,-112.5 1074,-131.5 1226,-131.5 1226,-112.5 1074,-112.5"/>
-<text text-anchor="middle" x="1150" y="-119.5" font-family="Helvetica,sans-Serif" font-size="10.00">CalculusCDKCameraFactory.h</text>
+<g id="a_node28"><a xlink:href="HaddockCDKCameraFactory_8h.xhtml" target="_top" xlink:title="HaddockCDKCameraFactory.h">
+<polygon fill="none" stroke="black" points="1966.5,-112.5 1966.5,-131.5 2119.5,-131.5 2119.5,-112.5 1966.5,-112.5"/>
+<text text-anchor="middle" x="2043" y="-119.5" font-family="Helvetica,sans-Serif" font-size="10.00">HaddockCDKCameraFactory.h</text>
 </a>
 </g>
 </g>
-<!-- Node27&#45;&gt;Node28 -->
-<g id="edge31" class="edge"><title>Node27&#45;&gt;Node28</title>
-<path fill="none" stroke="midnightblue" d="M1652.74,-222.872C1599.59,-214.187 1521.69,-201.045 1454,-188 1357.81,-169.464 1245.21,-144.539 1187.81,-131.601"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1652.26,-226.341 1662.69,-224.495 1653.39,-219.432 1652.26,-226.341"/>
-</g>
-<!-- Node29 -->
-<g id="node29" class="node"><title>Node29</title>
-<g id="a_node29"><a xlink:href="HaddockCDKCameraFactory_8h.xhtml" target="_top" xlink:title="HaddockCDKCameraFactory.h">
-<polygon fill="none" stroke="black" points="1787.5,-112.5 1787.5,-131.5 1940.5,-131.5 1940.5,-112.5 1787.5,-112.5"/>
-<text text-anchor="middle" x="1864" y="-119.5" font-family="Helvetica,sans-Serif" font-size="10.00">HaddockCDKCameraFactory.h</text>
-</a>
-</g>
-</g>
-<!-- Node27&#45;&gt;Node29 -->
-<g id="edge33" class="edge"><title>Node27&#45;&gt;Node29</title>
-<path fill="none" stroke="midnightblue" d="M1736.02,-218.118C1767.44,-194.769 1827.31,-150.27 1852.44,-131.591"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1733.55,-215.594 1727.61,-224.368 1737.73,-221.212 1733.55,-215.594"/>
-</g>
-<!-- Node31 -->
-<g id="node31" class="node"><title>Node31</title>
-<g id="a_node31"><a xlink:href="TintinCDKCameraFactory_8h.xhtml" target="_top" xlink:title="TintinCDKCameraFactory.h">
-<polygon fill="none" stroke="black" points="1342,-112.5 1342,-131.5 1480,-131.5 1480,-112.5 1342,-112.5"/>
-<text text-anchor="middle" x="1411" y="-119.5" font-family="Helvetica,sans-Serif" font-size="10.00">TintinCDKCameraFactory.h</text>
-</a>
-</g>
-</g>
-<!-- Node27&#45;&gt;Node31 -->
-<g id="edge35" class="edge"><title>Node27&#45;&gt;Node31</title>
-<path fill="none" stroke="midnightblue" d="M1646.39,-223.295C1589.67,-214.661 1514.61,-201.364 1487,-188 1457.93,-173.931 1430.98,-145.993 1418.42,-131.766"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1645.98,-226.774 1656.39,-224.799 1647.02,-219.852 1645.98,-226.774"/>
-</g>
-<!-- Node33 -->
-<g id="node33" class="node"><title>Node33</title>
-<g id="a_node33"><a xlink:href="Voxel14CameraFactory_8h.xhtml" target="_top" xlink:title="Voxel14CameraFactory.h">
-<polygon fill="none" stroke="black" points="1498,-112.5 1498,-131.5 1626,-131.5 1626,-112.5 1498,-112.5"/>
-<text text-anchor="middle" x="1562" y="-119.5" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel14CameraFactory.h</text>
-</a>
-</g>
-</g>
-<!-- Node27&#45;&gt;Node33 -->
-<g id="edge37" class="edge"><title>Node27&#45;&gt;Node33</title>
-<path fill="none" stroke="midnightblue" d="M1698.36,-217.206C1682.73,-203.528 1659.04,-183.551 1637,-168 1617.4,-154.168 1593.42,-140.269 1577.94,-131.654"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1696.34,-220.091 1706.15,-224.088 1700.98,-214.844 1696.34,-220.091"/>
-</g>
-<!-- Node35 -->
-<g id="node35" class="node"><title>Node35</title>
-<g id="a_node35"><a xlink:href="VoxelDCameraFactory_8h.xhtml" target="_top" xlink:title="VoxelDCameraFactory.h">
-<polygon fill="none" stroke="black" points="1644.5,-112.5 1644.5,-131.5 1769.5,-131.5 1769.5,-112.5 1644.5,-112.5"/>
-<text text-anchor="middle" x="1707" y="-119.5" font-family="Helvetica,sans-Serif" font-size="10.00">VoxelDCameraFactory.h</text>
-</a>
-</g>
-</g>
-<!-- Node27&#45;&gt;Node35 -->
-<g id="edge39" class="edge"><title>Node27&#45;&gt;Node35</title>
-<path fill="none" stroke="midnightblue" d="M1714.47,-214.348C1712.5,-190.254 1709.15,-149.308 1707.7,-131.591"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1710.99,-214.687 1715.29,-224.368 1717.97,-214.116 1710.99,-214.687"/>
-</g>
-<!-- Node37 -->
-<g id="node37" class="node"><title>Node37</title>
-<g id="a_node37"><a xlink:href="ToFCameraFactoryBase_8h.xhtml" target="_top" xlink:title="ToFCameraFactoryBase.h">
-<polygon fill="none" stroke="black" points="1496,-168.5 1496,-187.5 1628,-187.5 1628,-168.5 1496,-168.5"/>
-<text text-anchor="middle" x="1562" y="-175.5" font-family="Helvetica,sans-Serif" font-size="10.00">ToFCameraFactoryBase.h</text>
-</a>
-</g>
-</g>
-<!-- Node27&#45;&gt;Node37 -->
-<g id="edge41" class="edge"><title>Node27&#45;&gt;Node37</title>
-<path fill="none" stroke="midnightblue" d="M1681.89,-221.039C1652.91,-210.879 1612.04,-196.546 1586.29,-187.516"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1681,-224.437 1691.6,-224.444 1683.32,-217.832 1681,-224.437"/>
-</g>
-<!-- Node38 -->
-<g id="node38" class="node"><title>Node38</title>
-<g id="a_node38"><a xlink:href="DepthCameraLibrary_8h.xhtml" target="_top" xlink:title="DepthCameraLibrary.h">
-<polygon fill="none" stroke="black" points="2094.5,-168.5 2094.5,-187.5 2209.5,-187.5 2209.5,-168.5 2094.5,-168.5"/>
-<text text-anchor="middle" x="2152" y="-175.5" font-family="Helvetica,sans-Serif" font-size="10.00">DepthCameraLibrary.h</text>
-</a>
-</g>
-</g>
-<!-- Node27&#45;&gt;Node38 -->
-<g id="edge48" class="edge"><title>Node27&#45;&gt;Node38</title>
-<path fill="none" stroke="midnightblue" d="M1785.85,-224.349C1871.43,-213.749 2014.83,-195.989 2094.4,-186.134"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1785.2,-220.902 1775.71,-225.605 1786.06,-227.849 1785.2,-220.902"/>
-</g>
-<!-- Node28&#45;&gt;Node19 -->
-<g id="edge32" class="edge"><title>Node28&#45;&gt;Node19</title>
-<path fill="none" stroke="midnightblue" d="M1125.83,-107.544C1101.38,-94.0706 1062.39,-72.9585 1028,-56 1000.91,-42.6414 969.008,-28.4029 948.894,-19.6026"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1124.31,-110.702 1134.75,-112.478 1127.7,-104.576 1124.31,-110.702"/>
+<!-- Node25&#45;&gt;Node28 -->
+<g id="edge31" class="edge"><title>Node25&#45;&gt;Node28</title>
+<path fill="none" stroke="midnightblue" d="M1950.81,-214.144C1952.96,-200.19 1957.68,-181.365 1968,-168 1981.27,-150.811 2003.12,-138.784 2019.82,-131.516"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1947.33,-213.737 1949.57,-224.092 1954.28,-214.601 1947.33,-213.737"/>
 </g>
 <!-- Node30 -->
 <g id="node30" class="node"><title>Node30</title>
-<g id="a_node30"><a xlink:href="HaddockCDKCameraFactory_8cpp.xhtml" target="_top" xlink:title="HaddockCDKCameraFactory.cpp">
-<polygon fill="none" stroke="black" points="1814,-56.5 1814,-75.5 1978,-75.5 1978,-56.5 1814,-56.5"/>
-<text text-anchor="middle" x="1896" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">HaddockCDKCameraFactory.cpp</text>
+<g id="a_node30"><a xlink:href="RTS5825CameraFactory_8h.xhtml" target="_top" xlink:title="RTS5825CameraFactory.h">
+<polygon fill="none" stroke="black" points="2138,-112.5 2138,-131.5 2272,-131.5 2272,-112.5 2138,-112.5"/>
+<text text-anchor="middle" x="2205" y="-119.5" font-family="Helvetica,sans-Serif" font-size="10.00">RTS5825CameraFactory.h</text>
 </a>
 </g>
 </g>
-<!-- Node29&#45;&gt;Node30 -->
-<g id="edge34" class="edge"><title>Node29&#45;&gt;Node30</title>
-<path fill="none" stroke="midnightblue" d="M1874.5,-103.275C1879.97,-94.0454 1886.42,-83.1703 1890.81,-75.7511"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1871.37,-101.696 1869.28,-112.083 1877.39,-105.264 1871.37,-101.696"/>
+<!-- Node25&#45;&gt;Node30 -->
+<g id="edge33" class="edge"><title>Node25&#45;&gt;Node30</title>
+<path fill="none" stroke="midnightblue" d="M2011.03,-222.405C2043.9,-215.345 2084.32,-204.309 2118,-188 2149.22,-172.881 2180.51,-145.916 2195.64,-131.945"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="2010.17,-219.009 2001.09,-224.469 2011.59,-225.863 2010.17,-219.009"/>
 </g>
 <!-- Node32 -->
 <g id="node32" class="node"><title>Node32</title>
-<g id="a_node32"><a xlink:href="TintinCDKCameraFactory_8cpp.xhtml" target="_top" xlink:title="TintinCDKCameraFactory.cpp">
-<polygon fill="none" stroke="black" points="1336.5,-56.5 1336.5,-75.5 1485.5,-75.5 1485.5,-56.5 1336.5,-56.5"/>
-<text text-anchor="middle" x="1411" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">TintinCDKCameraFactory.cpp</text>
+<g id="a_node32"><a xlink:href="TintinCDKCameraFactory_8h.xhtml" target="_top" xlink:title="TintinCDKCameraFactory.h">
+<polygon fill="none" stroke="black" points="2290,-112.5 2290,-131.5 2428,-131.5 2428,-112.5 2290,-112.5"/>
+<text text-anchor="middle" x="2359" y="-119.5" font-family="Helvetica,sans-Serif" font-size="10.00">TintinCDKCameraFactory.h</text>
 </a>
 </g>
 </g>
-<!-- Node31&#45;&gt;Node32 -->
-<g id="edge36" class="edge"><title>Node31&#45;&gt;Node32</title>
-<path fill="none" stroke="midnightblue" d="M1411,-101.805C1411,-92.9102 1411,-82.7798 1411,-75.7511"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1407.5,-102.083 1411,-112.083 1414.5,-102.083 1407.5,-102.083"/>
+<!-- Node25&#45;&gt;Node32 -->
+<g id="edge35" class="edge"><title>Node25&#45;&gt;Node32</title>
+<path fill="none" stroke="midnightblue" d="M2001.03,-222.373C2041.33,-213.867 2098.46,-201.21 2148,-188 2215.59,-169.975 2294.05,-144.616 2333.52,-131.54"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="2000.22,-218.965 1991.16,-224.445 2001.66,-225.816 2000.22,-218.965"/>
 </g>
 <!-- Node34 -->
 <g id="node34" class="node"><title>Node34</title>
-<g id="a_node34"><a xlink:href="Voxel14CameraFactory_8cpp.xhtml" target="_top" xlink:title="Voxel14CameraFactory.cpp">
-<polygon fill="none" stroke="black" points="1504,-56.5 1504,-75.5 1642,-75.5 1642,-56.5 1504,-56.5"/>
-<text text-anchor="middle" x="1573" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel14CameraFactory.cpp</text>
+<g id="a_node34"><a xlink:href="Voxel14CameraFactory_8h.xhtml" target="_top" xlink:title="Voxel14CameraFactory.h">
+<polygon fill="none" stroke="black" points="2446,-112.5 2446,-131.5 2574,-131.5 2574,-112.5 2446,-112.5"/>
+<text text-anchor="middle" x="2510" y="-119.5" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel14CameraFactory.h</text>
 </a>
 </g>
 </g>
-<!-- Node33&#45;&gt;Node34 -->
-<g id="edge38" class="edge"><title>Node33&#45;&gt;Node34</title>
-<path fill="none" stroke="midnightblue" d="M1565.85,-102.101C1567.68,-93.1357 1569.77,-82.8579 1571.22,-75.7511"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1562.38,-101.586 1563.82,-112.083 1569.24,-102.983 1562.38,-101.586"/>
+<!-- Node25&#45;&gt;Node34 -->
+<g id="edge37" class="edge"><title>Node25&#45;&gt;Node34</title>
+<path fill="none" stroke="midnightblue" d="M2008.05,-222.718C2058.35,-213.856 2132.5,-200.546 2197,-188 2295.61,-168.818 2411.24,-144.268 2470.54,-131.529"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="2007.25,-219.305 1998.01,-224.484 2008.46,-226.199 2007.25,-219.305"/>
 </g>
 <!-- Node36 -->
 <g id="node36" class="node"><title>Node36</title>
-<g id="a_node36"><a xlink:href="VoxelDCameraFactory_8cpp.xhtml" target="_top" xlink:title="VoxelDCameraFactory.cpp">
-<polygon fill="none" stroke="black" points="1660.5,-56.5 1660.5,-75.5 1795.5,-75.5 1795.5,-56.5 1660.5,-56.5"/>
-<text text-anchor="middle" x="1728" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">VoxelDCameraFactory.cpp</text>
+<g id="a_node36"><a xlink:href="VoxelDCameraFactory_8h.xhtml" target="_top" xlink:title="VoxelDCameraFactory.h">
+<polygon fill="none" stroke="black" points="1652.5,-112.5 1652.5,-131.5 1777.5,-131.5 1777.5,-112.5 1652.5,-112.5"/>
+<text text-anchor="middle" x="1715" y="-119.5" font-family="Helvetica,sans-Serif" font-size="10.00">VoxelDCameraFactory.h</text>
 </a>
 </g>
 </g>
-<!-- Node35&#45;&gt;Node36 -->
-<g id="edge40" class="edge"><title>Node35&#45;&gt;Node36</title>
-<path fill="none" stroke="midnightblue" d="M1714.12,-102.69C1717.66,-93.589 1721.77,-83.0141 1724.6,-75.7511"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1710.83,-101.494 1710.47,-112.083 1717.35,-104.032 1710.83,-101.494"/>
+<!-- Node25&#45;&gt;Node36 -->
+<g id="edge39" class="edge"><title>Node25&#45;&gt;Node36</title>
+<path fill="none" stroke="midnightblue" d="M1921.39,-220.021C1873,-197.272 1774.12,-150.791 1733.28,-131.591"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1920.1,-223.282 1930.64,-224.368 1923.08,-216.947 1920.1,-223.282"/>
 </g>
-<!-- Node37&#45;&gt;Node20 -->
-<g id="edge47" class="edge"><title>Node37&#45;&gt;Node20</title>
-<path fill="none" stroke="midnightblue" d="M1485.58,-170.301C1365.54,-159.777 1134.45,-139.52 1017.51,-129.269"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1485.52,-173.809 1495.78,-171.195 1486.13,-166.835 1485.52,-173.809"/>
+<!-- Node38 -->
+<g id="node38" class="node"><title>Node38</title>
+<g id="a_node38"><a xlink:href="ToFCameraFactoryBase_8h.xhtml" target="_top" xlink:title="ToFCameraFactoryBase.h">
+<polygon fill="none" stroke="black" points="1977,-168.5 1977,-187.5 2109,-187.5 2109,-168.5 1977,-168.5"/>
+<text text-anchor="middle" x="2043" y="-175.5" font-family="Helvetica,sans-Serif" font-size="10.00">ToFCameraFactoryBase.h</text>
+</a>
 </g>
-<!-- Node37&#45;&gt;Node28 -->
-<g id="edge42" class="edge"><title>Node37&#45;&gt;Node28</title>
-<path fill="none" stroke="midnightblue" d="M1486.5,-167.105C1408.7,-156.907 1288.68,-141.177 1214.98,-131.516"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1486.35,-170.614 1496.72,-168.444 1487.26,-163.674 1486.35,-170.614"/>
 </g>
-<!-- Node37&#45;&gt;Node29 -->
-<g id="edge43" class="edge"><title>Node37&#45;&gt;Node29</title>
-<path fill="none" stroke="midnightblue" d="M1619.8,-166.664C1676.88,-156.459 1763.12,-141.039 1816.37,-131.516"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1619.08,-163.238 1609.85,-168.444 1620.31,-170.129 1619.08,-163.238"/>
-</g>
-<!-- Node37&#45;&gt;Node31 -->
-<g id="edge44" class="edge"><title>Node37&#45;&gt;Node31</title>
-<path fill="none" stroke="midnightblue" d="M1528.55,-165.039C1500.14,-154.879 1460.06,-140.546 1434.81,-131.516"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1527.48,-168.372 1538.07,-168.444 1529.84,-161.781 1527.48,-168.372"/>
-</g>
-<!-- Node37&#45;&gt;Node33 -->
-<g id="edge45" class="edge"><title>Node37&#45;&gt;Node33</title>
-<path fill="none" stroke="midnightblue" d="M1562,-157.805C1562,-148.91 1562,-138.78 1562,-131.751"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1558.5,-158.083 1562,-168.083 1565.5,-158.083 1558.5,-158.083"/>
-</g>
-<!-- Node37&#45;&gt;Node35 -->
-<g id="edge46" class="edge"><title>Node37&#45;&gt;Node35</title>
-<path fill="none" stroke="midnightblue" d="M1594.48,-164.906C1621.74,-154.754 1659.99,-140.506 1684.13,-131.516"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1593.13,-161.674 1584.98,-168.444 1595.57,-168.233 1593.13,-161.674"/>
+<!-- Node25&#45;&gt;Node38 -->
+<g id="edge41" class="edge"><title>Node25&#45;&gt;Node38</title>
+<path fill="none" stroke="midnightblue" d="M1973.06,-219.177C1990.36,-209.241 2013.15,-196.149 2027.93,-187.655"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1971.03,-216.308 1964.1,-224.324 1974.52,-222.378 1971.03,-216.308"/>
 </g>
 <!-- Node39 -->
 <g id="node39" class="node"><title>Node39</title>
-<g id="a_node39"><a xlink:href="CameraSystem_8h.xhtml" target="_top" xlink:title="CameraSystem.h">
-<polygon fill="none" stroke="red" points="2232.5,-112.5 2232.5,-131.5 2325.5,-131.5 2325.5,-112.5 2232.5,-112.5"/>
-<text text-anchor="middle" x="2279" y="-119.5" font-family="Helvetica,sans-Serif" font-size="10.00">CameraSystem.h</text>
+<g id="a_node39"><a xlink:href="DepthCameraLibrary_8h.xhtml" target="_top" xlink:title="DepthCameraLibrary.h">
+<polygon fill="none" stroke="black" points="1379.5,-168.5 1379.5,-187.5 1494.5,-187.5 1494.5,-168.5 1379.5,-168.5"/>
+<text text-anchor="middle" x="1437" y="-175.5" font-family="Helvetica,sans-Serif" font-size="10.00">DepthCameraLibrary.h</text>
 </a>
 </g>
 </g>
-<!-- Node38&#45;&gt;Node39 -->
-<g id="edge49" class="edge"><title>Node38&#45;&gt;Node39</title>
-<path fill="none" stroke="midnightblue" d="M2181.39,-164.503C2205.2,-154.38 2238.11,-140.388 2258.97,-131.516"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="2179.96,-161.31 2172.12,-168.444 2182.7,-167.751 2179.96,-161.31"/>
+<!-- Node25&#45;&gt;Node39 -->
+<g id="edge49" class="edge"><title>Node25&#45;&gt;Node39</title>
+<path fill="none" stroke="midnightblue" d="M1879.07,-225.624C1777.08,-214.868 1589.41,-195.075 1494.78,-185.094"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1878.95,-229.132 1889.27,-226.7 1879.69,-222.17 1878.95,-229.132"/>
 </g>
-<!-- Node41 -->
-<g id="node41" class="node"><title>Node41</title>
-<g id="a_node41"><a xlink:href="DepthCameraLibrary_8cpp.xhtml" target="_top" xlink:title="DepthCameraLibrary.cpp">
-<polygon fill="none" stroke="black" points="2089.5,-112.5 2089.5,-131.5 2214.5,-131.5 2214.5,-112.5 2089.5,-112.5"/>
-<text text-anchor="middle" x="2152" y="-119.5" font-family="Helvetica,sans-Serif" font-size="10.00">DepthCameraLibrary.cpp</text>
+<!-- Node27 -->
+<g id="node27" class="node"><title>Node27</title>
+<g id="a_node27"><a xlink:href="CalculusCDKCameraFactory_8cpp.xhtml" target="_top" xlink:title="CalculusCDKCameraFactory.cpp">
+<polygon fill="none" stroke="black" points="1774.5,-56.5 1774.5,-75.5 1937.5,-75.5 1937.5,-56.5 1774.5,-56.5"/>
+<text text-anchor="middle" x="1856" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">CalculusCDKCameraFactory.cpp</text>
 </a>
 </g>
 </g>
-<!-- Node38&#45;&gt;Node41 -->
-<g id="edge55" class="edge"><title>Node38&#45;&gt;Node41</title>
-<path fill="none" stroke="midnightblue" d="M2152,-157.805C2152,-148.91 2152,-138.78 2152,-131.751"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="2148.5,-158.083 2152,-168.083 2155.5,-158.083 2148.5,-158.083"/>
+<!-- Node26&#45;&gt;Node27 -->
+<g id="edge30" class="edge"><title>Node26&#45;&gt;Node27</title>
+<path fill="none" stroke="midnightblue" d="M1866.49,-102.396C1863.81,-93.362 1860.72,-82.936 1858.59,-75.7511"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1863.16,-103.489 1869.36,-112.083 1869.87,-101.501 1863.16,-103.489"/>
 </g>
-<!-- Node39&#45;&gt;Node6 -->
-<g id="edge53" class="edge"><title>Node39&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M2321.78,-109.894C2361.06,-99.6966 2418.43,-84.802 2454.2,-75.5164"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="2320.76,-106.543 2311.96,-112.444 2322.52,-113.318 2320.76,-106.543"/>
+<!-- Node29 -->
+<g id="node29" class="node"><title>Node29</title>
+<g id="a_node29"><a xlink:href="HaddockCDKCameraFactory_8cpp.xhtml" target="_top" xlink:title="HaddockCDKCameraFactory.cpp">
+<polygon fill="none" stroke="black" points="1956,-56.5 1956,-75.5 2120,-75.5 2120,-56.5 1956,-56.5"/>
+<text text-anchor="middle" x="2038" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">HaddockCDKCameraFactory.cpp</text>
+</a>
 </g>
-<!-- Node39&#45;&gt;Node10 -->
-<g id="edge50" class="edge"><title>Node39&#45;&gt;Node10</title>
-<path fill="none" stroke="midnightblue" d="M2248.91,-108.503C2224.54,-98.3795 2190.86,-84.388 2169.5,-75.5164"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="2247.82,-111.84 2258.4,-112.444 2250.51,-105.375 2247.82,-111.84"/>
 </g>
-<!-- Node39&#45;&gt;Node12 -->
-<g id="edge52" class="edge"><title>Node39&#45;&gt;Node12</title>
-<path fill="none" stroke="midnightblue" d="M2304.31,-107.246C2323.77,-94.7605 2345.54,-75.3862 2334,-56 2323.02,-37.5496 2301.54,-26.1985 2283.18,-19.5124"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="2302.4,-104.307 2295.66,-112.474 2306.02,-110.298 2302.4,-104.307"/>
+<!-- Node28&#45;&gt;Node29 -->
+<g id="edge32" class="edge"><title>Node28&#45;&gt;Node29</title>
+<path fill="none" stroke="midnightblue" d="M2041.25,-102.101C2040.42,-93.1357 2039.47,-82.8579 2038.81,-75.7511"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="2037.77,-102.448 2042.17,-112.083 2044.74,-101.803 2037.77,-102.448"/>
 </g>
-<!-- Node39&#45;&gt;Node14 -->
-<g id="edge51" class="edge"><title>Node39&#45;&gt;Node14</title>
-<path fill="none" stroke="midnightblue" d="M2274.45,-102.101C2272.29,-93.1357 2269.82,-82.8579 2268.11,-75.7511"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="2271.11,-103.18 2276.85,-112.083 2277.92,-101.542 2271.11,-103.18"/>
+<!-- Node31 -->
+<g id="node31" class="node"><title>Node31</title>
+<g id="a_node31"><a xlink:href="RTS5825CameraFactory_8cpp.xhtml" target="_top" xlink:title="RTS5825CameraFactory.cpp">
+<polygon fill="none" stroke="black" points="2138,-56.5 2138,-75.5 2282,-75.5 2282,-56.5 2138,-56.5"/>
+<text text-anchor="middle" x="2210" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">RTS5825CameraFactory.cpp</text>
+</a>
+</g>
+</g>
+<!-- Node30&#45;&gt;Node31 -->
+<g id="edge34" class="edge"><title>Node30&#45;&gt;Node31</title>
+<path fill="none" stroke="midnightblue" d="M2206.75,-102.101C2207.58,-93.1357 2208.53,-82.8579 2209.19,-75.7511"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="2203.26,-101.803 2205.83,-112.083 2210.23,-102.448 2203.26,-101.803"/>
+</g>
+<!-- Node33 -->
+<g id="node33" class="node"><title>Node33</title>
+<g id="a_node33"><a xlink:href="TintinCDKCameraFactory_8cpp.xhtml" target="_top" xlink:title="TintinCDKCameraFactory.cpp">
+<polygon fill="none" stroke="black" points="2300.5,-56.5 2300.5,-75.5 2449.5,-75.5 2449.5,-56.5 2300.5,-56.5"/>
+<text text-anchor="middle" x="2375" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">TintinCDKCameraFactory.cpp</text>
+</a>
+</g>
+</g>
+<!-- Node32&#45;&gt;Node33 -->
+<g id="edge36" class="edge"><title>Node32&#45;&gt;Node33</title>
+<path fill="none" stroke="midnightblue" d="M2364.51,-102.396C2367.19,-93.362 2370.28,-82.936 2372.41,-75.7511"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="2361.13,-101.501 2361.64,-112.083 2367.84,-103.489 2361.13,-101.501"/>
+</g>
+<!-- Node35 -->
+<g id="node35" class="node"><title>Node35</title>
+<g id="a_node35"><a xlink:href="Voxel14CameraFactory_8cpp.xhtml" target="_top" xlink:title="Voxel14CameraFactory.cpp">
+<polygon fill="none" stroke="black" points="2468,-56.5 2468,-75.5 2606,-75.5 2606,-56.5 2468,-56.5"/>
+<text text-anchor="middle" x="2537" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel14CameraFactory.cpp</text>
+</a>
+</g>
+</g>
+<!-- Node34&#45;&gt;Node35 -->
+<g id="edge38" class="edge"><title>Node34&#45;&gt;Node35</title>
+<path fill="none" stroke="midnightblue" d="M2519.01,-102.983C2523.59,-93.8168 2528.95,-83.0922 2532.62,-75.7511"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="2515.8,-101.573 2514.46,-112.083 2522.06,-104.704 2515.8,-101.573"/>
+</g>
+<!-- Node37 -->
+<g id="node37" class="node"><title>Node37</title>
+<g id="a_node37"><a xlink:href="VoxelDCameraFactory_8cpp.xhtml" target="_top" xlink:title="VoxelDCameraFactory.cpp">
+<polygon fill="none" stroke="black" points="1621.5,-56.5 1621.5,-75.5 1756.5,-75.5 1756.5,-56.5 1621.5,-56.5"/>
+<text text-anchor="middle" x="1689" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">VoxelDCameraFactory.cpp</text>
+</a>
+</g>
+</g>
+<!-- Node36&#45;&gt;Node37 -->
+<g id="edge40" class="edge"><title>Node36&#45;&gt;Node37</title>
+<path fill="none" stroke="midnightblue" d="M1706.33,-102.983C1701.91,-93.8168 1696.75,-83.0922 1693.21,-75.7511"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1703.21,-104.591 1710.71,-112.083 1709.52,-101.555 1703.21,-104.591"/>
+</g>
+<!-- Node38&#45;&gt;Node18 -->
+<g id="edge48" class="edge"><title>Node38&#45;&gt;Node18</title>
+<path fill="none" stroke="midnightblue" d="M1966.92,-171.51C1860.72,-163.679 1662.05,-148.421 1493,-132 1490.22,-131.73 1487.38,-131.447 1484.52,-131.155"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1966.68,-175.001 1976.91,-172.244 1967.19,-168.02 1966.68,-175.001"/>
+</g>
+<!-- Node38&#45;&gt;Node26 -->
+<g id="edge42" class="edge"><title>Node38&#45;&gt;Node26</title>
+<path fill="none" stroke="midnightblue" d="M2005.96,-165.304C1973.74,-155.129 1927.81,-140.625 1898.97,-131.516"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="2005.31,-168.77 2015.9,-168.444 2007.42,-162.095 2005.31,-168.77"/>
+</g>
+<!-- Node38&#45;&gt;Node28 -->
+<g id="edge43" class="edge"><title>Node38&#45;&gt;Node28</title>
+<path fill="none" stroke="midnightblue" d="M2043,-157.805C2043,-148.91 2043,-138.78 2043,-131.751"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="2039.5,-158.083 2043,-168.083 2046.5,-158.083 2039.5,-158.083"/>
+</g>
+<!-- Node38&#45;&gt;Node30 -->
+<g id="edge44" class="edge"><title>Node38&#45;&gt;Node30</title>
+<path fill="none" stroke="midnightblue" d="M2078.48,-165.172C2108.99,-155.004 2152.24,-140.585 2179.45,-131.516"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="2077.05,-161.961 2068.67,-168.444 2079.26,-168.602 2077.05,-161.961"/>
+</g>
+<!-- Node38&#45;&gt;Node32 -->
+<g id="edge45" class="edge"><title>Node38&#45;&gt;Node32</title>
+<path fill="none" stroke="midnightblue" d="M2103.11,-166.727C2162.83,-156.523 2253.33,-141.058 2309.16,-131.516"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="2102.34,-163.309 2093.07,-168.444 2103.52,-170.209 2102.34,-163.309"/>
+</g>
+<!-- Node38&#45;&gt;Node34 -->
+<g id="edge46" class="edge"><title>Node38&#45;&gt;Node34</title>
+<path fill="none" stroke="midnightblue" d="M2119.65,-168.451C2199.06,-159.546 2326.75,-145.092 2437,-132 2439.92,-131.654 2442.9,-131.297 2445.91,-130.934"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="2118.8,-165.025 2109.25,-169.617 2119.58,-171.981 2118.8,-165.025"/>
+</g>
+<!-- Node38&#45;&gt;Node36 -->
+<g id="edge47" class="edge"><title>Node38&#45;&gt;Node36</title>
+<path fill="none" stroke="midnightblue" d="M1980.99,-166.791C1919.01,-156.587 1824.81,-141.078 1766.73,-131.516"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1980.59,-170.272 1991.03,-168.444 1981.73,-163.365 1980.59,-170.272"/>
+</g>
+<!-- Node40 -->
+<g id="node40" class="node"><title>Node40</title>
+<g id="a_node40"><a xlink:href="CameraSystem_8h.xhtml" target="_top" xlink:title="CameraSystem.h">
+<polygon fill="none" stroke="red" points="1502.5,-112.5 1502.5,-131.5 1595.5,-131.5 1595.5,-112.5 1502.5,-112.5"/>
+<text text-anchor="middle" x="1549" y="-119.5" font-family="Helvetica,sans-Serif" font-size="10.00">CameraSystem.h</text>
+</a>
+</g>
 </g>
 <!-- Node39&#45;&gt;Node40 -->
-<g id="edge54" class="edge"><title>Node39&#45;&gt;Node40</title>
-<path fill="none" stroke="midnightblue" d="M2231.79,-110.153C2187.39,-99.95 2121.81,-84.8809 2081.06,-75.5164"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="2231.23,-113.615 2241.76,-112.444 2232.8,-106.793 2231.23,-113.615"/>
+<g id="edge50" class="edge"><title>Node39&#45;&gt;Node40</title>
+<path fill="none" stroke="midnightblue" d="M1464.25,-163.862C1485.02,-153.849 1513.02,-140.346 1531.05,-131.655"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1462.48,-160.828 1454.99,-168.324 1465.52,-167.134 1462.48,-160.828"/>
 </g>
-<!-- Node42&#45;&gt;Node38 -->
-<g id="edge57" class="edge"><title>Node42&#45;&gt;Node38</title>
-<path fill="none" stroke="midnightblue" d="M2194.82,-217.537C2184.12,-207.909 2170.74,-195.869 2161.82,-187.834"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="2192.59,-220.236 2202.36,-224.324 2197.27,-215.033 2192.59,-220.236"/>
-</g>
-<!-- Node43 -->
-<g id="node43" class="node"><title>Node43</title>
-<g id="a_node43"><a xlink:href="FilterFactory_8cpp.xhtml" target="_top" xlink:title="FilterFactory.cpp">
-<polygon fill="none" stroke="black" points="2228,-168.5 2228,-187.5 2318,-187.5 2318,-168.5 2228,-168.5"/>
-<text text-anchor="middle" x="2273" y="-175.5" font-family="Helvetica,sans-Serif" font-size="10.00">FilterFactory.cpp</text>
+<!-- Node42 -->
+<g id="node42" class="node"><title>Node42</title>
+<g id="a_node42"><a xlink:href="DepthCameraLibrary_8cpp.xhtml" target="_top" xlink:title="DepthCameraLibrary.cpp">
+<polygon fill="none" stroke="black" points="1198.5,-112.5 1198.5,-131.5 1323.5,-131.5 1323.5,-112.5 1198.5,-112.5"/>
+<text text-anchor="middle" x="1261" y="-119.5" font-family="Helvetica,sans-Serif" font-size="10.00">DepthCameraLibrary.cpp</text>
 </a>
 </g>
 </g>
-<!-- Node42&#45;&gt;Node43 -->
-<g id="edge58" class="edge"><title>Node42&#45;&gt;Node43</title>
-<path fill="none" stroke="midnightblue" d="M2229.47,-217.537C2240.34,-207.909 2253.94,-195.869 2263.02,-187.834"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="2226.97,-215.075 2221.8,-224.324 2231.61,-220.316 2226.97,-215.075"/>
+<!-- Node39&#45;&gt;Node42 -->
+<g id="edge56" class="edge"><title>Node39&#45;&gt;Node42</title>
+<path fill="none" stroke="midnightblue" d="M1399.31,-165.436C1366.13,-155.255 1318.57,-140.664 1288.76,-131.516"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1398.53,-168.856 1409.11,-168.444 1400.58,-162.164 1398.53,-168.856"/>
+</g>
+<!-- Node40&#45;&gt;Node6 -->
+<g id="edge54" class="edge"><title>Node40&#45;&gt;Node6</title>
+<path fill="none" stroke="midnightblue" d="M1492.12,-112.018C1250.05,-85.1683 1186.08,-101.385 948,-76 945.126,-75.6936 942.18,-75.3516 939.208,-74.9852"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1491.97,-115.522 1502.29,-113.159 1492.75,-108.566 1491.97,-115.522"/>
+</g>
+<!-- Node40&#45;&gt;Node10 -->
+<g id="edge51" class="edge"><title>Node40&#45;&gt;Node10</title>
+<path fill="none" stroke="midnightblue" d="M1516.08,-108.906C1488.44,-98.7536 1449.66,-84.5063 1425.18,-75.5164"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1515.11,-112.281 1525.71,-112.444 1517.53,-105.71 1515.11,-112.281"/>
+</g>
+<!-- Node40&#45;&gt;Node12 -->
+<g id="edge53" class="edge"><title>Node40&#45;&gt;Node12</title>
+<path fill="none" stroke="midnightblue" d="M1529.98,-106.291C1519.36,-97.7995 1506.08,-86.7086 1495,-76 1475.43,-57.0783 1454.7,-32.6302 1444.13,-19.7819"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1527.82,-109.041 1537.84,-112.487 1532.15,-103.545 1527.82,-109.041"/>
+</g>
+<!-- Node40&#45;&gt;Node14 -->
+<g id="edge52" class="edge"><title>Node40&#45;&gt;Node14</title>
+<path fill="none" stroke="midnightblue" d="M1496.37,-110.473C1445.34,-100.268 1368.9,-84.9794 1321.58,-75.5164"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1495.73,-113.914 1506.22,-112.444 1497.1,-107.05 1495.73,-113.914"/>
+</g>
+<!-- Node40&#45;&gt;Node41 -->
+<g id="edge55" class="edge"><title>Node40&#45;&gt;Node41</title>
+<path fill="none" stroke="midnightblue" d="M1550.07,-101.805C1550.56,-92.9102 1551.12,-82.7798 1551.51,-75.7511"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1546.56,-101.904 1549.5,-112.083 1553.54,-102.293 1546.56,-101.904"/>
+</g>
+<!-- Node43&#45;&gt;Node39 -->
+<g id="edge58" class="edge"><title>Node43&#45;&gt;Node39</title>
+<path fill="none" stroke="midnightblue" d="M868.103,-223.988C1061.09,-199.135 1277.99,-186.566 1379.35,-181.587"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="867.523,-220.534 858.058,-225.296 868.427,-227.475 867.523,-220.534"/>
 </g>
 <!-- Node44 -->
 <g id="node44" class="node"><title>Node44</title>
-<g id="a_node44"><a xlink:href="VoxelFilterFactory_8h.xhtml" target="_top" xlink:title="VoxelFilterFactory.h">
-<polygon fill="none" stroke="black" points="2349,-168.5 2349,-187.5 2453,-187.5 2453,-168.5 2349,-168.5"/>
-<text text-anchor="middle" x="2401" y="-175.5" font-family="Helvetica,sans-Serif" font-size="10.00">VoxelFilterFactory.h</text>
+<g id="a_node44"><a xlink:href="FilterFactory_8cpp.xhtml" target="_top" xlink:title="FilterFactory.cpp">
+<polygon fill="none" stroke="black" points="778,-168.5 778,-187.5 868,-187.5 868,-168.5 778,-168.5"/>
+<text text-anchor="middle" x="823" y="-175.5" font-family="Helvetica,sans-Serif" font-size="10.00">FilterFactory.cpp</text>
 </a>
 </g>
 </g>
-<!-- Node42&#45;&gt;Node44 -->
-<g id="edge59" class="edge"><title>Node42&#45;&gt;Node44</title>
-<path fill="none" stroke="midnightblue" d="M2252.01,-221.568C2287.67,-211.381 2339.04,-196.703 2371.19,-187.516"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="2250.6,-218.331 2241.95,-224.444 2252.52,-225.062 2250.6,-218.331"/>
-</g>
-<!-- Node44&#45;&gt;Node6 -->
-<g id="edge60" class="edge"><title>Node44&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M2429.3,-163.406C2442.43,-155.812 2457.26,-145.203 2467,-132 2479.75,-114.706 2484.48,-89.1487 2486.15,-75.8186"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="2427.24,-160.542 2420.13,-168.396 2430.58,-166.69 2427.24,-160.542"/>
+<!-- Node43&#45;&gt;Node44 -->
+<g id="edge59" class="edge"><title>Node43&#45;&gt;Node44</title>
+<path fill="none" stroke="midnightblue" d="M819.75,-214.101C820.58,-205.136 821.532,-194.858 822.19,-187.751"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="816.263,-213.803 818.826,-224.083 823.233,-214.448 816.263,-213.803"/>
 </g>
 <!-- Node45 -->
 <g id="node45" class="node"><title>Node45</title>
-<g id="a_node45"><a xlink:href="VoxelFilterFactory_8cpp.xhtml" target="_top" xlink:title="VoxelFilterFactory.cpp">
-<polygon fill="none" stroke="black" points="2343.5,-112.5 2343.5,-131.5 2458.5,-131.5 2458.5,-112.5 2343.5,-112.5"/>
-<text text-anchor="middle" x="2401" y="-119.5" font-family="Helvetica,sans-Serif" font-size="10.00">VoxelFilterFactory.cpp</text>
+<g id="a_node45"><a xlink:href="VoxelFilterFactory_8h.xhtml" target="_top" xlink:title="VoxelFilterFactory.h">
+<polygon fill="none" stroke="red" points="907,-168.5 907,-187.5 1011,-187.5 1011,-168.5 907,-168.5"/>
+<text text-anchor="middle" x="959" y="-175.5" font-family="Helvetica,sans-Serif" font-size="10.00">VoxelFilterFactory.h</text>
 </a>
 </g>
 </g>
-<!-- Node44&#45;&gt;Node45 -->
-<g id="edge61" class="edge"><title>Node44&#45;&gt;Node45</title>
-<path fill="none" stroke="midnightblue" d="M2401,-157.805C2401,-148.91 2401,-138.78 2401,-131.751"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="2397.5,-158.083 2401,-168.083 2404.5,-158.083 2397.5,-158.083"/>
+<!-- Node43&#45;&gt;Node45 -->
+<g id="edge60" class="edge"><title>Node43&#45;&gt;Node45</title>
+<path fill="none" stroke="midnightblue" d="M849.929,-220.772C876.414,-210.629 913.392,-196.467 936.763,-187.516"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="848.429,-217.599 840.342,-224.444 850.932,-224.136 848.429,-217.599"/>
+</g>
+<!-- Node45&#45;&gt;Node6 -->
+<g id="edge61" class="edge"><title>Node45&#45;&gt;Node6</title>
+<path fill="none" stroke="midnightblue" d="M963.977,-158.598C966.623,-144.881 967.901,-126.152 960,-112 950.057,-94.1908 929.85,-82.5554 913.211,-75.5863"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="960.568,-157.809 961.712,-168.342 967.386,-159.394 960.568,-157.809"/>
 </g>
 <!-- Node48&#45;&gt;Node11 -->
 <g id="edge66" class="edge"><title>Node48&#45;&gt;Node11</title>
-<path fill="none" stroke="midnightblue" d="M1256.9,-107.455C1234.16,-94.3546 1207.78,-73.9089 1224,-56 1251.09,-26.0867 1523.32,-15.2606 1632.27,-12.1061"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1255.52,-110.691 1265.97,-112.426 1258.88,-104.552 1255.52,-110.691"/>
+<path fill="none" stroke="midnightblue" d="M1057.06,-103.53C1065.17,-89.2549 1078.2,-69.3258 1094,-56 1114.05,-39.0848 1141.55,-26.8947 1161.62,-19.5036"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1053.96,-101.902 1052.26,-112.359 1060.11,-105.247 1053.96,-101.902"/>
 </g>
 <!-- Node48&#45;&gt;Node13 -->
 <g id="edge67" class="edge"><title>Node48&#45;&gt;Node13</title>
-<path fill="none" stroke="midnightblue" d="M1281.2,-102.101C1279.87,-93.1357 1278.35,-82.8579 1277.3,-75.7511"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1277.75,-102.704 1282.68,-112.083 1284.68,-101.678 1277.75,-102.704"/>
+<path fill="none" stroke="midnightblue" d="M1072.59,-107.453C1090.68,-97.4835 1114.73,-84.2279 1130.29,-75.6545"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1070.81,-104.432 1063.75,-112.324 1074.19,-110.563 1070.81,-104.432"/>
 </g>
 <!-- Node49 -->
 <g id="node49" class="node"><title>Node49</title>
 <g id="a_node49"><a xlink:href="PCLGrabber_8cpp.xhtml" target="_top" xlink:title="PCLGrabber.cpp">
-<polygon fill="none" stroke="black" points="1087.5,-56.5 1087.5,-75.5 1176.5,-75.5 1176.5,-56.5 1087.5,-56.5"/>
-<text text-anchor="middle" x="1132" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">PCLGrabber.cpp</text>
+<polygon fill="none" stroke="black" points="957.5,-56.5 957.5,-75.5 1046.5,-75.5 1046.5,-56.5 957.5,-56.5"/>
+<text text-anchor="middle" x="1002" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">PCLGrabber.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node48&#45;&gt;Node49 -->
 <g id="edge68" class="edge"><title>Node48&#45;&gt;Node49</title>
-<path fill="none" stroke="midnightblue" d="M1250.33,-109.039C1221.73,-98.8786 1181.39,-84.5457 1155.97,-75.5164"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1249.32,-112.394 1259.92,-112.444 1251.66,-105.798 1249.32,-112.394"/>
+<path fill="none" stroke="midnightblue" d="M1033.89,-104.431C1025.82,-94.9673 1016.04,-83.4827 1009.45,-75.7511"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1031.25,-106.74 1040.4,-112.083 1036.58,-102.201 1031.25,-106.74"/>
 </g>
 </g>
 </svg>
